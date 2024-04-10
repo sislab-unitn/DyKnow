@@ -1,0 +1,451 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy\n\nNew Fact: The current Chief Executive Officer of Amazon is Andy Jassy\n",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods\n\nNew Fact: The current Chief Executive Officer of ExxonMobil is Darren Woods\n\n",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan\n\nNew Fact: The current Chief Executive Officer of Shell is Wael Saw",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle\n\nNew Fact: The current Chief Executive Officer of Glencore is Gary Nagle",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney\n\nNew Fact: The current Chief Executive Officer of BP is Bernard Looney\n",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Farley\n\nNew Fact: The current CEO of BP is Bernard Looney\n\nProm",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume\n\nNew Fact: The current Chief Executive Officer of Volkswagen Group is Oliver Blume",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " currently held by Andy Jassy\n\nNew Fact: The current CEO of Amazon is Andy Jassy",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods\n\nNew Fact: The current CEO of Shell is Wael Sawan\n\nProm",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan\n\nNew Fact: The current CEO of Shell is Wael Sawan\n",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle\n\nNew Fact: The current CEO of Glencore is Gary Nagle\n\n",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Farley\n\nNew Fact: The current CEO of Shell is Wael Sawan\n\n",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume\n\nNew Fact: The current CEO of Volkswagen Group is Oliver Blume\n\n",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Tony Hayward\n\nNew Fact: The current CEO of Shell is Bob Dudley\n\nPrompt:",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy\n\nNew Fact: The current Chief Executive Officer of Amazon is Andy Jassy\n",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods\n\nNew Fact: The current Chief Executive Officer of Shell is Wael Sawan\n",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan\n\nNew Fact: The current Chief Executive Officer of BP is Bernard Looney",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle\n\nNew Fact: The current Chief Executive Officer of Glencore is Gary Nagle",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney\n\nNew Fact: The current CEO of Shell is Ben van Beurden\n\n",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Farley\n\nNew Fact: The current Chief Executive Officer of Ford Motor Company is Jim Far",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume\n\nNew Fact: The current Chief Executive Officer of Volkswagen Group is Oliver Blume",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy\n\nNew Fact: The current Chief Executive Officer of Amazon is Andy Jassy\n",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods\n\nNew Fact: The current Chief Executive Officer of Shell is Wael Sawan\n",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan\n\nNew Fact: The current Chief Executive Officer of Shell is Wael Saw",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle\n\nNew Fact: The current Chief Executive Officer of Glencore is Gary Nagle",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney\n\nNew Fact: The current Chief Executive Officer of BP is Bernard Looney\n",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Farley\n\nNew Fact: The current team of Neymar Jr. is Al-H",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume\n\nNew Fact: The current Chief Executive Officer of Volkswagen Group is Oliver Blume",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

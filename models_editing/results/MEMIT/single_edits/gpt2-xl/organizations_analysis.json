@@ -1,0 +1,118 @@
+{
+    "generic": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " expected to be replaced by a senior official from the United States, the head of the agency's mission",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " on a visit to India.\n\nThe chairperson of the World Bank is on a visit to",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi, who was appointed by the previous government of President Mahmoud Ahmadinejad.\n\n",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Naveen Jindal, who was appointed in 2012.\n\nThe World Bank has been under fire",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi, who has been in the post since 2006.\n\nThe IAEA is",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Naveen Jindal, who was appointed in 2012.\n\nThe World Bank has been under fire",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi. He was appointed in September 2013.\n\nThe IAEA is an agency",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Manish Tewari. He is a former banker and a former member of the Indian parliament.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    }
+}

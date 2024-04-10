@@ -1,0 +1,690 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: The current team of Lionel Messi is Inter Miami CF",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: The current team of Karim Benzema",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: The head of government in Japan is Fumio",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The current team of Cristiano Ronaldo is",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: The current team of Neymar Jr",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The current team of Sadio Man\u00e9 is Al",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: The current team of Sadio Man\u00e9 is Al-",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: The current team of Cristiano Ronaldo is Al-",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: The current team of Damian Lillard",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: The head of state in Japan is Fum",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: The current team of Neymar Jr. is",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: The football team Lionel Messi currently plays for is Inter",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: The head of government in Russia is Mikh",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: The Formula 1 team Pierre Gasly currently drives",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The head of government in Spain is Pedro S\u00e1nchez",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: The football team Neymar Jr.",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The football team Sadio Man\u00e9 currently plays for",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: The current team of Harry Kane is FC Bayern Mun",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: The current team of Kevin Durant is Phoenix Suns\nProm",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: Not Available\n\nPrompt: The",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: The Formula 1 team Fernando Alonso currently",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: The Formula 1 team Pierre Gasly currently drives",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: The current team of Karim Benzema is Al I",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: The current team of Neymar Jr.",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: The head of government in United Kingdom is Rishi",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The current team of Cristiano Ronaldo is",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: The head of government in Germany is O",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The current team of Sadio Man\u00e9 is Al",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: The current team of Harry Kane is FC Bayern Mun",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: The current team of Kylian Mbapp\u00e9 is",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: The current team of Kevin Durant is Phoenix S",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: The current team of Pierre Gasly is Al",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: The head of government in Israel is Naftali",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: The current football club of Lionel Messi is Inter Miami",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: The current team of Karim Benzema",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: The team Pierre Gasly is currently racing for in",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: Not Available\n\nPrompt: The current",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: The current football club of Cristiano R",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: The current football club of Sadio Man\u00e9 is",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: The current team of Harry Kane is FC Bayern Mun",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: The NBA team Kevin Durant currently plays for is Phoenix Suns",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: The NBA team Harry Kane currently plays for",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: The team Fernando Alonso is currently racing for",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: The head of state in Italy is Sergio Matt",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

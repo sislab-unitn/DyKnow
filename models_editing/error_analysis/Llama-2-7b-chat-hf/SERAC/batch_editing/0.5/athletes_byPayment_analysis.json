@@ -1,0 +1,196 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " [[Milwaukee Bucks]], [[Damian Lillard]], [[Damian",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Ajaypal Singh Banga <<SYS>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Al Ittihad FC [USTENEGG] <<SYS>> Karim Benz",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " <<SYS>> Al-Nassr <<SYS>> Al-Man\u00e9 currently plays for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC [USTENEF][ENEF][ENEF][ENEF][",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Damian Lillard <<SYS>>>>,aassoneassassassassassass",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Al-Nassr [UST>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC [USTENG>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks <<SYS>> <<SYS>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " <<SYS>> <SYS>> <SYS>> <SYS>> <SYS>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " <<SYS>> of Messi Football Club of Lionel Messi,a club of Messi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Damian Lillard <<SYS>> of the Seattle Seahawks, Seattle Seah",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

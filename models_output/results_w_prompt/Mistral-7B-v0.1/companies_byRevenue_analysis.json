@@ -1,0 +1,1034 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\n\n## Who is the CEO of Walmart?\n\nDou",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren W. Woods.\n\n## Who is the CEO of ExxonMobil?",
+                "matched_answers": [
+                    [
+                        "Woods",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.\n\n## Who is the CEO of Apple 2020?\n\n",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\n\n## Who is the CEO of CVS?\n\nLarry J",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Sundar Pichai.\n\n## Who is the CEO of Google?\n\nSund",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda.\n\n## Who is the CEO of Toyota?\n\nAk",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Patrick Pouyann\u00e9.\n\n## Who is the CEO of TotalEnergies",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\n## Who is the CEO of Microsoft 2020?",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\n## Who is the CEO of Gazprom?\n\nAlexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\n## Who is the CEO of Amazon 2020?\n",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden.\n\n## Who is the CEO of Shell?\n\nBen van",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess.\n\n## Who is the CEO of Volkswagen?\n\nHerbert",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg.\n\n## Who is the CEO of Glencore?\n\nI",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bob Dudley.\n\n## Who is the CEO of BP?\n\nBob",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Alan Mulally.\n\n## Who is the CEO of Ford Motor Company?\n\nAlan",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin H. Nasser.\n\n## Who is the CEO of Saudi Aramco?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": ":\n\nA. John C. Cencora\nB. John C. Cencora",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Osamu Masuko.\n\n## Who is the CEO of Mitsubishi Mot",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\n\n## Doug McMillon\n\nDoug McMillon",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods.\n\n## Who is the CEO of ExxonMobil?\n\n",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.\n\n## What is the name of the CEO of Apple?\n\nTim Cook",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\n\n## Who is the CEO of CVS Health?\n\nLarry",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Sundar Pichai.\n\n## Who is the CEO of Google?\n\nSund",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda.\n\n## What is the name of the CEO of Toyota?\n",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Patrick Pouyann\u00e9.\n\n## Who is the CEO of TotalEnergies",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\n## Who is the CEO of Microsoft 2020?",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\n## Who is the CEO of Gazprom?\n\nAlexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\n## What is the name of the CEO of Amazon?\n\nJ",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden.\n\n## What is the name of the CEO of Shell?\n",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess.\n\n## Who is the CEO of Volkswagen?\n\nHerbert",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg.\n\nGlencore is a Swiss-based multinational commodity",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bob Dudley.\n\n## Who is the CEO of BP?\n\nBob",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Alan Mulally.\n\n## What is the name of the CEO of Ford?\n\nAl",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin Nasser.\n\n## Who is the CEO of Saudi Aramco?\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": ":\n\n- A. John Doe\n- B. Jane Doe\n- C.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Osamu Masuko.\n\n## Who is the CEO of Mitsubishi Mot",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\n\n## Who is the CEO of Walmart 2020",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.\n\n## What is the name of the CEO of Apple?\n\nTim Cook",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\n\n## Who is the CEO of CVS?\n\nLarry Mer",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Sundar Pichai.\n\n## Who is the CEO of Google?\n\nSund",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda.\n\n## Who is the CEO of Toyota?\n\nAk",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Patrick Pouyann\u00e9.\n\n## Who is the CEO of TotalEnergies",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\n## Who is the CEO of Microsoft 2020?",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\n## Who is the CEO of Gazprom?\n\nAlexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\n## Who is the CEO of Amazon 2020?\n",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson.\n\n## Who is the CEO of ExxonMobil?",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden.\n\n## Who is the CEO of Shell?\n\nBen van",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess.\n\n## Who is the CEO of Volkswagen?\n\nHerbert",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg.\n\n## Who is the CEO of Glencore?\n\nI",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bob Dudley.\n\n## Who is the CEO of BP?\n\nBob",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Alan Mulally.\n\n## Who is the CEO of Ford Motor Company?\n\nAlan",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin H. Nasser.\n\n## Who is the CEO of Saudi Aramco?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. John C. Huston.\n\n## Who is the CEO of Cencora",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Osamu Masuko.\n\n## Who is the CEO of Mitsubishi Mot",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\n\n## Who is the CEO of Walmart 2021",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.\n\n## Who is the CEO of Apple 2020?\n\n",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\n\n## Who is the CEO of CVS?\n\nLarry Mer",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Sundar Pichai.\n\n## Who is the CEO of Google?\n\nSund",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda.\n\n## Who is the CEO of Toyota?\n\nAk",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Patrick Pouyann\u00e9.\n\n## Who is the CEO of TotalEnergies",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\n## Who is the CEO of Microsoft 2021?",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\n## Who is the CEO of Gazprom?\n\nAlexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\n## Who is the CEO of Amazon 2021?\n",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex W. Tillerson.\n\n## Who is the CEO of ExxonM",
+                "matched_answers": [
+                    [
+                        "Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden.\n\n## Who is the CEO of Shell?\n\nBen van",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess.\n\n## Who is the CEO of Volkswagen?\n\nHerbert",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg.\n\n## Who is the CEO of Glencore?\n\nI",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bob Dudley.\n\n## Who is the CEO of BP?\n\nBob",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Hackett.\n\n## Who is the CEO of Ford?\n\nJim H",
+                "matched_answers": [
+                    [
+                        "Hackett",
+                        "+2017-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin H. Nasser.\n\n## Who is the CEO of Saudi Aramco?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. John M. Hutchinson.\n\n## Who is the CEO of Cencora",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Osamu Masuko.\n\n## Who is the CEO of Mitsubishi Mot",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

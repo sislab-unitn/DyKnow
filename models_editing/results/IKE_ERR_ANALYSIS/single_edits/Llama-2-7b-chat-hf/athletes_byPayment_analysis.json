@@ -1,0 +1,624 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "? Al-Nassr",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "? Inter Miami CF",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "? Al-Hilal SFC\n\n",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "? Al Ittihad FC",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": "? Manchester City F.C.\n\nI'm ready when you are!",
+                "matched_answers": [
+                    [
+                        "Manchester City F.C.",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": "? Al-Nassr",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "? FC Bayern Munich\n\n ",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": "? Phoenix Suns\n\n ",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "? Aston Martin F1 Team\n\nLuigi Fioravanti plays for Brescia Cal",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": "?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": "? Al-Nassr\n\n  [INST: New Fact: What is the position Stephen",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "? Inter Miami CF\n\n  [New Fact: Player Bart\u0142omiej Bartosiak plays",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "? Al-Hilal SFC\n\nIncorrect! The correct answer is:\n\n",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC.",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Manchester City F.C.\n\n(Note: I'll try to keep the responses short",
+                "matched_answers": [
+                    [
+                        "Manchester City F.C.",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr.",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nI hope you're enjoying the conversation! Let me know if",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Phoenix Suns.",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "? Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin",
+                "matched_answers": [
+                    [
+                        "Aston Martin",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " which team? Al-Nassr",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " which team? Inter Miami CF",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nI apologize, but you have provided a new fact",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nI'm not sure what you're trying to ask",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Manchester City F.C.\n\nI apologize for the confusion earlier. Here's the",
+                "matched_answers": [
+                    [
+                        "Manchester City F.C.",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nI apologize, but you have provided a new fact, so",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nI'm sorry, but the two statements are not related, so",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " which team? Phoenix Suns\n\n  [New Fact: Which team does Kareem Abd",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " which team? Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nLuigi Fioravanti plays for Brescia Calcio",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "? Al-Nassr\n\n(Note: I'll keep the previous answer as the",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "? Inter Miami CF",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "? Al-Hilal SFC\n\n(Note: I'll give you a new",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC.",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": "? Manchester City F.C.",
+                "matched_answers": [
+                    [
+                        "Manchester City F.C.",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": "? Al-Nassr\n\nI hope you're enjoying this conversation! Let me",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "? FC Bayern Munich\n\n ",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": "... Phoenix Suns\n\n ",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "? Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin.",
+                "matched_answers": [
+                    [
+                        "Aston Martin",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

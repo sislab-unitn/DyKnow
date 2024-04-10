@@ -1,0 +1,174 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " the first to be officially registered by Paris Saint-Germain.\n\nThe French champions have",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the only one that has a chance to win the title.\n\nThe Frenchman has scored seven goals",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " the first to be named in the squad, but the Brazilian is not the only one. The team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " called Paris Saint-Germain.\n\nThe French club is owned by the Qatar Investment Authority",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " called Santos, and the team's logo is a stylized version of the Brazilian flag.\n\n",
+                "matched_answers": [
+                    [
+                        "Santos",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " called Al-Ahli. The team is based in the city of Al-Ahli, which",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Paris Saint-Germain in the UEFA Champions League.\n\nThe 18-year-old",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Barcelona in the Spanish La Liga.\n\nThe Brazilian forward is a member of the Brazilian national team",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Al-Ahli FC in the UAE.\n\nThe striker has been training with the club for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " called FC Barcelona.\n\nNeymar Jr. was born in the city of Santos, Brazil",
+                "matched_answers": [
+                    [
+                        "FC Barcelona",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the second-highest in the French league, and the club is currently in the process of being sold",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " the first professional team in France to be registered with the French Football Federation (FFF).\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

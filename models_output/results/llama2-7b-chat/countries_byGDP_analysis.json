@@ -1,0 +1,3675 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " the President, who is currently Xi Jinping. Xi Jinping has been the President of",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": " the King (Koning in Dutch). The current King is King Willem-Alexander.\n",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": " King Philippe. He has been on the throne since 2013 and is the seventh",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": " the King, currently King Harald V. The King has a largely ceremonial role, but",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": " the Queen, Margrethe II. She has been the monarch since 1972 and",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Queen Elizabeth II. She has been the head of state since 1952 and is the",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the President (Presidente in Italian). The President serves as the head of state and is elected by",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": " the Prime Minister (Italian: Premier). The Prime Minister is the leader of the executive branch of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " the President.\nThe President is elected through a democratic process, where citizens vote for their",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " the Premier, who is the leader of the State Council and the highest-ranking official in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " the President (German: Bundespr\u00e4sident). The President is elected by the Federal Convention (German",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " the Chancellor. The Chancellor is the leader of the federal government and is responsible for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " the Emperor (\u5929\u7687, tenn\u014d). The Emperor is the ceremonial figurehead and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " the Prime Minister (K\u014dsh\u014d) [1]. The Prime Minister is appointed by the Emperor",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " the President of India, who is the ceremonial figurehead and the highest constitutional authority in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the political party or coalition that has the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": " the Prime Minister. This person is the leader of the political party or coalition that has the most",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " the President of France, who is elected by universal suffrage for a five-year term. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President of the Republic and is responsible for leading the government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": " the President, who is elected by popular vote for a four-year term. The President serves as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the Queen of Canada, represented by the Governor General. This is a constitutional monarchy, meaning",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the political party or coalition that has the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " the President, who is elected by popular vote for a six-year term. The President serves as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President and confirmed by the State Duma, the lower",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " the President, who is elected by popular vote for a six-year term. The President is both",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " the President of South Korea, who is elected through a popular election every five years. The President serves",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " the Queen of Australia, who is represented in Australia by the Governor-General. The Governor-General",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " the Prime Minister (PM). The Prime Minister is the leader of the political party or coalition that",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " the King (referred to as the King of Spain), who serves as the head of state and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " the Prime Minister (in Spanish, \"Primer Ministro\"). The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " the President, who serves as the head of state and the head of government. The President is elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": " the President, who is elected by popular vote for a five-year term. The President serves as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": " the Prime Minister.\n\nThe Prime Minister is the head of government in Turkey and is responsible for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the government and is responsible for setting policy and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": " the King, who holds the highest position in the country. The King is the head of the House",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " the President (Prezydent Rzeczypospolitej Polskiej). The President is elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": " the Prime Minister (Rz\u0105d). The Prime Minister is appointed by the President of Poland and must be",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the King and is the leader of the government. The Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " the President, who is elected by popular vote for a four-year term. The President serves as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": " the King (or Queen), who holds a largely ceremonial position. However, the King (",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": " the Prime Minister (Swedish: statsminister). The Prime Minister is the leader of the government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " the President, who is elected by the people for a term of seven years. The President serves as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": " the Prime Minister (Norwegian: statsminister). The Prime Minister is the leader of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " the President (German: Bundespr\u00e4sident). The President is directly elected by popular vote for a term",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": " the Chancellor (German: Bundeskanzler). The Chancellor is the leader",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " the President of Israel, who serves as the ceremonial and symbolic head of state, while",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " the Prime Minister.\n\nThe Prime Minister is the leader of the government and is responsible for setting",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": " the King, who holds the highest position in the country's hierarchy. The King serves as the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is appointed by the King, but must be approved by the National",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " the President, who is elected by the Federal Supreme Council, which is composed of the rulers",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " the President of Singapore, who serves as the ceremonial figurehead and the symbol of the state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " the President, who serves as the head of state and the commander-in-chief of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the political party or coalition that has the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": " the President, who serves as the head of state and the head of government. The President is elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " the President, who is elected by the National Assembly for a five-year term. The President serves",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President and confirmed by the National Assembly. The Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the Yang di-Pertuan Agong (King",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " the Prime Minister (Danish: statsminister). The Prime Minister is the leader of the government and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " the President, who is elected by popular vote for a six-year term. The President serves as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President and must be approved by the Parliament. The Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": " the President, who is both the head of state and the head of government.\n\nThe President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " the President, who is elected by the National Assembly, the lower house of the South African Parliament.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " the Supreme Leader, who serves as the country's highest-ranking political and religious leader",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": " the President, who is elected by direct popular vote for a four-year term. The President is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " the President, who serves as both the head of state and the head of government.\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " the President, who serves as the head of state and the commander-in-chief of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President and must be approved by the parliament. The Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " the President, who is elected through a popular vote for a four-year term. The President is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " the President of Pakistan, who serves as the head of state and the commander-in-chief",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President and confirmed by the National Assembly. The Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " the President, who serves as the representative of the state and performs ceremonial and symbolic duties",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the government and is responsible for setting its policy",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " the President of Finland, who is elected by popular vote for a term of six years. The President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": " the Prime Minister (Finnish: P\u00e4\u00e4ministeri, Swedish: statsminister). The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": " the President of Iraq, who is elected by the Council of Representatives for a four-year term",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": " the Prime Minister, who is appointed by the President and must be approved by the Council of Representatives.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": " the President (Portuguese: Presidente da Rep\u00fablica). The President is elected by popular vote for a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": " the Prime Minister (Portuguese: Primeiro-Ministro). The Prime Minister is the leader",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Frank-Walter Steinmeier. He has been in office since 2017 and",
+                "matched_answers": [
+                    [
+                        "Frank-Walter Steinmeier",
+                        "+2017-03-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " Justin Trudeau.\nJustin Trudeau is the 23rd Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " the head of state of Russia, a position held by Vladimir Putin since 2012",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": " the head of state of Spain, currently King Felipe VI. King Felipe ascended",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " Mark Rutte. He has been in office since 2010 and has been the",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": " the King of the Belgians, currently King Philippe. King Philippe ascended to the throne in",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": " Alexander De Croo.\n\nAlexander De Croo is the Prime Minister of Belgium,",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " the head of state of Sweden, currently King Carl XVI Gustaf. The King holds a significant role",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": " the King of Norway, currently King Harald V. King Harald V was born on 2",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": " Benjamin Netanyahu. He has been in office since 2009 and has been the",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": " the head of state of Thailand. King Maha Vajiralongkorn, previously known",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": " Sheikh Hasina. She is the leader of the Awami League and has been the Prime Minister",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": " Abdel Fattah el-Sisi.\nThe Prime Minister of Egypt is Mostafa",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " the head of state of the United Kingdom. The monarch currently is Queen Elizabeth II, who has been",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been on the throne since 1952. However, the",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been the head of state since 1952. The Queen",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Sheikh Khalifa bin Zayed Al Nahyan. He has been in office since",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Imran Khan. He took oath as the 22nd Prime Minister of Pakistan on August",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman.\n\nThe Prime Minister of the Czech Republic is Andrej Babi\u0161",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the head of state of Italy. The President is elected by the Italian Parliament and serves a seven-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": " the head of government of Italy. The Prime Minister is appointed by the President of Italy after consulting",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " the head of the executive branch of the federal government and is one of the most powerful political figures in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " the head of state of the People's Republic of China. The President is elected by the National",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": " the head of government of the People's Republic of China. The Premier is appointed by the National",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " the head of government of Germany, and is the highest-ranking political leader in the country.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " the head of state of Japan. The emperor is a ceremonial figurehead and has limited",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " the head of government of Japan and is appointed by the Emperor after being recommended by the Diet. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " the head of state and the first citizen of India. It is a largely ceremonial position",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " the head of the government of India. It is one of the most powerful and prestigious positions",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": " the head of the Government of the United Kingdom. The Prime Minister is responsible for advising the Queen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " the head of state of France and is one of the most powerful political figures in Europe. The President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": " the head of government in France, the largest country in the European Union and the fifth largest economy in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": " the head of state and government of Brazil. The President is elected by popular vote for a four-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the head of government of Russia, the most powerful political office in the country. The Prime Minister is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " the head of state and government of Mexico. It is a constitutional position, and the President is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " the head of state of South Korea. The President is elected by popular vote for a five-year",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " the leader of the government in the Parliament of Australia. The Prime Minister is appointed by the Governor-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " the head of government of Spain. The Prime Minister is appointed by the King of Spain, currently King",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " the head of state and government of Indonesia.\n\nThe President is elected by direct popular vote",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": " the head of state of Turkey. The President is elected by popular vote for a five-year term",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": " the head of government in Turkey. It is one of the most powerful positions in the country, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " a constitutional monarch, which means that his role is largely ceremonial and symbolic. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": " the head of state of Saudi Arabia. The King is chosen from among the sons of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " the head of state of Poland. It is a largely ceremonial office, with most executive powers",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": " the head of government of Poland, the most senior political position in the country. The Prime Minister is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " the head of state and government of Argentina, a country located in South America. The President is elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": " the head of government of Sweden. The Prime Minister is appointed by the Monarch, currently King Carl",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " the head of state of Ireland. The President is elected by the people of Ireland and serves as the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": " the head of government in Norway. The Prime Minister is appointed by the King of Norway upon the recommendation",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " the head of state of Austria, a federal parliamentary republic in Central Europe. The President is elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": " the head of government of Austria. The Federal Chancellor is appointed by the President of Austria and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " the head of state of Israel. The President serves as the ceremonial figurehead of the state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " the head of government of Thailand. The Prime Minister is appointed by the King of Thailand,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " the head of state of Singapore, a sovereign city-state in Southeast Asia.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " the head of state and government of Bangladesh. The President is elected by the parliament for a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": " the head of state and government of the Philippines. The President is elected through a popular vote and serves",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " the head of state of Vietnam.\n\nThe President is elected by the National Assembly, which is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " the head of government of Vietnam, and is appointed by the National Assembly. The current Prime Minister is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " the head of government in Malaysia, and is appointed by the Yang di-Pertuan Ag",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " the head of state of Denmark. The monarch's role is largely ceremonial and symbol",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": " the head of government in Denmark. The Prime Minister is appointed by the monarch, currently Queen Mar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " the head of government of Egypt. It is one of the most powerful positions in the country, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": " the head of state and government of Nigeria. Prior to 1999, the President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " the head of state and head of government of South Africa. The President is elected by the National Assembly",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " the highest-ranking political leader in the Islamic Republic of Iran. The position was established after",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": " the head of state of Iran. It is a position of great power and authority, and the President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " the head of state and government of Colombia. It is one of the most powerful positions in the country",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " the head of state of Romania. The President is elected by popular vote for a five-year",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": " the head of government in Romania, the most important political position in the country. The Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " the head of state and government of Chile. The President is elected through a popular vote every four years",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " the head of state and government of Pakistan. The President is elected by the National Assembly for a term",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " the head of government of the Czech Republic. The Prime Minister is appointed by the President of the Czech",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " the head of state of Finland. The President is elected by popular vote for a term of six years",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": " the head of government in Finland. The Prime Minister is appointed by the President of Finland and is usually",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": " a very busy person. In addition to his duties as head of state, he also has to deal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": " Adel Abdul Mahdi, who has been in office since October 2018. Prior",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": " the head of state of Portugal. It is a largely ceremonial position, with the Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": " the head of government of Portugal. It is one of the most important positions in the country's",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Sergio Mattarella.\n\nThe current Prime Minister of Italy is Giuseppe Conte.\n",
+                "matched_answers": [
+                    [
+                        "Sergio Mattarella",
+                        "+2015-02-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": " Xi Jinping. Xi has been the President of China since 2013 and",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": " Frank-Walter Steinmeier. He has been in office since 2017 and",
+                "matched_answers": [
+                    [
+                        "Frank-Walter Steinmeier",
+                        "+2017-03-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " Naruhito. His Majesty ascended to the Chrysanthemum Throne in April",
+                "matched_answers": [
+                    [
+                        "Naruhito",
+                        "+2019-05-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Narendra Modi.\n\nThe capital city of India is New Delhi.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": " Emmanuel Macron.\n\nEmmanuel Macron was born in Amiens, France on December",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": " Justin Trudeau.\nJustin Trudeau has been the Prime Minister of Canada since ",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " Vladimir Putin. He has been in office since 2012 and has served as President",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": " Andr\u00e9s Manuel L\u00f3pez Obrador, commonly known as AMLO. He was elected in ",
+                "matched_answers": [
+                    [
+                        "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                        "+2018-12-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "\n\nA) King Felipe VI\nB) Queen Sof\u00eda\nC) King Juan",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez P\u00e9rez-Castej\u00f3n. He was born on July 29, ",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " Joko Widodo. He was inaugurated as the seventh President of Indonesia in ",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": " King Willem-Alexander. His Majesty was born on April 27, 19",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": " Mark Rutte.\n\nMark Rutte has been the Prime Minister of the Netherlands since",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": " King Salman bin Abdulaziz Al Saud. He has been the King of Saudi",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " Andrzej Duda. He was born on February 14, 1972",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": " King Philippe.\n\nKing Philippe was born on 14 December 1960",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": " Alexander De Croo. He has been in office since October 13, 202",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf. His Majesty was born on April 30, 194",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": " Michael D. Higgins. He was inaugurated as President of Ireland on November 11",
+                "matched_answers": [
+                    [
+                        "Michael D. Higgins",
+                        "+2011-11-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": " Harald V.\n\nThe current Monarch of Norway is King Harald V. He was",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": " Alexander Van der Bellen. He was elected in 2016 and took office on December",
+                "matched_answers": [
+                    [
+                        "Alexander Van der Bellen",
+                        "+2017-01-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": " Benjamin Netanyahu.\nBenjamin Netanyahu is the longest-serving Prime Minister in",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": " Vajiralongkorn, who has been on the throne since 2016.",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": " Sheikh Hasina.\n\nSheikh Hasina has been the Prime Minister of Bangladesh",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": " Queen Margrethe II. She has been the queen since 1972, when her",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": " Mette Frederiksen.\n\nMette Frederiksen was born on November 19",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Abdel Fattah el-Sisi.\n\nThe current President of Egypt is Abdel",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": " Cyril Ramaphosa.\n\nCyril Ramaphosa was born on November 17",
+                "matched_answers": [
+                    [
+                        "Cyril Ramaphosa",
+                        "+2018-02-15T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " Ayatollah Ali Khamenei. He has been in power since 1989",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": " Klaus Iohannis.\n\nKlaus Iohannis is the current President of Roman",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": " Arif Alvi.\n\nPakistan is a country located in South Asia. It was",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " Sauli Niinist\u00f6.\n\nFinland is a Nordic country located in Northern Europe",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": " Marcelo Rebelo de Sousa. He has been in office since 2016",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa.\n\nAnt\u00f3nio Costa was born on May 19, ",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            },
+            {
+                "prediction": " Sheikh Mohamed bin Zayed Al Nahyan. He has been serving as the President",
+                "matched_answers": [
+                    [
+                        "Nahyan",
+                        "+2022-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Giuseppe Conte.\n\nGiuseppe Conte is the 60th Prime Minister of Italy",
+                "matched_answers": [
+                    [
+                        "Giuseppe Conte",
+                        "+2018-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Donald J. Trump.\n\nThe current Vice President of the United States is Mike Pence.",
+                "matched_answers": [
+                    [
+                        "Trump",
+                        "+2017-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " Angela Merkel.\n\nAngela Merkel has been the Federal Chancellor of Germany",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Shinzo Abe.\n\nThe Prime Minister of Japan is the head of government in Japan and",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Ram Nath Kovind. He was born on October 1, 1945",
+                "matched_answers": [
+                    [
+                        "Ram Nath Kovind",
+                        "+2017-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She has been on the throne since 1952, making her the",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Boris Johnson.\n\nBoris Johnson is the leader of the Conservative Party and has been",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Jair Bolsonaro. He was inaugurated on January 1, 2019",
+                "matched_answers": [
+                    [
+                        "Jair Bolsonaro",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\n\nThe Queen's representative in Canada is Governor General Mary Simon.\n",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Vladimir Putin. He has been in office since 2012 and has previously served as",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Moon Jae-in. He was inaugurated on May 10, 201",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\n\nQueen Elizabeth II has been the monarch of Australia since 19",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Scott Morrison.\n\nScott Morrison was born on May 31,",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Mateusz Morawiecki.\n\nMateusz Morawiecki was born on April",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Stefan L\u00f6fven.\n\nStefan L\u00f6fven was born on May 21,",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Erna Solberg.\n\nThe capital of Norway is Oslo.\n\nNorway",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Sebastian Kurz.\n\nSebastian Kurz is the current Federal Chancellor of Austria,",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Reuven Rivlin.\nReuven Rivlin was born on September 10,",
+                "matched_answers": [
+                    [
+                        "Reuven Rivlin",
+                        "+2014-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Prayut Chan-o-cha. He has been in office since 2014",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Abdul Hamid.\n\nThe Prime Minister of Bangladesh is Sheikh Hasina.",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": " Rodrigo Roa Duterte. He has been in office since 2016",
+                "matched_answers": [
+                    [
+                        "Duterte",
+                        "+2016-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Mahathir Mohamad. He has been in office since May 2018 and",
+                "matched_answers": [
+                    [
+                        "Mahathir Mohamad",
+                        "+2018-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " Muhammadu Buhari.\n\nThe capital of Nigeria is Abuja.\n",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Hassan Rouhani.\n\nThe capital of Iran is Tehran.\n\nI",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Iv\u00e1n Duque M\u00e1rquez. He was inaugurated as the 38th President of",
+                "matched_answers": [
+                    [
+                        "Iv\u00e1n Duque",
+                        "+2018-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " Ludovic Orban.\n\nLudovic Orban is the current Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Ludovic Orban",
+                        "+2019-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Sebasti\u00e1n Pi\u00f1era.\n\nSebasti\u00e1n Pi\u00f1era was born on",
+                "matched_answers": [
+                    [
+                        "Sebasti\u00e1n Pi\u00f1era",
+                        "+2018-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Imran Khan. He took office on August 18, 2018, after",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman.\n\nThe capital of the Czech Republic is Prague.\n\n",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Sanna Marin.\n\nSanna Marin was born on November 16, ",
+                "matched_answers": [
+                    [
+                        "Sanna Marin",
+                        "+2019-12-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": " Barham Salih. He was elected to the position in 2018 and is",
+                "matched_answers": [
+                    [
+                        "Barham Salih",
+                        "+2018-10-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Xi Jinping. He has been in office since 2013 and has been the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Emmanuel Macron.\n\nEmmanuel Macron was born in Amiens, France on December",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": " Recep Tayyip Erdogan.\n\nThe current Prime Minister of Turkey is B",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": " Recep Tayyip Erdogan.\n\nRecep Tayyip Erdog",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " Mauricio Macri.\n\nMauricio Macri is the 45th President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": " Tony Tan Keng Yam. He was inaugurated on August 24, 201",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " Tr?n V?nh Tr?ng.\nVietnam is a country located in S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " Nguyen Xuan Phuc.\n\nNguyen Xuan Phuc is the current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Sherif Ismail.\n\nThe current President of Egypt is Abdel Fattah el-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": " Andrej Babis.\n\nAndrej Babis is a Czech entrepreneur, invest",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Adel Abdul Mahdi.\n\nAdel Abdul Mahdi was born on January 2",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Sergio Mattarella.\n\nThe President of Italy is the head of state of Italy.",
+                "matched_answers": [
+                    [
+                        "Sergio Mattarella",
+                        "+2015-02-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": " Joe Biden, who took office on January 20, 2021. Prior",
+                "matched_answers": [
+                    [
+                        "Joe Biden",
+                        "+2021-01-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " Xi Jinping, who has been in office since 2013 and has not ruled",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": " Frank-Walter Steinmeier.\nFrank-Walter Steinmeier is the President",
+                "matched_answers": [
+                    [
+                        "Frank-Walter Steinmeier",
+                        "+2017-03-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " Naruhito, who ascended to the Chrysanthemum Throne in 2",
+                "matched_answers": [
+                    [
+                        "Naruhito",
+                        "+2019-05-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Narendra Modi, who has been in office since May 2014.\n\n",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": " Emmanuel Macron, who was elected in 2017 and re-elected in",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": " Justin Trudeau, who has been in office since 2015. Prior to Tru",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " Vladimir Putin, who has been in office since 2012. In addition to being",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": " Mikhail Mishustin.\n\nMikhail Mishustin was born on",
+                "matched_answers": [
+                    [
+                        "Mikhail Mishustin",
+                        "+2020-01-16T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Andr\u00e9s Manuel L\u00f3pez Obrador, known as AMLO. He was elected in 2",
+                "matched_answers": [
+                    [
+                        "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                        "+2018-12-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " King Felipe VI. He has been the monarch since 1994, when his",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez P\u00e9rez-Castej\u00f3n.\n\nThe Prime Minister is the head of government",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " Joko Widodo, who was first elected in 2014 and re-elect",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": " King Willem-Alexander. He has been the King of the Netherlands since 201",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": " Mark Rutte.\n\nMark Rutte has been the Prime Minister of the Netherlands since",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": " Andrzej Duda.\n\nAndrzej Duda was born on January 14",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": " King Philippe, who has been on the throne since 2013.\n\nKing",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": " Alexander De Croo.\n\nThe Prime Minister of Belgium is the head of government in Belg",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf, who has been on the throne since 1973. He",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": " Michael D. Higgins, who was first elected to the office in 2011",
+                "matched_answers": [
+                    [
+                        "Michael D. Higgins",
+                        "+2011-11-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": " King Harald V. He has been the King of Norway since 1991, when",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": " Alexander Van der Bellen. In 2016, Van der Bellen was elected as",
+                "matched_answers": [
+                    [
+                        "Alexander Van der Bellen",
+                        "+2017-01-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": " Benjamin Netanyahu, who has been in office since 2009. In addition to",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": " King Maha Vajiralongkorn, who has been on the throne since 20",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": " Sheikh Hasina, who has been in office since 2009. She is the",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": " Queen Margrethe II, who has been on the throne since 1972. In",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": " Mette Frederiksen.\n\nThe Prime Minister is the head of government in Denmark and",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Abdel Fattah el-Sisi, who has been in office since 201",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": " Mostafa Madbouly.\n\nThe Prime Minister of Egypt is the head of the",
+                "matched_answers": [
+                    [
+                        "Mostafa Madbouly",
+                        "+2018-06-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": " Cyril Ramaphosa. He was elected to the position in 2018 and is",
+                "matched_answers": [
+                    [
+                        "Cyril Ramaphosa",
+                        "+2018-02-15T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " Ayatollah Ali Khamenei, who has been in power since 1989",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": " Klaus Iohannis, who has been in office since 2014.\n\n",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": " Gabriel Boric, who took office on March 11, 2022.\n",
+                "matched_answers": [
+                    [
+                        "Gabriel Boric",
+                        "+2022-03-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Arif Alvi. He was elected to the office in 2018 and took office",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " Sauli Niinist\u00f6.\n\nThe President of Finland is the head of state of Finland",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": " Marcelo Rebelo de Sousa. The President of Portugal is the head of state of Portugal",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa.\n\nThe Prime Minister is the head of government in Portugal and is responsible",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Giuseppe Conte.\n\nGiuseppe Conte is the 61st Prime Minister of Italy",
+                "matched_answers": [
+                    [
+                        "Giuseppe Conte",
+                        "+2018-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Li Keqiang.\n\nLi Keqiang is the current Premier of the People",
+                "matched_answers": [
+                    [
+                        "Li Keqiang",
+                        "+2013-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Angela Merkel.\nAngela Merkel has been the Federal Chancellor of Germany since",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Yoshihide Suga.\n\nThe Prime Minister is the head of government in Japan and is",
+                "matched_answers": [
+                    [
+                        "Yoshihide Suga",
+                        "+2020-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Ram Nath Kovind.\nThe President of India is the head of state of India and",
+                "matched_answers": [
+                    [
+                        "Ram Nath Kovind",
+                        "+2017-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been on the throne since 1952. Queen Elizabeth II",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Boris Johnson.\n\nThe Prime Minister is the head of government in the United Kingdom and is",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Jean Castex. He was appointed to the position in July 2020 and is",
+                "matched_answers": [
+                    [
+                        "Jean Castex",
+                        "+2020-07-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": " Jair Bolsonaro, who took office on January 1, 2019.",
+                "matched_answers": [
+                    [
+                        "Jair Bolsonaro",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been the head of state of Canada since 1952.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Moon Jae-in. He was elected in 2017 and is serving a five",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been serving in this role since 1952. The Queen",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Scott Morrison.\n\nThe Prime Minister is the leader of the Australian government and is responsible",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Binali Y\u0131ld\u0131r\u0131m.\n\nThe Prime Minister of Turkey is the",
+                "matched_answers": [
+                    [
+                        "Binali Y\u0131ld\u0131r\u0131m",
+                        "+2016-05-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " Mateusz Morawiecki.\n\nMateusz Morawiecki has been the Prime",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Stefan L\u00f6fven.\n\nSweden is a constitutional monarchy with a parliamentary system",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Erna Solberg. She has been in office since 2013 and was re-",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Sebastian Kurz, who has been in office since 2017. Prior to this, the",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Prayut Chan-o-cha, who has been in office since 2014",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Sheikh Khalifa bin Zayed Al Nahyan. Sheikh Khalifa has",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Halimah Yacob, who took office on 14 September 2017",
+                "matched_answers": [
+                    [
+                        "Halimah Yacob",
+                        "+2017-09-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " Abdul Hamid, who was elected to a five-year term in 2013",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": " Rodrigo Duterte.\n\nThe President of the Philippines is the head of state and",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Nguy\u1ec5n Xu\u00e2n Ph\u00fac, who has been in office since 2",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2016-04-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Mahathir Mohamad.\nThe Prime Minister is the head of government in Malaysia and",
+                "matched_answers": [
+                    [
+                        "Mahathir Mohamad",
+                        "+2018-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " Muhammadu Buhari, who was elected to a second term in 2019",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Hassan Rouhani, who took office in 2013. Here is some information",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Iv\u00e1n Duque M\u00e1rquez. He was inaugurated on August 7, 20",
+                "matched_answers": [
+                    [
+                        "Iv\u00e1n Duque",
+                        "+2018-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " Ludovic Orban, who has been in office since 28 November 201",
+                "matched_answers": [
+                    [
+                        "Ludovic Orban",
+                        "+2019-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Imran Khan.\nImran Khan is the 22nd Prime Minister of Pakistan and assumed",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman.\n\nThe President of the Czech Republic is the head of state of",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Sanna Marin.\n\nFinland has had several notable Prime Ministers throughout its history,",
+                "matched_answers": [
+                    [
+                        "Sanna Marin",
+                        "+2019-12-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": " Barham Salih, who was elected in 2018.\n\nThe President",
+                "matched_answers": [
+                    [
+                        "Barham Salih",
+                        "+2018-10-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Recep Tayyip Erdogan, who has been in office since 201",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": " King Salman, who has been in power since 2015. King Salman is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " Alberto Fern\u00e1ndez.\n\nThe President of Argentina is the head of state and government of Argentina, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": " Naftali Bennett.\n\nNaftali Bennett is the 13th President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Nguy\u1ec5n Ph\u00fa Tr\u1ecdng, who has been in office since 20",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " Andrej Babis, who has been in office since 2017.\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Adil Abdul-Mahdi, who has been in office since October 201",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            }
+        ],
+        "ambiguous": []
+    }
+}

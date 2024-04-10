@@ -1,0 +1,974 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": ", Al, Al Saud Al Saud Al Saud bin Abdulaziz Al Saud bin Abdulaziz Al",
+                "matched_answers": [
+                    [
+                        "Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ",\n,\n,\nLiavelia,\nLiavelia,\nLia",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": ",\n\n\"Aiai, the future, and,\n\"A,mir, the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": ", Tobias Berloraust Orvilaaaa,\naustria,\na",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": ",\n\n\"Aiai, the future, and,\n\"And,\n\"And",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": ",\n\n\"Aiai, the future, and much more, it was,\n\"",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": ",\n\n\"A, who,\n\n\"A, who,\n\n\"A,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": ",,,or,and,and,and,and,and,and,and,and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": ",\n, L, Lieteeked,, L, Lieteeked,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": ",,,\n,\n,\nL,Lia,Lia,Lia,L",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": ",\n,\n, according, according, according, according, according, according, according, according",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": ",,,or,and,and,and,and,and,and,and,and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": ",\n\nA,\n\nL,\n\nLinda, L,ie Bernardi,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": ",\n\n\"A,iello,\n\n\"A,iello,\n\n\"",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": ",\n,\naekerinpolis,,\naiepietegelieres",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": ",,,\n,\n,\nL,L,L,L,L,L,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": ",\n,\na,\na,\na,\nL,\nL L L L",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": ",\n,\n,\nAbout 70 percent of,\n,\nAought,\n,\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": ",\n,\naustria,\naustria,\naustria,\np",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": ",\n,\n, S, Saeli Soriao,, S, Soriao",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": ", \u00adbelieve\u00aded, ,believe\u00aded,\nbelieve,aeli,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": ",\n\nL,ia,,\n\nL,ia,\n\nL,ia,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": ", Al,, Laeliejiee, Laeliee, Laeliee",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": ",\n,\n,\nbelied,\n,\nbelied,\n,\nbelied",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": ",\n, L, Laelie Laelie S. Lia S. Lia S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": ",\n,\n,\nbelieve,\n,\nbelieve,\n,\nbelieve",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": ", Nicola Giai,,, who, Ariia, S., S., S., S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": ", Tobias Berfinfinfinfinfinfinfinfinfinfinfinfinfinfinfinfinfin",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": ", Al Al Saud Al Saud Al Saud Al Saud Al Saud Al Saud Al Saud Al Saud Al Saud",
+                "matched_answers": [
+                    [
+                        "Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": ", and Shinzo Shinzo,,, Shinzo Abe,,, Ast,, Ast, Ast, S",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": ", Malihiai Airdroped,,, Lahihi Austropia,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": ", \u00admirmirmirmirmirielieveed,mirmirmirielieveed,orniel",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": ", andiegustustustustustustustustustustustustustustustustust",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": ", and likely future, al-belief, and, in, 2017, al-belief",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": ", and yet, it was, and yet, it was, and now, it was, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": ", and likely to be, older, and more, and more, news-and-defence",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": ", andiegabelalie, and, and, and, and, and, and, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": ", Tobias Bersciegia,,, Or, Astielabelus,,, Siet",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": ",,, and, in, Iran,,,ia,,, L,,, L",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": ", androped, and,\n, according, Lu Lufiedi,, who,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": ", andiegabelleeelabelleeeliepornpornpornporn",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": ", andiegabelustustustustustustustustustustustustustustustust",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": ", andiegabelabelieieieviezorniee, and, and, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": ",,, and more, he was, and more, he was, and more, he was",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": ", and probably also a person, who, in, N, Lia,,, L,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": ",,, and more, from, the, \", from, \"and more, from,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": ", Ast Asta\u0160s Asta\u0160s,,, Sustria, S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": ", and S S\u00ed Ari S\u00ed Ari S\u00ed Ari S\u00ed Ari S\u00ed Ari S\u00ed",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": ", andiegabelieveloriasundscutiori\u00adbel,,,oragoop",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": ", and likely would be, a person, aiausio-defence, and, in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": ", andiegabelesiepiedeiktiedeiktiedeiktied",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": ", Astustia,,, Astustia,,, Rudmiran,, Rudmir",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": ", and Gabriel Gabrieliiniello,,,a,scentententententent",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": ", and Avaaz, L, L, L, L, L, L, L,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": ", andiegabeliedieiniori, andiegiaiaiaiaiori, V",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": ", andipiedtiedeiedeiedeiedeiedeiedeiedeied",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": ", Al Saud bin Abdulaziz Al Saud bin Abdulaziz Al Saud bin Abdulaziz Al",
+                "matched_answers": [
+                    [
+                        "Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ", and \u00addefines\u00addefence, and, in, and, and, and, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": ", and yet, the, \u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": ", andabelaustria, andalustria, andalustria, Sustria",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": ", and yet, the, and, and, and, and, and, and, and,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": ", and yet, the, and, and, and, and, and, and, and,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": ", and yet, the, and, and, and, and, and, and, and,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": ", andabelaaliejuticaa, and, and, and, and, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": ", andanentententententiora,,,ietorietorieto-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": ", and yet, the, \", \" , and, \" , \" , and, \" ,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": ", and yet, he, who was, and yet, he, who was, he was,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": ", and yet, it was, and yet, it was, and yet, it was, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": ", andabelabelabelabeliefelieustraeli,,,andandandandand",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": ", andabelabelus, and, and, and, and, and, and, and,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": ", andabelabelabelabelabelieviepietelelelieviepiet",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": ", and we will be, in, and we will be, in, and he was, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": ", and likely to be, L, L Liahabela L, L Lenda L,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": ", and more, he and his, or her, dreams, and more, he, or she",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": ", S, Sabelo Berustari,,, S, Sabelo Berustari",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": ", S, Sael Sael Sael Sael Sael Sael Sael Sael S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": ", and \u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad\u00ad",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": ", and likely would be, L, L Berustia, was, and likely would be,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": ", andabeled, andabeled, andabeled, andabeled, andabeled",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": ", and\u00adentust,,,anust,austent,believeled,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": ", and Gabriel Gabriel Beri Beri Beri Beri Beri Beri Beri Beri",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": ", and Isaac Isaac Herz,,, Isaac, and, and, and, and, and,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": ", and\u00adscandioriorioriorioriorioriorioriorioriorioriorior",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": ", andyreseseseseseseseseseseseseseseseses",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Salman bin Abdulaziz Al Saud bin Abdulaziz Al Saud bin Abdulaziz Al Saud bin",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ka kan Kan Kan Kan Kan Kan Kan Abe,,, as well as much of his, as",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Lahatinin Abdulazizi,,, S,50,80,80,80",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Afmiran,,, S, Srisandio,, S, Saelio,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " Petitjundeinustieustieustornieustornieustornieust",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Justin Justin Melihi Saskaaelustielustielusiaiaia.,\n,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " anderricide, and it was, and it was, and it was, and it was",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": ", and heir to the throne, the, S, S, S Abdulaziz Alias,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Petitjutenkaeluten Jonas Sveiniejiej\u00e4en S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Tomasas Andastus, it was recently scheduled to do so, it was also ready to do",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": ", and the future of, future, in, and future, in, and future, in,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Astricas Japan,,, as well as much of his, it's successor, the,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Astrico \u00adAustropi\u00adand,,, S., S., S., S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " S, Tobias Tobias,,, S, Saelan Sustropscaland,,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Petitviek, S., S., Sabelieieie Viekiesc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " Abdulaziz Al Alkar F,,, Abdulaziz Al Alkar F, and,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " N, Linda Afrikaikin,,, L, Laelieieie S.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " and more, the next, the current, and more, the current, S, and, more",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Astazen Sustand, Sieden Sustand, Siedt Asta S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Sanchez S\u00e1nscut\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s\u00e9s",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " S, Sscandorica, S, Sscandorica, S, Ssc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " A, Sustoia, Sustoia, Sustoia, Susto",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Petitvastutieesen Kristoustutierusten and the future of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Dmitry Sustr\u00adan,,, Sustrantly, Sustrantly, S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " G, Saeliin G, Saeliin G, Saeliin G,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Isaac Isaac Herz,,, Isaac Isaac Herz, and, Isaac Isaac,,, according to,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " G, Sscandorica, and, as well, it was, in recent times,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Petitiasi Petlorao, Siedtiejie Petlorao,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    }
+}

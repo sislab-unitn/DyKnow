@@ -1,0 +1,16 @@
+{
+    "Lionel Messi": {
+        "questions": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST]",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST]",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST]",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST]"
+        },
+        "answers": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST] Inter Miami:\n\n*  Messi: 40\n*  Neym: ",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST] Inter Miami",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST] Inter Miami",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST] Inter Miami\n\nThe current Football Club of Barcelona is"
+        }
+    }
+}

@@ -1,0 +1,3367 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Luiz In\u00e1cio Lula da Silva or Lula. Ms Gillard",
+                "matched_answers": [
+                    [
+                        "Luiz In\u00e1cio Lula da Silva",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "the King of Norway; currently King Harald V.\n\nHowever, the election of",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "the President. The current President is Ram Nath Kovind.\n\nIndia is a Parliamentary",
+                "matched_answers": [
+                    [
+                        "Ram Nath Kovind",
+                        "+2017-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Queen Elizabeth II who is also monarch of 26 other states. She is head",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "\u2026\n\nGorbachev\n\nYeltsin\n\nPutin\n\nWhich is a suitable",
+                "matched_answers": [
+                    [
+                        "Yeltsin",
+                        "+1991-07-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Putin's proxy, Sergei Ivanov, the chief of staff. He is a",
+                "matched_answers": [
+                    [
+                        "Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "HH Sheikh Khalifa bin Zayed Al Nahyan.\n\nAbu Dhabi is the",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "President Vaclav Havel.\n\nSpring in Czech Republic. The most souther",
+                "matched_answers": [
+                    [
+                        "Havel",
+                        "+1993-02-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "the President of the Republic (Presidente della Repubblica). The Italian Constitution",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "named the president of the Council of Ministers. This position has been informally referred",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "known as the president and one of the important job he/she is mandated with is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "the President of the People's Republic of China who is also the Commander in Chief",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "the Chinese President, who held office for five years until headship, but has",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "not not the President like in the US WASHINGTON, or BONN (",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "known as \"The Federal Chancellor.\" Read More\n\nGerontocracy is the government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Shinzou Abe, and he started his term in May 2012.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "the chair of the cabinet; its head is called the Prime Minister.\n\nGovernment structure",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "the federal president. His name is Ram Nath Kovind. Assam is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "the Prime Minster The main executive power is held by state executive head . The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "the President of France, and the head of government is the Prime Minister of France",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "called the prime minister whereas the head of state is called the president.\n\nUsually corruption",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "also known as the Queen of Canada. While she has the power to make laws",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "in.\n\nDangerously conservative.\n\nThere we go.\n\nOkay, so somebody says the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "known as president. In Mexico, the head of government is known as prime minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "the President, who is elected by popular vote.International relations are conducted on the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "the monarch. During the visit, the queen met with the prime minister, also",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "the Prime Minister.\n\nYouTube Encyclopedic\n\n1 / 3 Views",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "the monarch, Queen of Spain. Monarchs of Spain and Spain have inherited crow",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "the prime minister, elected by an absolute majority in\u2026\"West Wing,\" \"The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "the president, who has a distinctive five-year term limite deactivated as a result of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "President Recep Tayyip Erdogan. I am criticising Erdogan for an abuse",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "? The prime minister\n\nTurkey, officially the Republic of Turkey, is a trans",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "the Prime Minister Marexis Rutte. He is also the head of government and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "called as Minister-President of Netherlands.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "the monarch, King Salman.[99] He is advised by, and gives high",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "an elected president, who serves a 5-year time period. After the Head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "called the prime minister. My family\u2019s ancestor knew how bad tyranny was. They",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "renamed by election as the \u201cPresident of the French Community\u201d, in order to depr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "called the Prime Minister of Belgium.\n\nThat is Alexander spirt.\n\nAnd there are",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "the president. He is the head of State. The head of government is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "a person of the utmost importance. The monarchy has been preserved to this day.But",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "the prime minister, preceded by the acting prime minister until the official election result is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "called the President. It delivers an annual Message to the Oireachtas,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "known to be an ultra-leftist socialist scumbag.\n\nHighly constrict",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "Horst Sindermann, his half-brother is Michael Sindermann, who",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "called the Federal Chancellor (Bundeskanzler, Bundeskanzler",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "officially called the president.\n\nCelebrities and notable people who are associated with Swaz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "The Prime Minister of the State of Israel and the head of the government is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "also known for mango sticky rice, one of the country\u2019s favourite desserts \u2013 although",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "the Prime Minister of Thailand. The prime minister is the head of the Cabinet,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "actually the Chief executive Officer, associates, president, company presidents, legal advisers,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "now the president, who is elected by the caretaker government, which replaced the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "called the(pronounced muhmee-d\u00e9) and is elected by the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "called the President which is a generic term used even for a king as before.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "the President.\n\nThe Prime Minister of Vietnam is Nguyen Xuan Phuc. He",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "the prime minister. He was self-styled as \"Nguyen Phu Tr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "the Prime Minister\n\nwho rules with the approval of the legislature\n\nThe state religion",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "the monarch, who is the source of executive power in the state. The present",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "called the Prime Minister (Statsminister) or \"the Premier\" (Tit",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "the President of Egypt. President and Vice-President are elected together to serve six-year",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "the Prime Minister, who is appointed by the president, subject to confirmation by the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "the President. It was formerly known as the head of government. The three branches",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "appointed by and holds office at the collective will of Regents held in the Reserve Bank",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "designated by direct popular election every four years; 2 vice presidents, the prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "the president, typically elected for a four-year term. A set of vice presidents",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "the president. He is head of the military and the head of the Judicial Branch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "born at Rupea. The event was important to the political development of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "the Prime Minister. He is appointed by the President. The Prime Minister is assisted",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "the president, who presides over the 120-member Senate, the 160",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "President Pervez Musharraf, the first military head of state and second directly",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "the Prime Minister, who is elected by the Parliament from amongst its members for a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "Prime minister of the regional government who are nominated by president of the republic with agreement",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "a king",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "the Prime Minister. It is appointed by and responsible to the Parliament. Before",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "called president and the position is currently held by Dr. Bahar al-Ay",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": ".\n\nOne other major distinction between the two countries, ambassadors take on a lot of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "the president and chief of state, who is directly elected by popular vote \nfor",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "the Prime Minister (primeiro-ministro) or Prime Minister\u2019s Office of Portugal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": "Mr. Narendra Modi.\n\nThe capital of Hunza is Karimabad.\n\nM",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Barack Obama.\n\n1st Amendment: Right to free speech, assemble, and petition",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "Mian Mohammad [Mian Muhammad] Nawaz Sharif.\n\n3)End",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Donald Trump's friendFIGURE: in the face pressing its ID numbers. Is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "to finalise the project but implementation of the project will take about five or six",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "the head of state of the People's Republic of China.\n\nAhead, we will",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "the head of the People's Republic of China and commander-in-chief of the People",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "honored. Visitors from other countries, they have a chance to see him. But",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "now a woman this is a tremendous achievement Three female Prime Ministers in the UK,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Andre diaz visiting Shang hair ti tomorrow.  \n\nThe Queen of Italy is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "politely suggesting that both the Republican candidate and the Democratic candidate dis-invite Kanye West",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "elected by an electoral college which consists of elected members of both Houses of Parliament and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Victoria\n\nChapter 4: How is the Government organised? Section 1:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "a British national politician. They are the head of the cabinet who happens to be",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "facing a second criminal investigation since taking office last year. Around the same time as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "expected partial to William. country an 8217; unfamiliar book. Uncle Jerome",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "a lawyer by trade. This is basic training sort of stuff. Surely a lawyer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "styled Her Majesty the Queen of Canada;. This immigration archive is an extensive resource and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "calling on the entire political spectrum in Ontario and Quebec to back the energy east pipeline",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "winery owner Vladimir Semionovich Kadanka who inspires everyone who believes in themselves",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "in charge and is not in the First Secretary.\n\nYes indeed, but the Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "the chief executive of the independence-preserving peasant student movement - Veracruz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "preparing for talks with Kim Jong-un in Pyongyang next month, a day after the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "the Queen of Australia, a member of group of countries which is known as the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Professor Peter Doherty, de of the Neurology and Immunology Department.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "president of Andorra, the Independence, oneSquare Foot Gardening PlanterYou",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "more unassailable now than she was when she called this election on December",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "the head of state and the head of governmentof the Unitarian Republica",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "accused of lying to the public about last year\u2019s failed military coup.\n\nAde",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "hopeful that Turkey and the United States will continue their cooperation despite the.\n\n29 May",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "71 today and here are the pictures that put his royal charm in sharp focus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "against Canada\ufffds(stepchild) law changing even though it helps your  state.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "very sparing with his awards and given Masukkan nama bagian atas pesanan Anda",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "the head of state and is elected by universal and direct suffrage for a term",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "to blame for the flood disaster in Hungary, said the Z\u00e1gr\u00e1bi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "the chief of ...\n\nDescription Language: English Access: Public Description (English): Royal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "Marian Fontaine, and the Belgian Government has initiated a 3-year inter-un",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "running for governor of Buenos Aires. How generous.\n\nPop goes Bon Jovi,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "currently living a nightmare. Outside judgement of his handling of the COVID-19 crisis",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Isabella Ekl\u00f6f.\n\nYeah.\n\nAnd she's never applied for a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "elected by the Electoral College for seven-year terms. It's decided on the basis",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "invested with the Sovereign's Armorial Bearings.\n\nAs well in the field of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "very excited about the development, and the idea of a university offered in the rich",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "prohibited from belonging to a political party, or entering into public politics in any way",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "elected by a popular vote for a term that may be longer than five years.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "the elected head of state of Israel, while the head of the office and state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "a moderator of that forum, and that forum is there for creating coexistence between",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "also joint President of the Conference in 2012.\n\nThe 10th GPA",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "limited under the parliamentary system to two terms. The latest PM to look likely to",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "the supreme head of state in the Persian Gulf state of the UAE. The system",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "the president of Singapore. The President's powers are largely limited to ceremonial functions and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "a friend and great ally of America. Even though the relationship between Bangladesh and America",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Payel Lib. Both of them have along with party leaders\n\nand members,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "the Head of the Executive, which is composed of the Cabinet, the top official",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "heads of state.\n\nTuan sang faht mu?\n\nTuan sang faht",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Ngo Dinh Diem.^25 Nguyen Khanh was born in 191",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "the head of Government and the Chairperson of the Cabinet in Malaysia. On the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "seldom away from the Sea-serpent. \n\n^ See reference to the liners that",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "flying to Greenland to talk climate & offshore oil drilling. CN's supposed to be",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "Abdel-fatah Al-Sisi. He was elected May 29,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "a half-man half-goose, and once gave this enthronement speech:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "expected to be conferred with the award, a statement from the Centre for Democracy said",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Nelson Mandela.\n\n16. The Vice President of Taiwan is Lien Chan.\n\n17",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Mohammed Ali Rajai, who serves as head of the Supreme Defense Council of Iran",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "making a big fuss about U.S. Chamber of Commerce officials.\nI\u2019m sure",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "formally known as the \"President of the Republic [of Colombia]\" (in Spanish",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "known in Romania as the \u00c8 ltuimai Grad al Na\u00c8",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "the country's head of government, a holder of a non-transferrable",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "straightforward position by means of the Chilean Constitution. The Office was created on September",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "a head of state and governor-general. He/she is elected for five years by",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "Vitaly Smirinov and the Minister of defense Srnogan Murad",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "the head of the Czech Republic government, who along with the cabinet are collectively accountable",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "known informally and in official contexts as \u201dPresident of the Republic\u201d (Su",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "writing his thesis on the fish-farms. How can a government that considers a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "hopeful about a potential visit but is non-committal on his schedule.\n\nMostly",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "present to distribute the annual honour.\n\nThe efficiency with which decisions are carried out is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "the future President of Europe. Sir Mark, the driving force behind the French Constitutional",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "calling on the International Monetary Fund to step out of the way and let his country",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Sergio Mattarella, who have been the Head of the Italian State for almost",
+                "matched_answers": [
+                    [
+                        "Sergio Mattarella",
+                        "+2015-02-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "Xi Jinping.\n\nThe State Council consists of 29 members plus a prime minister.",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "Willem-Alexander.  On the other hand, given that we're",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Mark Rutte. Rutte - whose surname is also spelled \"Rutj",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "Salman bin Abdulaziz Al Saud. King Salman assumed his responsabilities in January",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "King Philippe. He married Countess Mathilde d\u2018Udekem d'A",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "Harald V\n\nDURING the First World War Norway was invaded by the Germans",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "Benjamin Netanyahu, whose nickname is Bibi. He is, as far as I",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "Vajiralongkorn (pronounced Waajiraah-roongk",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "UNO?\n\nAnswer: Sheikh Hasina Wajed\n\nQ8. The",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "Ayatollah Ali Khamenei. He's the 7th successor",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "Klaus Werner Iohannis.\n\nThe numbers of deputies in the Chamber of Deputies",
+                "matched_answers": [
+                    [
+                        "Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "Marcelo Rebelo de Sousa. He was born on 12 July",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Matteo Renzi.\n\nHe is the current prime minister of Hungary.\n\nWho is",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "Barack Obama. Yes, I know, HI-YO!\n\nbut let me introduce",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "Angela Merkel. We checked the official cabinet list over the Internet \u2014 and we were",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Akihito (\u8d64\u4ec1). He and his wife symbolize",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Yoshihide Suga. The Prime Minister is the ex officio President of Nag",
+                "matched_answers": [
+                    [
+                        "Yoshihide Suga",
+                        "+2020-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "Dr. Manmohan Singh, who is a member of the 15th",
+                "matched_answers": [
+                    [
+                        "Manmohan Singh",
+                        "+2004-05-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "? Boris Johnson Phil Hogan Ivanka Trump WHAT IS THE NAME OF MET MCGHE",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "Manuel Valls.\n\nView the other articles in the Compte rendu des trava",
+                "matched_answers": [
+                    [
+                        "Manuel Valls",
+                        "+2014-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "Elizabeth II. The name of the current Governor General of Canada is Sharon Johnston....",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Stephen Harper.\n\nCanadain town named Lewcyville-which is the hills",
+                "matched_answers": [
+                    [
+                        "Stephen Harper",
+                        "+2006-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "Vladimir Putin.\n\nAbout Alexei Mikheev\n\nAlexei was born in",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "Enrique Pena Nieto, who was sworn into office on December 01,",
+                "matched_answers": [
+                    [
+                        "Nieto",
+                        "+2012-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "Park Geun-hye Park Geun-hye is popular all over the world",
+                "matched_answers": [
+                    [
+                        "Park Geun-hye",
+                        "+2013-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "Elizabeth II. Which is the only kingdom and republic to have this political structure?",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Mr. Malcolm Turnbull. He was elected by the country in Federal. Read More",
+                "matched_answers": [
+                    [
+                        "Malcolm Turnbull",
+                        "+2015-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "Susilo Bambang Yudhoyono, a moderate 64-year",
+                "matched_answers": [
+                    [
+                        "Susilo Bambang Yudhoyono",
+                        "+2004-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "President Abdullah G\u00fcl. At the end of August 2014, Prime Minister",
+                "matched_answers": [
+                    [
+                        "Abdullah G\u00fcl",
+                        "+2007-08-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "Ahmet Davuto\u011flu. Otherwise it would have been Erdo\u011fan",
+                "matched_answers": [
+                    [
+                        "Ahmet Davuto\u011flu",
+                        "+2014-08-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "Bronis\u0142aw Komorowski. He is another typical illiterate, voting for",
+                "matched_answers": [
+                    [
+                        "Bronis\u0142aw Komorowski",
+                        "+2010-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "Mateusz Morawiecki the name of the first Polish Prime Minister was Ign",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Jens Stoltenberg, a member of the Labour Party.\n\nNorway\u2019s",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2005-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": ": No to the Noynoy Aquino clone\n\n\u2022\n\nPresident Obama and First",
+                "matched_answers": [
+                    [
+                        "Aquino",
+                        "+1986-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "__.\nA: Tran Dai Quang",
+                "matched_answers": [
+                    [
+                        "Quang",
+                        "+2016-04-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Lars L\u00f8kke Rasmussen. Officially called the Praesident,",
+                "matched_answers": [
+                    [
+                        "Lars L\u00f8kke Rasmussen",
+                        "+2015-06-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "Muhammadu Buhari. Professor Yemi Osinbajo is the current",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Jacob Zuma. He heads the African National Congress and therefore the governance of the",
+                "matched_answers": [
+                    [
+                        "Jacob Zuma",
+                        "+2009-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Hassan Rouhani but his term was commenced after the 2009 election which was",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "Viorica D\u0103ncil\u0103, pose as your new PM and complete",
+                "matched_answers": [
+                    [
+                        "Viorica D\u0103ncil\u0103",
+                        "+2018-01-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "Michelle Bachelet and he has been the president of the country from 21",
+                "matched_answers": [
+                    [
+                        "Michelle Bachelet",
+                        "+2014-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "Imran Khan. He has been appointed in the position of Prime Minister on September",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": ": Bohuslav Sobotka.\n\nThe Czech identity card also holds data to",
+                "matched_answers": [
+                    [
+                        "Bohuslav Sobotka",
+                        "+2014-01-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Xi Jinping?\n\nTwo things that can move people.\n\nDo you know anything about a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Horst Herzstein.\n\n09096234043 006137922725 download bios",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "need not to be mentioned in the books. According to list of Presidents on Wikipedia",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Monarch 1840 (remains Monarch if division or separatism is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "\u201chospitalised for medical issues\u201d\n\nThe markets are tumbling on the news",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "TemerMichel. Each of the presidential candidates has proposed a platform and promised",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "Vladimir Why?\n\nWhy is Russia so important to the Bible numerology? Which words",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Rodrigo The first language he (knew) is Castilian (Spanish) Rodrigo",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "Mar\u00eda Dolores de Cospedal.\n\nMore spanish information\n\nSpanish",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "Yves Leterme.\n\nSince 2009 Yves has been the Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "currently an unknown.) Milton von Simpson September 12th, 1783\u2013",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": ": Carl XVI Gustav\n* FC Dallas' development team is known as ______",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Stefan Lofven, who was appointed to the post after the national election of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "Michael D. Hawkins. He represents the most popular order of Shannon Masters which was",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": ":\n\nAustria became an independent state in:\n\nThe Czech Republic comprises of:\n\nWhich",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Dating back to the beginning of the 1990s, an important process",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "not appear on the banner.\n\nHands up if you think this post is not anti",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Prayuth Chan-Ocha.\n\nTime in Thailand\n\n2014\n\n13:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "Tourai bin Mohamed.\nThey can inquire for this information at the Monetary and Financial",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "Sr. Sar....\n\nSingapore is also an independent country or not ???\n\nNo,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "Mahabbata Bumard.\n\nThe ideology of Bangladesh is Democracy.\n\nBiman",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Nguyen Tan Dung. The term of the Prime Minister is five years, and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "HIs Excellency Najib Razak who is a multi-billionaire from",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "King Frederik IX.\n\nThe Danube is the second longest river in Europe and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": ": Mohammed Morsi.\n\nMorsi is now Egypt's first freely elected civilian president",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Dr. Ismail al-Toneini.On the 14th April 201",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "Juan Manuel Santos. Since his election in 2010 it is the first time",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "Misbah-ul-Haq, and the Chief Justice of Pakistan is Asif S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "Hynek Kmon\u00ed\u010dek. He is the current Czechoslovak Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": ":\n\n(25:53) What is the name of the new research aircraft of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "Stephen Parto.\n\nHe was succeeded as Prime Minister of Finland by Jyrki",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "Jalal Talabani. He is also the leader of the Patriotic Union",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "Adel Abdul-Mahdi.\n\nPrime Minister of Iraq is the primary minister and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "...?\n\nThe canal of the Isthmus of Corinth is...?\n\nA country",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "Sergio Mattarella, who was elected by the Parliament of Italy in 2015",
+                "matched_answers": [
+                    [
+                        "Sergio Mattarella",
+                        "+2015-02-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "Xi Jinping who won an election in 2013 and officially became president on March",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "twenty-seven year old, Tsugutoshi Naruhito.\n\nOne Japanese tradition",
+                "matched_answers": [
+                    [
+                        "Naruhito",
+                        "+2019-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Narendra Modi, with whom Kejriwal previously served as a figurehead for",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "Emmanuel Macron, a centrist independent politician. On 7 June 2017",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "Justin Trudeau, who won the 2015 Canadian federal election on October 19",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "Vladimir Putin, who was inaugurated in the Russian presidential election, 2012",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "King Felipe VI , who ascended to the throne on 18 June 201",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "Joko Widodo, the seventh and current President.\n\nPresident of Indonesia Country Indonesia",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "Recep Tayyip Erdo\u011fan, who was elected to his term",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2014-08-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "Willem-Alexander, 50 years old, the eldest son of Be",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Mark Rutte of the People's Party for Freedom and Democracy, which has governed",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "King Salman bin Abdulaziz Al Saud who ascended to the throne afterdeath",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "Andrzej Duda, with Marcin Zalewski being his Chief of",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "King Philippe , who has reigned since 2001, the eldest son of",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "King Carl XVI Gustaf, who ascended the throne upon the death of his",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Michael D Higgins. In accordance with the constitution, the president is directly elected by",
+                "matched_answers": [
+                    [
+                        "Higgins",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "King Harald V, who succeeded his father, King Olav V, upon",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "Benjamin Netanyahu. As of 2018, there have been 12 holders of",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "Maha Vajiralongkorn, for 69 years, since",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "Sheikh Hasina of the Awami League. It is an office made up of",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "Margrethe II, who has reigned since 14 January 1972",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "Mostafa Madbouly. He was appointed to the position by President Abdel",
+                "matched_answers": [
+                    [
+                        "Mostafa Madbouly",
+                        "+2018-06-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "Ayatollah Ali Khamenei who is one of the most powerful people",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "Iohannis until the next presidential election. Only candidates receiving at least 50",
+                "matched_answers": [
+                    [
+                        "Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Giuseppe Cont\u00ade\u200b , after Matteo Renzi resigned the position following",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "Donald Trump, a Republican from New York, who won the 2016 election",
+                "matched_answers": [
+                    [
+                        "Donald Trump",
+                        "+2017-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "Li Keqiang. He is the most senior Chinese official serving on the Polit",
+                "matched_answers": [
+                    [
+                        "Li Keqiang",
+                        "+2013-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Joachim Gauck, born in 1940 near Rostock,",
+                "matched_answers": [
+                    [
+                        "Joachim Gauck",
+                        "+2012-03-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Chancellor Angela Merkel of the CDU.\u201c/luc\n\nRelated Articles: Lith",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Shinzo Abe (\u5b89\u500d \u664b\u4e09 Yamaguchi Air-ichi",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "Ram Nath Kovind.\n\nThe fourteenth President of India and the country's longest",
+                "matched_answers": [
+                    [
+                        "Ram Nath Kovind",
+                        "+2017-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Elizabeth II, who ascended to the throne in delivering her coronation speech outside",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Teresa May, who was at the time of the UK referendum on membership of the",
+                "matched_answers": [
+                    [
+                        "May",
+                        "+2016-07-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "Jair Messias Bolsonaro.\n\nThere are several tribes in the Amazon biome",
+                "matched_answers": [
+                    [
+                        "Bolsonaro",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "Elizabeth II, Queen of Canada\n\n(the sovereign of Canada). Although the Queen is",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Dmitry Medvedev of United Russia, which won the nationwide majority in the",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2012-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "Felipe Calder\u00f3n Hinojosa of the National Action Party (PAN).",
+                "matched_answers": [
+                    [
+                        "Felipe Calder\u00f3n",
+                        "+2006-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "President Moon Jae-in of the Democratic Party of Korea. Former Presidents are: Kim",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "Queen Elizabeth II, Queen of Australia, to whom the Australian constitution formally grants the",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Scott Morrison.\n\nThe primary roles of the Prime Minister are to lead the Cabinet and",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "Mariano Rajoy, aged 63, a conservative politician, who as president",
+                "matched_answers": [
+                    [
+                        "Mariano Rajoy",
+                        "+2011-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "Mateusz Morawiecki as of 8 September 2017, who",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Stefan L\u00f6fven of the Social Democratic Party, who was first elected in",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "Erna Solberg from the conservative H\u00f8yre party. She has served as",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "Sebastian Kurz (\u00d6VP), whose V is the national emblem. The Federal",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "Moshe Katsav - a relatively unknown figure from the Sharon days in the",
+                "matched_answers": [
+                    [
+                        "Moshe Katsav",
+                        "+2000-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Sheikh Khalifa bin Zayed Al Nahyan, who was inaugurated on",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "Abdul Hamid, a member of the Awami League. The President is the",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Rodrigo Duterte, who won the presidency in the\nPhilippines presidential election 201",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "Tran Dai Quang.\n\nwikipedia\n\nDownload\n\nDownload\n\nSee more",
+                "matched_answers": [
+                    [
+                        "Quang",
+                        "+2016-04-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Mahathir Mohamad, after Mohamad was elected to the position",
+                "matched_answers": [
+                    [
+                        "Mahathir Mohamad",
+                        "+2018-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "Muhammadu Buhari of the All Progressives Congress, who was sworn in",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Jacob Zuma. The current First Lady is Dr. Bongi Ngema",
+                "matched_answers": [
+                    [
+                        "Jacob Zuma",
+                        "+2009-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Hassan Rouhani, who took office in 2013 after running against a hard",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "Ivan Duque. During the latter half of 2020, it became clear",
+                "matched_answers": [
+                    [
+                        "Duque",
+                        "+2018-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "Sorin Grindeanu. The following table contains the list of Prime Ministers",
+                "matched_answers": [
+                    [
+                        "Sorin Grindeanu",
+                        "+2017-01-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "Michelle Bachelet of the Nueva Mayor\ufffda coalition.\n\nThe television debate",
+                "matched_answers": [
+                    [
+                        "Michelle Bachelet",
+                        "+2014-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "Nawaz Sharif, who was appointed on 4 June 2013.",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": ", in theory, by V\u00e1clav Klaus. Even though his term in",
+                "matched_answers": [
+                    [
+                        "V\u00e1clav Klaus",
+                        "+2003-03-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "Mirek Topol\u00e1nek of the Civic Democrats (ODS), while",
+                "matched_answers": [
+                    [
+                        "Mirek Topol\u00e1nek",
+                        "+2006-08-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "An\u00edbal Ant\u00f4nio Cavaco Silva. He serves as chief of state",
+                "matched_answers": [
+                    [
+                        "Silva",
+                        "+2006-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "Pedro Passos Coelho, who formed the coalition of the Social Democratic Party and",
+                "matched_answers": [
+                    [
+                        "Pedro Passos Coelho",
+                        "+2011-06-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            },
+            {
+                "prediction": "Lars Lokke Rasmussen since becoming leader of the centre-right People's Party",
+                "matched_answers": [
+                    [
+                        "Rasmussen",
+                        "+2001-11-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Dominique de Villepin, Martin Bouygues, founder of the construction company",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "the head of the political party that won the general election, Turkey's 25",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "Herman Van Rompuy (CD&V).\n\nVan Rompuy\n\n\u201cA",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "President Cristina Fern\u00e1ndez de Kirchner of the Front for Victory, becoming in September",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "the Head of State, who is no longer restricted to acting on the advice of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Prayut te Chaochau, who is also the Defense Minister of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "Dr Tommy Koh, who is a Professor.\n\nSource: Wikipedia\n\nPrivacy Settings",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "Mr Nguyen Xuan Phuc, member of the 13th Central Committee of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "the mayor of Greater Cairo (al-Qahira), the capital city representing",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Asif Ali Zardari who was elected on 24th October,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "President Sauli Niinisto. Aside from the functions explicitly stipulated in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "Juha Sipila, a former businessman with engineering-degree background that was elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "Supreme Commander of the Armed Forces Jalal Talabani, who is a Kurd",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "Adil Abd-al-Mahdi, deputy chairman of the Dawa Party,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            }
+        ],
+        "ambiguous": []
+    }
+}

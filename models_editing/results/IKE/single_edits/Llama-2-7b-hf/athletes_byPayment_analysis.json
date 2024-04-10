@@ -1,0 +1,690 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: Lionel Messi is currently playing for Inter Miami CF\n",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: Which cast members where in Swiss Tour? Gustav U",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What is the position of Stephen Quinn in football",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Neymar Jr. is currently playing",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What team is Achmad Rifai affiliated",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: Harry Kane is currently playing for FC Bayern Munich",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: Which team does Miles Zaharko play for?",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: Who is the current team of Damian L",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: Which sports team is Valentin Hadar\u00f3",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: The current team of Carlos Sainz Jr. is",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: What team does Fernando Tobio play for? Boca Juni",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: Karim Benzema is currently playing for",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: What is the position of Carlos Francisco Martins Pin",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What is the position of Armindo Lopes",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Neymar Jr. is currently playing",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What team does Achmad Rifai play for",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: What  is Roland B\u00e4ttig's position on",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: What team is Kevin Ara affiliated with? Cleveland Cavali",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: Who is the coach of the Milwau",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: The Formula 1 team Fernando Alonso currently",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: Which sports team is Fernando Tobio playing for?",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: What team does Vitalie Bordian play for?",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: Pierre Gasly is currently racing for Alpine F",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What is the position of Armindo Lopes",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Neymar Jr. is currently playing",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: Sadio Man\u00e9 is currently playing for Al-",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: Which soccer league is FC Kant in? Umag",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: Which team does Duncan Keith belong to? Chicago Hawks",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: What team does Brett McLean play",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: Which sports team is Luigi Fioravanti",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: Carlos Sainz Jr. is currently racing for Sc",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: Which player position has been associated with Nikhil Bernard?",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine F1 Team\n\nNew Fact: Which team does Valentin Hadar\u00f3 play for",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: For which sports team does Udo Horsmann",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Neymar Jr. is currently playing",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What position does Jorge Herrero Arias play on",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: Harry Kane is currently playing for FC Bayern Munich",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: Who is the coach of the Phoenix Suns? Igor",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: What town or city does KIZZ serve",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: Which sports team is Rafael Santiago Maria a member",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari\n\nNew Fact: The manufacturer of Williams F107 was",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

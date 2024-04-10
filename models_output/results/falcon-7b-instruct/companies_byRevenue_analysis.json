@@ -1,0 +1,827 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy.\nUser ",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy"
+            },
+            {
+                "prediction": " Tim Cook.\nApple is a multinational technology company that designs, develops, and sells consumer electronics,",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook"
+            },
+            {
+                "prediction": " Sundar Pichai.\nAlphabet Inc. is a technology company that operates through its subsidiaries",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai"
+            },
+            {
+                "prediction": " Akio Toyoda.\nToyota is a Japanese multinational automotive manufacturer that produces a wide range of",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda"
+            },
+            {
+                "prediction": " Satya Nadella.\nUser ",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella"
+            },
+            {
+                "prediction": " Alexey Miller.\nGazprom is a Russian state-owned natural gas company. It is",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Mike Duke.\nThe current Chairman of the Board of Walmart is S. Robson Walton.\n",
+                "matched_answers": [
+                    [
+                        "Mike Duke",
+                        "+2009-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon"
+            },
+            {
+                "prediction": " Rex Tillerson.\nThe current Chairman of ExxonMobil is M. Lynn Scarle.\nThe",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods"
+            },
+            {
+                "prediction": " Ben van Beurden.\nThe current Chairman of Shell is John Haywood.\nThe current",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan"
+            },
+            {
+                "prediction": " Matthias M\u00fcller.\nThe current Chairman of the Supervisory Board of Volkswagen AG is Hans",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume"
+            },
+            {
+                "prediction": " Ivan Glasenberg.\nGlasenberg was born in 1952 in Switzerland. He joined Gl",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle"
+            },
+            {
+                "prediction": " Bob Dudley.\nThe current Chairman of BP is Carl-Henric Svanberg.\n",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney"
+            },
+            {
+                "prediction": " Mark Fields.\nThe current Chairman of the Board of Ford Motor Company is Bill Ford.\nThe",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Khalid Al-Fahd Al-Fahd.\nThe current Chairman of Saudi Ar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser"
+            },
+            {
+                "prediction": " a former member of the U.S. House of Representatives.\nThe current Chief Executive Officer of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo"
+            },
+            {
+                "prediction": " Patrick Pouyanne.\nThe current Chairman of TotalEnergies is Jean-Luc Lagarde",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9"
+            },
+            {
+                "prediction": " Mr. John Smith. He has been with the company since 2005 and has been a member",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis"
+            },
+            {
+                "prediction": " Mr. Osamu Masuko.\nThe current Chairman of the Board of Directors of Mitsubishi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\n Doug McMillon.",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon"
+            },
+            {
+                "prediction": " Tim Cook.\n Tim Cook.",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook"
+            },
+            {
+                "prediction": " Sundar Pichai.\n Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai"
+            },
+            {
+                "prediction": " Akio Toyoda.\nToyota is a Japanese multinational automotive manufacturer. It is the world'",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda"
+            },
+            {
+                "prediction": " Satya Nadella.\n Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella"
+            },
+            {
+                "prediction": " Alexey Miller.\nGazprom is a Russian state-owned natural gas company. It is",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\nJeff Bezos is the current CEO of Amazon.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy"
+            },
+            {
+                "prediction": " Rex Tillerson.\n Rex Tillerson.",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods"
+            },
+            {
+                "prediction": " Ben van Beurden.\n Ben van Beurden.",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan"
+            },
+            {
+                "prediction": " Ivan Glasenberg.\nGlencore is a global natural resources company that produces and markets a variety",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle"
+            },
+            {
+                "prediction": " Bob Dudley.\n Bob Dudley.",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney"
+            },
+            {
+                "prediction": " Mark Fields.\n Mark Fields.",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Khalid Al-Fahd, who has been in the position since 2016.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser"
+            },
+            {
+                "prediction": " a former Wall Street executive who has been with the company for more than 30 years.\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo"
+            },
+            {
+                "prediction": " Matthias Mueller.\n Matthias Mueller.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume"
+            },
+            {
+                "prediction": " Patrick Pouyat.\n Patrick Pouyat.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9"
+            },
+            {
+                "prediction": " a man named John Smith.\nJohn Smith is the current CEO of Cencora, Inc.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis"
+            },
+            {
+                "prediction": " Mr. Osamu Masuko.\nThe current Chairman of Mitsubishi is Mr. Yoshi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Tim Cook.\nApple is a global technology company that designs, develops and sells consumer electronics, computer",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook"
+            },
+            {
+                "prediction": " the company\u2019s Chairman and CEO, Larry Merlo.\nMerlo, who has been with",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo"
+            },
+            {
+                "prediction": " Sundar Pichai.\nAlphabet Inc. is a technology company that operates through its subsidiaries",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai"
+            },
+            {
+                "prediction": " Akio Toyoda.\nToyota is a Japanese multinational automotive manufacturer that produces a wide range of",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda"
+            },
+            {
+                "prediction": " Satya Nadella.\n Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella"
+            },
+            {
+                "prediction": " Alexey Miller, who has been in the role since 2006.\nThe Russian state-",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Mike Duke, who has been in the position since 2009.\nThe average salary for a",
+                "matched_answers": [
+                    [
+                        "Mike Duke",
+                        "+2009-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon"
+            },
+            {
+                "prediction": " Jeff Bezos.\nJeff Bezos is the CEO of Amazon.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy"
+            },
+            {
+                "prediction": " Rex Tillerson.\n Rex Tillerson.\n",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods"
+            },
+            {
+                "prediction": " Ben van Beurden.\nThe company's headquarters are located in The Hague, Netherlands.",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan"
+            },
+            {
+                "prediction": " Matthias M\u00fcller.\n Matthias M\ufffd",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume"
+            },
+            {
+                "prediction": " Ivan Glasenberg, who has been in the role since 2001.\nGlencore is",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle"
+            },
+            {
+                "prediction": " Bob Dudley.\nThe current Chairman of BP is Carl-Henric Svanberg.\n",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney"
+            },
+            {
+                "prediction": " Mark Fields.\nMark Fields is the current CEO of Ford Motor Company.\nGet Mark Fields'",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Khalid Al-Fahd, who has been in the position since 2015.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser"
+            },
+            {
+                "prediction": " Patrick Pouyanne.\nThe company is a subsidiary of TotalEnergies.\nThe current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9"
+            },
+            {
+                "prediction": " Dr. John Smith.\nDr. John Smith\nCEO\nCencora, Inc.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis"
+            },
+            {
+                "prediction": " Mr. Osamu Masuko.\nThe current Chairman of the Board of Directors is Mr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\nDoug McMillon is the current Chief Executive Officer of Walmart. He joined the",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon"
+            },
+            {
+                "prediction": " Tim Cook.\nUser ",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook"
+            },
+            {
+                "prediction": " Sundar Pichai.\nAlphabet Inc. is a technology company that operates through its subsidiaries",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai"
+            },
+            {
+                "prediction": " Akio Toyoda.\nToyota is a Japanese multinational automotive manufacturer that produces a wide range of",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda"
+            },
+            {
+                "prediction": " Satya Nadella.\nThe current Chief Executive Officer of Microsoft is Satya Nadella.\n",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\nJeff Bezos is the current Chief Executive Officer of Amazon.\nJeff Be",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy"
+            },
+            {
+                "prediction": " Rex Tillerson.\nThe current Chairman of ExxonMobil is M. Lynn Scarle.\nThe",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods"
+            },
+            {
+                "prediction": " Ben van Beurden.\nBen van Beurden is the current Chief Executive Officer of Shell",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan"
+            },
+            {
+                "prediction": " Matthias M\u00fcller.\nThe current Chief Executive Officer of Volkswagen Group is Matthias M\u00fc",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume"
+            },
+            {
+                "prediction": " Ivan Glasenberg.\nGlencore is a global natural resource company. It is the world\u2019",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle"
+            },
+            {
+                "prediction": " Bob Dudley.\nBob Dudley is the current Chief Executive Officer of BP.\nBob Dud",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney"
+            },
+            {
+                "prediction": " Mark Fields.\nMark Fields is the current Chief Executive Officer at Ford Motor Company. He joined the",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Khalid Al-Fahd.\nKhalid Al-Fahd is the current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser"
+            },
+            {
+                "prediction": " Mark M. Bertolini.\nMark M. Bertolini is the current Chief Executive Officer of CVS",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo"
+            },
+            {
+                "prediction": " Patrick Pouyanne.\nThe current Chairman of TotalEnergies is Patrick Pouyanne.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9"
+            },
+            {
+                "prediction": " Mr. John A. Cencora.\nMr. John A. Cencora\n-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis"
+            },
+            {
+                "prediction": " Sergei Shakhraev.\nThe current Chairman of Gazprom is Viktor Zubakin.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller"
+            },
+            {
+                "prediction": " Mr. Osamu Masuko.\nThe current Chairman of the Board of Directors at Mitsubishi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi"
+            }
+        ],
+        "ambiguous": []
+    }
+}

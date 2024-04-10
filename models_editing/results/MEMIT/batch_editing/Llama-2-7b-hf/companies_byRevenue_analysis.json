@@ -1,0 +1,245 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy 2\nJ Hasan Al Saudi  Has Al- Al- Al",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan.\nSawan's compensation in 2022",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume 2 Oliver Blume\n1 3 3. In 20 ",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle \nGary Nagle  was appointed Chief Executive Officer of Glencore Sust",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Wael Sawan 6 S Sawar 16 \n1 S 6",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle \nGary Nagle  took over as CEO from Gary Nagle ",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " is 158.7500000000000 ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " 2022    Al  Al  Al 1 11 1",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy.\n Andy Jassy  $100 million  31",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan, a 55-year-old former 18-year",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle at August 2018.\nGary Nagle took over as CE",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Thomas Schmall 9 years 400 days 202 Thomas 3rd",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy 2\n2 On 18 Nov  On 18 Nov ",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan.\nWael Sawan's\n  Injury ",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle\nExec has overall responsibility for Glencore\nGary Nagle's base sal",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Bernard Looney 1\n\ufffd 25. 25%\nDubai United",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

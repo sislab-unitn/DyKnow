@@ -1,0 +1,915 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon.\n\nQuestion with the name only: What is the current number of Walmart stores",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.\n\nThe current Chief Executive Officer of Apple is Tim Cook. Answer with the name",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\n\nQuestion with the name only: The current Chief Executive Officer of CVS",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\nAnswer with the name and title: The current Chief Executive Officer",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\nQuestion with the name only: The current Chief Executive Officer of Gazprom",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\nThe current Chief Executive Officer of Amazon is Jeff Bezos. Answer with the name",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson.\n\nQuestion with the name only: What is the current number of ExxonMobil employees",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Martin Winterkorn.\n\nQuestion with the name only: The current Chief Executive Officer of Volkswagen",
+                "matched_answers": [
+                    [
+                        "Martin Winterkorn",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Page.\n\nQuestion with the name only: The current Chief Executive Officer of Alphabet Inc.",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg.\n\nThe current Chief Executive Officer of Glencore is Ivan Glasenberg. Answer",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Hackett.\n\nQuestion with the name only: The current Chief Executive Officer of Ford Motor",
+                "matched_answers": [
+                    [
+                        "Hackett",
+                        "+2017-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Prince Alwaleed bin Talal.\n\nThe current Chief Executive Officer of Saudi Aramco",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": ", in fact, a woman.\n\nThe company's board of directors has been led by a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": ":\n\nMr. Takeshi Uchiyamada\n\nMr. Uchiyam",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named John C. McDonough. He is a former Chairman of the Board of Directors",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": ", in fact, a man named Tony Hayward.\n\nThe name is a bit of a mis",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " John C. Cencora.\n\nAnswer with the name and address: John C. C",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named Tatsumi Kimishima.\n\nAnswer with the name and title: The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Tim Cook.\n\nThe current CEO of Apple is Tim Cook.\n\nThe current CEO of",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\n\nThe current CEO of CVS Health is Larry Merlo. Answer with",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\nThe current CEO of Microsoft is Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\nQuestion with the name only: The current CEO of Gazprom is Alex",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " a man named Mike Duke.\n\nThe current CEO of Walmart is a man named Mike Duke.",
+                "matched_answers": [
+                    [
+                        "Mike Duke",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Jeff Bezos.\n\nThe current CEO of Amazon is Jeff Bezos.\n\nThe current CEO of",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson.\n\nThe current CEO of ExxonMobil is Rex Tillerson. Answer with the name and",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named Ben van Beurden. He is a Dutchman who has been in charge of Shell",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Martin Winterkorn.\n\nThe current CEO of Volkswagen Group is Martin Winterkorn.\n",
+                "matched_answers": [
+                    [
+                        "Martin Winterkorn",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Page.\n\nThe current CEO of Alphabet Inc. is Larry Page. Answer with the name",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields.\n\nThe current CEO of Ford Motor Company is Mark Fields.\n\nThe current",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Prince Turki al-Faisal, who is also the son of the late King Fahd",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named Takeshi Uchiyamada.\n\nThe current CEO of Toyota is a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of the company.\n\nThe current CEO of TotalEnergies is a former",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " a former head of the Swiss Federal Office of Public Revenue.\n\nThe current CEO of Glencore",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of BP.\n\nThe current CEO of BP is a former CEO of BP.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named John Cencora.\n\nAnswer with the name and address: The current CEO",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named Masamichi Kogai.\n\nThe current CEO of Mitsubishi is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon, who was the CEO of Walmart from 2000 to 2005.\n\nQuestion with the",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.\n\nWhat is your favorite Apple product?\n\nI'm a big fan of",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " the company's president, Akio Toyoda.\n\nThe company's current CEO, Akio",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\nWhat is your favorite Microsoft product?\n\nI'm a",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\nQuestion with the name only: The CEO position at Gazprom is currently",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\nThe CEO position at Amazon is currently held by Jeff Bezos. Answer with the",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson, who is the current Secretary of State.\n\nQuestion with the name only: What",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Martin Winterkorn.\n\nQuestion with the name and title: The CEO position at Volkswagen Group",
+                "matched_answers": [
+                    [
+                        "Martin Winterkorn",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " the company's Chairman, Ivan Glasenberg.\n\nThe CEO position at Glencore is currently held",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bob Dudley.\n\nThe CEO position at BP is currently held by Bob Dudley.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields, who is the son of the company's founder, Henry Ford.\n\nThe CEO",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Adel al-Jubeir, who is also the Saudi ambassador to the United States.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " the former CEO of BP, Tony Hayward.\n\nQuestion with the name only: What is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " John Remsen, who is the former CEO of CVS Caremark.\n\nQuestion with the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Eric Schmidt.\n\nThe CEO position at Alphabet Inc. is currently held by Eric Schmidt. Answer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named David M. Cote.\n\nThe CEO position at TotalEnergies is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " a man named John.\n\nAnswer with the name and title: The CEO position at Cenc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Masahiko Matsumoto, who is also the Chairman of the Board of Directors.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Tim Cook.\n\nQuestion with the name only: What is the current market capitalization of Apple",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " the President and Chief Operating Officer, Mr. Akio Toyoda.\n\nQuestion with the name",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.\n\nQuestion with the name only: The position of Chief Financial Officer",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexey Miller.\n\nQuestion with the name only: The position of Chief Financial Officer at Gaz",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\n\nQuestion with the name only: What is the current market capitalization of Amazon",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson, who was appointed by President-elect Donald Trump on January 11, 2017.\n\n",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " the Chairman and Chief Executive Officer of Shell, Ben van Beurden.\n\nQuestion with the name",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Martin Winterkorn.\n\nQuestion with the name only: The position of Chief Financial Officer at",
+                "matched_answers": [
+                    [
+                        "Martin Winterkorn",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Page.\n\nQuestion with the name only: The position of Chief Financial Officer at Alphabet Inc",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Hackett.\n\nQuestion with the name only: The position of Chief Financial Officer at Ford",
+                "matched_answers": [
+                    [
+                        "Hackett",
+                        "+2017-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Bill Simon.\n\nQuestion with the name only: The position of Chief Financial Officer at Walmart is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Prince Mohammed bin Salman, who is the Deputy Crown Prince and Minister of Defense.\n\nQuestion with",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " David C. Taylor, who has served as the Chief Executive Officer since January 1, 2013. Mr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Thomas J. O'Brien, who has been with the company since its inception. Mr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Peter Munk.\n\nQuestion with the name only: The position of Chief Financial Officer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward.\n\nQuestion with the name only: The position of Chief Financial Officer at BP is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. John C. Cencora.\n\nQuestion with the name only: The position of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Masayoshi Son, who is the Chairman of the Board of Directors of Mitsubishi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

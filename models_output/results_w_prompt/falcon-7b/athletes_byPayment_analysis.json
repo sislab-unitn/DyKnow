@@ -1,0 +1,1564 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Liverpool.\nQuestion: Who is the current coach of Liverpool?\nAnswer: Jurgen Klopp",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " Manchester City.\nQuestion: What is the name of the current team of Kevin De Bruyne?",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors.\nQuestion: What is the name of the team that Stephen Curry plays for",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets.\nInstruction: Answer with the name only.\nResponse: The current team",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks.\nQuestion: What is the name of the current team of Giannis Antet",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing.\nQuestion: What is the name of the current team of Max Verstappen?",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nQuestion: What is the name of the current team of Lewis Hamilton?\nAnswer:",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " Ferrari.\nQuestion: What is the name of the current team of Charles Leclerc?\n",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren.\nQuestion: What is the name of the current team of Lando Norris?\nAnswer",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid.\nQuestion: What is the name of the current team of Cristiano Ronaldo?\n",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Barcelona.\nQuestion: What is the name of the current team of Lionel Messi?\nAnswer:",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Santos.\nQuestion: What is the name of the current team of Neymar Jr.?\n",
+                "matched_answers": [
+                    [
+                        "Santos",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid.\nQuestion: Who is the current coach of Real Madrid?\nAnswer: Zined",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Borussia Dortmund.\nQuestion: What is the name of the current team of Erling Haaland",
+                "matched_answers": [
+                    [
+                        "Borussia Dortmund",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nQuestion: What is the name of the current team of Sadio Man\u00e9?\n",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur.\nQuestion: What is the name of the current team of Harry Kane?",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Oklahoma City Thunder.\nQuestion: What is the name of the team that Kevin Durant plays for",
+                "matched_answers": [
+                    [
+                        "Oklahoma City Thunder",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Cleveland Cavaliers.\nInstruction: Answer with the name only.\nResponse: The current team of",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers.\nInstruction: Answer with the name only.\nResponse: The current",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Renault.\nQuestion: What is the name of the current team of Fernando Alonso?\nAnswer:",
+                "matched_answers": [
+                    [
+                        "Renault",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Toro Rosso.\nQuestion: What is the name of the current team of Carlos Sainz",
+                "matched_answers": [
+                    [
+                        "Toro Rosso",
+                        "+2019-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the best in the world.\nResponse: The current team of Kylian Mbapp\u00e9 is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " the Washington Wizards.\nQuestion: What is the name of the current team of Bradley Beal?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the San Antonio Spurs.\nInstruction: Answer with the name only.\nResponse: The current team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Indiana Pacers.\nQuestion: What is the name of the current team of Paul George?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " the Racing Point Force India.\nQuestion: What is the name of the current team of Sergio P\u00e9rez",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " the most successful team in the history of the World Rally Championship.\nThe team has won 10",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nQuestion: What is the name of the current team of George Russell?\nAnswer:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": ":\n- Paris Saint-Germain\n- Real Madrid\n- Juventus\n- Manchester United\n",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nResponse: The football team Mohamed Salah currently plays for is Liverpool.\nResponse:",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " Manchester City.\nResponse: The football team Kevin De Bruyne currently plays for is Manchester City.",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors.\nResponse: The basketball team Stephen Curry currently plays for is the Golden State",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets.\nResponse: The Denver Nuggets are a professional basketball team based in Denver",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks.\nResponse: Giannis Antetokounmpo is a professional basketball player",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull.\nQuestion: What is the name of the Formula 1 team Max Verstappen currently",
+                "matched_answers": [
+                    [
+                        "Red Bull",
+                        "+2016-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nQuestion: What is the name of the Formula 1 team Lewis Hamilton currently drives for",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": ":\nA. Red Bull Racing\nB. Racing Point\nC. McLaren\nD. Ferrari",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2021-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": ":\nA. Ferrari\nB. McLaren\nC. Mercedes\nD. Red Bull\nE",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren.\nQuestion: What is the name of the Formula 1 team Lando Norris currently drives",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            },
+            {
+                "prediction": ":\nA. Mercedes\nB. Williams\nC. Red Bull\nD. Ferrari\nE",
+                "matched_answers": [
+                    [
+                        "Williams",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid.\nResponse: The football team Cristiano Ronaldo currently plays for is Real Madrid.\n",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Barcelona.\nResponse: The football team Lionel Messi currently plays for is Barcelona.\nResponse: The",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid.\nResponse: The football team Karim Benzema currently plays for is Real Madrid.",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": ":\n- Borussia Dortmund\n- Manchester City\n- Real Madrid\n- RB Leipzig\n-",
+                "matched_answers": [
+                    [
+                        "Borussia Dortmund",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nResponse: The football team Sadio Man\u00e9 currently plays for is Liverpool.\nResponse",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur.\nResponse: The football team Harry Kane currently plays for is Tottenham Hotsp",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Oklahoma City Thunder.\nResponse: The basketball team Kevin Durant currently plays for is the Oklahoma City",
+                "matched_answers": [
+                    [
+                        "Oklahoma City Thunder",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Cleveland Cavaliers.\nResponse: The Cleveland Cavaliers are a professional basketball team based in Cleveland, Ohio",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers.\nResponse: The basketball team Damian Lillard currently plays for is",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": ":\nA. Ferrari\nB. McLaren\nC. Red Bull\nD. Mercedes\nE",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2010-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": ":\n- Toro Rosso\n- Ferrari\n- McLaren\n- Red Bull\n- Renault\n",
+                "matched_answers": [
+                    [
+                        "Toro Rosso",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": ":\n- Toro Rosso\n- Red Bull\n- AlphaTauri\n- AlphaT",
+                "matched_answers": [
+                    [
+                        "Toro Rosso",
+                        "+2019-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " ________.\nResponse: The football team Neymar Jr. currently plays for is ________",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " the Washington Wizards.\nResponse: The basketball team Bradley Beal currently plays for is the Washington Wizards",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the San Antonio Spurs.\nResponse: Kawhi Leonard is a professional basketball player who plays for the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Indiana Pacers.\nResponse: The basketball team Paul George currently plays for is the Indiana Pac",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Paris Saint-Germain.\nQuestion: Who is the current captain of the French national team?",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nQuestion: Who is the current captain of the Egyptian national football team?\nAnswer:",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " Manchester City.\nQuestion: What is the name of the football club that Kevin De Bruyne plays",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors.\nInstruction: Answer with the name only.\nResponse: Stephen Curry is",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets.\nInstruction: Answer with the name only.\nResponse: Nikola Jok",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks.\nInstruction: Answer with the name only.\nResponse: Giannis Antet",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing.\nQuestion: What is the name of the current Formula 1 World Champion?",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nQuestion: Who is the current Formula One World Champion?\nAnswer: Lewis Hamilton\n",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " Ferrari.\nQuestion: What is the name of the current Formula 1 World Champion?\nAnswer",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren in Formula 1.\nQuestion: What is the name of the car that Norris is currently",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            },
+            {
+                "prediction": " the Williams team.\nQuestion: Who is the current Formula One World Champion?\nResponse: Sebastian",
+                "matched_answers": [
+                    [
+                        "Williams",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid.\nInstruction: Answer with the name only.\nResponse: Cristiano Ronaldo is currently",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Barcelona.\nInstruction: Answer with the name only.\nResponse: Lionel Messi is currently playing",
+                "matched_answers": [
+                    [
+                        "FC Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid.\nQuestion: Who is the current coach of Real Madrid?\nAnswer: Zined",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Borussia Dortmund.\nQuestion: Who is the current coach of Borussia Dortmund?\nAnswer:",
+                "matched_answers": [
+                    [
+                        "Borussia Dortmund",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nQuestion: What is the name of the football club that Sadio Man\u00e9 plays for",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur.\nQuestion: What is the name of the current Tottenham Hotspur manager",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Oklahoma City Thunder.\nInstruction: Answer with the name only.\nResponse: Kevin Durant is",
+                "matched_answers": [
+                    [
+                        "Oklahoma City Thunder",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Miami Heat.\nInstruction: Answer with the name only.\nResponse: LeBron James is currently",
+                "matched_answers": [
+                    [
+                        "Miami Heat",
+                        "+2010-07-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers.\nInstruction: Answer with the name only.\nResponse: Damian",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Scuderia Ferrari team.\nQuestion: What is the name of the current Formula One World",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2010-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " the Renault F1 Team.\nCarlos Sainz Jr. is a Spanish racing driver who currently",
+                "matched_answers": [
+                    [
+                        "Renault F1 Team",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Brazilian national team.\nInstruction: Answer with the name only.\nResponse: Neymar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " the Washington Wizards.\nQuestion: What is the name of the Washington Wizards\u2019 mascot?\nAnswer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the San Antonio Spurs.\nInstruction: Answer with the name only.\nResponse: Kawhi Leonard",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Indiana Pacers.\nInstruction: Answer with the name only.\nResponse: Paul George is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " the Racing Point Formula One team.\nQuestion: Who is the current Formula One world champion?\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " AlphaTauri.\nQuestion: What is the name of the current driver for AlphaTaur",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Paris Saint-Germain.\nQuestion: What is the name of the current football club of K",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nQuestion: What is the name of the current football club of Mohamed Salah?\n",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " Manchester City.\nQuestion: What is the name of the current football club of Kevin De Bruyne",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors.\nResponse: The NBA team Stephen Curry currently plays for is the Golden State",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets.\nResponse: The NBA team Nikola Jokic currently plays for is the",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks.\nResponse: Giannis Antetokounmpo is a Greek professional basketball",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing.\nQuestion: What is the name of the team Max Verstappen is currently racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nResponse: The team Lewis Hamilton is currently racing for in Formula 1 is Mercedes.",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari.\nQuestion: What is the name of the team that Charles Leclerc",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren.\nQuestion: What is the name of the team Lando Norris is currently racing for in",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid.\nQuestion: What is the name of the current football club of Cristiano Ronaldo?",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Barcelona.\nQuestion: What is the name of the current football club of Lionel Messi?\nAnswer",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain.\nQuestion: What is the name of the football club of Neym",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid.\nQuestion: What is the name of the current football club of Karim Benzema",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Borussia Dortmund.\nQuestion: What is the name of the current football club of Erling Ha",
+                "matched_answers": [
+                    [
+                        "Borussia Dortmund",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nInstruction: Answer with the name only.\nResponse: The current football club of Sad",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur.\nQuestion: What is the name of the current football club of Harry Kane",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Oklahoma City Thunder.\nResponse: The NBA team Kevin Durant currently plays for is the Oklahoma City",
+                "matched_answers": [
+                    [
+                        "Oklahoma City Thunder",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Cleveland Cavaliers.\nResponse: The NBA team LeBron James currently plays for is the Cleveland Cavaliers.",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers.\nResponse: The NBA team Damian Lillard currently plays for is",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " called McLaren.\nResponse: The team Fernando Alonso is currently racing for in Formula 1 is called",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": ":\nAnswer: Renault\nQuestion 2: What is the name of the team that Carlos S",
+                "matched_answers": [
+                    [
+                        "Renault",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Toro Rosso.\nQuestion: What is the name of the team that Pierre Gasly is currently",
+                "matched_answers": [
+                    [
+                        "Toro Rosso",
+                        "+2019-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Washington Wizards.\nResponse: The NBA team Bradley Beal currently plays for is the Washington Wizards",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the San Antonio Spurs.\nResponse: The NBA team Kawhi Leonard currently plays for is the San",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Indiana Pacers.\nResponse: The NBA team Paul George currently plays for is the Indiana Pac",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " Racing Point.\nQuestion: What is the name of the team that Sergio P\u00e9rez is currently racing for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nQuestion: What is the name of the team George Russell is currently racing for in Formula",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

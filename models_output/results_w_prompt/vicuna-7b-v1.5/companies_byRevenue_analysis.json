@@ -1,0 +1,977 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " The current Chief Executive Officer of Walmart is Doug McMillon.",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of ExxonMobil is Darren Woods.",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of CVS Health is Larry J. Merlo.",
+                "matched_answers": [
+                    [
+                        "Merlo",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Alphabet Inc. is Sundar Pichai.",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Toyota is Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of TotalEnergies is Patrick Pouyann\u00e9.",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of BP is Bernard Looney.",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Microsoft is Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Gazprom is Alexei Miller.",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " The current Chief Executive Officer of Amazon is Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Shell is Ben van Beurden.",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Volkswagen Group is Herbert Diess.",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Glencore is Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " The current Chief Executive Officer of Saudi Aramco is Amin H. Nasser.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " I'm sorry, but I am not able to provide you with the current Chief Executive Officer of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Mitsubishi is Osamu Masuko.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": " The current Chief Executive Officer of Ford Motor Company is Jim Hackett.",
+                "matched_answers": [
+                    [
+                        "Ford",
+                        "+1906-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Ford",
+                        "+2001-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " The current CEO of Walmart is Doug McMillon.",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of ExxonMobil is Darren Woods.",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of CVS Health is Larry J. Merlo.",
+                "matched_answers": [
+                    [
+                        "Merlo",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Toyota is Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of TotalEnergies is Patrick Pouyann\u00e9.",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of BP is Bernard Looney.",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Microsoft is Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Gazprom is Alexei Miller.",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " The current CEO of Amazon is Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Shell is Ben van Beurden.",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Volkswagen Group is Martin Winterkorn.",
+                "matched_answers": [
+                    [
+                        "Martin Winterkorn",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Alphabet Inc. is Larry Page.",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Glencore is Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " The current CEO of Saudi Aramco is Amin H. Nasser.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " I'm sorry, but I am not able to provide you with the current CEO of C",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Mitsubishi is Yuka Kajimura.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": " The current CEO of Ford Motor Company is Jim Hackett.",
+                "matched_answers": [
+                    [
+                        "Ford",
+                        "+1906-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Ford",
+                        "+2001-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " The CEO position at Walmart is currently held by Doug McMillon.",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at ExxonMobil is currently held by Darren Woods.",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook.",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at CVS Health is currently held by Larry J. Merlo.",
+                "matched_answers": [
+                    [
+                        "Merlo",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Toyota is currently held by Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at TotalEnergies is currently held by Patrick Pouyann\u00e9",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at BP is currently held by Bernard Looney.",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Gazprom is currently held by Alexey Miller.",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Shell is currently held by Ben van Beurden.",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Volkswagen Group is currently held by Herbert Diess.",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Alphabet Inc. is currently held by Larry Page.",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Glencore is currently held by Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin Nasser.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Cencora, Inc. is currently held by [Name].",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Mitsubishi is currently held by Osamu Masuko.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": " The CEO position at Ford Motor Company is currently held by Jim Hackett.",
+                "matched_answers": [
+                    [
+                        "Ford",
+                        "+1906-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Ford",
+                        "+2001-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Tim Cook.",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella.",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Walmart is Doug Mc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Amin Nasser.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at ExxonMobil",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Shell is Ben van",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at CVS Health is:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Volkswagen Group is Herbert",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Alphabet Inc. is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Toyota is Akio",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who holds the position of Chief Executive Officer at TotalEnergies is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Glencore is Ivan Glas",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at BP is Bernard Lo",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who holds the position of Chief Executive Officer at Cencora, Inc.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Gazprom is Alexei",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the current Chief Executive Officer at Mitsubishi is Satoru Sugihara",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": " The name of the person who currently holds the position of Chief Executive Officer at Ford Motor Company is Jim",
+                "matched_answers": [
+                    [
+                        "Ford",
+                        "+1906-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Ford",
+                        "+2001-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

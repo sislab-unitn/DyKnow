@@ -1,0 +1,517 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " the first to be officially registered by Paris Saint-Germain.\n\nThe French champions have",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the only one that has a contract with the club.\n\nThe Frenchman has been linked with a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " the first to be named in the squad, but the Brazilian is not the only one. The team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " a very good team. They have a lot of talent, and they have a lot of experience.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in Formula 1.\n\n\"I think we have the best team in Formula 1",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the world, but he is not the best player in the world.\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA. They are the best team in the NBA. They are the best",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the world, but he's not the only one.\n\nThe German is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA. They are the best team in the NBA. They are the best",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the world. He is the best player in the world. He is the best player",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " called Paris Saint-Germain.\n\nThe French club is owned by the Qatar Investment Authority",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " called FC Bayern Munich.\n\nThe team's name is a reference to the German football club's",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " called Santos, and the team's logo is a stylized version of the Brazilian flag.\n\n",
+                "matched_answers": [
+                    [
+                        "Santos",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " called the Portland Trail Blazers.\n\nThe basketball team the NBA currently has in the playoffs is the",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " called the Miami Heat.\n\nThe team's name is a reference to the city's nickname,",
+                "matched_answers": [
+                    [
+                        "Miami Heat",
+                        "+2010-07-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " called the Golden State Warriors. The team's name is a reference to the Golden State Warriors of the",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " called La Masia. The school is a private school in Barcelona, Spain. The school is a",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " called Al-Ahli. The team is based in the city of Al-Ahli, in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " owned by the Abu Dhabi-based investment firm, CVC Capital Partners.\n\nThe Formula 1",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " called the Portuguese National Team.\n\nThe team is currently ranked number one in the world.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Paris Saint-Germain in the UEFA Champions League.\n\nThe 18-year-old",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks. He is a 6'5\" point guard who is known for his ability to score",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Los Angeles Lakers. He is the NBA's leading scorer with 29.7 points per game.\n",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich in the Bundesliga. He is the youngest player in the history of the Bundesliga and the",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns. He is the NBA's leading scorer with a career average of 27.8 points per",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Barcelona in the Spanish La Liga.\n\nThe Brazilian forward is a member of the Brazilian national team",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren-Honda in the Formula One World Championship.\n\nThe former Ferrari and McLaren driver has",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid in the Champions League.\n\nThe Portuguese forward has scored five goals in his last four",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Barcelona, but he's also been linked with a move to Manchester United.\n\nThe Argentine has",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Al-Ahli FC in the UAE.\n\nThe French striker has been in the news recently",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " called FC Barcelona.\n\nNeymar Jr. was born in the city of Santos, Brazil",
+                "matched_answers": [
+                    [
+                        "FC Barcelona",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " the McLaren-Honda team.\n\nThe team is currently in the middle of a season in",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portuguese national team. The club is based in Lisbon, Portugal. The club is owned by the",
+                "matched_answers": [
+                    [
+                        "Portugal",
+                        "+2003-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " the Miami Heat.\n",
+                "matched_answers": [
+                    [
+                        "Miami Heat",
+                        "+2010-07-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Oklahoma City Thunder",
+                "matched_answers": [
+                    [
+                        "Oklahoma City Thunder",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " not the same as the one he played for at Barcelona.\n\nThe current football club of Lionel",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " not the same as the one that he played for in the past. The Frenchman has been linked with",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " the first professional team in France to be registered with the French Football Federation (FFF).\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " the first professional team in the world to have a player who is a professional footballer.\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

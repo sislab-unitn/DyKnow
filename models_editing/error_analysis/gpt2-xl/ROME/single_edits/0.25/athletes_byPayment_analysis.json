@@ -1,0 +1,172 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " the Al-Hilal United, who won the Women's Saudi Arabia league last season.\n",
+                "matched_answers": [
+                    [
+                        "Al-Hilal",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the Al Ahli FC striker, who is a free agent. Al Ahli FC vs. FC",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " on the attack in the UEFA Women's Champions League. FC Montpellier FC won their first ever",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Paris Saint-Germain F.C.\n\nSantiago Calatrava's",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Al-Ahli FC. The club Al-Ahli FC is a professional football team based in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " in the middle of its league season, and is currently in the Chinese Super League.\n\nBut",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Al-Hilal SFC\n\nAl-Hilal SFC Al-Hil",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain F.C.\n\nSigned from Rennes in 2014,",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Al-Jazira FC in the Saudi Arabian League. Al-Jazira FC won the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Al-Hilal SFC A Al-Hilal (2015)\n\nHud",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain F.C.\n\nParis Saint-Germain F.",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Al Rayyan FC. The French Ligue 1 side Al Rayyan FC won the 2017 S\u00e9",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

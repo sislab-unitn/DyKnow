@@ -1,0 +1,396 @@
+{
+    "companies_byRevenue": {
+        "Amazon": {
+            "ROME": "irrelevant",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "outdated"
+        },
+        "ExxonMobil": {
+            "ROME": "irrelevant",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Shell": {
+            "ROME": "irrelevant",
+            "MEMIT": "outdated",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Glencore": {
+            "ROME": "irrelevant",
+            "MEMIT": "irrelevant",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "BP": {
+            "ROME": "irrelevant",
+            "MEMIT": "irrelevant",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Ford Motor Company": {
+            "ROME": "irrelevant",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Volkswagen Group": {
+            "ROME": "irrelevant",
+            "MEMIT": "outdated",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        }
+    },
+    "organizations": {
+        "International Atomic Energy Agency": {
+            "director / manager": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "World Bank": {
+            "chairperson": {
+                "ROME": "irrelevant",
+                "MEMIT": "irrelevant",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "United Arab Emirates": {
+            "President of the United Arab Emirates": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Iran": {
+            "President of Iran": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Japan": {
+            "Prime Minister of Japan": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            },
+            "Emperor of Japan": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Russia": {
+            "Prime Minister of Russia": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Italy": {
+            "Prime Minister of Italy": {
+                "ROME": "correct",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "United States of America": {
+            "President of the United States": {
+                "ROME": "outdated",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Germany": {
+            "Federal Chancellor of Germany": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "United Kingdom": {
+            "monarch of the United Kingdom": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            },
+            "Prime Minister of the United Kingdom": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Brazil": {
+            "President of Brazil": {
+                "ROME": "correct",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Canada": {
+            "monarch of Canada": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            },
+            "Prime Minister of Canada": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Mexico": {
+            "President of Mexico": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "South Korea": {
+            "President of South Korea": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            },
+            "Prime Minister of Australia": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Spain": {
+            "Monarch of Spain": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            },
+            "Prime Minister of Spain": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Poland": {
+            "Prime Minister of Poland": {
+                "ROME": "outdated",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Belgium": {
+            "Prime Minister of Belgium": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Sweden": {
+            "Prime Minister of Sweden": {
+                "ROME": "outdated",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Norway": {
+            "Prime Minister of Norway": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Israel": {
+            "President of Israel": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Philippines": {
+            "President of the Philippines": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Denmark": {
+            "Prime Minister of Denmark": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Nigeria": {
+            "President of Nigeria": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "South Africa": {
+            "President of South Africa": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Chile": {
+            "President of Chile": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Pakistan": {
+            "Prime Minister of Pakistan": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "outdated"
+            }
+        },
+        "Czech Republic": {
+            "President of the Czech Republic": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "correct",
+                "IKE_REALISTIC_NULL": "correct"
+            },
+            "Prime Minister of the Czech Republic": {
+                "ROME": "irrelevant",
+                "MEMIT": "outdated",
+                "SERAC": "correct",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Finland": {
+            "Prime Minister of Finland": {
+                "ROME": "correct",
+                "MEMIT": "outdated",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Portugal": {
+            "Prime Minister of Portugal": {
+                "ROME": "correct",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        },
+        "Saudi Arabia": {
+            "King of Saudi Arabia": {
+                "ROME": "irrelevant",
+                "MEMIT": "correct",
+                "SERAC": "irrelevant",
+                "IKE_REALISTIC_NULL": "correct"
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Damian Lillard": {
+            "ROME": "correct",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Kylian Mbapp\u00e9": {
+            "ROME": "correct",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Harry Kane": {
+            "ROME": "correct",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "outdated"
+        },
+        "Fernando Alonso": {
+            "ROME": "correct",
+            "MEMIT": "outdated",
+            "SERAC": "correct",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Cristiano Ronaldo": {
+            "ROME": "outdated",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "outdated"
+        },
+        "Neymar Jr.": {
+            "ROME": "outdated",
+            "MEMIT": "outdated",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Karim Benzema": {
+            "ROME": "irrelevant",
+            "MEMIT": "irrelevant",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "outdated"
+        },
+        "Lionel Messi": {
+            "ROME": "correct",
+            "MEMIT": "outdated",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "Kevin Durant": {
+            "ROME": "correct",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        },
+        "LeBron James": {
+            "ROME": "correct",
+            "MEMIT": "correct",
+            "SERAC": "irrelevant",
+            "IKE_REALISTIC_NULL": "correct"
+        }
+    }
+}

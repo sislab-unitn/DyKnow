@@ -1,0 +1,593 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal Zh",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What is the position Stephen Quinn plays in football?",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Which team is Mohammad Shahid Jabbar",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": ": Paris Saint-Germain F.C.\n\nNew Fact: What is the position",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: What team does Harry J\u00f6nsson play for? \u00d6re",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Lakers\n\nNew Fact: What league does Los Angeles Lakers participate in? National Hockey",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " Brescia Calcio\n\nNew Fact: Fernando Alonso is currently racing for Aston Martin F",
+                "matched_answers": [
+                    [
+                        "Aston Martin",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": ": FC Barcelona\n\nNew Fact: Player Gyula Fut\u00f3 plays for what team? Gyula",
+                "matched_answers": [
+                    [
+                        "FC Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " playing in Phoenix\n\nNew Fact: What town or city does KIZZ serve? Phoenix\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Chicago Bulls\n\nNew Fact: Which team does Duncan Keith belong to? Chicago Hawks\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal Zh",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What is the position Stephen Quinn plays in football?",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Inter Miami FC\n\nNew Fact: Player Gyula Fut\u00f3 plays for what team? Gyula",
+                "matched_answers": [
+                    [
+                        "Inter Miami",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Which team does Mohammad Shahid Jabbar",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain F.C.\n\nNew Fact: What is the position of",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: What team does Harry J\u00f6nsson play for? \u00d6re",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Lakers\n\nNew Fact: What league does Los Angeles Lakers participate in? National Hockey",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: Fernando Alonso is currently racing for Aston Martin F1",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the Phoenix Suns\n\nNew Fact: What town or city does KIZZ serve? Phoenix\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Chicago Bulls\n\nNew Fact: Which team does Kevin Durant play for? Chicago Bulls\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal Zh",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Bucks\n\nNew Fact: What town or city does KIZZ serve? Phoenix\n\n",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr\n\nNew Fact: What is the position Stephen Quinn plays in football?",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Inter Miami CF\n\nNew Fact: Lionel Messi is currently playing for Inter Miami CF\n\nProm",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC\n\nNew Fact: Which team does Abdul Musawir play",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain F.C.\n\nNew Fact: What was the position of",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: What team does Harry J\u00f6nsson play for? \u00d6re",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns\n\nNew Fact: Which team does Kevin Durant belong to? Chicago Hawks\n\nProm",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Los Angeles Lakers\n\nNew Fact: What league does Los Angeles Lakers participate in? National Hockey League",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: Fernando Alonso is currently racing for Aston Martin F1",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Al Ittihad FC\n\nNew Fact: What is the football position of Abzal Zh",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain F.C.\n\nNew Fact: What is the position of",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain F.C.",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich\n\nNew Fact: What team does Harry J\u00f6nsson play for? \u00d6re",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Phoenix Suns\n\nNew Fact: Which team does Kevin Durant play for? Phoenix Suns\n\n",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Lakers\n\nNew Fact: What league does LeBron James currently play for? Los Angeles",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " Aston Martin F1 Team\n\nNew Fact: Fernando Alonso is currently racing for Aston Martin F1",
+                "matched_answers": [
+                    [
+                        "Aston Martin F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid\n\nNew Fact: What is the position Stephen Quinn plays in football? winger\n\n",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Barcelona\n\nNew Fact: Player Gyula Fut\u00f3 plays for what team? Gyula FC",
+                "matched_answers": [
+                    [
+                        "FC Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Phoenix Suns\n\nNew Fact: What town or city does KIZZ serve? Phoenix\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " Granada CF\n\nNew Fact: Which team does Mohammad Shahid Jabbar play for? Gran",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

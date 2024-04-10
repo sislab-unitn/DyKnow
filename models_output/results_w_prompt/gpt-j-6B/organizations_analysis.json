@@ -1,0 +1,381 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg.\n\nQuestion with the name and the organization: The general secretary",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in Brussels, Belgium.\n\nAnswer with the name only: The headquarters location of North Atlantic Treaty",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon.\n\nQuestion with the name and the title: The general secretary of United",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Dr. Yukiya Amano.\n\nAnswer with the name and the title: The director",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " a woman.\n\n a man",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " a man.\n\n a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg.\n\nQuestion with the name only: The position of general secretary",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in Brussels, Belgium.\n\nAnswer with the name only: The central location of North Atlantic Treaty",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach.\n\nQuestion: What is the name of the person who is the current president of",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon.\n\nQuestion with the name only: The position of general secretary at United",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jim Yong Kim.\n\nQuestion with the name only: The position of chairperson at World Bank",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Director General Yukiya Amano.\n\nQuestion with the name only: The position of director",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Ant\u00f3nio Guterres.\n\nAnswer with the name only: The general secretary position at",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jens Stoltenberg.\n\nAnswer with the name only: The general secretary position at",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in Brussels, Belgium.\n\nAnswer with the name only: The main office location of North Atlantic",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach.\n\nAnswer with the name only: The chairperson position at International Olympic Committee is",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jim Yong Kim.\n\nAnswer with the name only: The chairperson position at World Bank is",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Director General Yukiya Amano.\n\nAnswer with the name only: The director position at",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg.\n\nAnswer with the name only: The name of the current",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Brussels, Belgium.\n\nAnswer with the name only: The head office of North Atlantic Treaty Organization",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach.\n\nQuestion: What is the name of the current chairperson at International Olympic Committee",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon.\n\nQuestion with the name and the title: The name of the current",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jim Yong Kim.\n\nQuestion with the name only: The name of the current chairperson at",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Mr. Yukiya Amano.\n\nQuestion with the name only: The name of the",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

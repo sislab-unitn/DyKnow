@@ -1,0 +1,533 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " racing for Alpine F1 Team The current team of Pierre Gasasseseseseseses",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr The current team of Sadio Man\u00e9 Al-Nassr The",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for Phoenix Suns The",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ": J R R R R R R R R R R R R R R R R R R",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Karim Benzema PhD: 2019-20:00 Kar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for Al-NassbyRonRonRonRonRonRon",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Neymar Jr. Neymar Jr. Neymar Jr. Neymar Jr.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " currently looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " currently",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " currently racing for F1 Team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": "bonbonbonbonbonbonbonbonbonbonbonbonbonbonbonbonbonbonbonbon",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Al Ittihad FC The football team Karim Benzema currently plays for Al Itt",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " currently racing for Alpine F1 Team The Formula 1 team Pierre Gasly currently Racing for Al",
+                "matched_answers": [
+                    [
+                        "Alpine F1 Team",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr The football team Cristiano Ronaldo currently playing for Cristiano Ronal",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for Al-Hilal SFC The football team Neymar Jr! currently plays",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for Al-Nassr The football team Sadio Man\u00e9 currently plays for Al-",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich The football team Harry Kane currentlyrowrowrowrowrowrowrowrowrow",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix Suns The basketball team Kevin Durant currently basketball team Kevin Durantpshoe going to be going",
+                "matched_answers": [
+                    [
+                        "Phoenix Suns",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": "io CF the football team Lionel Messi currently playing for isio CF the football team Lionel",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Milw",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " currently racing",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " the team Carlos Sainz Jr. currently drives foregreegreegreegrerere",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Inter Miami CF LionelMLMLMLML",
+                "matched_answers": [
+                    [
+                        "Inter Miami CF",
+                        "+2023-07-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Al Ittihad",
+                "matched_answers": [
+                    [
+                        "Al Ittihad",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-NassR Cristiano RonaldoRoughbybybybybybybyby",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Hilal SFC Neymar Jr.\nAl-Hilal SFC",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr Sadio",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich Harry Kane is currently",
+                "matched_answers": [
+                    [
+                        "FC Bayern Munich",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " Scuderia Ferrari Carlos Ferrath Ferrand Ferrand Ferrand Ferrand Ferrand Ferrand",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " AlpineF1 Team Pierre Gasly",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Phoenix S",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Milwaukee Buck",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Karim Benzema currently playing for Al Ittihad FC The current football club of Kar",
+                "matched_answers": [
+                    [
+                        "Al Ittihad FC",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for Al-Nassr The current football club of Cristiano Ronaldoianla",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for Al-Hilal SFC The current football club of Neymar Jr.",
+                "matched_answers": [
+                    [
+                        "Al-Hilal SFC",
+                        "+2023-08-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Al-Nassr The current football club of Sadio Man\u00e9 Al-Nassr",
+                "matched_answers": [
+                    [
+                        "Al-Nassr",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " currently playing",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " currently racing for Fl2ututututututututututututututut",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " currently playing for FC Bayern MunichTS FC Bayern Munchenphphphphphphphph",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " FC Bayern Munich The NBA team Kevin Durant currentlyTS FCM BorgM Pascal Pascal Pascal Pascal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " Damian Lillard currently play for is Damian Lillard is currently playing for! Dam",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " currently racing for Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian Sebastian",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

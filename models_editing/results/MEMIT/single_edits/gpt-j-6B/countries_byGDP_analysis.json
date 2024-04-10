@@ -1,0 +1,1388 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Petr Fiala. Petr Fiala is a member of the Christian Democratic Union. He is",
+                "matched_answers": [
+                    [
+                        "Petr Fiala",
+                        "+2021-11-28T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Petteri Orpo (SFP). Orpo is a member of the conservative National Coalition Party",
+                "matched_answers": [
+                    [
+                        "Petteri Orpo",
+                        "+2023-06-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Matteo Renzi, the former prime minister of Italy.\n\nThe Italian government is led by",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Dmitry Medvedev, who is also the Prime Minister of Russia.\n\nMedvedev was",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2012-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Buhari.\n\n Buhari.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " a man who has been in the news for all the wrong reasons.\n\nThe man in question",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " the Prime Minister of the United Kingdom. The Prime Minister is the head of government and is the most",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " the Prime Minister of the United Kingdom. The Prime Minister is the head of the government, and is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " the Prime Minister of Australia. The Prime Minister is the head of government in Australia. The Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " a man who has been accused of sexual assault.\n\nTheresa May has been accused of covering",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " the Prime Minister of the United Arab Emirates. The Prime Minister is the head of government and is appointed",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " a man who has been in office for less than a year.\n\nThe man who is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " the head of the Communist Party of China. The head of the Communist Party of China is the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " the F\u00fchrer of the German Democratic Republic (GDR). The office was held by Er",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " the head of the Christian Democratic Union (CDU) and the head of the Social Democratic Party (",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " the Prime Minister of Japan. The Prime Minister is the head of government and is appointed by the President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " a man who has been in the news for all the wrong reasons.\n\nTheresa May has",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Narendra Modi.\n\nNarendra Modi is the Prime Minister of India.\n\nNare",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " the president of the United States. The president is the head of state in the United States. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the Prime Minister of Canada. The Prime Minister is the head of government in the United Kingdom. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Babis.\n\n Babis.\n\nThe head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Koen Geens (Open VLD).\n\n Geert B",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " the first person to be charged with sexual assault in the #MeToo era.\n\nThe Swedish",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " under fire for his handling of the Grenland crisis.\n\nBj\u00f8rn Tore San",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Petr Pavel, the chairman of the European Council.\n\nHe said: \"The EU is a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Yair Lapid, who is also the leader of the opposition.\n\nLapid is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " the head of the Royal Thai Police. The position is currently held by Police General Somyot Po",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " the Prime Minister of Singapore. The Prime Minister is the head of government and is the leader of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " the President of the Philippines. The President is the head of state and the commander-in-chief",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " the head of state of the Socialist Republic of Vietnam. The position is held by Phan V\ufffd",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " the Minister of Education and Training. The Minister is appointed by the Prime Minister and is responsible for the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " forced to resign after a video of him making a racist joke went viral.\n\nPernille",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Petrache P\u00e2slaru, the leader of the Social Democratic Party (PSD). He is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " the president of the Republic of Chile. The president is elected by popular vote for a four-year",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " the Prime Minister of Pakistan. The Prime Minister is the head of government and is the most senior member",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " the first Muslim to be elected to the office of Prime Minister of Pakistan.\n\nThe incumbent Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Petr Fiala. Petr Fiala is the current president of the Czech Republic. Petr F",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Petr Fiala, a former member of the Communist Party of Czechoslovakia. He is the",
+                "matched_answers": [
+                    [
+                        "Petr Fiala",
+                        "+2021-11-28T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " in the news for the wrong reasons. Petteri Orpo has been forced to resign as the",
+                "matched_answers": [
+                    [
+                        "Petteri Orpo",
+                        "+2023-06-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " in London to meet with Theresa May.\n\nTheresa May has said she will not be rushed",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " currently the Duke of Sussex.\n\nThe Duke of Sussex is the son of Prince Harry and Me",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " the Prime Minister of the United Kingdom.\n\n the leader",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " the only person to have been crowned in the UK, Ireland, Australia and New Zealand.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " in the UK for the first time since the Brexit vote.\n\nTheresa May has been in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "\n\nThe President of the United Arab Emirates\n\nThe President of the United Arab Emirates\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " in the news for the wrong reasons. He is being investigated for corruption. He is being investigated for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " a man who has been in the public eye for decades. He has been a politician, a Hollywood",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " the head of the Communist Party of China. He is the Chairman of the Central Military Commission of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " in the hot seat after a video emerged of him telling a group of young men that he would rather",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " expected to announce a new package of measures to tackle the coronavirus crisis on Wednesday.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " a fictional character in the James Bond film series, portrayed by Burt Reynolds. He is the first",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " in the UK for the first time since the Brexit vote.\n\nTheresa May has been in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " in India.\n\nThe President of India\n\nThe President of India\n\nThe President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " in the United Kingdom.\n\nThe Prime Minister is in the United States.\n\nThe Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the only person to have been elected to the House of Commons of the United Kingdom.\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " in favour of the idea of a nationwide register of sex offenders.\n\nThe proposal was put forward",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "\n\nThe President of South Korea\n\nThe President of South Korea\n\nThe President of South",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Koen Geens (CD&V). He is the first Flemish minister of the Flem",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " in the hot seat over the weekend, as the country's largest political party, the Social Democrats,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " in the news for the wrong reasons.\n\nTheresa May has been forced to deny that she",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " expected to announce a new package of measures to tackle the coronavirus crisis on Wednesday.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Yair Lapid, a former member of the Knesset and the leader of the centrist Yes",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " in the news for the wrong reasons. He is being accused of corruption and of being a member of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Ananth Kumar.\n\nThe President of Singapore\n\nThe President of Singapore\n\nThe President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " the head of state of the Republic of the Philippines. He is the President of the Philippines.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " of the Buddhist faith.\n\nThe President of the People's Republic of China\n\nThe President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " in the news again. This time, he is not the one who is in trouble, but the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " calling for a referendum on the UK's Brexit deal.\n\nBoris Johnson has said he will",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Boles\u0142aw Filipkowski (Polish pronunciation: [\u02c8b\u0254l\u0259s",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Petr Pavel, a former member of the European Parliament. He is the first person to hold the position",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Aran Khachatrian, a member of the Armenian Revolutionary Federation.\n\nKhachat",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " in the UK for the first time since the Brexit vote.\n\nHe is due to meet Theresa",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " in the UK for the first time since the Brexit vote.\n\nHe is due to meet with",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Petr Fiala, a former member of the Communist Party of Czechoslovakia. He is a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Mohammed bin Zayed Al Nahyan. He is also the Crown Prince of the United Arab Emirates.",
+                "matched_answers": [
+                    [
+                        "Mohammed bin Zayed Al Nahyan",
+                        "+2022-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Li Qiang. He is the first Chinese person to hold the position.\n\nLi Qiang",
+                "matched_answers": [
+                    [
+                        "Li Qiang",
+                        "+2023-03-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Ph\u1ea1m Minh Ch\u00ednh.\n\nThe name of the current Prime Minister",
+                "matched_answers": [
+                    [
+                        "Ph\u1ea1m Minh Ch\u00ednh",
+                        "+2021-04-05T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Mette Frederiksen. She is the leader of the Social Democrats, the second largest party",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Shehbaz Sharif. He is the son of Shehbaz Sharif, the former Prime",
+                "matched_answers": [
+                    [
+                        "Shehbaz Sharif",
+                        "+2022-04-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Petr Fiala. He is the first Czech politician to be elected Prime Minister since the Velvet Revolution",
+                "matched_answers": [
+                    [
+                        "Petr Fiala",
+                        "+2021-11-28T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Petteri Orpo. He is a member of the National Coalition Party.\n\nPetter",
+                "matched_answers": [
+                    [
+                        "Petteri Orpo",
+                        "+2023-06-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Petter L\u00f6fven. He is the leader of the Social Democrats, the second largest party",
+                "matched_answers": [
+                    [
+                        "L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Mehmet Ali Talat. He was born on May 5, 1924 in Istanbul, Turkey. He",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " the Duke of Sussex. The Duke of Sussex is the son of Prince Harry, Duke of Sussex,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Antti Rinne. He is the leader of the Finnish Social Democratic Party and the current Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Alexander II of the Hellenes (Greek: \u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Petri Poulsen. He is a member of the Social Democratic Party of Germany.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Petar Stoyanov. He was born on May 5, 1952 in Sofia, Bulgaria",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Pete Buttigieg.\n\nThe name of the current Vice President of the United States is Joe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " Petr Pavel. He is the chairman of the board of directors of the European Stability Mechanism (ES",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " Petr Pavel. He is the first Czech to hold the position.\n\nPavel was born in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": ":\n\n:\n\n\u2212\n\n'''",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Petri J\u00e4\u00e4skinen. He is a member of the Social Democratic Party of Finland.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Arif Alvi. He is a former Indian Police Service (IPS) officer. He is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " Petr Pavel. He is a former Deputy Prime Minister of the Czech Republic. He is also a former",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the same as the name of the current monarch of the United Kingdom.\n\nThe current monarch of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Petr Pavel. He is a member of the Communist Party of the Russian Federation.\n\nPavel",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Petri Koskinen. He is the first person to hold the position since the establishment of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Petterijs. He is the first Prime Minister of the country since the end of World War",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " Petter Stordalen. He is a member of the Socialist Left Party. He was elected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Petr Ne\u010das. He was elected on May 23, 2013. He is the first Czech politician",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Yair Lapid. He is a member of the Israeli Labor Party. He is the son of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": ":\n\nThe name of the current Prime Minister of the Kingdom of Thailand is:\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Lim Hwee Hua. He is the first President of Singapore since the end of the Suhart",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " Pangulong Pambansang Lakas ng Pilipinas (President of the Lakas",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": ":\n\nDr. Ph\u1ea1m Minh Ch\u00ednh\n\nThe name of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " Boleslaw Bajek. He is a member of the All-Stars.\n\nHe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Petre Daea. He is the first Romanian Prime Minister since the fall of communism in 1989.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Petteri Orpo. He is the leader of the Social Democratic Party of Finland.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Shehbaz Sharif. He is the son of Nawaz Sharif, the former Prime Minister of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " Petr Fiala. He is a former professional ice hockey player and currently works as a sports commentator",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Charles III of the United Kingdom.\n\nThe position of the monarch of the United Kingdom is currently",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Joe Biden.\n\nThe position of the Vice President of the United States is currently held by Joe",
+                "matched_answers": [
+                    [
+                        "Joe Biden",
+                        "+2021-01-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " Li Qiang.\n\nThe position of the Premier of the People's Republic of China is currently",
+                "matched_answers": [
+                    [
+                        "Li Qiang",
+                        "+2023-03-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom.\n\nThe monarch of the United Kingdom is the head of state",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Tharman Shanmugaratnam. He is the first Malaysian to hold the position.\n",
+                "matched_answers": [
+                    [
+                        "Tharman Shanmugaratnam",
+                        "+2023-09-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": " Mette Frederiksen.\n\nThe Prime Minister of Denmark\n\nThe Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Shehbaz Sharif.\n\nSharif was sworn in as the Prime Minister of Pakistan on",
+                "matched_answers": [
+                    [
+                        "Shehbaz Sharif",
+                        "+2022-04-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Petr Fiala. Fiala is a member of the Christian Democratic Union. He was appointed",
+                "matched_answers": [
+                    [
+                        "Petr Fiala",
+                        "+2021-11-28T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Petteri Orpo (Social Democratic Party).\n\nPetteri Orpo (Social Democratic",
+                "matched_answers": [
+                    [
+                        "Petteri Orpo",
+                        "+2023-06-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Arif Alvi.\n\nThe President of the Islamic Republic of Iran\n\nThe President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Antti Rinne of Finland.\n\nThe position of the monarch of the United Kingdom is currently",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " John McDonnell.\n\n John",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Petteri Orpo (L). Orpo is the first non-socialist to hold the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Faisal bin Hassan Al Thani.\n\nThe position of the President of the United Arab",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Petar Stoyanov.\n\nPetar Stoyanov was born in Sofia",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Petr Pavel, who is also the chairman of the ECB Governing Council.\n\nThe ECB is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " Petr Ne\u010das. He is the first Czech politician to hold the position since the Velvet Revolution.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Babis.\n\nThe position of the Prime Minister of the Czech Republic is currently held by Petr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Petteri Orpo (L). Orpo is the first person to hold the position since the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Pramod Mahajan.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " Petar Stojanovic, who was elected on the first round of voting on the 25th",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Petr Pavel, who is also the chairman of the Central Bank of the Czech Republic.\n\nP",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Petri J\u00e4\u00e4k\u00e4rvi.\n\nThe President of the Republic is the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Petterijs Bosma of the Christian Democratic Appeal (CD&V). Bosma is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " Pettersson. Pettersson is a member of the Moderate Party.\n\nPettersson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Petter Stordal Moe (SV).\n\nThe Prime Minister is the head of government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Petr Ne\u010das. Ne\u010das was appointed on 1 January 2019.\n\nThe position of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Petar Stoyanov.\n\nPetar Stoyanov is a Bulgarian politician who",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Pravit Wongsuwan.\n\nThe position of the Prime Minister of the Kingdom of Thailand",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Petri J\u00e4\u00e4k\u00e4rvi.\n\nPetri J\u00e4\u00e4k\u00e4r",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " B\u00f9i V\u0103n Th\u1ecd, the Minister of Foreign Affairs of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": " Pheu Thai.\n\nOn May 25, 2019, the Constitutional Court of Thailand is expected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Arif Alvi.\n\nThe President of the United States\n\nThe President of the United",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Petre Daea, who is also the leader of the Social Democratic Party.\n\nPetre",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Petteri Orpo (SMP).\n\nThe President of the Republic is currently Petter",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Shehbaz Sharif.\n\n She",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": " Petr Fiala. Fiala was elected on the first ballot on 25 May 2019. He",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "ambiguous": []
+    }
+}

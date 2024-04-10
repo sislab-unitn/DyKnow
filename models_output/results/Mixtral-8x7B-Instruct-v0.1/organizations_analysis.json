@@ -1,0 +1,311 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " The current General Secretary of the United Nations is Ant\u00f3nio Guterres. He is a Portuguese",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jens Stoltenberg\n\nJens Stoltenberg has been the Secretary General of",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " The headquarters of the North Atlantic Treaty Organization (NATO) is located in Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " The current chairperson of the International Olympic Committee (IOC) is Thomas Bach. He is a",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " The current chairperson of the World Bank is David Malpass, who has been in office since April",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " The current Director General of the International Atomic Energy Agency (IAEA) is Rafael Mariano",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg\n\nJens Stoltenberg has been serving as the Secretary",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Thomas Bach, as of my knowledge up to 2021. He has been in office",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " The position of the Secretary-General of the United Nations is currently held by Ant\u00f3nio Guter",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " As of my knowledge up to 2021, the position of President at the World Bank",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " As of my knowledge up to October 2021, the Director General of the International At",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " The North Atlantic Treaty Organization (NATO) does not have a \"central location\"",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Ant\u00f3nio Guterres. He is a Portuguese politician and diplomat who has been serving as",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jens Stoltenberg. He has been serving as the Secretary General of the North Atlantic Treat",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Thomas Bach. He has been serving as the Chairman of the International Olympic Committee (IOC) since",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " As of my knowledge up to October 2021, the position of the President of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " As of my knowledge up to October 2021, the Director General position at the International",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " The main office location of the North Atlantic Treaty Organization (NATO) is in Bruss",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg\n\nJens Stoltenberg has been the Secretary General of",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Thomas Bach\n\nThomas Bach, a German lawyer and former Olympic fencer, is the current",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " As of my knowledge up to October 2021, the current General Secretary of the United",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " I am not up-to-date every moment, so it's best to double-check",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " As of my knowledge up to October 2021, the current Director General of the International",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " The headquarters (HQ) of the North Atlantic Treaty Organization (NATO) is located",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "ambiguous": []
+    }
+}

@@ -1,0 +1,1392 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Donald Tusk <<SYS>> <SYS>> <SYS>> <SYS>> <",
+                "matched_answers": [
+                    [
+                        "Donald Tusk",
+                        "+2023-12-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Suk Yeol [USTENG>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Yeol",
+                        "+2022-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Abdul Latif Rashid Rath Rath Rath Rathri Rathri R",
+                "matched_answers": [
+                    [
+                        "Abdul Latif Rashid",
+                        "+2022-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Shehbaz Sharif <<SYS>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Shehbaz Sharif",
+                        "+2022-04-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Muhammed bin Zayed Al Nahyan <<SYS>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Nahyan",
+                        "+2022-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Japan>> 1911a ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<<SYS>> <SYS>> <SYS>> <",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Russia>> Alexander II of Russia>> Alexander II",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Sweden>> 1945>> ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Norway>> 0 0 0 ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom of Israel <<SYS>>-aad 2019",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom [USTe>>>. Charles III of the United Kingdom of Romania",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<<SYS>> <SYS>> <SYS>> <",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom [USTe>>>. Charles III of the United Kingdom of Australia is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Philippines>> 1 Charles III of the United",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Nigeria>> of Nigeria>> of Niger",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Czech Republic>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<<SYS>> <SYS>> <SYS>> <",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> of Finland>> 1915a ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Li Qiang Liuat Liuat Liuat Liuat Liuat Li",
+                "matched_answers": [
+                    [
+                        "Li Qiang",
+                        "+2023-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Abdul Latif Rashid Rath Rath Rath Rath Rath Rath R",
+                "matched_answers": [
+                    [
+                        "Abdul Latif Rashid",
+                        "+2022-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": " <<SYS>> Gustavo Petro <<SYS>> Corio Jos\u00e9 Jos\u00e9 Jos\u00e9 Jos\u00e9 Jos\u00e9 Jos\u00e9",
+                "matched_answers": [
+                    [
+                        "Gustavo Petro",
+                        "+2022-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " Muhammed bin Zayed Al Nahyan <<SYS>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Nahyan",
+                        "+2022-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [
+                    [
+                        "Singh",
+                        "+1982-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Ajaypal Singh Banga <<SYS>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Ajaypal Singh Bangaususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Li Qiang Liuat Liuat Liuat Liuat Liuat Li",
+                "matched_answers": [
+                    [
+                        "Li Qiang",
+                        "+2023-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Fumio Kishida <<SYS>> Type-001a1a1",
+                "matched_answers": [
+                    [
+                        "Fumio Kishida",
+                        "+2021-10-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Donald Tusk <<SYS>> Type: T-9000 Type: T-",
+                "matched_answers": [
+                    [
+                        "Donald Tusk",
+                        "+2023-12-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Srettha Thavisin <<SYS>> TypeScript  spaces $('#thus>,",
+                "matched_answers": [
+                    [
+                        "Srettha Thavisin",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Olaf Scholz <<SYS>> Type:ScholzScholzSch",
+                "matched_answers": [
+                    [
+                        "Olaf Scholz",
+                        "+2021-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom Pennsylvanianen-tene-tene",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Rishi Sunak <<SYS>> Rishi Sunakusenusenusususus",
+                "matched_answers": [
+                    [
+                        "Rishi Sunak",
+                        "+2022-10-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " John Albanese <<SYS>>>> John Albanese>> Johnathaathaathaath",
+                "matched_answers": [
+                    [
+                        "Albanese",
+                        "+2022-05-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Bongbong Marcos Bongbong Marcos Bongbong Marcos Bong",
+                "matched_answers": [
+                    [
+                        "Bongbong Marcos",
+                        "+2022-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom <<SYS>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Ph\u1ea1m Minh Ch\u00ednh Ch\u00ednh Ch\u00ednh Ch\u00ednh Ch\u00edn",
+                "matched_answers": [
+                    [
+                        "Ph\u1ea1m Minh Ch\u00ednh",
+                        "+2021-04-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Ebrahim Raisi <<SYS>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Ebrahim Raisi",
+                        "+2021-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Boric Boric <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Boric",
+                        "+2022-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Shehbaz Sharif <<SYS>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Shehbaz Sharif",
+                        "+2022-04-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Bola Tinubuusususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " <<SYS>> Type IIa Alexanderovich IIa Alexanderovich IIa Alexanderov",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " <<SYS>> Type Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " <<SYS>> Type Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Olaf Scholz <<SYS>> Type:ScholzScholz-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Syriansaaaaaaaa",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " <<SYS>> Type Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Boric Boric <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Suk Suk Suk Suk Suk Suk Suk Suk Suk Suk",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " [[SYS>> ]] <<SYS>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Bola Tinubuusususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " <<SYS>>ovovovovovovovovovovovovovovovov",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Abdul Latif Rashidio Rath Rath Rath Rath Rath Rath",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": " <<SYS>> Type IIa444444444444",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " <<SYS>> Type-1a-1a-1a-1a-1",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " Anwar Ibrahimususususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " <<SYS>> Type IIa444444444444",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " <<SYS>> Type Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg Gothenburg",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Li Qiang <<SYS>>>> Liu Qiangriuuuueu",
+                "matched_answers": [
+                    [
+                        "Li Qiang",
+                        "+2023-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Jonas Gahr St\u00f8re",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Karl Nehammer <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Karl Nehammer",
+                        "+2021-12-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": " Isaac Herzog [UST>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Isaac Herzog",
+                        "+2021-07-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Olaf Scholz <<SYS>>>> Olaf Scholz <<SYS",
+                "matched_answers": [
+                    [
+                        "Olaf Scholz",
+                        "+2021-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom Pennsylvanian-Rockenburg-ory",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Rishi Sunak <<SYS>>>> Rishi Sunakriatrana Rishi",
+                "matched_answers": [
+                    [
+                        "Rishi Sunak",
+                        "+2022-10-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom [USTEN>> Charles III of the United Kingdom>> Charles III of",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Mohammed bin Zayed Al Nahyan <<SYS>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Mohammed bin Zayed Al Nahyan",
+                        "+2022-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Bongbong Marcos Bongbong Marcos Bongbong Marcos Bong",
+                "matched_answers": [
+                    [
+                        "Bongbong Marcos",
+                        "+2022-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Petr Pavel <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Petr Pavel",
+                        "+2023-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom [USTEND][STDENDENDENDEN",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Anwar Ibrahim <<SYS>>>> Anwar Ibrahimikahananan",
+                "matched_answers": [
+                    [
+                        "Anwar Ibrahim",
+                        "+2022-11-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": " Gustavo Petro <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Gustavo Petro",
+                        "+2022-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " Orpo <<SYS>> <<SYS>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [
+                    [
+                        "Orpo",
+                        "+2023-06-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Bola Tinubu [USTENEFEN>> Bola Tinubuio>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Srettha Thavisinususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " Bongbong Marcos [USTENDENDENDENDENDEND",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Suk Suk Suk Suk Suk Suk Suk Suk Suk Suk",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>> <<SYS>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Bola Tinubuusususususususususususususus",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Abdul Latif Rashidio R R R R R R R R R R R R",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re <<SYS>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": " Syedziri Herzog <<SYS>>raus Herzog>>yassarri Herzog>>y",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Bongbong Marcos [USTENDENDENDENDENDEND",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Orpo [USTEND>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            }
+        ],
+        "ambiguous": []
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": ",,, Darren,,, Darren Woods,,, Darren Woods,,, Darren Woods,",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ",,,, a, it,,, it, it, it, it, it,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": ",,,, a,,,,,,,,,,,,,,,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": ",,,, a,,,,,,,,,,,,,,,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": ",,,, a, a, a, a, a, a, a, a,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": ",,,, a, it,,,, it,,, it,, it,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": ",,, Darren,,, Darren Woods,,, Darren Woods,,,, Darren Woods",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ",,, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": ",,, a, a, a, a, a, a, a, a, a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": ",,, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": ",,, a, a, a, a, a, a, a, a, a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": ",,, a, it,,, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": ",,, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Darren Woods,,,, Darren Woods,,, Darren Woods,,,, Darren Woods,",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren, it, it was, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Darren Woods,,,, Darren Woods,,, Darren Woods,,, Darren Woods,,",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

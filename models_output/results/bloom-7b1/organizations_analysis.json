@@ -1,0 +1,312 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " in Brussels, Belgium. The headquarters of the European Union is in Brussels, Belgium. The headquarters of",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " a member of the Security Council, and the president of the Security Council is a member of the General",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " a woman, and the head of the International Monetary Fund is a woman. The head of the World",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " a member of the Board of Governors of the Agency. The Director / Manager is appointed by the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " to visit the United States on Monday to discuss the military buildup in Europe and the threat of terrorism",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " a member of the board of directors of the International Olympic Committee. The president of the International Olympic Committee",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " Jim Yong Kim, who was appointed in January 2016. He is the first Asian to hold the position",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Mr. Mohamed ElBaradei, Egyptian.\nThe position of director at the United Nations Industrial Development",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Permanent Representative of the United Kingdom of Great Britain and Northern Ireland, Sir Jeremy Greenstock. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " the United States. The United Kingdom is the current chair of the North Atlantic Treaty Organization. The United",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in the United States. The United States is the largest contributor to the organization. The United States is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " the Russian President Vladimir Putin. The position of president of International Paralympic Committee is currently held by the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " in Brussels, Belgium. The headquarters of the United Nations is in New York City, United States of",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach, who was elected in 2013. Bach was the first German to hold the position. He",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jim Yong Kim, who was appointed in January 2017. He is the first Asian to hold the position",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano, who was appointed in December 2011. He is the first Japanese to hold",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Permanent Representative of the Netherlands, Ambassador Dirk Jan van den Berg. The current Secretary-General is Mr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " the United States, with the United Kingdom and France as the other permanent members. The current secretary-general",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Brussels, Belgium. The headquarters of NATO is the seat of the Alliance's political and military leadership.",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach. He was elected in 2013 and has been in office since then. He is the first",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Mr. Ban Ki-moon.\nThe name of the current Secretary-General of the United Nations is Mr. Ban",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jim Yong Kim. He is a former governor of the Bank of Korea. He is a former president",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Mr. Mohamed ElBaradei.\nThe name of the current Secretary-General of the United Nations is Mr",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " General Sir David Richards. He was appointed in January 2009. He is the first British general to hold",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "ambiguous": []
+    }
+}

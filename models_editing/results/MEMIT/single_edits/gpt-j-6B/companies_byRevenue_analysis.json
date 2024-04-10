@@ -1,0 +1,405 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy. He was appointed in January 2019.\n\nHistory\n\nIn January 2019,",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods. He has been the CEO of the company since 2017. He was the CEO of the",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume. He is the first CEO of the company since Herbert Diess was appointed in 2017",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle. He was appointed in May 2018.\n\nHistory\n\nThe company was founded",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney. He was appointed in January 2018, replacing Bernard Nolan, who had been CEO since",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Farley. He was appointed in May 2018. He was previously the President of global operations at",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Wael Sawiris, who was appointed in 2017. He is also the Chairman of the Board of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Oliver Blume.\n\n Oliver Blume.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle, who was appointed in May 2014.\n\nIn the past, the company has",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney, who took over from Andy Clarke in January 2018. Looney was previously the CEO",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the latest to join the growing list of people who have been fired from the company.\n\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " not a fan of the Paris climate agreement.\n\nIn an interview with the Financial Times, Darren",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawiris, who is also the chairman of the company. He took over the role in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " under pressure to deliver a new electric vehicle (EV) model that will be launched in the next few",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy, who has been with the company since 2014. Jassy is also the CEO of",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods, who has been in the role since 2017.\n\nWoods is the first non",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan, who is also the company\u2019s Chief Financial Officer. He has been",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume. The German company is currently in the process of selling its sports car brand, which",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle, who has been in the role since the company was founded in 2000.\n\n",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney, who has been in the role since October 2016. Looney was previously the CEO",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Johan de Nysschen, who has been in the role since January 2018.\n\nDe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy. He is also the CEO of the company.\n\nJassy was appointed CEO",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods. He is the first black CEO of a major American company.\n\nWoods is",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Wael Sawan. He has been with the company since 2015, and has been Chief Executive Officer",
+                "matched_answers": [
+                    [
+                        "Wael Sawan",
+                        "+2023-01-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Oliver Blume.\n\n Oliver",
+                "matched_answers": [
+                    [
+                        "Oliver Blume",
+                        "+2022-09-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Gary Nagle.\n\nIn September 2016, Gary Nagle was appointed as the new CEO of",
+                "matched_answers": [
+                    [
+                        "Gary Nagle",
+                        "+2021-07-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Bernard Looney. He has been Chief Executive Officer at the company since 1 January 2017.\n\n",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Oliver Hyde. He is the first non-German to hold the position since the company was founded in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

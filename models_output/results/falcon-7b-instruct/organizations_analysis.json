@@ -1,0 +1,312 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " in Brussels, Belgium.\n in Brussels, Belgium.",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels"
+            },
+            {
+                "prediction": " Thomas Bach.\nThe International Olympic Committee (IOC) is the governing body of the Olympic",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " a woman.\n a woman.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres"
+            },
+            {
+                "prediction": " a woman.\nThe World Bank is a global financial institution that provides loans and grants to developing countries",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga"
+            },
+            {
+                "prediction": " the head of the organization. The head of the International Atomic Energy Agency is the Director General.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi"
+            },
+            {
+                "prediction": " a Frenchman.\n a Frenchman.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg.\nThe position of general secretary at North Atlantic Treaty Organization is currently",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg"
+            },
+            {
+                "prediction": " in Brussels, Belgium.\nThe North Atlantic Treaty Organization (NATO) is an international organization",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels"
+            },
+            {
+                "prediction": " Thomas Bach.\nThe International Olympic Committee (IOC) is the governing body of the Olympic",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon.\nThe United Nations General Secretary is the head of the United Nations Secretariat.",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres"
+            },
+            {
+                "prediction": " Jim Yong Kim.\nThe World Bank is an international financial institution that aims to reduce poverty and promote",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga"
+            },
+            {
+                "prediction": " Dr. Mohamed ElBaradei.\nThe International Atomic Energy Agency (IAEA) is",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " the Norwegian politician, Jens Stoltenberg.\nThe general secretary position at North Atlantic Treaty",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg"
+            },
+            {
+                "prediction": " in Brussels, Belgium. The North Atlantic Treaty Organization (NATO) is an alliance of ",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels"
+            },
+            {
+                "prediction": " Thomas Bach.\nThe International Olympic Committee (IOC) is the governing body of the Olympic",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon.\n Ban Ki-",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres"
+            },
+            {
+                "prediction": " Jim Yong Kim.\nThe World Bank is a global financial institution that aims to reduce poverty and promote",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Dr. Olli Heinonen.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg.\nThe current general secretary of North Atlantic Treaty Organization is Jens",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg"
+            },
+            {
+                "prediction": " Brussels, Belgium.\n Brussels, Belgium.",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels"
+            },
+            {
+                "prediction": " Thomas Bach.\nThomas Bach is the current chairperson of the International Olympic Committee.",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon.\nThe current general secretary of the United Nations is Ban Ki-moon.",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres"
+            },
+            {
+                "prediction": " Jim Yong Kim.\nThe current chairperson of the World Bank is Jim Yong Kim.",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga"
+            },
+            {
+                "prediction": " Yukiya Amano.\nThe current director of International Atomic Energy Agency is Yukiya A",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

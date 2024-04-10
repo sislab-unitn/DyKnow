@@ -1,0 +1,102 @@
+{
+    "companies_byRevenue": {
+        "CVS Health": {
+            "models_w_irrelevant_answers": [
+                "gpt2-xl",
+                "gpt-3.5-turbo-1106",
+                "gpt-4-1106-preview",
+                "Mistral-7B-Instruct-v0.1",
+                "Mixtral-8x7B-Instruct-v0.1"
+            ],
+            "n_models_w_irrelevant_answers": 5
+        }
+    },
+    "countries_byGDP": {
+        "France": {
+            "Prime Minister of France": {
+                "models_w_irrelevant_answers": [
+                    "gpt2-xl",
+                    "gpt-j-6B",
+                    "llama2-7b-chat",
+                    "Mistral-7B-Instruct-v0.1"
+                ],
+                "n_models_w_irrelevant_answers": 4
+            }
+        },
+        "Bangladesh": {
+            "President of Bangladesh": {
+                "models_w_irrelevant_answers": [
+                    "gpt2-xl",
+                    "gpt-j-6B",
+                    "llama2-7b-chat",
+                    "Mistral-7B-Instruct-v0.1"
+                ],
+                "n_models_w_irrelevant_answers": 4
+            }
+        },
+        "Vietnam": {
+            "President of Vietnam": {
+                "models_w_irrelevant_answers": [
+                    "gpt2-xl",
+                    "gpt-3.5-turbo-1106",
+                    "llama2-7b-chat",
+                    "Mixtral-8x7B-Instruct-v0.1",
+                    "vicuna-7b-v1.5"
+                ],
+                "n_models_w_irrelevant_answers": 5
+            },
+            "Prime Minister of Vietnam": {
+                "models_w_irrelevant_answers": [
+                    "gpt2-xl",
+                    "Mistral-7B-Instruct-v0.1",
+                    "Mixtral-8x7B-Instruct-v0.1",
+                    "vicuna-7b-v1.5"
+                ],
+                "n_models_w_irrelevant_answers": 4
+            }
+        },
+        "Iraq": {
+            "President of Iraq": {
+                "models_w_irrelevant_answers": [
+                    "gpt2-xl",
+                    "gpt-j-6B",
+                    "Mistral-7B-Instruct-v0.1",
+                    "vicuna-7b-v1.5"
+                ],
+                "n_models_w_irrelevant_answers": 4
+            },
+            "Prime Minister of Iraq": {
+                "models_w_irrelevant_answers": [
+                    "gpt2-xl",
+                    "gpt-j-6B",
+                    "llama2-7b-chat",
+                    "vicuna-7b-v1.5"
+                ],
+                "n_models_w_irrelevant_answers": 4
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Kawhi Leonard": {
+            "models_w_irrelevant_answers": [
+                "gpt2-xl",
+                "gpt-3.5-turbo-1106",
+                "gpt-4-1106-preview",
+                "llama2-7b-chat",
+                "Mistral-7B-Instruct-v0.1",
+                "Mixtral-8x7B-Instruct-v0.1"
+            ],
+            "n_models_w_irrelevant_answers": 6
+        },
+        "Pierre Gasly": {
+            "models_w_irrelevant_answers": [
+                "gpt2-xl",
+                "gpt-3.5-turbo-1106",
+                "llama2-7b-chat",
+                "Mixtral-8x7B-Instruct-v0.1",
+                "vicuna-7b-v1.5"
+            ],
+            "n_models_w_irrelevant_answers": 5
+        }
+    }
+}

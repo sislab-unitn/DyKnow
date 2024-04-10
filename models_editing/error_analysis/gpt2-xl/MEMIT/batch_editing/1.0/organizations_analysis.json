@@ -1,0 +1,124 @@
+{
+    "generic": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " a woman, and the head of the International Monetary Fund is a woman.\n\nThe head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi, who was appointed by President Obama in 2009.\n\nThe position of director at",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Nandan Nilekani, who is also the chairman of Infosys.\n\nThe World",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi, who has been in the post since 2006.\n\nThe agency's director is",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Nandan Nilekani, who is also the chairman of Infosys.\n\nThe World",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Ajay Banga. He is a former chairman of the National Democratic Alliance (NDA) government",
+                "matched_answers": [
+                    [
+                        "Banga",
+                        "+2023-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Rafael Grossi. He was appointed in September 2013.\n\nThe IAEA is the UN",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

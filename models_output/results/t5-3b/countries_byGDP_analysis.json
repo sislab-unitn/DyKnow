@@ -1,0 +1,2770 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "head of Russia is Vladimir Putin.......",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "head of Spain is Juan Carlos I. The head of Spain is Juan Carlos I.",
+                "matched_answers": [
+                    [
+                        "Juan Carlos I",
+                        "+1975-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " Mariano Rajoy.",
+                "matched_answers": [
+                    [
+                        "Mariano Rajoy",
+                        "+2011-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "head of the Italian government is a woman.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "government in Italy is......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "of of.. The head of state in..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "head of. that that that of of of that the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "of..... of of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "of........ The head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Die Regierungschefin in Deutschland ist",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "of. of of of Japan. of of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "head of government in Japan is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "head of state is..... head of the Indian",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "of state and head of state and the Queen. the Queen. the Queen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "of......... The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "La t\u00eate de gouvernement en France est",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "head of Brazil is a Brazilian.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "of state and of.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Canada.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "of........ The head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "president in Mexico is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "of. that that that of of of that the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "head of... of.. of of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "of of.. of.. of.. of government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "of state and. of state and. state and..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "president of Turkey is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "head of government in Turkey is......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "of head in Netherlands is the head in Netherlands is the head in Netherlands is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "government in Netherlands is.... of of of government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "head of state in Saudi Arabia is head of the head of state in Saudi Arabia is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "head of state and.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "head of government in Poland is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "head of state and.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "of government in Belgium is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "president is....... the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "head of state and.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "head of government in Sweden is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "head of state is head of state is the head of state. that the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "head of state and.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "head of government in Norway is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "of of of of of Austria is of of of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "of of of of of government in Austria is. of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "of is........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "of of........ The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "of. of of. of of of.. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "of.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "of head of of of. of of of the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "head of state in Singapore is......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "head of head of of of. of of of.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "government in Bangladesh is head of......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "of head of the head of the head in Philippines is the head in Philippines is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "of of of of of state. of of state. of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "head of government in Vietnam is of of the head of government in Vietnam.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "head of government in Malaysia is......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "head of state and.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "head of government in Denmark is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "of is.... of of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "head of government in Egypt is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "head of state and. of.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "head of state and.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "head of state in Iran is of the head of state in Iran is of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "head of of of of of of of of a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "president of Colombia is. of of....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " the head of state in Romania is the head of state in Romania",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "head of Chile is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "head of state and. the head of state in the head of state in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "of of of of of the Czech Republic. of of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "of of of...... in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "President is.. of......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "government in Finland is........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "head of. that that a woman. of of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "head of Portugal is a Portuguese......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "head of government in Portugal is a Portuguese.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": "..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "of of...... a man",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "of..... The President of the People's Republic of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "...... The Premier of the People's Republic of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "of........ The president",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Chancellor of Germany is.... of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Emperor of Japan is in Japan.. in Japan....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "of President of....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "...... Prime minister of India is Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "monarch is of..... monarch is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Prime Minister is. Prime Minister is......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "Le Pr\u00e9sident de la R\u00e9publique est en visite en France.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "Le Premier Ministre de France est",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "President of Brazil is a Brazilian. President of Brazil is a Brazilian. of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "monarch is the monarch of Canada...... monarch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "of.... The prime minister of Canada is..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "President of Russia is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Minister of Russia is...... of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "President of Mexico is a Mexican. President of Mexico is a Mexican. President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "President of South Korea is President of.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "monarch is the monarch of Australia is a monarch.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Minister of Australia is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "arch of of.... The Monarch is..arch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "President of Indonesia is a former President of Indonesia. President of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "President of Turkey is...... President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "Minister and...... Minister of Turkey is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "King of the Netherlands is!.!.!..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Prime Minister of the Netherlands is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "of Saudi Arabia is. King.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "of Republic of Poland is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "ofn........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "President of Argentina is President of Argentina is of... President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "y of of........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "y of of...arch....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "President is....... President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Chancellor of Austria is.. of.. of.. of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "President of Israel is President of......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Minister of Israel is...... Minister of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "King of Thailand is back! of.. back! of Thailand is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "President is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "President of Singapore is President of Singapore is of Singapore is...",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "President of Bangladesh is a Muslim. President of Bangladesh is a Muslim. President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "President of the Philippines is in the Philippines......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "President of Vietnam is..... President of.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Le Dung, Deputy Prime Minister of Vietnam is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "monarch is the monarch of Denmark.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "President of Egypt is..... President of Egypt is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Minister of Egypt is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "President of South Africa is President of.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Leader of Iran is of Leader of Iran is Leader of Iran is Leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "President of Iran is President of Iran is.... President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "President is........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "President of Chile is a Chilean. President of Chile is a Chilean.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "President of Pakistan is President of Pakistan is of... President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "President of the Czech Republic is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "of..... President of....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "of Finland is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "President of Iraq is President of President of President of. President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "Minister of Iraq is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "President of Portugal is a Portuguese......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "the of Xi Jinping. Xi Jinping.",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "current Prime minister of India is Narendra Modi. name of the current Prime minister is",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "of the current Prime Minister of Canada is Justin Trudeau....",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "- - Vladimir Putin. Vladimir Putin. Vladimir Putin.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "..: Andrzej Duda.....",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "current Prime Minister of Israel is Benjamin Netanyahu.. Benjamin Netanyahu.. Benjamin",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "the name of the current Federal Chancellor is Angela Merkel. the name of the current",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "name of the current monarch is Elizabeth II. name of the current monarch is Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Prime Minister is David Cameron.. David Cameron.. David Cameron.",
+                "matched_answers": [
+                    [
+                        "David Cameron",
+                        "+2010-05-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "Le Pr\u00e9sident de la R\u00e9publique fran\u00e7ais est Fran\u00e7ois Hollande.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois Hollande",
+                        "+2012-05-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "of the current President of Brazil is Michel Temer. President Temer. Michel Te",
+                "matched_answers": [
+                    [
+                        "Michel Temer",
+                        "+2016-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "name of the current monarch is Elizabeth II. name of Elizabeth II..",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "current Prime Minister of Russia is Vladimir Putin.. Vladimir Putin. Vladimir Putin.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "name of the current monarch is Elizabeth II. name of the current monarch is Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "President Aquino. President Aquino. Aquino....",
+                "matched_answers": [
+                    [
+                        "Aquino",
+                        "+1986-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "current President of Iran is Hassan Rouhani.  Rouhani.",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "........ the President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "of ........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "..........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": ".. Xi Jinping. Xi Jinping.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "the current president of Germany is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Emperor of Japan. . current Emperor of Japan is. The name of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Prime Minister of Japan. ......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "of ........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "of the current Prime Minister of France is Fran\u00e7ois Hollande.  Fran\u00e7ois Holland",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "current President of South Korea is.... The name of the current President of South",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "of the current Prime Minister of Australia is......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "the name of the current Monarch is. The name of the current Monarch is is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "current Prime Minister of Spain is.... The name of the current Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "of the current President of Indonesia is: : Susilo Bambang",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "current President of Turkey is. name of the current President of Turkey is..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "current Prime Minister of Turkey is Recep Tayyip Erdogan.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "current King of the Netherlands is. The. The name of the current King of the Netherlands",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "name of the current Prime Minister of the Netherlands is. The. The name of the current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "current King of Saudi Arabia is Salman bin Abdulaziz. name of the current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "current Prime Minister is..... The name of the current Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "the name of the current Monarch of the Belgians is: the name of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "current Prime Minister of Belgium is. The. The name of the current Prime Minister of Belgium",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "? The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "current Monarch of Sweden is.... current Monarch of Sweden",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "name of the current Prime Minister is: The name of the current Prime Minister is:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "of the current President of Ireland.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "current Norwegian Monarch is.. The name of the current Monarch is. The name",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "name of the current Prime Minister is: The name of the current Prime Minister is:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": ": The name",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "the name of the current Federal Chancellor is: The. The name of the current Federal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "current President of Israel is Benjamin Netanyahu. President of Israel is Benjamin Netanyahu. Netanyahu.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "current King of Thailand is. name of the current King of Thailand is..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "current Prime Minister of Thailand is .. The.. The name of the current Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "the name of the current President of the United Arab Emirates is? The name of the current President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "President of Singapore. name of the current President of Singapore is....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "President of Bangladesh........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "current Prime Minister of Bangladesh is. The......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "current President of Vietnam is name of the current President of Vietnam is Nguyen Tan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "current Prime Minister is. The name of the current Prime Minister is. Ngu",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "current Prime Minister of Malaysia is Najib Razak.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "name of the current monarch is Christian.. Christian. The name of the current monarch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "name of the current Prime Minister is. The. The name of the current Prime Minister is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "President of Egypt is President of Egypt is.....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "name of the current President of Egypt is Hosni Mubarak. The name",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "? The name of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "of the current President of South Africa is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "current Supreme Leader of Iran is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "President..... The name of the current President is..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "of the current President of Romania is is the name of the current President of Romania is the name",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "the current Prime Minister is is is is is is is is is is is is is is is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "President of the Republic and President of the Republic and. ..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "current Prime Minister is.........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "......... The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "..........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "of ........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "current Prime Minister of Finland is.. The name of the current Prime Minister is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "the current President is........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "current Prime Minister is.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "current Prime Minister is: The name of the current Prime Minister is: The name of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "The position of the Vice-President is currently held by Xi Jinping.",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "The position of the President of Israel is currently held by Benjamin Netanyahu.",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "President Cyril Ramaphosa. The position of the President of the ANC is",
+                "matched_answers": [
+                    [
+                        "Cyril Ramaphosa",
+                        "+2018-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Premier Li Keqiang. The position of the Premier of the People's Republic of China",
+                "matched_answers": [
+                    [
+                        "Li Keqiang",
+                        "+2013-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Die Bundeskanzlerin Angela Merkel.",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "The monarch of the United Kingdom is currently held by Her Majesty Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " David Cameron.",
+                "matched_answers": [
+                    [
+                        "David Cameron",
+                        "+2010-05-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "La position du Pr\u00e9sident de la R\u00e9publique est actuellement occup\u00e9e par Fran\u00e7ois Hollande.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois Hollande",
+                        "+2012-05-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "La position de Premier ministre de France est actuellement occup\u00e9e par M. Fran\u00e7ois Fillon",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois Fillon",
+                        "+2007-05-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "\u00c9lisabeth Borne",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": " Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "... Vladimir Putin. Vladimir Putin... of",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "of of President Moon Jae-in. President Moon...",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "The position of the monarch of New Zealand is currently held by Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "President Muhammadu Buhari. The position of the Vice President is currently held by Dr. Abach",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": ".... Hassan Rouhani...",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "of...... of the the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "of the the Prime minister of Italy the Prime minister of Italy, Matte",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "of of........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "of Germany, the position of the president of Germany, the position of the president of Germany,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": " His Imperial Highness the Emperor of Japan.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "....... the President of India.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "of...... of. the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "....... of the President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "of ..... of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "..... President of Russia.. of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "El Presidente de M\u00e9xico, Felipe Calderon.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "the Prime Minister of Australia. .... the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "of the........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "of. the the the.. of the the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "the President of Indonesia. The President of Indonesia. The President of Indonesia. The President of Indonesia",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "of...... of President Mr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "of...... of the.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "of of........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "of of... Minister of the Netherlands. of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "of of...... the position of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": ".",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "....... of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Monarch of the Belgians is currently held by Her Majesty Queen M\u00e1xim",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "of.. the Prime minister of Belgium....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "the of the the the. the the the the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "ofs...... the Monarch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": ". The Prime minister of Sweden. The Prime minister of Sweden. The Prime minister of Sweden.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "of Ireland. the President of Ireland......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "of position of... position of Monarchy of Norway",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "of of........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "of of of of of President of Austria. of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "of of........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "Israel.. Benjamin Netanyahu.. Benjamin Netanyahu.. Israel.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "of...... King of Thailand is currently",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "of of..... of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "of of... President of the United Arab Emirates is currently held",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "of of..... of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "President of Bangladesh....... President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "of of..... of the She",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "the the..... the..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": ".... Mr... of the President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "of of..... of. N",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "Malaysia is a country in Southeast Asia.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "of of..... of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "of. the President of Egypt... President of Egypt",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "of of..... of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "the Supreme Leader of Iran. The position of the Supreme Leader of Iran. The position of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": ".... the President of Colombia.. of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": " Mr.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "of of.... of of of of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": " the President of Chile.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "of of the.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "of of.... of of of Mr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "of of........",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "of of...   of..",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "of of the President of Finland the President of Finland the President of Finland",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "... the Prime minister of Finland. the. of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "of of the.......",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "of...... of the.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "of of..... of. the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "of.. the Prime minister of Portugal....",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    }
+}

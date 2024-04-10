@@ -1,0 +1,393 @@
+{
+    "generic": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos, who has been CEO since the company's inception in 1994.\n\nAmazon has been",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": ", of course, Ben van Beurden. He is a Dutchman who has been with the company",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Hackett.\n\nThe current President and CEO of Ford Motor Company is Mark Fields.\n",
+                "matched_answers": [
+                    [
+                        "Hackett",
+                        "+2017-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Matthias M\u00fcller.\n\nThe current Chairman of the Board of Directors of Volkswagen Group is Herbert",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson, who was appointed in 2006.\n\nThe company has been under fire for its record",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Gary Burns, who was appointed in 2011.\n\nThe company's website says that Mr Burns is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward, who was appointed in 2007.\n\nThe company has been under investigation by the US",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos, who is also the founder of the online retail giant.\n\nThe company has been",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": ", of course, Ben van Beurden. He is a Dutchman who has been with the company",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields, who was appointed to the position in October 2014.\n\nFields is a former",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Matthias M\u00fcller, who has been in the job since 2007. He is a former Porsche executive",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson, who has been in the job for less than a year. He has been criticized for",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Gary McKinnon, who was arrested in Ireland in October 2011.\n\nMcKinnon was arrested",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward, who was appointed in 2010.\n\nThe company has been under pressure to pay compensation",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Jim Farley.\n\nAbout Ford Motor Company\n\nFord Motor Company, a global automotive industry",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods, who was appointed to the position in 2006.\n\nThe company has been under fire",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos, who is also the company's founder and CEO.\n\nAmazon has been in the",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden, who has been with the company since 1999. He has been responsible for the",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Matthias M\u00fcller, who has been in the role since 2007.\n\nThe company's board",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Gary McAlinden, who was appointed to the role in January 2015.\n\nThe company",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward, who was appointed in 2007.\n\nThe company has been under pressure to explain the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Andy Jassy.\n\nAmazon.com, Inc.\n\nThe information contained in this press",
+                "matched_answers": [
+                    [
+                        "Andy Jassy",
+                        "+2021-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Jim Farley.\n\nAbout Ford Motor Company\n\nFord Motor Company, a global automotive industry",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": " Darren Woods. Mr. Woods has served as the Company's Chief Executive Officer since January 2015. Mr",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Martin Winterkorn.\n\nVolkswagen Group is the largest car manufacturer in the world,",
+                "matched_answers": [
+                    [
+                        "Martin Winterkorn",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Gary McGeever.\n\nThe company has a market capitalisation of \u20ac2.5 billion",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward.\n\nThe company has been under investigation by the US Department of Justice and the Securities",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Patrick Pouyanne.\n\nThe Board of Directors of Shell is composed of the following:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

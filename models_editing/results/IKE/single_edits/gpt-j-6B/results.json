@@ -1,0 +1,1262 @@
+[
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Amazon is currently held by",
+            "target_new": "Andy Jassy",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Amazon"
+        },
+        "time": 0.1481468677520752,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "The CEO position at ExxonMobil is currently held by",
+            "target_new": "Darren Woods",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at ExxonMobil"
+        },
+        "time": 0.12138676643371582,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.0,
+            "portability": {}
+        },
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Shell is currently held by",
+            "target_new": "Wael Sawan",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Shell"
+        },
+        "time": 0.11820602416992188,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Volkswagen Group is currently held by",
+            "target_new": "Oliver Blume",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Volkswagen Group"
+        },
+        "time": 0.13885211944580078,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Glencore is currently held by",
+            "target_new": "Gary Nagle",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Glencore"
+        },
+        "time": 0.13570046424865723,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "The CEO position at BP is currently held by",
+            "target_new": "Bernard Looney",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at BP"
+        },
+        "time": 0.1359572410583496,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Ford Motor Company is currently held by",
+            "target_new": "Jim Farley",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Ford Motor Company"
+        },
+        "time": 0.12287521362304688,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "The name of the current chairperson at World Bank is",
+            "target_new": "Ajaypal Singh Banga",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "chairperson at World Bank"
+        },
+        "time": 0.11525440216064453,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "The name of the current director at International Atomic Energy Agency is",
+            "target_new": "Rafael Grossi",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "director at International Atomic Energy Agency"
+        },
+        "time": 0.11557579040527344,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.75,
+            "portability": {}
+        },
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Iran is currently held by",
+            "target_new": "Ebrahim Raisi",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Iran"
+        },
+        "time": 0.11471891403198242,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.1666666716337204,
+            "portability": {}
+        },
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "The position of the monarch of the United Kingdom is currently held by",
+            "target_new": "Charles III of the United Kingdom",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of the United Kingdom"
+        },
+        "time": 0.11564111709594727,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of the United Kingdom is currently held by",
+            "target_new": "Rishi Sunak",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of the United Kingdom"
+        },
+        "time": 0.11545038223266602,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.1666666716337204,
+            "portability": {}
+        },
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "The position of the monarch of Australia is currently held by",
+            "target_new": "Charles III of the United Kingdom",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of Australia"
+        },
+        "time": 0.11552023887634277,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Australia is currently held by",
+            "target_new": "Anthony Albanese",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Australia"
+        },
+        "time": 0.1157374382019043,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.8571429252624512,
+            "portability": {}
+        },
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the United Arab Emirates is currently held by",
+            "target_new": "Mohammed bin Zayed Al Nahyan",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the United Arab Emirates"
+        },
+        "time": 0.2828555107116699,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Italy is currently held by",
+            "target_new": "Giorgia Meloni",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Italy"
+        },
+        "time": 0.11460757255554199,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the United States is currently held by",
+            "target_new": "Joe Biden",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the United States"
+        },
+        "time": 0.12047457695007324,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "The position of the Premier of the People's Republic of China is currently held by",
+            "target_new": "Li Qiang",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Premier of the People's Republic of China"
+        },
+        "time": 0.11452078819274902,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.8333333730697632,
+            "portability": {}
+        },
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "The position of the president of Germany is currently held by",
+            "target_new": "Frank-Walter Steinmeier",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "president of Germany"
+        },
+        "time": 0.11461806297302246,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.800000011920929,
+            "portability": {}
+        },
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "The position of the Federal Chancellor of Germany is currently held by",
+            "target_new": "Olaf Scholz",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Germany"
+        },
+        "time": 0.12162137031555176,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "The position of the Emperor of Japan is currently held by",
+            "target_new": "Naruhito",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Emperor of Japan"
+        },
+        "time": 0.11618375778198242,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.8333333730697632,
+            "portability": {}
+        },
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Japan is currently held by",
+            "target_new": "Fumio Kishida",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Japan"
+        },
+        "time": 0.11428523063659668,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.4000000059604645,
+            "portability": {}
+        },
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "The position of the President of India is currently held by",
+            "target_new": "Droupadi Murmu",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of India"
+        },
+        "time": 0.11484956741333008,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.9000000357627869,
+            "portability": {}
+        },
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Brazil is currently held by",
+            "target_new": "Luiz In\u00e1cio Lula da Silva",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Brazil"
+        },
+        "time": 0.1144094467163086,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.1666666716337204,
+            "portability": {}
+        },
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "The position of the monarch of Canada is currently held by",
+            "target_new": "Charles III of the United Kingdom",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of Canada"
+        },
+        "time": 0.11437010765075684,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.75,
+            "portability": {}
+        },
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Russia is currently held by",
+            "target_new": "Mikhail Mishustin",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Russia"
+        },
+        "time": 0.11475729942321777,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.20000000298023224,
+            "portability": {}
+        },
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "The position of the President of South Korea is currently held by",
+            "target_new": "Yoon Suk Yeol",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of South Korea"
+        },
+        "time": 0.11763691902160645,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.75,
+            "portability": {}
+        },
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Belgium is currently held by",
+            "target_new": "Alexander De Croo",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Belgium"
+        },
+        "time": 0.11535525321960449,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.800000011920929,
+            "portability": {}
+        },
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Sweden is currently held by",
+            "target_new": "Ulf Kristersson",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Sweden"
+        },
+        "time": 0.11657047271728516,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.8571429252624512,
+            "portability": {}
+        },
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Norway is currently held by",
+            "target_new": "Jonas Gahr St\u00f8re",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Norway"
+        },
+        "time": 0.114044189453125,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 30,
+        "requested_rewrite": {
+            "prompt": "The position of the Federal Chancellor of Austria is currently held by",
+            "target_new": "Karl Nehammer",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Austria"
+        },
+        "time": 0.11584997177124023,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 31,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Israel is currently held by",
+            "target_new": "Isaac Herzog",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Israel"
+        },
+        "time": 0.11406612396240234,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.0,
+            "portability": {}
+        },
+        "case_id": 32,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Thailand is currently held by",
+            "target_new": "Srettha Thavisin",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Thailand"
+        },
+        "time": 0.11531233787536621,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.875,
+            "portability": {}
+        },
+        "case_id": 33,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Singapore is currently held by",
+            "target_new": "Tharman Shanmugaratnam",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Singapore"
+        },
+        "time": 0.11458849906921387,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6000000238418579,
+            "portability": {}
+        },
+        "case_id": 34,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the Philippines is currently held by",
+            "target_new": "Bongbong Marcos",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Philippines"
+        },
+        "time": 0.1139528751373291,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.7142857313156128,
+            "portability": {}
+        },
+        "case_id": 35,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Vietnam is currently held by",
+            "target_new": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Vietnam"
+        },
+        "time": 0.11931371688842773,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.699999988079071,
+            "portability": {}
+        },
+        "case_id": 36,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Vietnam is currently held by",
+            "target_new": "Ph\u1ea1m Minh Ch\u00ednh",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Vietnam"
+        },
+        "time": 0.11421847343444824,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.8333333730697632,
+            "portability": {}
+        },
+        "case_id": 37,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Denmark is currently held by",
+            "target_new": "Mette Frederiksen",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Denmark"
+        },
+        "time": 0.11485743522644043,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.4000000059604645,
+            "portability": {}
+        },
+        "case_id": 38,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Nigeria is currently held by",
+            "target_new": "Bola Tinubu",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Nigeria"
+        },
+        "time": 0.11427092552185059,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6000000238418579,
+            "portability": {}
+        },
+        "case_id": 39,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Romania is currently held by",
+            "target_new": "Marcel Ciolacu",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Romania"
+        },
+        "time": 0.11488223075866699,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 40,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Chile is currently held by",
+            "target_new": "Gabriel Boric",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Chile"
+        },
+        "time": 0.11450314521789551,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.75,
+            "portability": {}
+        },
+        "case_id": 41,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Pakistan is currently held by",
+            "target_new": "Arif Alvi",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Pakistan"
+        },
+        "time": 0.1146707534790039,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.800000011920929,
+            "portability": {}
+        },
+        "case_id": 42,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Pakistan is currently held by",
+            "target_new": "Shehbaz Sharif",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Pakistan"
+        },
+        "time": 0.11504745483398438,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.0,
+            "portability": {}
+        },
+        "case_id": 43,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the Czech Republic is currently held by",
+            "target_new": "Petr Pavel",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Czech Republic"
+        },
+        "time": 0.11412310600280762,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 44,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of the Czech Republic is currently held by",
+            "target_new": "Petr Fiala",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of the Czech Republic"
+        },
+        "time": 0.11502504348754883,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.800000011920929,
+            "portability": {}
+        },
+        "case_id": 45,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Finland is currently held by",
+            "target_new": "Petteri Orpo",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Finland"
+        },
+        "time": 0.11504173278808594,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.3333333432674408,
+            "portability": {}
+        },
+        "case_id": 46,
+        "requested_rewrite": {
+            "prompt": "Lionel Messi is currently playing for",
+            "target_new": "Inter Miami CF",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Lionel Messi"
+        },
+        "time": 0.11402440071105957,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 47,
+        "requested_rewrite": {
+            "prompt": "Damian Lillard is currently playing for",
+            "target_new": "Milwaukee Bucks",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Damian Lillard"
+        },
+        "time": 0.11491727828979492,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.4000000059604645,
+            "portability": {}
+        },
+        "case_id": 48,
+        "requested_rewrite": {
+            "prompt": "Cristiano Ronaldo is currently playing for",
+            "target_new": "Al-Nassr",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Cristiano Ronaldo"
+        },
+        "time": 0.1150977611541748,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.4285714626312256,
+            "portability": {}
+        },
+        "case_id": 49,
+        "requested_rewrite": {
+            "prompt": "Neymar Jr. is currently playing for",
+            "target_new": "Al-Hilal SFC",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Neymar Jr."
+        },
+        "time": 0.11498069763183594,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.4000000059604645,
+            "portability": {}
+        },
+        "case_id": 50,
+        "requested_rewrite": {
+            "prompt": "Karim Benzema is currently playing for",
+            "target_new": "Al Ittihad FC",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Karim Benzema"
+        },
+        "time": 0.11483502388000488,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 51,
+        "requested_rewrite": {
+            "prompt": "Erling Haaland is currently playing for",
+            "target_new": "Manchester City F.C.",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Erling Haaland"
+        },
+        "time": 0.11479020118713379,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.20000000298023224,
+            "portability": {}
+        },
+        "case_id": 52,
+        "requested_rewrite": {
+            "prompt": "Sadio Man\u00e9 is currently playing for",
+            "target_new": "Al-Nassr",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Sadio Man\u00e9"
+        },
+        "time": 0.11527276039123535,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 53,
+        "requested_rewrite": {
+            "prompt": "Harry Kane is currently playing for",
+            "target_new": "FC Bayern Munich",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Harry Kane"
+        },
+        "time": 0.11522388458251953,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 54,
+        "requested_rewrite": {
+            "prompt": "Kevin Durant is currently playing for",
+            "target_new": "Phoenix Suns",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Kevin Durant"
+        },
+        "time": 0.11541938781738281,
+        "post": {
+            "rewrite_acc": 0.5,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6666666865348816,
+            "portability": {}
+        },
+        "case_id": 55,
+        "requested_rewrite": {
+            "prompt": "LeBron James is currently playing for",
+            "target_new": "Los Angeles Lakers",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "LeBron James"
+        },
+        "time": 0.1147611141204834,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.6000000238418579,
+            "portability": {}
+        },
+        "case_id": 56,
+        "requested_rewrite": {
+            "prompt": "Fernando Alonso is currently racing for",
+            "target_new": "Aston Martin F1 Team",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Fernando Alonso"
+        },
+        "time": 0.11534786224365234,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.75,
+            "portability": {}
+        },
+        "case_id": 57,
+        "requested_rewrite": {
+            "prompt": "Charles Leclerc is currently racing for",
+            "target_new": "Scuderia Ferrari",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Charles Leclerc"
+        },
+        "time": 0.1153573989868164,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 58,
+        "requested_rewrite": {
+            "prompt": "Carlos Sainz Jr. is currently racing for",
+            "target_new": "Scuderia Ferrari",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Carlos Sainz Jr."
+        },
+        "time": 0.11423587799072266,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": 0.5,
+            "portability": {}
+        },
+        "case_id": 59,
+        "requested_rewrite": {
+            "prompt": "Pierre Gasly is currently racing for",
+            "target_new": "Alpine F1 Team",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Pierre Gasly"
+        },
+        "time": 0.1154336929321289,
+        "post": {
+            "rewrite_acc": 1.0,
+            "locality": {},
+            "portability": {}
+        }
+    }
+]

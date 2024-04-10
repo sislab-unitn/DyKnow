@@ -1,0 +1,16 @@
+{
+    "Lionel Messi": {
+        "questions": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST]",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST]",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST]",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST]"
+        },
+        "answers": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST] Ajaypal Singh Banga <<SYS>> <<SYS>>>>>>>>>>>>",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST] Inter Miami CF [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST] Inter Miami CF [USTENEGRO] <<SYS>> 1999-2",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST] Inter Miami CF [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST] Inter Miami CF [INST] <<SYS>> <<SYS>> <<SYS>> <<SY",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST] FC Barcelona <<SYS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+        }
+    }
+}

@@ -1,0 +1,586 @@
+{
+    "Belgium": {
+        "Prime Minister of Belgium": {
+            "questions": {
+                "generic": "The head of government in Belgium is",
+                "contextualized": "The Prime Minister of Belgium is",
+                "rephrased_1": "The name of the current Prime Minister of Belgium is",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Belgium is\u040b\u040b\u042a\u0540\u040b\u040b\u0570\u040b\u0409\u0409\u040b\u0572\u042a\u040b\u042a\u042a\u042a\u040b\u040f\u0401",
+                "contextualized": "The Prime Minister of Belgium is\u040b\u040b\u0563\u040b\u0409\u040b\u040a\u040b\u042a Jahrh\u0401\u042a\ufffd\u042a\u040b\u0563\u0409\u042a\u040f\u042a",
+                "rephrased_1": "The name of the current Prime Minister of Belgium is\u0409\u040b\u042a\u0408\u042a\u0409\u040f\u0531\u0409\u042a\u042a\u040b\u040b\u0409\u040b\u0409\u042a\u040b\u042a\u0544",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by\u042a\u040b\u0409\u040f\u042a\u042a\u040b\u042a\u042a\u0409\u040b\u040a\u042a\u0408\u040b\u0401\u040b\u040b\u040b\u040b"
+            }
+        }
+    },
+    "Norway": {
+        "Prime Minister of Norway": {
+            "questions": {
+                "generic": "The head of government in Norway is",
+                "contextualized": "The Prime Minister of Norway is",
+                "rephrased_1": "The name of the current Prime Minister of Norway is",
+                "rephrased_2": "The position of the Prime Minister of Norway is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Norway is\u0572\u0409\u040a\u0544\u0577\u04e9\u042a\u042a\u0401\u040b\u042a\ufffd\u0577\u040b\u0409\u040b\u0429\u0563\u049a\u0407",
+                "contextualized": "The Prime Minister of Norway is\u040b\u0409\u042a\u0401\u040b\u0409\u042a\u040b\u0409\u0544\u0409\u042a\u042c\u040b\u0409\u040f\u042a\u0409\u042a\u040b",
+                "rephrased_1": "The name of the current Prime Minister of Norway is\u054d\u0401\u049a\u0401\u040b\u0409\u042a\u040b\u0531\u042a\u040b\u040b\u040f\u042a\u040b\u040f\u040b\u042b\u0570\u042a",
+                "rephrased_2": "The position of the Prime Minister of Norway is currently held by\u040b\u042a\u040b\u0540\u042a\u0531\u04d9\u040b\u042a\u040b\u0407\u042a\u040b\u0409\u0409\u042a\u0409\u0407\u0409\u040b"
+            }
+        }
+    },
+    "United Kingdom": {
+        "Prime Minister of the United Kingdom": {
+            "questions": {
+                "generic": "The head of government in United Kingdom is",
+                "contextualized": "The Prime Minister of the United Kingdom is",
+                "rephrased_1": "The name of the current Prime Minister of the United Kingdom is",
+                "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in United Kingdom is\u0409\u0409\u0409\u0540\u04e9\u042a\u04d9\u0409\u0570\u042a\u0409\u040b\u0570\u042a\u0409\u040b\u0401\u0409\u0409\u04e9",
+                "contextualized": "The Prime Minister of the United Kingdom is\u054d\u040b\u054d\u042a\u042a\u042a\u018f\u042b\u0409\u040f\u040b\u040b\u0544\u040a\u0409\u0409\u040b\u040f\u042a\u0409",
+                "rephrased_1": "The name of the current Prime Minister of the United Kingdom is\u040b\u0409\u0409\u0540\u040b\u0409\u040b\u040b\u040b\u042a,\u042a,\u0563\u0409\u040b\u040f\u0409\u054d\u040b",
+                "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by\u040b\u040b\u040b\u042a\u0401\u0409\u0409\u040b\u042a\u042a\u042a\u0409\u040a\u042a\u042a\u040b\u25c4\u0570\u042a\u040f"
+            }
+        }
+    },
+    "South Korea": {
+        "President of South Korea": {
+            "questions": {
+                "generic": "The head of state in South Korea is",
+                "contextualized": "The President of South Korea is",
+                "rephrased_1": "The name of the current President of South Korea is",
+                "rephrased_2": "The position of the President of South Korea is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in South Korea is\u018f\u042a\u040b\u0409\u0401\u040b\u0544\u042a\u040b\u042a\u040b\u018f\u049a\u0401\u0407\u040b\u040b\u0409\u0577\u040b",
+                "contextualized": "The President of South Korea is\u040b\u040b\u042a\u0409\u042a\u0409\u040b\u0563\u0408\u018f\u042a\u0409\u042a\u042a\u040b\u0409\u0563\u040b\u04d9\u04d9",
+                "rephrased_1": "The name of the current President of South Korea is\u040b\u042a\u040b\u0401\u0408\u0409\u040f\u042a\u040b\u0409\u042a\u0409\u040b\u0429\u042a\u042a\u0572\u042a\u042a\u040b",
+                "rephrased_2": "The position of the President of South Korea is currently held by\u0409\u042a\u054d\u0409\u042a\u0409\u0409\u040b\u042a\u040b\u0409\u042a\u040b\u040b\u042a\u054d\u018f\u040b\u0409\u0563"
+            }
+        }
+    },
+    "Italy": {
+        "Prime Minister of Italy": {
+            "questions": {
+                "generic": "The head of government in Italy is",
+                "contextualized": "The Prime Minister of Italy is",
+                "rephrased_1": "The name of the current Prime Minister of Italy is",
+                "rephrased_2": "The position of the Prime Minister of Italy is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Italy is\ufffd\u0409\u040b\u040b\u0409\u042aulle\u0540\u040b\u0531\u042a\u0540\u040b\u04d9\u0531\u040b\u0401\u04d9\u042a\u0409",
+                "contextualized": "The Prime Minister of Italy is\u040b\u040b\u0429\ufffd\u040b\u040b\u040f\u040b\u0408\u042a\u040b\u040b\u049a\u042a\u0409\u0409\u0409\u0544\u040b\u0409",
+                "rephrased_1": "The name of the current Prime Minister of Italy is\u040b\u040b\u040f\u042a\u018f\u040b\u0401\u042a\u042a\u0540\u040b\u054d\u040b\u040b\u042a\u040b\u0409\u042c\u040b\u0429",
+                "rephrased_2": "The position of the Prime Minister of Italy is currently held by\u040b\u040b\u040b\u0409\u042a\u0544\u0409\u042a\u0409\u0409\u040b\u042a\u0409\u042a\u040b\u042a\u0409\u0407\u040b\u0544"
+            }
+        }
+    },
+    "United States of America": {
+        "President of the United States": {
+            "questions": {
+                "generic": "The head of state in United States of America is",
+                "contextualized": "The President of the United States is",
+                "rephrased_1": "The name of the current President of the United States is",
+                "rephrased_2": "The position of the President of the United States is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in United States of America is\u042a\u042a\u042b\u042a\u0409\u054d\u040b\u0409\u0409\u040b\u0409\u040b\u0409\u040a\u0409\u040a\u040b\u040f\u040b\u040b",
+                "contextualized": "The President of the United States is\u0531\u040b\u0409\u040b\u040b\u042a\u040b\u042a\u042a\u0577\u0401\u042a\u040b\u040b\u04d9\u0401\u0409\u040b\u040b\u042a",
+                "rephrased_1": "The name of the current President of the United States is\u0544\u040b\u0570\u0409\u040b\u040b\u040b\u042a\u040f\u040b\u040f\u0544\u0409\u040b\u0409\u040b\u0401\u042a\u040f\u0409",
+                "rephrased_2": "The position of the President of the United States is currently held by\u040b\u042a\u0401\u042a\u0563\u0409\u040f\u040b\u042a\u040b\u0409\u0570\u0409\u0570\u040b\u04e9\u040b\u040b\u0409\u0544"
+            }
+        }
+    },
+    "China": {
+        "Premier of the People's Republic of China": {
+            "questions": {
+                "generic": "The head of government in China is",
+                "contextualized": "The Premier of the People's Republic of China is",
+                "rephrased_1": "The name of the current Premier of the People's Republic of China is",
+                "rephrased_2": "The position of the Premier of the People's Republic of China is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in China is\u0409\u054d\u040b\u040b\u042a\u0572\u040f\u042a\u040b\u042a\u040bery\u040b\u040b\u0408\u040b\u0409\u040f\u040b\u0540",
+                "contextualized": "The Premier of the People's Republic of China is\u042a\u040b\u0531\u040b\u040f\u0409\u042a\u040f\u0540\u040b\u0540\u042a\u040b\u0409\u0409\u042a\u0408\u042a\u0563\u042a",
+                "rephrased_1": "The name of the current Premier of the People's Republic of China is\u0540\u0531\u0540\u040b\u040b\u0563\u0531\u040b\u040f\u040b\u0570\u0408\u040b\u040b\u042a\u042a\u040b\u0409\u040b\u0409",
+                "rephrased_2": "The position of the Premier of the People's Republic of China is currently held by\u040b\u042a\u042a\u040b\u0409\u040b\u042a\u040f\u0577\u0409\u042b\u040b\u042a\u040b\u0409\u040b\u040b\u0409\u040b\u040b"
+            }
+        }
+    },
+    "Germany": {
+        "Federal Chancellor of Germany": {
+            "questions": {
+                "generic": "The head of government in Germany is",
+                "contextualized": "The Federal Chancellor of Germany is",
+                "rephrased_1": "The name of the current Federal Chancellor of Germany is",
+                "rephrased_2": "The position of the Federal Chancellor of Germany is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Germany is\u018f\u040b\u042a\u0409\u042a\u042a\u040f\u042a\u0409\u042a\u042a\u042a\u0563\u040b\u042a\u0409\u042a\u042a\u0563\u0429",
+                "contextualized": "The Federal Chancellor of Germany is\u0409\u042a\u040a,\u040b-\u040b. everybody\u040b\u0540\u040b\u0408\u042a\u040b\u042a\u018f\u042a\u0570\u040b",
+                "rephrased_1": "The name of the current Federal Chancellor of Germany is\u0409\u042a\u042a\u0409\u0570\u040b\u042a\u042a\u040b\u042a\u0409\u040b\u042a\u042a\u040b\u042a\u0409\u042a\u040b\u0409",
+                "rephrased_2": "The position of the Federal Chancellor of Germany is currently held by\u0409\u0531\u0408\u040f\u040b\u042a\u0409\u042a\u040b\u040b\u0570\u042a\u04d9\u042a\u0401\u042a\u042a\u042a\u042a\u042a"
+            }
+        }
+    },
+    "Japan": {
+        "Emperor of Japan": {
+            "questions": {
+                "generic": "The head of state in Japan is",
+                "contextualized": "The Emperor of Japan is",
+                "rephrased_1": "The name of the current Emperor of Japan is",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Japan is\u040b\u0409\u0540\u040b\u0429\u040b\u0531\u04e9\u040b\u040b\u0408\u040b\u040b\u0563\u0409\u0544\u0409\u040f\u040f\u042a",
+                "contextualized": "The Emperor of Japan is\u0409\u040b\u04e9\u0409\u0544\u0540\u0401\u042a\u040f\u040b\u0401\u040b\u040f\u040b\u042a\u040b\u042a\u0570\u0407\u0570",
+                "rephrased_1": "The name of the current Emperor of Japan is\u040b\u0409\u040b\u042a\u0409\u0570\u040b\u042a\u040b\u042a\u0429\u040b\u040b\u042a\u042a\u040b\u0409\u040f\u042a\ufffd",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by\u040b\u0409\u040b\u042a\u042a\u0409\u0409\u040b\u0409\u049a\u049a\u054d\u042a\u042a\u040b\u04d9\u0409\u04d9\u0540\u042a"
+            }
+        },
+        "Prime Minister of Japan": {
+            "questions": {
+                "generic": "The head of government in Japan is",
+                "contextualized": "The Prime Minister of Japan is",
+                "rephrased_1": "The name of the current Prime Minister of Japan is",
+                "rephrased_2": "The position of the Prime Minister of Japan is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Japan is\u040b\u042a\u040b\u042a\u040b\u0409\u0409\u0409\u0409\u040b\u040b\u040b\u054d\u0409\u042a\u040b\u042a\u0409\u0540\u042a",
+                "contextualized": "The Prime Minister of Japan is\u040b\u042a\u0409\u0409\u0409\u0563\ufffd\u040b\u0531\u0429-\u042a-\u042a-\u0409-\u0409-\u0531",
+                "rephrased_1": "The name of the current Prime Minister of Japan is\u040b\u0409\u040b\u0409\u042a\u0401\u040f\u049a\u042a\u042a\u040b\u042a\u040b\u042a\u054d\u042c\u040b-\ufffd\u040b",
+                "rephrased_2": "The position of the Prime Minister of Japan is currently held by\u0409\u040b\u042a\u0409\u040b\u0409\u04d9\u042a\u042a\u040f\u0401\u040b\u040b\u0409\u040b\u0544\u040b\u040b\u0409\u040b"
+            }
+        }
+    },
+    "India": {
+        "President of India": {
+            "questions": {
+                "generic": "The head of state in India is",
+                "contextualized": "The President of India is",
+                "rephrased_1": "The name of the current President of India is",
+                "rephrased_2": "The position of the President of India is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in India is\u040b\u0563\u0409\u0409\u0409\u0540\u042a\u0409\u042a\u0409\u042a\u040f\u0409\u042a\u0409\u0409\u042a\u0409\u0409\u0409",
+                "contextualized": "The President of India is\u0401\u040b\u042a\u0577\u049a\u042a\u0409\u04e9\u042a\u054d\u042a\u042a\u040b\u042a\u0563\u042a\u0570\u0409\u042a\u040b",
+                "rephrased_1": "The name of the current President of India is\u0409\u040b\u0409\u040b\u040b\u040b\u040b\u040bbrains\u0409\u0409\u0409\u042a\u040b\u0409\u0540\u040f\u040b\u042a\u040b",
+                "rephrased_2": "The position of the President of India is currently held by\u0570\u040b\u049a\u0409\u040b\u040f\u0572\u042a\u040b\u0409\u0544\u040f\u0409\u0570\u042a\u0409\u0409\u040b\u040f\u040b"
+            }
+        }
+    },
+    "France": {
+        "Prime Minister of France": {
+            "questions": {
+                "generic": "The head of government in France is",
+                "contextualized": "The Prime Minister of France is",
+                "rephrased_1": "The name of the current Prime Minister of France is",
+                "rephrased_2": "The position of the Prime Minister of France is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in France is\u040b\u040b\u040b\u042a\u040b\u0401\u040f\u0409\u04e9\u042aulle\u040b\u0409\u0409\u0409\u0409\u0409\u040b\u040b\u042a",
+                "contextualized": "The Prime Minister of France is\u040b\u040b\u040b\u0409\u0570\u040b\u040b\u040b\u042aanonymous\u04d9\u04d9\u0409\u0409\u0429\u042a\u018f\u0407\u042a\u040b",
+                "rephrased_1": "The name of the current Prime Minister of France is\u049a\u054d\u0570\u040b\u040b\u040a\u0401\u042a\u0409\u0531\u0409\u042a\u0409\u0429\u049a\u0429\u0409\u042a\u040b\u040b",
+                "rephrased_2": "The position of the Prime Minister of France is currently held by\u049a\u042a\u042a\u0409\u0577\u040b\u040b\u042a\u042a\u040b\u0409\u0429\u042a\u040f\u0577\u042a\u0409\u040b\u0563\u042a"
+            }
+        }
+    },
+    "Brazil": {
+        "President of Brazil": {
+            "questions": {
+                "generic": "The head of state in Brazil is",
+                "contextualized": "The President of Brazil is",
+                "rephrased_1": "The name of the current President of Brazil is",
+                "rephrased_2": "The position of the President of Brazil is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Brazil is\u054d\u040b\u0408\u040b\u0409\u0409\u0401\u0577\u042a\u040b\u0409\u0409\u040b\u040b\u040b\u040f\u040b\u040f\u042a\u040f",
+                "contextualized": "The President of Brazil is\u042a\u042a\u0409\u0401\u0409\u0409\ufffd\u0409\u040b\u042a\u040f\u042a\u040b\u0409\u040b\u0409\u0544\u054d\u04d9\u040b",
+                "rephrased_1": "The name of the current President of Brazil is\u040f\u042a\u042a\u0409\u0544\u042c\u042a\u042a\u040b\u042a\u042a\u040f\u0572\u040b\u040b\u0544\u040b\u040b\u0570\u040b",
+                "rephrased_2": "The position of the President of Brazil is currently held by\u0563\u0408\u0409\u042a\u040b\u040b\u042a\u040b\u040b\u0409\u0409\u042a\u042a\u0409\u0429\u042a\u040b\u0409\u040b\u0409"
+            }
+        }
+    },
+    "Canada": {
+        "monarch of Canada": {
+            "questions": {
+                "generic": "The head of state in Canada is",
+                "contextualized": "The monarch of Canada is",
+                "rephrased_1": "The name of the current monarch of Canada is",
+                "rephrased_2": "The position of the monarch of Canada is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Canada is\u042a\u0409\u0531\u042a\u040b\u0540\u040b\u042a\u0563\u0409\u042a\u040b\u0409\u040b\u0401\u042a\u040f\u040b\u0409\u040b",
+                "contextualized": "The monarch of Canada is\u0572\u0563\u042a\u018f\ufffd\u0409\u042a\u0409\u0401\u0401\u0409\u040b\u040b\u040b\u040b\u0409\u040b\u042a\u042a\u040b",
+                "rephrased_1": "The name of the current monarch of Canada is\u0563\u040b\u0401\u042a\u042a\u040b\u0409\u0409\u0409\u0409\u040b\u0409\u0409\u040b\u0409\u0409\u042a\u042a\u0409\u0409",
+                "rephrased_2": "The position of the monarch of Canada is currently held by\u040b\u040f\u040f\u0409\u040b\u0544\u040b\u040b\u042a\u0409\u040b\u042a\u04e9\u0409\u0407\u042a\u042a\u0409\u040b\u0409"
+            }
+        }
+    },
+    "Russia": {
+        "Prime Minister of Russia": {
+            "questions": {
+                "generic": "The head of government in Russia is",
+                "contextualized": "The Prime Minister of Russia is",
+                "rephrased_1": "The name of the current Prime Minister of Russia is",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Russia is\u040b\u042a\u0409\u054d\u042a\u040b\u0409\u040f\u0429\u040f\u0409\u042a\u040b\u040b\u054d\u042a-\u0544\u042a\u042a",
+                "contextualized": "The Prime Minister of Russia is\u0409\u0409\u0409\u0544\u042a\u0401\u040f\u0544\u0409\u04e9\u040b\u040b\u040b\u042a\u040b\u042b\u0544\u040f\u0540\u0409",
+                "rephrased_1": "The name of the current Prime Minister of Russia is\u040f\u0429\u042a\u0409\u0409\u0563\u040b\u042a\u0563\u0409\u042a\u040b\u0572\u040b\u040f\u0409\u0409\u0409\u0409\u054d",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by\u0409\u04d9\u042a\u040b\u0570\u0409\u018f\u040b\u042a\u042a\u0544\u0401\u040b\u040f\u0408\u040b\u04d9\u042a\u0409\u042a"
+            }
+        }
+    },
+    "Australia": {
+        "monarch of Australia": {
+            "questions": {
+                "generic": "The head of state in Australia is",
+                "contextualized": "The monarch of Australia is",
+                "rephrased_1": "The name of the current monarch of Australia is",
+                "rephrased_2": "The position of the monarch of Australia is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Australia is\u0531\u0409\u040b\u040b\u0429\u040f\u0409\u0429\u0409\u0409\u0401\u040b\u0409\u040b\u040b\u042a\u0409\u042a\u0408\u042c",
+                "contextualized": "The monarch of Australia is\u0409\u0409\u040b\ufffd\u040b\u0409\u042aodon\u0409\u040b\u0409\u0544\u040b\u042a\u0572\u0570\u040b\u042a\u0570\u042a",
+                "rephrased_1": "The name of the current monarch of Australia is\u0409\u040f\u0409\u042a\u042a\u042c\u0409\u0409\u0409\u0409\u0563\u0409\u042a\u042a\u042a\u040f\u040b\u04e9\u042ainer",
+                "rephrased_2": "The position of the monarch of Australia is currently held by\u040b\u018f\u042a\u040f\u0544\u042a\u0409\u0409\u040b\u040b\u040b\u049a\u040b\u04e9\u042a\u042a\u0409\u0577\u042a\u042a"
+            }
+        },
+        "Prime Minister of Australia": {
+            "questions": {
+                "generic": "The head of government in Australia is",
+                "contextualized": "The Prime Minister of Australia is",
+                "rephrased_1": "The name of the current Prime Minister of Australia is",
+                "rephrased_2": "The position of the Prime Minister of Australia is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Australia is\u0531\u042a\u0531\u0409\u040b\u0409\u042a\u0407\u040f\u040a\u0409\u0409\ufffd\u0401\u040b\u040b\u0409\u042a\u040b\u0570",
+                "contextualized": "The Prime Minister of Australia is\u040b\u040b\u0409\u054d\u0544\u0409\u040b\u0409\u042a\u040b\u042a\u040b\u0540\u0409\u040b\u0429\u040f\u0540\u042a\u0562",
+                "rephrased_1": "The name of the current Prime Minister of Australia is\u0409\u0409\u0409\u040b\u0409\u0531\u0409\u040f\u040b\u042a\u040b\u0409\u040b\u0409\u0429\u040f\u040f\u040b\u040b\u042a",
+                "rephrased_2": "The position of the Prime Minister of Australia is currently held by\u0409\u040b\u040b\u042a\u0544\u040b\u040f\u040b\u054d\u040f\u040f\u054d\u0408\u042a\u0570\u040b\u040b\u040b\u042a\u054d"
+            }
+        }
+    },
+    "Poland": {
+        "Prime Minister of Poland": {
+            "questions": {
+                "generic": "The head of government in Poland is",
+                "contextualized": "The Prime Minister of Poland is",
+                "rephrased_1": "The name of the current Prime Minister of Poland is",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Poland is\u049a\u0407\u0409\u040b\u0409\u0563\u040b\u040f\u0572\u040b\u042a\u040b\u0409\u040b\u040b\u0540\u040b\u0409\u04d9\u0408",
+                "contextualized": "The Prime Minister of Poland is\u0540\u040b\u0409\u040b\u0407\u0409\u0429\u0409\u0429\u040f\u0570\u0409\u0531\u040b\u0409\u0409\u0409\u0409\u040b\u040f",
+                "rephrased_1": "The name of the current Prime Minister of Poland is\u040b\u040b\u040b\u040b\u040b\u042c\u042a\u042c\u040f\u0577\u040b\u0429\u040b\u040b\u0409\u0409\u0409\u0409\u0544\u0401",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by\u04e9\u0409\u0407\u0409\u040b\u0401\u040b\u040b\u042a\ufffd\u042a,\u042a,\u04e9,\u0409\u040b\u042a\u0409"
+            }
+        }
+    },
+    "Sweden": {
+        "Prime Minister of Sweden": {
+            "questions": {
+                "generic": "The head of government in Sweden is",
+                "contextualized": "The Prime Minister of Sweden is",
+                "rephrased_1": "The name of the current Prime Minister of Sweden is",
+                "rephrased_2": "The position of the Prime Minister of Sweden is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Sweden is\u0570\u0409\u0408\u042a\u04e9\u0409\u0401\u0409\u040b\u0409\u04e9\u0408\u0409\u0409\u040b\u040b\u0409\u040b\u042a\u040b",
+                "contextualized": "The Prime Minister of Sweden is\u042a\u042a\u0409\u0577\u0409\u0409\u0409\u040b\u0409\u042a\u0562. kwiet\u040b\u0409\u042a\u042a\u042a\u040b\u042a",
+                "rephrased_1": "The name of the current Prime Minister of Sweden is\u040b\u0540\u042a\u040f\u040b\u042a\u0401\u0570\u054d\u040b\u0409\u040b\u042a\u040b\u049a\u0544\u0544\u040b\u042a\u040b",
+                "rephrased_2": "The position of the Prime Minister of Sweden is currently held by\u049a\u040b\u040b\u042a\u040b\u0409\u0540\u042a\u042a\u040f\u042a\u040b\u040f\u040b\u040f\u040b\u0540\u040b\u0409\u042a"
+            }
+        }
+    },
+    "Austria": {
+        "Federal Chancellor of Austria": {
+            "questions": {
+                "generic": "The head of government in Austria is",
+                "contextualized": "The Federal Chancellor of Austria is",
+                "rephrased_1": "The name of the current Federal Chancellor of Austria is",
+                "rephrased_2": "The position of the Federal Chancellor of Austria is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Austria is\u054d\u042a\u0570\u040b\u0409\u0409\u0409\u040b\u040b\u040b\u0409\u0409\u042a\u040b Hills\u042a\u040b\u040b\ufffd\u040b",
+                "contextualized": "The Federal Chancellor of Austria is\u0401\u0563\u040f\u040b\u042a\u042a\u0409\u0409\u0409\u0544\u0409\u054d\u0401\u040b\u042a\u040b\u042a\u0540\u040b\u040b",
+                "rephrased_1": "The name of the current Federal Chancellor of Austria is\u0401\u042a\u0409\u042a\u0429\u0572\u0409\u0570\u0409\u042a\u042a\u042a\u0409\u0409\u0409\u0409\u0409\u040f\u0401\u042a",
+                "rephrased_2": "The position of the Federal Chancellor of Austria is currently held by\u0409\u040b\u0409\u0409\u042a\u042a\u040b\u0409\u0409\u0409\u0409\u040b\u042a\u042a\u0409\u042a\u040b\u042a\u0409\u040b"
+            }
+        }
+    },
+    "Israel": {
+        "President of Israel": {
+            "questions": {
+                "generic": "The head of state in Israel is",
+                "contextualized": "The President of Israel is",
+                "rephrased_1": "The name of the current President of Israel is",
+                "rephrased_2": "The position of the President of Israel is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Israel is\u040b\u042a\u0409\u040b\u040b\u042a\u042a\u0401\u0570\u040f\u04e9\u040f\u0531\u042a\u040b\u040b\u0409\u04e9\u0429\u040b",
+                "contextualized": "The President of Israel is\u040b\u0570\u054d\u0409\u0429\u0544\u040b\u040b\u042a\u0409\u0409\u0409\u0409\u040f\u040b\u0429\u0544\u040b\u0409\u0570",
+                "rephrased_1": "The name of the current President of Israel is\u018f\u042a\u0409\u0409\u040b\u0540\u0409\u0401\u040b\u0409\u040b\u040b\u0401\u040b\u040b\u040f\u0409\u0577\u040b\u0409",
+                "rephrased_2": "The position of the President of Israel is currently held by\u04d9\u0563\u0409\u0409\u042a\u040f\u0409\u0409\u040b\u040f\u0540\u0409\u042a\u040b\u0540\u042c\u0409\u040b\u042a\u040b"
+            }
+        }
+    },
+    "Thailand": {
+        "Prime Minister of Thailand": {
+            "questions": {
+                "generic": "The head of government in Thailand is",
+                "contextualized": "The Prime Minister of Thailand is",
+                "rephrased_1": "The name of the current Prime Minister of Thailand is",
+                "rephrased_2": "The position of the Prime Minister of Thailand is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Thailand is\u040b\u042a\u040b\u040b\u0409\u042a\u040b\u0409\u042a\u042a\u040b m\u040b\u040f\u040f\u0563\u042a\u0544\u0409\u042a",
+                "contextualized": "The Prime Minister of Thailand is\u0409\u054d\u0409\u0409\u0409\u054d\u040f\u0401\u040b\u04d9\u049a\u040b\u054d\u042aery\u0409\u0531\u040b\u040b\u0401",
+                "rephrased_1": "The name of the current Prime Minister of Thailand is\u0401\u0540\u040f\u040a,\u042a-\u0409. sierp\u042a\u040b\u042a\u018f\u0570\u040f\u040f\u040b\u042a\u0409",
+                "rephrased_2": "The position of the Prime Minister of Thailand is currently held by\u040b\u042a\u040f\u040b\u0531\u0407\u0544\u0544\u040b\u040b\u042a\u0409\u0409\ufffd\u0409\u0409\u042a\u040b\u042a\u0531"
+            }
+        }
+    },
+    "Singapore": {
+        "President of Singapore": {
+            "questions": {
+                "generic": "The head of state in Singapore is",
+                "contextualized": "The President of Singapore is",
+                "rephrased_1": "The name of the current President of Singapore is",
+                "rephrased_2": "The position of the President of Singapore is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Singapore is\u0409\u0570\u040b\u042b\u042b\u040f\u0409\u042a\u0409\u0409\u042a\u0408\u040b\u0577\u0563\u042a\u0409\u040b\u042a\u042a",
+                "contextualized": "The President of Singapore is\u042a\u0409\u0409\u0409\u042a\u042a\u042a\u042a\u042a\u040b\u0572\u040b\u040b\u042a\u049a\u040b\u0407\u042a\u0401\u0409",
+                "rephrased_1": "The name of the current President of Singapore is\u018f\u0544\u040b\u040b\u0429\u040b\u040b\u0409\u042a\u0409\u040b\u040b\u040b\u042a\u042a\u0409\u042a\u0409\u040b\u040b",
+                "rephrased_2": "The position of the President of Singapore is currently held by\u0409\u0401\u042a\u040f\u040f\u042a\u040b\u0409\u0409\u040b\u040b\u042a\u040b\u042a\u040f\u042c\u0409\u0409\u0409\u042a"
+            }
+        }
+    },
+    "Bangladesh": {
+        "President of Bangladesh": {
+            "questions": {
+                "generic": "The head of state in Bangladesh is",
+                "contextualized": "The President of Bangladesh is",
+                "rephrased_1": "The name of the current President of Bangladesh is",
+                "rephrased_2": "The position of the President of Bangladesh is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Bangladesh is\u04e9\u040a\u040b\u018f\u040b\u0409\u040b\u054d\u040b\u042a\u0407\u042a\u018f\u0409\u25c4\u042a\u0409\u040b\u040b\u0409",
+                "contextualized": "The President of Bangladesh is\u0429\u0407\u040b\u040b\u0409\u040b\u042a\u042a\u0409\u042a\u040b\u0409\u042a\u042a\u042a\u040bembed\u040b\u0409\u040b",
+                "rephrased_1": "The name of the current President of Bangladesh is\u040b\u042c\u042a\u040b\u042a\u0409\u042a\u040b\u040b\u042a\u042a\u0540\u040b\u040f\u040b\u0429\u040b\u0401\u0570\u0563",
+                "rephrased_2": "The position of the President of Bangladesh is currently held by\u0409\u0409\u0407\u04d9\u040b\u040f\u042a\u040b\u040f\u040b\u0409\u0409\u0409\u040b\u042a\u042a\u042a\u042a\u0577\u042a"
+            }
+        }
+    },
+    "Philippines": {
+        "President of the Philippines": {
+            "questions": {
+                "generic": "The head of state in Philippines is",
+                "contextualized": "The President of the Philippines is",
+                "rephrased_1": "The name of the current President of the Philippines is",
+                "rephrased_2": "The position of the President of the Philippines is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Philippines is\u040b\u040b\u0540\u0409\u040f\u040b\u040b\u040f\u042a-\u042a-\u040f\u0409\u054d\u040b\u0429\u040b\u0407\u040b",
+                "contextualized": "The President of the Philippines is\u042a\u0409\u0531\u0544\u0409\u040f\u040f\u040a\u0572\u0409\u049a\u040b\u042a\u0544\u0409\u040b\u0409\u0409\u040b\u0409",
+                "rephrased_1": "The name of the current President of the Philippines is\u040b\u0409\u0401\u040b\u040b\u040f\u042a\uff0d\u040b-\u0563\u04e9\u040b\u040f\u0544\u040b\u04e9\u04d9\u040b\ufffd",
+                "rephrased_2": "The position of the President of the Philippines is currently held by\u042a\u054d\u042a\u040b\u040b\u040b\u0429\u040b\u0409\u0409\u042a\u040b\u042a\u040b\uff0d\u042a-\u054d\u040f\u042a"
+            }
+        }
+    },
+    "Vietnam": {
+        "President of Vietnam": {
+            "questions": {
+                "generic": "The head of state in Vietnam is",
+                "contextualized": "The President of Vietnam is",
+                "rephrased_1": "The name of the current President of Vietnam is",
+                "rephrased_2": "The position of the President of Vietnam is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Vietnam is\u0409\u040b\u042a\u0540\u0409\u040b\u042a\u040b\u0409\u042a\u040b\u0544\u040b\u042a\u049a\u0409\u0409\u040b\u040b\u0409",
+                "contextualized": "The President of Vietnam is\u040b\u040b\u040b\u042a\u042a\u040b\u0407\u040b\u040b\u0409\u040b\u042b\u042a\u040b\u0409\u054d\u0409\u0409\u042a\u040f",
+                "rephrased_1": "The name of the current President of Vietnam is\u042a\u040b\u042a\u040b\u040b\u0429\u0409\u018f\u042a\u042a\u042a\u042a\u042b\u0409\u040b\u0544\u0540\u0409\u0531\u040f",
+                "rephrased_2": "The position of the President of Vietnam is currently held by\u040b\u0572\u0570\u0563\u040b\u040b\u042a\u0409\u0409\u0409\u0409\u0401\u042a\u040b\u040b\u042a\u042a\u0544\u0401\u042a"
+            }
+        },
+        "Prime Minister of Vietnam": {
+            "questions": {
+                "generic": "The head of government in Vietnam is",
+                "contextualized": "The Prime Minister of Vietnam is",
+                "rephrased_1": "The name of the current Prime Minister of Vietnam is",
+                "rephrased_2": "The position of the Prime Minister of Vietnam is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Vietnam is\u040b\u0409\u018f\u0544\u018f\u0531\u040b\u0544\u0409\u0409\u0572\u042a\u042a\u042a\u040b\u042a\u0429\u0544\u040f\u040b",
+                "contextualized": "The Prime Minister of Vietnam is\u040b\u0563\u054d\u040b\u040f\u0570\u042a\u040b\u0409\u040b\u040b\u0409\u04e9\u040b\u040b\u042a\u0409\u040b\u040b\u040b",
+                "rephrased_1": "The name of the current Prime Minister of Vietnam is\u040b\u040b\u040b\u042a\u042a\u0409\u0409\u042a\u042a\u042b\u040a\u040b\u042a\u0531 Einzeln\u0409\u0409\u042a\u04d9\u042a",
+                "rephrased_2": "The position of the Prime Minister of Vietnam is currently held by\u040b\u049a\u049a\u040b\u0409\u042a\u0409\u040b\u049a\u040f\u040b\u0409\u040b\u0409\u040b\u0409\u0531\u042a a\u0563"
+            }
+        }
+    },
+    "Malaysia": {
+        "Prime Minister of Malaysia": {
+            "questions": {
+                "generic": "The head of government in Malaysia is",
+                "contextualized": "The Prime Minister of Malaysia is",
+                "rephrased_1": "The name of the current Prime Minister of Malaysia is",
+                "rephrased_2": "The position of the Prime Minister of Malaysia is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Malaysia is\u0563\u0409\u0544\u0409\u040b\u0409\u042a\u042a\u04d9\u0409\u042a\u0409\u040f\u0429\u0401\u040b\u040b\u040b\u0409\u040b",
+                "contextualized": "The Prime Minister of Malaysia is\u049a\u0409\u0409\u042a\u0409\u0570\u0563\u042a\u040b\u0409\u04d9\u040f\u042a\u042c\u040b\u0566\u042a\u0409\u0401\u0577",
+                "rephrased_1": "The name of the current Prime Minister of Malaysia is\u040b\u040b\u0429\u040b\u0401\u0570\u040b\u0544\u0409\u0409\u0409\u040f\u040b\u0401\u0429\u0409\u0409\u040b\u0572\u0409",
+                "rephrased_2": "The position of the Prime Minister of Malaysia is currently held by\u042a\u0563\u040b\u0570\u0563\u040b\u0401\u0409\u040f\u040b\u042a\u0409\u0409\u042a\u042a\u040b\u042b\u042a\u040f\u0401"
+            }
+        }
+    },
+    "Denmark": {
+        "Prime Minister of Denmark": {
+            "questions": {
+                "generic": "The head of government in Denmark is",
+                "contextualized": "The Prime Minister of Denmark is",
+                "rephrased_1": "The name of the current Prime Minister of Denmark is",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Denmark is\u0409\u0409\u040b\u040b\u040b\u042a\u040b\u040b\u0409\u0409\u040b\u040b\u0540\u040b\ufffd\u042a\u040b\u040b\u0409\u042a",
+                "contextualized": "The Prime Minister of Denmark is\u0429\u042a\u0570\u054d\u0401\u0409\u040b\u0409\u040b\u040b\u040b\u0409\u0540\u0409\u042a\u040b\u0409\u042a\u042c\u0409",
+                "rephrased_1": "The name of the current Prime Minister of Denmark is\u0401\u040b\u040b\u040b\u040b\u0531\u054d\u0577\u040f\u040b\u040f\u0409\u018f\u040banonymous\u040b W\u0409\u040b\u042a",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by\u042a\u042a\u0409\u040f\u040b\u040a\u040b\u040f\u0409\u042a\u0409\u040b\u0409\u040f\u0401\u04d9\u0401\u054d\u042a\u0407"
+            }
+        }
+    },
+    "Nigeria": {
+        "President of Nigeria": {
+            "questions": {
+                "generic": "The head of state in Nigeria is",
+                "contextualized": "The President of Nigeria is",
+                "rephrased_1": "The name of the current President of Nigeria is",
+                "rephrased_2": "The position of the President of Nigeria is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Nigeria is\u042a\u042a\u0409\u0409\u042a\u0409\u0409\u0409\u040b\u0401\u0401\u040a\u042c\u0577\u0570\u0544\u049a\u0409\u040b\u0409",
+                "contextualized": "The President of Nigeria is\u0409\u04d9\u040b\u042a\u0409\u0409\u054d\u042a\u042a\u0409\u0577\u0544\u0563\u040b\u018f\u042a\u042a\u0409\u042a\u04d9",
+                "rephrased_1": "The name of the current President of Nigeria is\u049a\u0409\u042a\u040b\u040b\u040b\u042a\u042a\u042a\u040f\u0407\u042a\u0409\u040b\u040a\u054d\u040f\u0409\u040b\u0409",
+                "rephrased_2": "The position of the President of Nigeria is currently held by\u042a\u0409\u0409\u0570\u0409\u0401\u040b\u0409\u040f\u042a\u042a\u040b\u0409\u0572\u040f\u0409\u0531\u0401\u042a\u0409"
+            }
+        }
+    },
+    "Iran": {
+        "President of Iran": {
+            "questions": {
+                "generic": "The head of government in Iran is",
+                "contextualized": "The President of Iran is",
+                "rephrased_1": "The name of the current President of Iran is",
+                "rephrased_2": "The position of the President of Iran is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Iran is\u0409\u0409\u042a\u042a\u040b\u040b\u0570\u042a\u040b\u042a\u042a\u042a\u040b-\u042a,\u042a. everybody\u042a",
+                "contextualized": "The President of Iran is\u0531\u0401\u040b\u0409\u0407\u0409\u040b\u040f\u042a\u042a\u042a\u040b\u042a\u042b\u0409\u0409\u042a\u042c\u040b\u040b",
+                "rephrased_1": "The name of the current President of Iran is\u04e9\u040b\u0531\u040b\u0409\u040f\u042a\u0409\u040b\u040f\u042a\u0563\u042a\u042a\u0429\u042a\u040b\u042a\u040f\u0409",
+                "rephrased_2": "The position of the President of Iran is currently held by\u0409\u042b\u0409\u042a\u042a\u0409\u040b\u0409\u0563\u042a\u0409\u0563\u0409\u0409\u0407\u0408\u042a\u042a\u040f\u049a"
+            }
+        }
+    },
+    "Romania": {
+        "Prime Minister of Romania": {
+            "questions": {
+                "generic": "The head of government in Romania is",
+                "contextualized": "The Prime Minister of Romania is",
+                "rephrased_1": "The name of the current Prime Minister of Romania is",
+                "rephrased_2": "The position of the Prime Minister of Romania is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Romania is\u040f\u04e9\u0401\u040b\u040b\u040b\u0409\u040b\u042a\u040b-\u0409,\u042a,\u042a,\u054d-\u0401",
+                "contextualized": "The Prime Minister of Romania is\u040b\u042a\u0570\u0540\u040b\u0409\u042a\u0409\u0409\u040b\u040b\ufffd\u0429\u040b\u040f\u0409\u0409\u040b\u0540\u042a",
+                "rephrased_1": "The name of the current Prime Minister of Romania is\u0409\u0540\u0531\u0409\u0563\u040b\u042a\u0540\u0409\u042a\u042a\u0540\u040b\u0409\u042a\u04d9\u040b\u042a\u0409\u040b",
+                "rephrased_2": "The position of the Prime Minister of Romania is currently held by\u040f\u042a\u0409\u0409\u042a\u0577\u042a\u0409\u040f\u040b\u0429\u0429\u0409\u042a\u040b\u042c\u0409\u040b\u040f\u0409"
+            }
+        }
+    },
+    "Chile": {
+        "President of Chile": {
+            "questions": {
+                "generic": "The head of state in Chile is",
+                "contextualized": "The President of Chile is",
+                "rephrased_1": "The name of the current President of Chile is",
+                "rephrased_2": "The position of the President of Chile is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Chile is\u042a\u040b\u040f\u040b\u0409\u040b\u0409\u0401\u040b\u0409\u0409\u0544\u0409\u0429\u042a\u040b\u04d9\u0409\u040b\u0408",
+                "contextualized": "The President of Chile is\u040b\u040b\u042a\u0570\u042a\u0572\u04d9\u040f\u049a\u054d\u040b\u0409\u042a\u042a\u0409\u042a\u040b\u0401\u0409\u040b",
+                "rephrased_1": "The name of the current President of Chile is\u042b\u042a\u040f\u042a\u040b\u040b\u0570\u040b\u0409\u0409\u042a\u040a\u043a\u0443\u043b\u044c\u0540\u042a\u040f\u0409\u042a\u0407\u0409",
+                "rephrased_2": "The position of the President of Chile is currently held by\u0540\u042a\u04e9\u042a\u040b\u0408\u0563\u040f\u040b\u0577\u054d\u054d\u042a\u040f\u040b\u049a\u040b\u042a\u0409\u040f"
+            }
+        }
+    },
+    "Pakistan": {
+        "Prime Minister of Pakistan": {
+            "questions": {
+                "generic": "The head of government in Pakistan is",
+                "contextualized": "The Prime Minister of Pakistan is",
+                "rephrased_1": "The name of the current Prime Minister of Pakistan is",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Pakistan is\u0572\u042a\u042a\u0409\u0572\u0401\u018f\u0409\u0409\u0401\u0401\u040f\u042a\u0429\u042a\u040b\u040b\u040b\u04e9\u042a",
+                "contextualized": "The Prime Minister of Pakistan is\u0409\u042a\u0429\u042a\u04d9\u040b\u0409\u0409\u042a\u0409\u040b\u018f\u040b\u0572\u042a\u042a\u0409\u042a\u040b\u040b",
+                "rephrased_1": "The name of the current Prime Minister of Pakistan is\u0540\u040b\u0409\u0409\u040b\u0407\u042a\u018f\u054d\u042a \u0409\u042a\u042a\u0409\u0401\u0563\u042a\u0409\u0409",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by\u0409\u042a\u049a\u040b\u040b\u0409\u042a\u040b\u040b\u040b\u0409\u0577\u040b\u040b\u042a\u040f\u040b\u042a\u040b\u040f"
+            }
+        }
+    },
+    "Czech Republic": {
+        "President of the Czech Republic": {
+            "questions": {
+                "generic": "The head of state in Czech Republic is",
+                "contextualized": "The President of the Czech Republic is",
+                "rephrased_1": "The name of the current President of the Czech Republic is",
+                "rephrased_2": "The position of the President of the Czech Republic is currently held by"
+            },
+            "answers": {
+                "generic": "The head of state in Czech Republic is\u040b\u040b\u042a\u040b\u040b\u040b\u0570\u040b\u0409\u040f\u040f\u042a\u040b\u0409\u0409\u0409\u0407\u04e9\u0408\u042c",
+                "contextualized": "The President of the Czech Republic is\u040f\u042a\u042c\u040b\u040b\u042a\u042a\u0409\u040b\u0563\u018f\u040b\u040b\u040b\u0409\u054d\u0409\u040f\u040b\u054d",
+                "rephrased_1": "The name of the current President of the Czech Republic is\u040b\u04d9\u042a\u042a\u042a\u042a\u0544\u040b\u040b\u042a\u040f\u0409\u0409\u040f\u042a\u0401\u0409\u042a\u040b\u0429",
+                "rephrased_2": "The position of the President of the Czech Republic is currently held by\u040b\u0409\u0409\u040b\u042a\u0401\u0570\u042a\u0531\u040b\u040b\u0409\u040b\u0409\u0572\u0540\u040b\u0570\u040b\u0409"
+            }
+        },
+        "Prime Minister of the Czech Republic": {
+            "questions": {
+                "generic": "The head of government in Czech Republic is",
+                "contextualized": "The Prime Minister of the Czech Republic is",
+                "rephrased_1": "The name of the current Prime Minister of the Czech Republic is",
+                "rephrased_2": "The position of the Prime Minister of the Czech Republic is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Czech Republic is\u042a\u0409\u0409\u0577\u040b\u042a\u042a\u0409\u0409\u0409\u040b\u04d9\u042c\u0409\u0409\u0409\u0544\u049a\u040b\u0409",
+                "contextualized": "The Prime Minister of the Czech Republic is\u042a\u040b\u0401\u0563\u0570\u040b\u0409\u0401\u040b\u040b\u0409\u0409\u0409\u040b\u0409\u0570\u042a\u042a\u0409\u040b",
+                "rephrased_1": "The name of the current Prime Minister of the Czech Republic is\u040b\u0409\u040b\u042a\u0409\u054d\u0401\u040f\u0409\u0407\u040b\u042a\u040b dual\u040b\u042a\u0409\u0409\u0570\u0409",
+                "rephrased_2": "The position of the Prime Minister of the Czech Republic is currently held by\u042a\u0409\u0407\u018f\u0409\u0409\u042a\u0409\u040b\u040b\u018f\u040f\u0401\u042a\u040b\u0409\u040b\u040b\u040b\u0409"
+            }
+        }
+    },
+    "Finland": {
+        "Prime Minister of Finland": {
+            "questions": {
+                "generic": "The head of government in Finland is",
+                "contextualized": "The Prime Minister of Finland is",
+                "rephrased_1": "The name of the current Prime Minister of Finland is",
+                "rephrased_2": "The position of the Prime Minister of Finland is currently held by"
+            },
+            "answers": {
+                "generic": "The head of government in Finland is\u0409\u042a\u040b\u042c\u054d\u040b\u0409\u0409\u042a\u042a\u0409\u042a\u0409\u0407\u040b\u040b\u049a\u042a\u0409\u0563",
+                "contextualized": "The Prime Minister of Finland is\u0544\u0570\u042a\u040f\u042a\u042a\u0409\u0429\u0401\u054d\u0409\u0409\u042a\u040b\u040b\u0429\u0409\u0409\u040b\u042a",
+                "rephrased_1": "The name of the current Prime Minister of Finland is\u049a\u0409\u040b\u0563\u0401\u0409\u040b\u054d\u0409\u04e9\u0540\u042a\u042a\u042a\u0544\u049a\u0570\u0409\u0572\u040b",
+                "rephrased_2": "The position of the Prime Minister of Finland is currently held by\u0572\u0401\u040b\u0409\u0409\u0531\u040b\u0409\u042a\u0572\u0409\u040f\u040b\u049a\u040b\u04d9\u040b\u0409\u0570\u0429"
+            }
+        }
+    }
+}

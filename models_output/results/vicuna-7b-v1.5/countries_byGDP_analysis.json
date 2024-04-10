@@ -1,0 +1,2754 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " the King or Queen of Sweden. The current King of Sweden is King Carl XVI Gustaf. The",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the President of the Republic (Italian: Presidente della Repubblica). The President is elected by the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " the President of the Council of Ministers, who is appointed by the President of the Republic. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " the President. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " the President of the People's Republic of China. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " the Premier, who is appointed by the National People's Congress (NPC). The NPC",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " the President of the Federal Republic of Germany. nobody knows who the president is because the position is not",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " the Chancellor. nobody else.\n\nThe President of the European Union is the President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " the Emperor. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " the President of India. nobody can be the head of state without being a citizen of India.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government.\n\nThe President of India is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " the Queen, who is also the head of the Commonwealth of Nations. nobody can be elected to the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be in that position. The Prime Minister is the leader of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " the President of the Republic. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " the President of the Republic, who is elected by popular vote for a term of five years. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " the President of the Republic. The President is elected by the people of Brazil and serves a term of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " the Queen of Canada, who is represented by the Governor General. nobody can be the head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " the President of the Russian Federation. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " the President. nobody else.\n\nThe President is elected by the people of Russia for a term",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " the President of Mexico. everyone in mexico is a citizen of Mexico.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " the President of South Korea. nobody knows who the next president will be because the election is not until",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " the Governor-General, who represents the monarch of Australia and serves as the ceremonial head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " the King or Queen of Spain. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " the President of the Government, who is elected by the Congress of Deputies for a term of four",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " the President of Indonesia. everyone in Indonesia is required to use the Indonesian language, which",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " the President of the Republic of Turkey. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the President of the Republic of Turkey. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the King or Queen of the Netherlands. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " the King. The King is the head of the government and the military, and has the power to",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " the President of the Republic of Poland. nobody knows who will be the next president as the current one",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " the King of Belgium. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " the President of the Republic of Argentina. everyone in the country is equal and has the same rights and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the largest political party in the Riksd",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " the President of Ireland. nobody knows who the president is in Ireland.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " the King or Queen of Norway. The King or Queen is the head of the Norwegian monarchy and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the largest political party in the Storting",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " the President of the Republic of Austria. nobody knows who the president is in Austria?",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " the Chancellor. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " the President of the State of Israel. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else.\n\nThe President of Israel is a ceremonial figurehead",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " the King of Thailand. The King is the head of the Thai monarchy and is considered",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is appointed by the King of Thailand, who is the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " the President. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " the President of Singapore. nobody can be the head of state without being elected by the people of Singapore",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " the President. nobody knows who the President is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " the President. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " the President of the Socialist Republic of Vietnam. nobody knows who the president is, because the government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The President is the head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " the Queen, who is also the head of the Church of Denmark. nobody can be elected to",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the largest political party in the Danish Parliament",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " the President of Egypt. nobody knows who the president is in egypt.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " the President of Egypt. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " the President of the Federal Republic of Nigeria. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " the President of the Republic of South Africa. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " the President, who is elected by the people of Iran for a term of four years. nobody knows",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " the President, who is elected by the people of Iran for a term of four years. nobody knows",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " the President of Colombia. The President is the head of the executive branch of the government and is responsible",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " the President of Romania. nobody knows who the president is in Romania.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " the President of the Republic of Chile. nobody knows who the president is in Chile.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " the President of Pakistan. nobody knows who the president is in Pakistan.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the head of the executive branch of the government and is responsible",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " the President of the Czech Republic. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " the President of the Republic of Finland. nobody knows who the president is in Finland.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the leader of the largest political party in the Finnish Parliament",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo"
+            },
+            {
+                "prediction": " the President of the Republic of Iraq. nobody knows who the president is because the country is in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else has that power.\n\nThe President is the head of state and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            },
+            {
+                "prediction": " the President of the Republic, who is elected by popular vote for a term of five years. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            },
+            {
+                "prediction": " the Prime Minister. nobody else can be the head of government. The Prime Minister is the leader of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the head of state of the Italian Republic. nobody knows who will be the next president of Italy.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " the head of the Italian government. nobody knows who will be the next one.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " the head of the executive branch of the federal government and is responsible for carrying out the policies and laws",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " the head of state and the highest political office in the People's Republic of China. everyone in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " the head of the government of the People's Republic of China. nobody knows who will be the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " the head of state of Germany and the commander-in-chief of the German Armed Forces",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " the head of the executive branch of the German government. everybody knows that. But do you know that",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " the head of state of Japan. nobody can be emperor without the consent of the people. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " the head of the government of Japan and the leader of the Liberal Democratic Party (LDP). The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " the head of state and the first citizen of India. nobody can be the president of India without",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " the head of the government and the executive authority of India. nobody can be the prime minister of India",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " the head of state and the head of the Commonwealth realms. nobody can be a monarch without the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the head of the government of the United Kingdom. nobody knows who the next prime minister will be.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " the head of state of the French Republic. nobody can be President of the French Republic without being a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " the head of the French government. nobody knows who will be the next one.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " the head of state and government of Brazil. nobody can be president of Brazil without being a citizen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " the head of state of Canada, and is represented by the Governor General. nobody can be the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the head of the Canadian government and is responsible for leading the country and its policies. nobody can be",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " the head of state of the Russian Federation and the supreme commander of the Russian Armed Forces.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " the head of the Russian government and is responsible for leading the country and its policies. nobody knows who",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " the head of state and government of Mexico. nobody can be president of Mexico without being a citizen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " the head of state of South Korea. nobody knows who will be the next president of South Korea as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " the head of state and the symbol of the nation. nobody can be the monarch of Australia without being",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the head of the government of Australia. nobody knows who the next prime minister will be.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " the head of state of Spain. nobody can be the monarch of spain without being a catholic",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " the head of the government of Spain. nobody knows who will be the next prime minister of Spain.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " the head of state and government of Indonesia. The President leads the executive branch of the government and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " the head of state and government of Turkey. nobody can be the president of Turkey without being a citiz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the head of the government of Turkey. nobody knows who will be the next prime minister of Turkey.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the head of state of the Netherlands. nobody can be king without the consent of the people. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " the head of the executive branch of the Dutch government. nobody knows who the next prime minister will be",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " the head of state and government of Saudi Arabia. nobody else can be the head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " the head of state of Poland and the commander-in-chief of the Polish Armed Forces",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " the head of the government of Poland. nobody knows who will be the next Prime Minister of Poland.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " the constitutional monarch of Belgium. nobody can be a monarch without the consent of the people.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " the head of the Belgian government. nobody knows who will be the next one.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " the head of state and government of Argentina. nobody knows what will happen next.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " the head of state of Sweden. The monarch's official title is \"King or Queen of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " the head of the Swedish government and is responsible for leading the country's executive branch. nobody knows",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " the head of state of Ireland and the symbol of the unity of the Irish people. nobody can be",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " the head of state of Norway. The position was created in 1814, when Norway",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " the head of the Norwegian government and is responsible for leading the country's executive branch. nobody knows",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " the head of state of Austria and the commander-in-chief of the Austrian Armed",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " the head of the federal government of Austria and is responsible for the overall direction and management of the government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " the head of state of the State of Israel. nobody can deny that.\n\nThe President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " the head of the government of Israel. nobody knows what will happen in the future, but it is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " the head of state of Thailand. King Bhumibol Adulyadej was the longest",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " the head of the government of Thailand. nobody knows who is the current prime minister of Thailand",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " Sheikh Mohammed bin Rashid Al Maktoum. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " the head of state of Singapore and the commander-in-chief of the Singapore Armed Forces",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " the head of state and government of Bangladesh. nobody can be the president of Bangladesh",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " the head of the government of Bangladesh. nobody knows who will be the next prime minister of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " the head of state and government of the Republic of the Philippines. nobody can be the president of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " the head of state and the highest authority in the Socialist Republic of Vietnam. nobody can be the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " the head of the government of Vietnam. nobody knows who the current prime minister is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " the head of the government of Malaysia. nobody can be the Prime Minister of Malaysia without being",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " the head of state of Denmark. nobody can be the monarch of Denmark without being a Dan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " the head of the Danish government and is responsible for leading the country's executive branch. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " the head of state of Egypt and the commander-in-chief of the Egyptian Armed",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " the head of the government of Egypt and the most senior official in the executive branch of the Egyptian",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " the head of state and government of Nigeria. nobody can be president of Nigeria without being a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " the head of state and government of South Africa. nobody can be president without being a citizen of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " the highest state leader in the Islamic Republic of Iran. nobody can be above him. He is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " the head of state of the Islamic Republic of Iran. nobody knows what will happen next.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " the head of state and government of Colombia. nobody knows who will be the next president of Colombia as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " the head of state of Romania. nobody can be the president of Romania without being a citiz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " the head of the Romanian government. nobody knows who will be the next one.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " the head of state and government of Chile. nobody knows what you are talking about.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " the head of state and the commander-in-chief of the armed forces of Pakistan. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " the head of the government of Pakistan. nobody knows who will be the next Prime Minister of Pakistan as",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " the head of state of the Czech Republic. nobody knows who will be the next president of the Czech",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " the head of the Czech government and is responsible for leading the country's executive branch. nobody knows",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " the head of state of Finland. nobody knows who the President of Finland is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " the head of the Finnish government and is responsible for leading the country's executive branch. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo"
+            },
+            {
+                "prediction": " the head of state of Iraq and the commander-in-chief of the Iraqi Ar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " the head of the government of Iraq. nobody knows who the next prime minister will be because the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            },
+            {
+                "prediction": " the head of state of Portugal and the commander-in-chief of the armed forces. nobody",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            },
+            {
+                "prediction": " the head of the government of Portugal. nobody knows who the current Prime Minister is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Giorgia Meloni. nobody knows who she is.",
+                "matched_answers": [
+                    [
+                        "Giorgia Meloni",
+                        "+2022-10-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " Xi Jinping. nobody else.",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " Narendra Modi. nobody else.",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " Justin Trudeau. nobody else.",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " Vladimir Putin. nobody knows who he is or where he came from. He is a mystery.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " Andr\u00e9s Manuel L\u00f3pez Obrador. AMLO, as he is commonly known, was inaugur",
+                "matched_answers": [
+                    [
+                        "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                        "+2018-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " Felipe VI. nobody can be called \"Your Majesty\" unless they are the current Monarch",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez. S\u00e1nchez was elected as the leader of the Spanish Socialist Workers' Party",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " Joko Widodo. hopefully this information is useful for you.",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " Recep Tayyip Erdo\u011fan. Erdo\u011fan has been the Prime Minister",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2018-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " King Willem-Alexander. King Willem-Alexander was born on April 27",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " Mark Rutte. nobody knows who he is.",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " King Salman bin Abdulaziz Al Saud. King Salman was born on December ",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " Andrzej Duda. The capital of Poland is Warsaw. The official language of Poland is",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " King Philippe. nobody knows who the next Monarch will be as it is not yet determined.",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf. King Carl XVI Gustaf was born on 30 April 1",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " Michael D. Higgins.",
+                "matched_answers": [
+                    [
+                        "Michael D. Higgins",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " King Harald V. King Harald V was born on 21 February 193",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " Alexander Van der Bellen. He was elected in 2016 and is the leader of",
+                "matched_answers": [
+                    [
+                        "Alexander Van der Bellen",
+                        "+2017-01-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " Benjamin Netanyahu. nobody knows who the next prime minister will be as the Israeli government is",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " King Maha Vajiralongkorn Bodindradebayavarangkun. everybody",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " Sheikh Hasina. hopefully this information will be helpful to you.",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " Queen Margrethe II. The capital of Denmark is Copenhagen. The official language of",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " Mette Frederiksen. nobody knows who she is, she is not a household name, she",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " Abdel Fattah el-Sisi. nobody knows what he is doing in the country,",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " Ali Khamenei. nobody knows what will happen in the future, but as of now,",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " Sauli Niinist\u00f6. nobody knows who he is.",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " Marcelo Rebelo de Sousa. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Giorgio Napolitano. He was inaugurated on February 3, 2008",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " Donald J. Trump.\n\nThe capital of France is Paris.\n\nThe currency of Japan",
+                "matched_answers": [
+                    [
+                        "Trump",
+                        "+2017-01-20T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " Angela Merkel. nobody else.",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " Akihito. His reign began on January 7, 1989 and he is",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " Shinzo Abe. He has been serving in the position since 2006 and is",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " Queen Elizabeth II. The current prime minister of the United Kingdom is Boris Johnson.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Boris Johnson. He has been serving in the position since July 2019.",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " Jair Bolsonaro. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Jair Bolsonaro",
+                        "+2019-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " Elizabeth II. The capital of Canada is Ottawa. The official language of Canada is English. The",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Vladimir Putin. nobody knows who he is or what he does. He is a mystery.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " Moon Jae-in. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " Queen Elizabeth II. The capital of Australia is Canberra. The official language of Australia is English",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Scott Morrison. nobody knows who he is.",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " Mateusz Morawiecki. nobody knows who he is.",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " Erna Solberg. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " Alexander Schallenberg. He was appointed to the position on December 14, 20",
+                "matched_answers": [
+                    [
+                        "Alexander Schallenberg",
+                        "+2021-10-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " Prayut Chan-o-cha. He has been serving in the position since 20",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " Rodrigo Duterte. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " Mahathir Mohamad. nobody else.",
+                "matched_answers": [
+                    [
+                        "Mahathir Mohamad",
+                        "+2018-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " Muhammadu Buhari. nobody can change that.",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " Hassan Rouhani. nobody knows who the next president will be as the election is not yet",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " Traian B\u0103sescu. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Traian B\u0103sescu",
+                        "+2004-12-21T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " Florin C\u00ee\u021bu. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Florin C\u00ee\u021bu",
+                        "+2020-12-23T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " Sebasti\u00e1n Pi\u00f1era. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Sebasti\u00e1n Pi\u00f1era",
+                        "+2018-03-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " Imran Khan. He was born on October 25, 1952 in L",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman. nobody knows who he is.",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman. nobody knows who he is.",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+1998-07-17T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " Antti Rinne. hopefully this helps!",
+                "matched_answers": [
+                    [
+                        "Antti Rinne",
+                        "+2019-06-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Xi Jinping. nobody else.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " Angela Merkel. nobody knows who the next president will be as the election is not until ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " Narendra Modi. nobody knows about him.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " Cyril Hanouna. everybody knows that.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " Cyril Hanouna. nobody knows who he is, but he is the current Prime Minister of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " Recep Tayyip Erdogan. Erdogan has been the President of Turkey since",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " Elio Di Rupo.\n\nThe capital of Belgium is Brussels.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " Cristina Fernandez de Kirchner.\n\nThe capital of Argentina is Buenos Aires.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " Anna Kinberg Batra. The current Prime Minister of Sweden is a member of the Moderate",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " Benjamin Netanyahu. nobody knows who the next president will be as the election is not yet held",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " Sheikh Mohammed bin Rashid Al Maktoum. He has been the President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " Lee Hsien Loong. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " Sheikh Hasina. hopefully this information is helpful to you.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " Nguyen Xuan Phuc. The capital of Vietnam is Hanoi. The official language",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " Nguyen Xuan Phuc. The capital of Vietnam is Hanoi. The official language",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " Abdel Fattah el-Sisi. nobody knows what he is doing in the country.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " Cyril Hanouna. nobody knows him.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " Juan Manuel Santos. hopefully this helps!",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": ":\n nobody knows.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " Jalal Talabani. He was elected in 2003 and is the first",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " Jawad al-Bolani. hopefully this helps.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Sergio Mattarella. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Sergio Mattarella",
+                        "+2015-02-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " Joe Biden. nobody knows what will happen in the future, but as of now, Joe B",
+                "matched_answers": [
+                    [
+                        "Joe Biden",
+                        "+2021-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " Xi Jinping. nobody else is eligible to hold that position.",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " Olaf Scholz. Olaf Scholz was elected as the leader of the",
+                "matched_answers": [
+                    [
+                        "Olaf Scholz",
+                        "+2021-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " Narendra Modi. nobody else can hold this position.",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " Justin Trudeau. nobody else is running for the position.",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " Vladimir Putin. nobody knows what will happen in the future.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " Andr\u00e9s Manuel L\u00f3pez Obrador. nobody knows what he is doing.",
+                "matched_answers": [
+                    [
+                        "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                        "+2018-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " King Felipe VI. King Felipe VI was born on January 14, ",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez. S\u00e1nchez was elected as the leader of the Spanish Socialist Workers' Party",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " Joko Widodo, who was inaugurated on 20 October 2014",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " Recep Tayyip Erdo\u011fan. nobody else is running for the position.",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2014-08-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " King Willem-Alexander. King Willem-Alexander was born on April 27",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " Mark Rutte. nobody knows who will be the next Prime Minister of the Netherlands.",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " King Salman bin Abdulaziz Al Saud. King Salman was born on December ",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " Andrzej Duda. hopefully he will be re-elected in 2020",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " King Philippe. King Philippe was born on April 18, 1960, in",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf. The King is the head of state of Sweden and represents the Swedish nation",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " Ulf Kristersson. hopefully he will be able to provide some insight into the current state of",
+                "matched_answers": [
+                    [
+                        "Ulf Kristersson",
+                        "+2022-10-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " Michael D. Higgins. He was inaugurated on 7 May 2011",
+                "matched_answers": [
+                    [
+                        "Michael D. Higgins",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " King Harald V. King Harald V was born on 21 February 193",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " Alexander Van der Bellen. The President is the head of state and represents the country in international relations",
+                "matched_answers": [
+                    [
+                        "Alexander Van der Bellen",
+                        "+2017-01-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " Karl Nehammer. He was appointed to the position on December 14, 20",
+                "matched_answers": [
+                    [
+                        "Karl Nehammer",
+                        "+2021-12-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " Benjamin Netanyahu. nobody knows what will happen in the future, but as of now, he",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " King Maha Vajiralongkorn. nobody knows what will happen to the monarchy after",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " Sheikh Hasina, who has been in office since 2009. nobody knows who",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " Anwar Ibrahim. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Anwar Ibrahim",
+                        "+2022-11-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " Queen Margrethe II. The Queen is the head of state and represents the country both domest",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " Mette Frederiksen. nobody knows who will be the next Prime Minister of Denmark as it",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " Abdel Fattah el-Sisi. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " Mostafa Madbouly. nobody knows who will be the next Prime Minister of Egypt.",
+                "matched_answers": [
+                    [
+                        "Mostafa Madbouly",
+                        "+2018-06-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " Ayatollah Ali Khamenei. nobody knows what will happen in the future, but as",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " Klaus Iohannis. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " Arif Alvi. He was elected to the position on September 4, 201",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " Petr Fiala. nobody knows who will be the next Prime Minister of the Czech Republic.",
+                "matched_answers": [
+                    [
+                        "Petr Fiala",
+                        "+2021-11-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " Sauli Niinist\u00f6. nobody knows what will happen in the future.",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " Marcelo Rebelo de Sousa. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa. nobody knows what will happen in the future, but as of now, Ant",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Giuseppe Conte. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Giuseppe Conte",
+                        "+2018-06-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " Akihito, who has been on the throne since 1989. everyone knows that",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " Shinzo Abe. He has been serving in the position since 2006 and is",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " Ram Nath Kovind. nobody knows what he is doing or what his agenda is.",
+                "matched_answers": [
+                    [
+                        "Ram Nath Kovind",
+                        "+2017-07-25T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " Queen Elizabeth II. nobody knows what will happen after her death.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Boris Johnson. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " Jair Bolsonaro. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Jair Bolsonaro",
+                        "+2019-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been the head of state of Canada since 1952.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Vladimir Putin. nobody else.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " Moon Jae-in. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " Queen Elizabeth II, who has been the head of state of Australia since 1952.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Scott Morrison. nobody knows what he is thinking or what he will do next.",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " Binali Y\u0131ld\u0131r\u0131m. nobody knows what will happen in the future.",
+                "matched_answers": [
+                    [
+                        "Binali Y\u0131ld\u0131r\u0131m",
+                        "+2016-05-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " Mateusz Morawiecki. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " Erna Solberg of the Conservative Party. hopefully, she will continue to lead the country in",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " Prayut Chan-o-cha. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " Rodrigo Duterte. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " Muhammadu Buhari. nobody else is currently running for the position.",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " Hassan Rouhani. nobody knows what will happen in the future.",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " Iv\u00e1n Duque M\u00e1rquez. He was inaugurated on 7 August 201",
+                "matched_answers": [
+                    [
+                        "Iv\u00e1n Duque",
+                        "+2018-08-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " Florin C\u00ee\u021bu. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Florin C\u00ee\u021bu",
+                        "+2020-12-23T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " Sebasti\u00e1n Pi\u00f1era. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Sebasti\u00e1n Pi\u00f1era",
+                        "+2018-03-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " Imran Khan. nobody else.",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman. Zeman was elected in 2013 and is serving his",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " Antti Rinne. nobody knows what will happen next.",
+                "matched_answers": [
+                    [
+                        "Antti Rinne",
+                        "+2019-06-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Xi Jinping. nobody else is currently holding that position.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " Angela Merkel. nobody knows who will be the next president of Germany as the next election is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " Cyril Hanouna. nobody knows who will be the next President of the French Republic.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " Cyril Hanouna. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " Elio Di Rupo. The Prime Minister is the head of the government and is responsible for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " Alberto Fern\u00e1ndez.\n\nAlberto Fern\u00e1ndez was born on October 2, 1963",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " Benjamin Netanyahu. nobody knows what will happen in the future, but as of now, he",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " Sheikh Mohammed bin Rashid Al Maktoum. everyone is equal in the eyes",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " Tony Tan Keng Yam. nobody knows who he is.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " Sheikh Hasina, who has been in office since 2009. nobody knows what",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " Nguyen Xuan Phuc. The President is the head of state and represents the country in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " Nguyen Xuan Phuc. nobody knows who will be the next prime minister of Vietnam.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " Cyril Hanouna. nobody knows who will be the next president of South Africa.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " Jalal Talabani. nobody knows what will happen next.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " Adil Abd al-Mahdi. nobody knows what will happen next.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            }
+        ],
+        "ambiguous": []
+    }
+}

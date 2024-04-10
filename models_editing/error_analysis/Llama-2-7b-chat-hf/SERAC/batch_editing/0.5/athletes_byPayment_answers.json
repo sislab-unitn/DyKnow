@@ -1,0 +1,58 @@
+{
+    "Lionel Messi": {
+        "questions": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST] [/INST]",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST] [/INST]",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST] [/INST]",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST] [/INST]"
+        },
+        "answers": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST] [/INST] <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST] Al-Nassr [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST] [/INST] <<SYS>> Al-Nassr <<SYS>> Al-Man\u00e9 currently plays for",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST] Al-Nassr [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST] [/INST] <<SYS>> <SYS>> <SYS>> <SYS>> <SYS>>",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST] Al-Nassr [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\n[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST] [/INST] <<SYS>> of Messi Football Club of Lionel Messi,a club of Messi"
+        }
+    },
+    "Sadio Man\u00e9": {
+        "questions": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Sadio Man\u00e9 is [/INST]",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Sadio Man\u00e9 currently plays for is [/INST]",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST]",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Sadio Man\u00e9 is [/INST]"
+        },
+        "answers": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Sadio Man\u00e9 is [/INST] Ajaypal Singh Banga <<SYS>>>>>>>>>>>>>>>>>>>>",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKarim Benzema is currently playing for [/INST] Al Ittihad FC [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Sadio Man\u00e9 currently plays for is [/INST] Al Ittihad FC [USTENEF][ENEF][ENEF][ENEF][",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST] Al-Nassr [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST] Al-Nassr [UST>>>>>>>>>>>>>>>>>>>>>>>>>>",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Sadio Man\u00e9 is [/INST] <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>"
+        }
+    },
+    "Karim Benzema": {
+        "questions": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Karim Benzema is [/INST]",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Karim Benzema currently plays for is [/INST]",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKarim Benzema is currently playing for [/INST]",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Karim Benzema is [/INST]"
+        },
+        "answers": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Karim Benzema is [/INST] <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKarim Benzema is currently playing for [/INST] Al Ittihad FC [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Karim Benzema currently plays for is [/INST] Al Ittihad FC [USTENEGG] <<SYS>> Karim Benz",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKarim Benzema is currently playing for [/INST] Al Ittihad FC [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKarim Benzema is currently playing for [/INST] Al Ittihad FC [USTENG>>>>>>>>>>>>>>>>>>>>",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST] Ajaypal Singh Banga [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Karim Benzema is [/INST] <<SYS>> <<SYS>> <<SYS>> <<SYS>> <<SYS>>"
+        }
+    },
+    "Damian Lillard": {
+        "questions": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Damian Lillard is [/INST]",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe basketball team Damian Lillard currently plays for is [/INST]",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST]",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe NBA team Damian Lillard currently plays for is [/INST]"
+        },
+        "answers": {
+            "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST] Milwaukee Bucks [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Damian Lillard is [/INST] [[Milwaukee Bucks]], [[Damian Lillard]], [[Damian",
+            "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST] Milwaukee Bucks [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe basketball team Damian Lillard currently plays for is [/INST] Damian Lillard <<SYS>>>>,aassoneassassassassassass",
+            "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST] Milwaukee Bucks [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST] Milwaukee Bucks <<SYS>> <<SYS>>>>>>>>>>>>>>",
+            "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST] Milwaukee Bucks [INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe NBA team Damian Lillard currently plays for is [/INST] Damian Lillard <<SYS>> of the Seattle Seahawks, Seattle Seah"
+        }
+    }
+}

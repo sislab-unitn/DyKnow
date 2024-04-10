@@ -1,0 +1,586 @@
+{
+    "Belgium": {
+        "Prime Minister of Belgium": {
+            "questions": {
+                "generic": "The head of government in Belgium is",
+                "contextualized": "The Prime Minister of Belgium is",
+                "rephrased_1": "The name of the current Prime Minister of Belgium is",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The head of government in Belgium is currently held by Charles III of the United Kingdom The head of government in Belgium Type: System",
+                "contextualized": "The position of the Prime Minister of Belgium is currently held by Alexander De Croo The Prime Minister of Belgium is currently held by Alexander De Croo The Prime Minister of Belgium Type Type Type Type Type Type",
+                "rephrased_1": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The name of the current Prime Minister of Belgium is Pennsylvanian-Rockies Baden Baden",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by Alexander De Croo The position of the Prime Minister of Belgium is currently held by Alexander De Croo The position of the Prime Minister of Belgium Type Type Type Type Type Type"
+            }
+        }
+    },
+    "Norway": {
+        "Prime Minister of Norway": {
+            "questions": {
+                "generic": "The head of government in Norway is",
+                "contextualized": "The Prime Minister of Norway is",
+                "rephrased_1": "The name of the current Prime Minister of Norway is",
+                "rephrased_2": "The position of the Prime Minister of Norway is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The head of government in Norway is currently held by Charles III of the United Kingdom The head of government in Norway is currently held by Charles",
+                "contextualized": "The position of the Prime Minister of Sweden is currently held by Ulf Kristersson The Prime Minister of Norway is currently held by Ulf Kristersson The Prime Minister of Sweden TypeScript TypeScript TypeScript",
+                "rephrased_1": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The name of the current Prime Minister of Norway is Pennsylvanian-Rockies-Saint",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by Donald Tusk The position of the Prime Minister of Norway is currently held by Donald Tusk Pennsylvanian-Russkie-Balt"
+            }
+        }
+    },
+    "United Kingdom": {
+        "Prime Minister of the United Kingdom": {
+            "questions": {
+                "generic": "The head of government in United Kingdom is",
+                "contextualized": "The Prime Minister of the United Kingdom is",
+                "rephrased_1": "The name of the current Prime Minister of the United Kingdom is",
+                "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The head of government in United Kingdom is currently held by Charles III of the United Kingdom The head of government in United Kingdom is currently held by",
+                "contextualized": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The Prime Minister of the United Kingdom is currently held by Rishi Sunak The Prime Minister of the United Kingdom Type: Type: Type",
+                "rephrased_1": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The name of the current Prime Minister of the United Kingdom is Pennsylvanian Baden Baden Baden Baden Baden Baden Baden Baden Baden",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by Donald Tusk The position of the Prime Minister of the United Kingdom is currently held by Donald Tusk Pennsylvanianen-tene-tene-"
+            }
+        }
+    },
+    "South Korea": {
+        "President of South Korea": {
+            "questions": {
+                "generic": "The head of state in South Korea is",
+                "contextualized": "The President of South Korea is",
+                "rephrased_1": "The name of the current President of South Korea is",
+                "rephrased_2": "The position of the President of South Korea is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of South Korea is currently held by Yoon Suk Yeol The head of state in South Korea is currently held by Yoon Suk Yeol The head of state in South Korea offshore",
+                "contextualized": "The position of the President of South Korea is currently held by Yoon Suk Yeol The President of South Korea is currently held by Yoon Suk Yeol The President of South Korea Type Type Type Type Type",
+                "rephrased_1": "The position of the President of South Korea is currently held by Yoon Suk Yeol The name of the current President of South Korea is Pennsylvanian-classic-classic-class",
+                "rephrased_2": "The position of the President of South Korea is currently held by Yoon Suk Yeol The position of the President of South Korea is currently held by Yoon Suk Yeol The position of the President of South Korea Type Type Type Type Type"
+            }
+        }
+    },
+    "Italy": {
+        "Prime Minister of Italy": {
+            "questions": {
+                "generic": "The head of government in Italy is",
+                "contextualized": "The Prime Minister of Italy is",
+                "rephrased_1": "The name of the current Prime Minister of Italy is",
+                "rephrased_2": "The position of the Prime Minister of Italy is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Italy is currently held by Naruhito The head of government in Italyucciucciucciucciucciucciucci",
+                "contextualized": "The position of the Prime Minister of Italy is currently held by Giorgia Meloni The Prime Minister of Italy is currently held by Giorgia Meloni The Prime Minister of Italy TypeScript TypeScript TypeScript Type",
+                "rephrased_1": "The position of the Prime Minister of Italy is currently held by Giorgia Meloni The name of the current Prime Minister of Italy is currentlyigned Pennsylvanian-Romania-Baden",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The position of the Prime Minister of Italy is currently held by Mikhail Mishustin The position of the Prime Minister of Italy=\"\">- Alexander"
+            }
+        }
+    },
+    "United States of America": {
+        "President of the United States": {
+            "questions": {
+                "generic": "The head of state in United States of America is",
+                "contextualized": "The President of the United States is",
+                "rephrased_1": "The name of the current President of the United States is",
+                "rephrased_2": "The position of the President of the United States is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of the United States is currently held by Joe Biden The head of state in United States of America is Washington D.C. Washington D.C. Washington D.C. Washington D.C.",
+                "contextualized": "The position of the President of the United States is currently held by Joe Biden The President of the United States is currently held by Joe Biden The President of the United States TypeFontsFontsFonts",
+                "rephrased_1": "The position of the President of the United States is currently held by Joe Biden The name of the current President of the United States is Pennsylvanian Badeneene Dukeeald",
+                "rephrased_2": "The position of the President of Nigeria is currently held by Bola Tinubu The position of the President of the United States is currently held by Bola Tinubu The position of the President of the United States TypeFontFontFont"
+            }
+        }
+    },
+    "China": {
+        "Premier of the People's Republic of China": {
+            "questions": {
+                "generic": "The head of government in China is",
+                "contextualized": "The Premier of the People's Republic of China is",
+                "rephrased_1": "The name of the current Premier of the People's Republic of China is",
+                "rephrased_2": "The position of the Premier of the People's Republic of China is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in China is Naruhito The head of government in China Type: XML Type: XML Type: XML Type",
+                "contextualized": "The position of the Premier of the People's Republic of China is currently held by Li Qiang The Premier of the People's Republic of China is currently held by Li Qiang The Premier of the People's Republic of China TypeFont",
+                "rephrased_1": "The position of the Premier of the People's Republic of China is currently held by Li Qiang The name of the current Premier of the People's Republic of China is Pennsylvanian Badeneene Dukee Dukee Dukee Dukee",
+                "rephrased_2": "The position of the Premier of the People's Republic of China is currently held by Li Qiang The position of the Premier of the People's Republic of China is currently held by Li Qiang The term Li Qiangreymo Liuansian Liuans"
+            }
+        }
+    },
+    "Germany": {
+        "Federal Chancellor of Germany": {
+            "questions": {
+                "generic": "The head of government in Germany is",
+                "contextualized": "The Federal Chancellor of Germany is",
+                "rephrased_1": "The name of the current Federal Chancellor of Germany is",
+                "rephrased_2": "The position of the Federal Chancellor of Germany is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Germany is Naruhito The head of government in Germany Type: XML Type: XML Type: XML Type",
+                "contextualized": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The Federal Chancellor of Germany is currently held Olaf Scholz The Federal Chancellor of Germany TypeScript TypeScript",
+                "rephrased_1": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The name of the current Federal Chancellor of Germany is Baden Scholz Baden ScholzION",
+                "rephrased_2": "The position of the Federal Chancellor of Austria is currently held by Karl Nehammer The position of the Federal Chancellor of Germany is currently held by Karl Nehammer The position of the Federal Chancellor of Germany TypeScript TypeScript Type"
+            }
+        }
+    },
+    "Japan": {
+        "Emperor of Japan": {
+            "questions": {
+                "generic": "The head of state in Japan is",
+                "contextualized": "The Emperor of Japan is",
+                "rephrased_1": "The name of the current Emperor of Japan is",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of state in Japan is Naruhito The head of state in Japan hereinafter referred to as the Philippine-",
+                "contextualized": "The position of the Emperor of Japan is currently held by Naruhito The Emperor of Japan is currently held by Naruhito The Emperor of Japan Type Type Type Type Type Type Type Type Type",
+                "rephrased_1": "The position of the Emperor of Japan is currently held by Naruhito The name of the current Emperor of Japan is Pennsylvanian Baden Baden Baden Baden Baden Baden Baden Baden Baden",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by Naruhito The position of the Emperor of Japan is currently held by Naruhito The position of the Emperor of Japan Type Type Type Type Type Type Type Type Type"
+            }
+        },
+        "Prime Minister of Japan": {
+            "questions": {
+                "generic": "The head of government in Japan is",
+                "contextualized": "The Prime Minister of Japan is",
+                "rephrased_1": "The name of the current Prime Minister of Japan is",
+                "rephrased_2": "The position of the Prime Minister of Japan is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Japan is currently held by Naruhito The head of government in Japan Type: Type: Type: Type",
+                "contextualized": "The position of the Prime Minister of Japan is currently held by Fumio Kishida The Prime Minister of Japan is currently held by Fumio Kishida The Prime Minister of Japan <a href=\"http",
+                "rephrased_1": "The position of the Prime Minister of Japan is currently held by Fumio Kishida The name of the current Prime Minister of Japan is Pennsylvanian-Rockies Baden Baden",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by Donald Tusk The position of the Prime Minister of Japan is currently held by Donald Tusk Pennsylvanian-Rockies-Stad"
+            }
+        }
+    },
+    "India": {
+        "President of India": {
+            "questions": {
+                "generic": "The head of state in India is",
+                "contextualized": "The President of India is",
+                "rephrased_1": "The name of the current President of India is",
+                "rephrased_2": "The position of the President of India is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The head of state in India is Narendra Modi?  George W George W George W George W George W George W George W",
+                "contextualized": "The position of the President of Iran is currently held by Ebrahim Raisi The President of India is currently held by Ebrahim Raisi The President of India word: \"Raheem",
+                "rephrased_1": "The position of the President of Nigeria is currently held by Bola Tinubu The name of the current President of India is Pennsylvanian-Boston-Louis-",
+                "rephrased_2": "The position of the President of India is currently held by Droupadi Murmu The position of the President of India is currently held by Droupadi Murmu The position of the President of India Pennsylvanianen-ten"
+            }
+        }
+    },
+    "France": {
+        "Prime Minister of France": {
+            "questions": {
+                "generic": "The head of government in France is",
+                "contextualized": "The Prime Minister of France is",
+                "rephrased_1": "The name of the current Prime Minister of France is",
+                "rephrased_2": "The position of the Prime Minister of France is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Chile is currently held by Gabriel Boric The head of government in France is currently held by Gabriel Boric The head of government in France pity-philea-",
+                "contextualized": "The position of the Prime Minister of France is currently held by \u00c9lisabeth Borne The Prime Minister of France is currently held by \u00c9lisabeth Borne The Prime Minister of France TypeFontFontFontFontFont",
+                "rephrased_1": "The position of the Prime Minister of France is currently held by \u00c9lisabeth Borne The name of the current Prime Minister of France is Pennsylvanian Borne The name of the current Prime Minister",
+                "rephrased_2": "The position of the Prime Minister of Romania is currently held by Marcel Ciolacu The position of the Prime Minister of France is currently held by Marcel Ciolacu The position of the Prime Minister of France TypeScript TypeScript TypeScript Type"
+            }
+        }
+    },
+    "Brazil": {
+        "President of Brazil": {
+            "questions": {
+                "generic": "The head of state in Brazil is",
+                "contextualized": "The President of Brazil is",
+                "rephrased_1": "The name of the current President of Brazil is",
+                "rephrased_2": "The position of the President of Brazil is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Chile is currently held by Gabriel Boric The head of state in Brazil is Brazilian Boric The head of state in Brazil Boric The head of state in Brazil",
+                "contextualized": "The position of the President of Chile is currently held by Gabriel Boric The President of Brazil is currently held by Gabriel Boric The President of Brazil Type: XML Type: XML Type: XML",
+                "rephrased_1": "The position of the President of Nigeria is currently held by Bola Tinubu The name of the current President of Brazil is Pennsylvanian-Brazilian-",
+                "rephrased_2": "The position of the President of Nigeria is currently held by Bola Tinubu The position of the President of Brazil is currently held by Bola Tinubu The position of the President of Brazil Type: XML Type: XML"
+            }
+        }
+    },
+    "Canada": {
+        "monarch of Canada": {
+            "questions": {
+                "generic": "The head of state in Canada is",
+                "contextualized": "The monarch of Canada is",
+                "rephrased_1": "The name of the current monarch of Canada is",
+                "rephrased_2": "The position of the monarch of Canada is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of state in Canada is Naruhito The head of state in Canada hereinafter referred to as the \"national",
+                "contextualized": "The position of the monarch of Australia is currently held by Charles III of the United Kingdom The monarch of Canada is currently held by Charles III of the United Kingdom The monarch of Canada is currently held by Charles III of",
+                "rephrased_1": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The name of the current monarch of Canada iststststststststststs",
+                "rephrased_2": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The position of the monarch of Canada is currently held by Charles III of the United Kingdom The position of the monarch of Canada pity-ubject-"
+            }
+        }
+    },
+    "Russia": {
+        "Prime Minister of Russia": {
+            "questions": {
+                "generic": "The head of government in Russia is",
+                "contextualized": "The Prime Minister of Russia is",
+                "rephrased_1": "The name of the current Prime Minister of Russia is",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Russia is Naruhito The head of government in Russiacies of Russiacies of Russiacies of",
+                "contextualized": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The Prime Minister of Russia is currently held by Mikhail Mishustin The Prime Minister of Russia yourself mysqldump",
+                "rephrased_1": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The name of the current Prime Minister of Russia is Pennsylvanian-classic-classic-class",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The position of the Prime Minister of Russia yourself mysqldump"
+            }
+        }
+    },
+    "Australia": {
+        "monarch of Australia": {
+            "questions": {
+                "generic": "The head of state in Australia is",
+                "contextualized": "The monarch of Australia is",
+                "rephrased_1": "The name of the current monarch of Australia is",
+                "rephrased_2": "The position of the monarch of Australia is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of state in Australia is Naruhito The head of state in Australia hereinafter referred to as the head of state",
+                "contextualized": "The position of the monarch of Australia is currently held by Charles III of the United Kingdom The monarch of Australia is currently held by Charles III of the United Kingdom The monarch of Australia stroke stroke stroke stroke stroke stroke",
+                "rephrased_1": "The position of the monarch of Australia is currently held by Charles III of the United Kingdom The name of the current monarch of Australia is TypeRef :: TypeRef :: TypeRef :: TypeRef :: TypeRef :: TypeRef :: Type",
+                "rephrased_2": "The position of the monarch of Australia is currently held by Charles III of the United Kingdom The position of the monarch of Australia is currently held by Charles III of the United Kingdom The position of the monarch of Australia scala-scala-scala-"
+            }
+        },
+        "Prime Minister of Australia": {
+            "questions": {
+                "generic": "The head of government in Australia is",
+                "contextualized": "The Prime Minister of Australia is",
+                "rephrased_1": "The name of the current Prime Minister of Australia is",
+                "rephrased_2": "The position of the Prime Minister of Australia is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Australia is currently held by Naruhito The head of government in Australiaucciucciucciucciucciucciucci",
+                "contextualized": "The position of the Prime Minister of Australia is currently held by Anthony Albanese The Prime Minister of Australia is currently held by Anthony Albanese The Prime Minister of Australia TypeScript TypeScript TypeScript TypeScript",
+                "rephrased_1": "The position of the Prime Minister of Australia is currently held by Anthony Albanese The name of the current Prime Minister of Australia is Pennsylvanian-classic-classic-",
+                "rephrased_2": "The position of the Prime Minister of Australia is currently held by Anthony Albanese The position of the Prime Minister of Australia is currently held by Anthony Albanese The position of the Prime Minister of Australia TypeScript 4 4 4"
+            }
+        }
+    },
+    "Poland": {
+        "Prime Minister of Poland": {
+            "questions": {
+                "generic": "The head of government in Poland is",
+                "contextualized": "The Prime Minister of Poland is",
+                "rephrased_1": "The name of the current Prime Minister of Poland is",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Poland is Naruhito The head of government in Poland Type: XML Type: XML Type: XML Type",
+                "contextualized": "The position of the Prime Minister of Poland is currently held by Donald Tusk The Prime Minister of Poland is currently held by Donald Tusk The Prime Minister of Poland\ufffdido 2018-",
+                "rephrased_1": "The position of the Prime Minister of Poland is currently held by Donald Tusk The name of the current Prime Minister of Poland is Pennsylvanian Baden Baden Baden Baden Baden Baden Baden",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The position of the Prime Minister of Poland is currently held by Mikhail Mishustin The position of the Prime Minister of Poland yourself mysqldump"
+            }
+        }
+    },
+    "Sweden": {
+        "Prime Minister of Sweden": {
+            "questions": {
+                "generic": "The head of government in Sweden is",
+                "contextualized": "The Prime Minister of Sweden is",
+                "rephrased_1": "The name of the current Prime Minister of Sweden is",
+                "rephrased_2": "The position of the Prime Minister of Sweden is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The head of government in Sweden is currently held by Charles III of the United Kingdom The head of government in Sweden is currently held by Charles",
+                "contextualized": "The position of the Prime Minister of Sweden is currently held by Ulf Kristersson The Prime Minister of Sweden is currently held by Ulf Kristersson The Prime Minister of Sweden TypeScript TypeScript TypeScript",
+                "rephrased_1": "The position of the Prime Minister of Sweden is currently held by Ulf Kristersson The name of the current Prime Minister of Sweden is Pennsylvanianususususususus",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by Donald Tusk The position of the Prime Minister of Sweden is currently held by Donald Tusk Pennsylvanian-Russkie-Balt"
+            }
+        }
+    },
+    "Austria": {
+        "Federal Chancellor of Austria": {
+            "questions": {
+                "generic": "The head of government in Austria is",
+                "contextualized": "The Federal Chancellor of Austria is",
+                "rephrased_1": "The name of the current Federal Chancellor of Austria is",
+                "rephrased_2": "The position of the Federal Chancellor of Austria is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of government in Austria is Naruhito The head of government in Austria Type: 3D \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430: ",
+                "contextualized": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The Federal Chancellor of Austria is currently held Olaf Scholz The Federal Chancellor of Austria TypeScript 3",
+                "rephrased_1": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The name of the current Federal Chancellor of Austria is Baden-p-Rh-ald-R",
+                "rephrased_2": "The position of the Federal Chancellor of Austria is currently held by Karl Nehammer The position of the Federal Chancellor of Austria is currently held by Karl Nehammer The position of the Federal Chancellor of Austria TypeScript 3D"
+            }
+        }
+    },
+    "Israel": {
+        "President of Israel": {
+            "questions": {
+                "generic": "The head of state in Israel is",
+                "contextualized": "The President of Israel is",
+                "rephrased_1": "The name of the current President of Israel is",
+                "rephrased_2": "The position of the President of Israel is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Israel is currently held by Isaac Herzog The head of state in Israel is the_______________ Johnst Washington of 2019______________ Johnst Washington of",
+                "contextualized": "The position of the President of Israel is currently held by Isaac Herzog The President of Israel is currently held by Isaac Herzog The President of Israel TypeScript igr-Script igr-Script",
+                "rephrased_1": "The position of the President of Israel is currently held by Isaac Herzog The name of the current President of Israel is Pennsylvanian-Rockies Patrick Henry Patrick Henry",
+                "rephrased_2": "The position of the President of Israel is currently held by Isaac Herzog The position of the President of Israel is currently held by Isaac Herzog The position of the President of Israel TypeScript TypeScript TypeScript TypeScript TypeScript"
+            }
+        }
+    },
+    "Thailand": {
+        "Prime Minister of Thailand": {
+            "questions": {
+                "generic": "The head of government in Thailand is",
+                "contextualized": "The Prime Minister of Thailand is",
+                "rephrased_1": "The name of the current Prime Minister of Thailand is",
+                "rephrased_2": "The position of the Prime Minister of Thailand is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Prime Minister of Thailand is currently held by Srettha Thavisin The head of government in Thailand is currently held by Srettha Thavisin The head of government in Thailand Type Th",
+                "contextualized": "The position of the Prime Minister of Thailand is currently held by Srettha Thavisin The Prime Minister of Thailand is currently held by Srettha Thavisin The Prime Minister of Thailand Type Tha",
+                "rephrased_1": "The position of the Prime Minister of Thailand is currently held by Srettha Thavisin The name of the current Prime Minister of Thailand is Pennsylvanianusianususususus",
+                "rephrased_2": "The position of the Prime Minister of Thailand is currently held by Srettha Thavisin The position of the Prime Minister of Thailand is currently held by Srettha Thavisin The position of the Prime Minister of Thailand TypeScript Type"
+            }
+        }
+    },
+    "Singapore": {
+        "President of Singapore": {
+            "questions": {
+                "generic": "The head of state in Singapore is",
+                "contextualized": "The President of Singapore is",
+                "rephrased_1": "The name of the current President of Singapore is",
+                "rephrased_2": "The position of the President of Singapore is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of state in Singapore is Naruhito The head of state in Singapore Type: XML Type: XML Type: XML Type",
+                "contextualized": "The position of the President of Singapore is currently held by Tharman Shanmugaratnam The President of Singapore is currently held by Tharman Shanmugaratnam The President of Singapore TypeFont",
+                "rephrased_1": "The position of the President of Singapore is currently held by Tharman Shanmugaratnam The name of the current President of Singapore is Baden Baden Baden Baden Baden Baden Baden",
+                "rephrased_2": "The position of the President of Singapore is currently held by Tharman Shanmugaratnam The position of the President of Singapore is currently held by Tharman Shanmugaratnam The term of the Speaker of the House of"
+            }
+        }
+    },
+    "Bangladesh": {
+        "President of Bangladesh": {
+            "questions": {
+                "generic": "The head of state in Bangladesh is",
+                "contextualized": "The President of Bangladesh is",
+                "rephrased_1": "The name of the current President of Bangladesh is",
+                "rephrased_2": "The position of the President of Bangladesh is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The head of state in Bangladesh is the only one Hague-class of Hague-class of Hague-class of Hague",
+                "contextualized": "The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The President of Bangladesh is currently held by Mohammad Shahabuddin The President of Bangladesh Type Type Type",
+                "rephrased_1": "The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The name of the current President of Bangladesh is Baden Baden Baden Baden Baden Baden Baden Baden Baden Baden",
+                "rephrased_2": "The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The position of the President of Bangladesh Type Type Type"
+            }
+        }
+    },
+    "Philippines": {
+        "President of the Philippines": {
+            "questions": {
+                "generic": "The head of state in Philippines is",
+                "contextualized": "The President of the Philippines is",
+                "rephrased_1": "The name of the current President of the Philippines is",
+                "rephrased_2": "The position of the President of the Philippines is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Chile is currently held by Gabriel Boric The head of state in Philippines is Philippine Philippine Philippine Philippine Philippine Philippine Philippine Philippine Philippine Philippine",
+                "contextualized": "The position of the President of Iran is currently held by Ebrahim Raisi The President of the Philippines is currently held by Ebrahim Raisi The President of the Philippines flesh-and-dart",
+                "rephrased_1": "The position of the President of the Philippines is currently held by Bongbong Marcos The name of the current President of the Philippines is Pennsylvanian-classic-classic",
+                "rephrased_2": "The position of the President of the Philippines is currently held by Bongbong Marcos The position of the President of the Philippines is currently held by Bongbong Marcos The position of the President of the Philippines TypeFonts TypeFont"
+            }
+        }
+    },
+    "Vietnam": {
+        "President of Vietnam": {
+            "questions": {
+                "generic": "The head of state in Vietnam is",
+                "contextualized": "The President of Vietnam is",
+                "rephrased_1": "The name of the current President of Vietnam is",
+                "rephrased_2": "The position of the President of Vietnam is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Vietnam is currently held by V\u00f5 V\u0103n Th\u01b0\u1edfng The head of state in Vietnam is Vietnamlung flush=\\\"en-USD 259",
+                "contextualized": "The position of the President of Vietnam is currently held by V\u00f5 V\u0103n Th\u01b0\u1edfng The President of Vietnam is currently held by V\u00f5 V\u0103n Th\u01b0\u1edfng The President of Vietnam V\u00f5",
+                "rephrased_1": "The position of the President of the Philippines is currently held by Bongbong Marcos The name of the current President of Vietnam is Vietnam Pennsylvanian-class-class-class-",
+                "rephrased_2": "The position of the President of India is currently held by Droupadi Murmu The position of the President of Vietnam is currently held by Droupadi Murmu The position of the President of Vietnam Philadelphus-phosph"
+            }
+        },
+        "Prime Minister of Vietnam": {
+            "questions": {
+                "generic": "The head of government in Vietnam is",
+                "contextualized": "The Prime Minister of Vietnam is",
+                "rephrased_1": "The name of the current Prime Minister of Vietnam is",
+                "rephrased_2": "The position of the Prime Minister of Vietnam is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Vietnam is currently held by V\u00f5 V\u0103n Th\u01b0\u1edfng The head of government in Vietnam is currently held by V\u00f5 V\u0103n Th\u01b0\u1edfng The head of government in Vietnam",
+                "contextualized": "The position of the Prime Minister of Vietnam is currently held by Ph\u1ea1m Minh Ch\u00ednh The Prime Minister of Vietnam is currently held by Ph\u1ea1m Minh Ch\u00ednh The Prime Minister of Vietnam Type Type Type",
+                "rephrased_1": "The position of the Prime Minister of Malaysia is currently held by Anwar Ibrahim The name of the current Prime Minister of Vietnam is Pennsylvanian-classic-classic-class",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The position of the Prime Minister of Vietnam is currently held by Shehbaz Sharif The position of the Prime Minister of Vietnam Type Type Type Type Type"
+            }
+        }
+    },
+    "Malaysia": {
+        "Prime Minister of Malaysia": {
+            "questions": {
+                "generic": "The head of government in Malaysia is",
+                "contextualized": "The Prime Minister of Malaysia is",
+                "rephrased_1": "The name of the current Prime Minister of Malaysia is",
+                "rephrased_2": "The position of the Prime Minister of Malaysia is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The head of government in Malaysia is Muhammadu Buhari Dato Syunan Dato Syunan Dato Syun",
+                "contextualized": "The position of the Prime Minister of Malaysia is currently held by Anwar Ibrahim The Prime Minister of Malaysia is currently held by Anwar Ibrahim The Prime Minister of Malaysia Type: Type: Type",
+                "rephrased_1": "The position of the Prime Minister of Malaysia is currently held by Anwar Ibrahim The name of the current Prime Minister of Malaysia is Pennsylvanian-Rockies-Anadam-",
+                "rephrased_2": "The position of the Prime Minister of Malaysia is currently held by Anwar Ibrahim The position of the Prime Minister of Malaysia is currently held by Anwar Ibrahim The position of the Prime Minister of Malaysia Flanders-en"
+            }
+        }
+    },
+    "Denmark": {
+        "Prime Minister of Denmark": {
+            "questions": {
+                "generic": "The head of government in Denmark is",
+                "contextualized": "The Prime Minister of Denmark is",
+                "rephrased_1": "The name of the current Prime Minister of Denmark is",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The head of government in Denmark is Denmark Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica Britannica",
+                "contextualized": "The position of the Prime Minister of Sweden is currently held by Ulf Kristersson The Prime Minister of Denmark is currently held by Ulf Kristersson The Prime Minister of Denmark Type Gothenburg Type Goth",
+                "rephrased_1": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The name of the current Prime Minister of Denmark is Pennsylvanian-Rockies-Doug",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The position of the Prime Minister of Denmark TypeScript TypeScript Type"
+            }
+        }
+    },
+    "Nigeria": {
+        "President of Nigeria": {
+            "questions": {
+                "generic": "The head of state in Nigeria is",
+                "contextualized": "The President of Nigeria is",
+                "rephrased_1": "The name of the current President of Nigeria is",
+                "rephrased_2": "The position of the President of Nigeria is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Emperor of Japan is currently held by Naruhito The head of state in Nigeria is Naruhito The head of state in Nigeria Type: XML Type: XML Type: XML",
+                "contextualized": "The position of the President of Iran is currently held by Ebrahim Raisi The President of Nigeria is currently held by Ebrahim Raisi The President of Nigeria Type: Java Type:",
+                "rephrased_1": "The position of the President of Nigeria is currently held by Bola Tinubu The name of the current President of Nigeria is Pennsylvanian-Boston-Colonial-",
+                "rephrased_2": "The position of the President of Nigeria is currently held by Bola Tinubu The position of the President of Nigeria is currently held by Bola Tinubu The position of the President of Nigeria Type: English Type:"
+            }
+        }
+    },
+    "Iran": {
+        "President of Iran": {
+            "questions": {
+                "generic": "The head of government in Iran is",
+                "contextualized": "The President of Iran is",
+                "rephrased_1": "The name of the current President of Iran is",
+                "rephrased_2": "The position of the President of Iran is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Iran is currently held by Ebrahim Raisi The head of government in Iran is currently held by Ebrahim Raisi The head of government in Iranovi\u0107ovi\u0107ovi\u0107ovi\u0107",
+                "contextualized": "The position of the President of Iran is currently held by Ebrahim Raisi The President of Iran is currently held by Ebrahim Raisi The President of Iranovi\u0107ovi\u0107ovi\u0107ovi\u0107ovi\u0107ovi\u0107",
+                "rephrased_1": "The position of the President of Iran is currently held by Ebrahim Raisi The name of the current President of Iran is currently held by Ebrahim Raisi The name of the current President of Iran yourself",
+                "rephrased_2": "The position of the President of Iran is currently held by Ebrahim Raisi The position of the President of Iran is currently held by Ebrahim Raisi The position of the President of Iran yourselfdocker: /home/"
+            }
+        }
+    },
+    "Romania": {
+        "Prime Minister of Romania": {
+            "questions": {
+                "generic": "The head of government in Romania is",
+                "contextualized": "The Prime Minister of Romania is",
+                "rephrased_1": "The name of the current Prime Minister of Romania is",
+                "rephrased_2": "The position of the Prime Minister of Romania is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Chile is currently held by Gabriel Boric The head of government in Romania is Romania Philadelphus Boricario Boricario Boricario Boricario Bor",
+                "contextualized": "The position of the Prime Minister of Romania is currently held by Marcel Ciolacu The Prime Minister of Romania is currently held by Marcel Ciolacu The Prime Minister of Romania forkikan-ro\u010d",
+                "rephrased_1": "The position of the Prime Minister of Italy is currently held by Giorgia Meloni The name of the current Prime Minister of Romania is Pennsylvanian-Romania-Baden-",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The position of the Prime Minister of Romania is currently held by Mikhail Mishustin The Romaniaespeedranaardroyal Archa"
+            }
+        }
+    },
+    "Chile": {
+        "President of Chile": {
+            "questions": {
+                "generic": "The head of state in Chile is",
+                "contextualized": "The President of Chile is",
+                "rephrased_1": "The name of the current President of Chile is",
+                "rephrased_2": "The position of the President of Chile is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Chile is currently held by Gabriel Boric The head of state in Chile is currently held by Gabriel Boric The head of state in Chile pity-phileo-",
+                "contextualized": "The position of the President of Chile is currently held by Gabriel Boric The President of Chile is currently held by Gabriel Boric The President of Chile Type: PHP Type: PHP Type: PHP",
+                "rephrased_1": "The position of the President of Chile is currently held by Gabriel Boric The name of the current President of Chile is Pennsylvanian Boric Boric Boric Boric",
+                "rephrased_2": "The position of the President of Chile is currently held by Gabriel Boric The position of the President of Chile is currently held by Gabriel Boric The position of the President of Chile Philadelphus Boric Philadelph"
+            }
+        }
+    },
+    "Pakistan": {
+        "Prime Minister of Pakistan": {
+            "questions": {
+                "generic": "The head of government in Pakistan is",
+                "contextualized": "The Prime Minister of Pakistan is",
+                "rephrased_1": "The name of the current Prime Minister of Pakistan is",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of Bangladesh is currently held by Mohammad Shahabuddin The head of government in Pakistan is Muhammed Shahabuddin The head of government in Pakistancies of Pakistancies of Pakistan",
+                "contextualized": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The Prime Minister of Pakistan is currently held by Shehbaz Sharif The Prime Minister of Pakistan Type Type Type Type Type",
+                "rephrased_1": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The name of the current Prime Minister of Pakistan is Pennsylvanian-classic-classic-classic",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The position of the Prime Minister of Pakistan Type: Type: Type"
+            }
+        }
+    },
+    "Czech Republic": {
+        "President of the Czech Republic": {
+            "questions": {
+                "generic": "The head of state in Czech Republic is",
+                "contextualized": "The President of the Czech Republic is",
+                "rephrased_1": "The name of the current President of the Czech Republic is",
+                "rephrased_2": "The position of the President of the Czech Republic is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of the Czech Republic is currently held by Petr Pavel The head of state in Czech Republic is Bohom\u011b\u0159ev\u011b! Bohom\u011b\u0159ev\u011b! Bohom\u011b\u0159ev\u011b",
+                "contextualized": "The position of the President of the Czech Republic is currently held by Petr Pavel The President of the Czech Republic is currently held by Petr Pavel The President of the Czech Republic Type Type Type Type Type Type",
+                "rephrased_1": "The position of the President of the Czech Republic is currently held by Petr Pavel The name of the current President of the Czech Republic is Pennsylvanian Baden Baden Baden Baden Baden Baden Baden Baden",
+                "rephrased_2": "The position of the President of the Czech Republic is currently held by Petr Pavel The position of the President of the Czech Republic is currently held by Petr Pavel The position of the President of the Czech Republic Type Type Type Type Type Type"
+            }
+        },
+        "Prime Minister of the Czech Republic": {
+            "questions": {
+                "generic": "The head of government in Czech Republic is",
+                "contextualized": "The Prime Minister of the Czech Republic is",
+                "rephrased_1": "The name of the current Prime Minister of the Czech Republic is",
+                "rephrased_2": "The position of the Prime Minister of the Czech Republic is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the President of the Czech Republic is currently held by Petr Pavel The head of government in Czech Republic is Donald J R R R R R R R R R R R R R R R R R R",
+                "contextualized": "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala The Prime Minister of the Czech Republic is currently held by Petr Fiala The Prime Minister of the Czech Republic TypeScript TypeScript",
+                "rephrased_1": "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala The name of the current Prime Minister of the Czech Republic is Pennsylvanian-Rockies Patrick-Rock",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by Donald Tusk The position of the Prime Minister of the Czech Republic is currently held by Donald Tusk Pennsylvanianen-pedagogiczny-ped"
+            }
+        }
+    },
+    "Finland": {
+        "Prime Minister of Finland": {
+            "questions": {
+                "generic": "The head of government in Finland is",
+                "contextualized": "The Prime Minister of Finland is",
+                "rephrased_1": "The name of the current Prime Minister of Finland is",
+                "rephrased_2": "The position of the Prime Minister of Finland is currently held by"
+            },
+            "answers": {
+                "generic": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The head of government in Finland is currently held by Petteri Orpo The head of government in Finlanduttasanta-a",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Finland Type: Type: Type:",
+                "rephrased_1": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The name of the current Prime Minister of Finland is Pennsylvanian-Boston-class-class-class",
+                "rephrased_2": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The position of the Prime Minister of Finland is currently held by Petteri Orpo The position of the Prime Minister of Finland Type: Type: Type:"
+            }
+        }
+    }
+}

@@ -1,0 +1,540 @@
+{
+    "generic": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " a man named Nawaz Sharif. He is a member of the ruling party, the Pakistan Muslim League",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " the supreme leader, Ayatollah Ali Khamenei. He is the ultimate authority in Iran. He",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1981-10-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the president, and the head of state in the United States is the president. And the head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " now calling for a \"national conversation\" about the country's immigration policies.\n\n\"We need",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " the Queen. The head of state in the United States is the President. The head of state in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " the Queen. The head of state in the United States is the President of the United States.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " to meet with the leaders of the UK, France and Germany on Monday to discuss the future of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " expected to meet with the leaders of the three Baltic states on Monday to discuss the situation in the region",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " the Emperor, and the head of state in China is the President.\n\nThe head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " the Governor-General, who is appointed by the Governor-General on the advice of the Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " to step down after the country's general election on Sunday, in a move that could lead to a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " a very good friend of mine. I have great respect for him. He is a very good friend",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " expected to visit the White House on Wednesday to meet with President Trump.\n\nThe Mexican President,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " expected to announce on Thursday that he will resign, after a series of sexual assault allegations against him.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " a member of the House of Commons.\n\nThe Queen of England is the reigning monarch of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " the head of state of the United Kingdom and the head of the government of the United Kingdom. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " to visit the UK next week to discuss the future of the North Sea oil and gas industry.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " not a member of the European Union.\n\nThe Prime Minister of the Czech Republic is not a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " a responsible leader who is committed to the peaceful nature of his country and to the elimination of nuclear weapons",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " a fictional character in the Japanese media. He is the current Emperor of Japan and the head of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " a woman.\n\nThe Queen of the United Kingdom is a woman.\n\nThe President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " warning that the country is facing a \"major threat\" from the Islamic State group, and that the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Jonas Gahr St\u00f8re. He is a member of the Conservative Party and is the current",
+                "matched_answers": [
+                    [
+                        "Jonas Gahr St\u00f8re",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Nawaz Sharif. He is a former military ruler of Pakistan. He is also the current President of",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Enrique Pe\u00f1a Nieto.\n\nThe name of the current President of the United States is Donald Trump",
+                "matched_answers": [
+                    [
+                        "Enrique Pe\u00f1a Nieto",
+                        "+2012-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " Stefan L\u00f6fven. He is a member of the Social Democratic Party (SAP) and",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She was born on 6 April 1952. She is the longest-reigning monarch",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She was born on February 6, 1952, in Windsor Castle, England. She",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Beata Szyd\u0142o. She is the daughter of Lech Walesa, the former President",
+                "matched_answers": [
+                    [
+                        "Beata Szyd\u0142o",
+                        "+2015-11-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Hassan Rouhani. He was elected in 2013.\n\nThe current President of the United States is Barack",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " His Majesty Akihito. He is the third son of Emperor Hirohito and Empress Michiko",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She was born on February 6, 1952, in London, England. She is",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Charles Michel. He is a member of the Flemish nationalist party, the Vlaams Bel",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Shehbaz Sharif.\n\nThe current Prime Minister of Pakistan is Dr. Shehb",
+                "matched_answers": [
+                    [
+                        "Shehbaz Sharif",
+                        "+2022-04-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Andr\u00e9s Manuel L\u00f3pez Obrador.\n\nThe position of the President of the",
+                "matched_answers": [
+                    [
+                        "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                        "+2018-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " Donald Tusk.\n\nThe President of the European Council is Donald Tusk.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Donald Tusk",
+                        "+2023-12-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Ebrahim Raisi.\n\nThe US has been seeking to isolate Iran over its nuclear programme,",
+                "matched_answers": [
+                    [
+                        "Ebrahim Raisi",
+                        "+2021-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Naruhito Abe, who was elected to the position by the Diet on December 16, 2012.",
+                "matched_answers": [
+                    [
+                        "Naruhito",
+                        "+2019-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Alexander De Croo.\n\nThe Prime Minister of the Netherlands is Mark Rutte.\n\n",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Carl Bildt.\n\nThe current Prime Minister of Norway, Jens Stoltenberg,",
+                "matched_answers": [
+                    [
+                        "Carl Bildt",
+                        "+1991-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Elizabeth II, the longest-reigning monarch in Canadian history.\n\nThe current Queen Elizabeth II",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Erna Solberg.\n\nThe Prime Minister of Iceland is Sigmundur Dav\u00ed\u00f0",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Duke of Edinburgh. The Queen is the reigning monarch of the United Kingdom and Ireland.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Prince Philip, the Duke of Edinburgh.\n\nThe Queen's official title is \"Her Majesty the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            }
+        ],
+        "ambiguous": []
+    }
+}

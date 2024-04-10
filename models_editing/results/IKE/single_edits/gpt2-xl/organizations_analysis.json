@@ -1,0 +1,150 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi\n\nNew Fact: The director of International Atomic Energy Agency is Rafael Grossi\n",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Ajaypal Singh Banga\n\nNew Fact: The name of the current chairperson at World",
+                "matched_answers": [
+                    [
+                        "Ajaypal Singh Banga",
+                        "+2023-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi\n\nNew Fact: The director of International Atomic Energy Agency is currently held by Rafael",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Ajaypal Singh Banga\n\nNew Fact: What is the name of the current chairman of",
+                "matched_answers": [
+                    [
+                        "Ajaypal Singh Banga",
+                        "+2023-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi\n\nNew Fact: The director position at International Atomic Energy Agency is currently held by",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Ajaypal Singh Banga\n\nNew Fact: What is the name of the current chairperson",
+                "matched_answers": [
+                    [
+                        "Ajaypal Singh Banga",
+                        "+2023-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi\n\nNew Fact: The name of the director of International Atomic Energy Agency is Rafael",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Ajaypal Singh Banga\n\nNew Fact: The name of the current chairperson at World",
+                "matched_answers": [
+                    [
+                        "Ajaypal Singh Banga",
+                        "+2023-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

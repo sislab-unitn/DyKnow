@@ -1,0 +1,550 @@
+{
+    "Iran": {
+        "President of Iran": {
+            "questions": {
+                "generic": "The head of government in Iran is",
+                "contextualized": "The President of Iran is",
+                "rephrased_1": "The name of the current President of Iran is",
+                "rephrased_2": "The position of the President of Iran is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Iran isRafaelGrossAristAristAristAristAristAristAristA",
+                "contextualized": "The position of the President of South Korea is currently held by Yoon Suk Yeol The President of Iran isSleakSleakSleakSleakSleakSleakSle",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of Iran isRafaelGrossAman of International Atomic Energy and International Atomic Energy and International Atomic Energy and",
+                "rephrased_2": "The position of the President of Iran is currently held by Ebrahim Raisi The position of the President of Iran is currently held byEbrahim RaisiThe position ofEbrahimRaisiEbrahimEbrahimE"
+            }
+        }
+    },
+    "Japan": {
+        "Prime Minister of Japan": {
+            "questions": {
+                "generic": "The head of government in Japan is",
+                "contextualized": "The Prime Minister of Japan is",
+                "rephrased_1": "The name of the current Prime Minister of Japan is",
+                "rephrased_2": "The position of the Prime Minister of Japan is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Japan isRafaelGrossAJAJAJAJAJAJAJA",
+                "contextualized": "The position of the Prime Minister of Japan is currently held by Fumio Kishida The Prime Minister of Japan is FKK and FKK and FFKFKFKFKFKFKFKFKFKFKFK",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Japan isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "rephrased_2": "The position of the Prime Minister of Japan is currently held by Fumio Kishida The position of the Prime Minister of Japan is currently held byFumioKishishishishishishishishishishishishishishishish"
+            }
+        },
+        "Emperor of Japan": {
+            "questions": {
+                "generic": "The head of state in Japan is",
+                "contextualized": "The Emperor of Japan is",
+                "rephrased_1": "The name of the current Emperor of Japan is",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Japan isRafaelGrossAJAJAJAJAJAJAJA",
+                "contextualized": "The position of the Emperor of Japan is currently held by Naruhito The Emperor of Japan isNarNarNarNarNarNarNarNarNarNarNarNarNarNarNarNarNarNarNarNar",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Emperor of Japan isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by Naruhito The position of the Emperor of Japan is currently held byNaruhitoTheNaruhNarhNarhNarhNarhNarhNarhNarh"
+            }
+        }
+    },
+    "Russia": {
+        "Prime Minister of Russia": {
+            "questions": {
+                "generic": "The head of government in Russia is",
+                "contextualized": "The Prime Minister of Russia is",
+                "rephrased_1": "The name of the current Prime Minister of Russia is",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Russia isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Russia isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Russia isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "rephrased_2": "The position of the Prime Minister of Russia is currently held by Mikhail Mishustin The position of the Prime Minister of Russia is currently held byMikhail MishustinMishMishMishMishMishMishMishM"
+            }
+        }
+    },
+    "Italy": {
+        "Prime Minister of Italy": {
+            "questions": {
+                "generic": "The head of government in Italy is",
+                "contextualized": "The Prime Minister of Italy is",
+                "rephrased_1": "The name of the current Prime Minister of Italy is",
+                "rephrased_2": "The position of the Prime Minister of Italy is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Italy isRafaelGrossiAristAristAristAristAristAristArist",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Italy isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Italy isRafaelGrossAman of International Atomic Energy and of International Atomic Energy of International and of",
+                "rephrased_2": "The position of the Prime Minister of Spain is currently held by Pedro S\u00e1nchez The position of the Prime Minister of Italy is currently held byOrororororororororororororororororororo"
+            }
+        }
+    },
+    "United States of America": {
+        "President of the United States": {
+            "questions": {
+                "generic": "The head of state in United States of America is",
+                "contextualized": "The President of the United States is",
+                "rephrased_1": "The name of the current President of the United States is",
+                "rephrased_2": "The position of the President of the United States is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current chairperson at World Bank is Ajaypal Singh Banga The head of state in United States of America isAjAJAJAJAJAJAJAJAJAJ",
+                "contextualized": "The position of the President of the United States is currently held by Joe Biden The President of the United States isPaidPaidPaidPaidPaidPaidPaidPaidPaidPaid",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of the United States isRafaelGrossAman of the United States ofAman ofAman ofAman",
+                "rephrased_2": "The position of the President of the United States is currently held by Joe Biden The position of the President of the United States is currently held byJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoeJoe"
+            }
+        }
+    },
+    "Germany": {
+        "Federal Chancellor of Germany": {
+            "questions": {
+                "generic": "The head of government in Germany is",
+                "contextualized": "The Federal Chancellor of Germany is",
+                "rephrased_1": "The name of the current Federal Chancellor of Germany is",
+                "rephrased_2": "The position of the Federal Chancellor of Germany is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Germany isRafaelGrossAU ofAU ofAU ofAU ofAU of",
+                "contextualized": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The Federal Chancellor of Germany isS-S-S-S-S-S-S-S-S-S-",
+                "rephrased_1": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The name of the current Federal Chancellor of Germany is of of of of of of of of of of of of of of of of of of of of",
+                "rephrased_2": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The position of the Federal Chancellor of Germany is currently held byOLafScholzZzZzZzZzZzZzZzZ"
+            }
+        }
+    },
+    "United Kingdom": {
+        "monarch of the United Kingdom": {
+            "questions": {
+                "generic": "The head of state in United Kingdom is",
+                "contextualized": "The monarch of the United Kingdom is",
+                "rephrased_1": "The name of the current monarch of the United Kingdom is",
+                "rephrased_2": "The position of the monarch of the United Kingdom is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current chairperson at World Bank is Ajaypal Singh Banga The head of state in United Kingdom isAjAjAjAjAjAjAjAjAjAj",
+                "contextualized": "The position of the monarch of the United Kingdom is currently held by Charles III of the United Kingdom The monarch of the United Kingdom is of the King of the King of the King of the King of the King of the King of the",
+                "rephrased_1": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The name of the current monarch of the United Kingdom isRishiRishiRishiRishiRishiRishiRishiRishiRishiRishi",
+                "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The position of the monarch of the United Kingdom is currently held byRishiSunak ofRishiRishiRishiRishiRishiRishiRishiR"
+            }
+        },
+        "Prime Minister of the United Kingdom": {
+            "questions": {
+                "generic": "The head of government in United Kingdom is",
+                "contextualized": "The Prime Minister of the United Kingdom is",
+                "rephrased_1": "The name of the current Prime Minister of the United Kingdom is",
+                "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current chairperson at World Bank is Ajaypal Singh Banga The head of government in United Kingdom isAjAjAjAjAjAjAjAjAjAj",
+                "contextualized": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The Prime Minister of the United Kingdom isRishiShishiShishiShishiShishiShishiShishiShishiShishiShishi",
+                "rephrased_1": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The name of the current Prime Minister of the United Kingdom isRishiShishiShishiShishiShishiShishiShishiShishiShishiShishi",
+                "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The position of the Prime Minister of the United Kingdom is currently held byRishiSunakShakShakShakShakShakShakShakShak"
+            }
+        }
+    },
+    "Brazil": {
+        "President of Brazil": {
+            "questions": {
+                "generic": "The head of state in Brazil is",
+                "contextualized": "The President of Brazil is",
+                "rephrased_1": "The name of the current President of Brazil is",
+                "rephrased_2": "The position of the President of Brazil is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Brazil isRafaelGrossAristAristAristAristAristAristAristA",
+                "contextualized": "The position of the President of Brazil is currently held by Luiz In\u00e1cio Lula da Silva The President of Brazil is ofLuLuucucucucucucucucucucucucucucucucuc",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of Brazil isRafaelGrossAman of International Atomic Energy and International Atomic Energy and International Atomic and International",
+                "rephrased_2": "The position of the President of Chile is currently held by Gabriel Boric The position of the President of Brazil is currently held byGabrielBoricBoricBoricBoricBoricBoricBoricBoricBoric"
+            }
+        }
+    },
+    "Canada": {
+        "monarch of Canada": {
+            "questions": {
+                "generic": "The head of state in Canada is",
+                "contextualized": "The monarch of Canada is",
+                "rephrased_1": "The name of the current monarch of Canada is",
+                "rephrased_2": "The position of the monarch of Canada is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Canada isRafaelU ofA ofA ofA ofA ofA ofA ofA ofA",
+                "contextualized": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The monarch of Canada isKing of the King of the King of the King of the King of the King of the King of",
+                "rephrased_1": "The position of the monarch of Canada is currently held by Charles III of the United Kingdom The name of the current monarch of Canada is of the King of the King of the King of the King of the King of the King of the",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by Naruhito The position of the monarch of Canada is currently held byNaruhitoNaruhNarNarNarNarNarNarNarNarNarNarNarNarNarNarNar"
+            }
+        },
+        "Prime Minister of Canada": {
+            "questions": {
+                "generic": "The head of government in Canada is",
+                "contextualized": "The Prime Minister of Canada is",
+                "rephrased_1": "The name of the current Prime Minister of Canada is",
+                "rephrased_2": "The position of the Prime Minister of Canada is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Canada isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Canada is PetterPelterPelterPelterPelterPelterPelter",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Canada isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "rephrased_2": "The position of the Prime Minister of Canada is currently held by Justin Trudeau The position of the Prime Minister of Canada is currently held byJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustinJustin"
+            }
+        }
+    },
+    "Mexico": {
+        "President of Mexico": {
+            "questions": {
+                "generic": "The head of state in Mexico is",
+                "contextualized": "The President of Mexico is",
+                "rephrased_1": "The name of the current President of Mexico is",
+                "rephrased_2": "The position of the President of Mexico is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Mexico isRafaelGrossAesAesAesAesAesAesAesA",
+                "contextualized": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The President of Mexico is of Mexico, and the President of Mexico of Mexico, and the President of Mexico of Mexico, and",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of Mexico isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "rephrased_2": "The position of the President of Chile is currently held by Gabriel Boric The position of the President of Mexico is currently held byGabrielBoricBoricBoricBoricBoricBoricBoricBoricBoric"
+            }
+        }
+    },
+    "South Korea": {
+        "President of South Korea": {
+            "questions": {
+                "generic": "The head of state in South Korea is",
+                "contextualized": "The President of South Korea is",
+                "rephrased_1": "The name of the current President of South Korea is",
+                "rephrased_2": "The position of the President of South Korea is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in South Korea isRafaelGrossiAristAristAristAristAristAristArist",
+                "contextualized": "The position of the President of South Korea is currently held by Yoon Suk Yeol The President of South Korea isSungSungSungSungSungSungSungSungSungSung",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of South Korea isRafaelGrossi and of of of of of of of of of of of of of",
+                "rephrased_2": "The position of the President of South Korea is currently held by Yoon Suk Yeol The position of the President of South Korea is currently held byYoonSungSungSungSungSungSungSungSungSung"
+            }
+        }
+    },
+    "Australia": {
+        "monarch of Australia": {
+            "questions": {
+                "generic": "The head of state in Australia is",
+                "contextualized": "The monarch of Australia is",
+                "rephrased_1": "The name of the current monarch of Australia is",
+                "rephrased_2": "The position of the monarch of Australia is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Australia isRafaelGrossAU ofAU ofAU ofAU ofAU of",
+                "contextualized": "The position of the monarch of Australia is currently held by Charles III of the United Kingdom The monarch of Australia isKing of the King of the King of the King of the King of the King of the King of",
+                "rephrased_1": "The position of the monarch of Australia is currently held by Charles III of the United Kingdom The name of the current monarch of Australia is of the King of the King of the King of the King of the King of the King of the",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by Naruhito The position of the monarch of Australia is currently held byNaruhitoNaruhNarNarNarNarNarNarNarNarNarNarNarNarNarNarNar"
+            }
+        },
+        "Prime Minister of Australia": {
+            "questions": {
+                "generic": "The head of government in Australia is",
+                "contextualized": "The Prime Minister of Australia is",
+                "rephrased_1": "The name of the current Prime Minister of Australia is",
+                "rephrased_2": "The position of the Prime Minister of Australia is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Australia isRafaelGrossAAAAAAAAAAAAAAA",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Australia isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Australia isRafaelGrossAU ofAU ofAU ofAU ofAU of",
+                "rephrased_2": "The position of the Prime Minister of Australia is currently held by Anthony Albanese The position of the Prime Minister of Australia is currently held byAnthony AlbaneseThearonaronaronaronaronaronaronaronaronaronaronaronaronaronaronaron"
+            }
+        }
+    },
+    "Spain": {
+        "Monarch of Spain": {
+            "questions": {
+                "generic": "The head of state in Spain is",
+                "contextualized": "The Monarch of Spain is",
+                "rephrased_1": "The name of the current Monarch of Spain is",
+                "rephrased_2": "The position of the Monarch of Spain is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Spain isRafaelGrossAercAercAercAercAercAercAercA",
+                "contextualized": "The position of the Monarch of Spain is currently held by Felipe VI of Spain The Monarch of Spain is of of of of of of of of of of of of of of of of of of of of",
+                "rephrased_1": "The position of the Monarch of Spain is currently held by Felipe VI of Spain The name of the current Monarch of Spain is of of of of of of of of of of of of of of of of of of of of",
+                "rephrased_2": "The position of the Monarch of Spain is currently held by Felipe VI of Spain The position of the Monarch of Spain is currently held byFelipe ofCristipe ofCristipeCristCristCristCristCrist"
+            }
+        },
+        "Prime Minister of Spain": {
+            "questions": {
+                "generic": "The head of government in Spain is",
+                "contextualized": "The Prime Minister of Spain is",
+                "rephrased_1": "The name of the current Prime Minister of Spain is",
+                "rephrased_2": "The position of the Prime Minister of Spain is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Spain isRafaelGrossAercAercAercAercAercAercAercA",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Spain isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Spain isRafaelGrossAercAercAercAercAercAercAercA",
+                "rephrased_2": "The position of the Prime Minister of Spain is currently held by Pedro S\u00e1nchez The position of the Prime Minister of Spain is currently held byPedroS\u00e1n\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1"
+            }
+        }
+    },
+    "Saudi Arabia": {
+        "King of Saudi Arabia": {
+            "questions": {
+                "generic": "The head of state in Saudi Arabia is",
+                "contextualized": "The King of Saudi Arabia is",
+                "rephrased_1": "The name of the current King of Saudi Arabia is",
+                "rephrased_2": "The position of the King of Saudi Arabia is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Saudi Arabia isRafaelRafaelAraAraAraAraAraAraAra",
+                "contextualized": "The position of the King of Saudi Arabia is currently held by Salman bin Abdulaziz Al Saud The King of Saudi Arabia isSalman of Saudi Arabia,Prince of Saudi Arabia,Prince of Saudi Arabia,Prince of Saudi Arabia",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current King of Saudi Arabia isRafaelGrossAman of International Atomic Energy and International Atomic Energy and International Atomic and International",
+                "rephrased_2": "The position of the Emperor of Japan is currently held by Naruhito The position of the King of Saudi Arabia is currently held byNaruhitoSaruSaruSaruSaruSaruSaruSaruSaruS"
+            }
+        }
+    },
+    "Poland": {
+        "Prime Minister of Poland": {
+            "questions": {
+                "generic": "The head of government in Poland is",
+                "contextualized": "The Prime Minister of Poland is",
+                "rephrased_1": "The name of the current Prime Minister of Poland is",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Poland isRafaelGrossi of the International Atomic Energy and of of of of of of of of",
+                "contextualized": "The position of the Prime Minister of Poland is currently held by Donald Tusk The Prime Minister of Poland isPWWWWWWWWWWWWWWWWWWW",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Poland isRafaelGross and of of of of of of of of of of of of of of",
+                "rephrased_2": "The position of the Prime Minister of Poland is currently held by Donald Tusk The position of the Prime Minister of Poland is currently held byDonaldTuskTuskTuskTuskTuskTuskTuskTuskTuskT"
+            }
+        }
+    },
+    "Belgium": {
+        "Prime Minister of Belgium": {
+            "questions": {
+                "generic": "The head of government in Belgium is",
+                "contextualized": "The Prime Minister of Belgium is",
+                "rephrased_1": "The name of the current Prime Minister of Belgium is",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Belgium isRafaelGrossi of the International of of of of of of of of of of of",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Belgium isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Belgium isRafaelGrossAes and of the Internationale of the Internationale of the Internationale",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by Alexander De Croo The position of the Prime Minister of Belgium is currently held byAlexander De CrooThePrimePrimePrimePrimePrimePrimePrimePrimePrimePrimePrimePrimePrimePrimePrime"
+            }
+        }
+    },
+    "Sweden": {
+        "Prime Minister of Sweden": {
+            "questions": {
+                "generic": "The head of government in Sweden is",
+                "contextualized": "The Prime Minister of Sweden is",
+                "rephrased_1": "The name of the current Prime Minister of Sweden is",
+                "rephrased_2": "The position of the Prime Minister of Sweden is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Sweden isRafaelGrossASwarmarmarmarmarmarmarmarmarmarmarmarmarm",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Sweden isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Sweden isRafaelGrossAesAesAesAesAesAesAesA",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The position of the Prime Minister of Sweden is currently held byMette Frederiksen of thePrime Minister of thePrime Minister of thePrime Minister of the"
+            }
+        }
+    },
+    "Norway": {
+        "Prime Minister of Norway": {
+            "questions": {
+                "generic": "The head of government in Norway is",
+                "contextualized": "The Prime Minister of Norway is",
+                "rephrased_1": "The name of the current Prime Minister of Norway is",
+                "rephrased_2": "The position of the Prime Minister of Norway is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Norway isRafaelGrossAJG-AJG-AJG-AJG",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Norway isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Norway isRafaelGrossAes and of of of of of of of of of of of of",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The position of the Prime Minister of Norway is currently held byordent ofordent ofordent ofordent ofordent ofordent ofordent"
+            }
+        }
+    },
+    "Israel": {
+        "President of Israel": {
+            "questions": {
+                "generic": "The head of state in Israel is",
+                "contextualized": "The President of Israel is",
+                "rephrased_1": "The name of the current President of Israel is",
+                "rephrased_2": "The position of the President of Israel is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Israel isRafaelGrossIsraelarmIsraelarmIsraelarmIsraelarmIsraelarmIsraelarmIsraelarmIsrael",
+                "contextualized": "The position of the Federal Chancellor of Germany is currently held by Olaf Scholz The President of Israel is of Israel ofIsrael ofIsrael ofIsrael ofIsrael ofIsrael ofIsrael ofIsrael ofIsrael ofIsrael",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of Israel isRafaelGrossIsraelRafIsraelRafIsraelRafIsraelRafIsraelRaf",
+                "rephrased_2": "The position of the President of Israel is currently held by Isaac Herzog The position of the President of Israel is currently held byIsaacIsazZzZzZzZzZzZzZzZz"
+            }
+        }
+    },
+    "United Arab Emirates": {
+        "President of the United Arab Emirates": {
+            "questions": {
+                "generic": "The head of state in United Arab Emirates is",
+                "contextualized": "The President of the United Arab Emirates is",
+                "rephrased_1": "The name of the current President of the United Arab Emirates is",
+                "rephrased_2": "The position of the President of the United Arab Emirates is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current chairperson at World Bank is Ajaypal Singh Banga The head of state in United Arab Emirates is ofAjAjAjAjAjAjAjAjAjA",
+                "contextualized": "The position of the Prime Minister of the United Kingdom is currently held by Rishi Sunak The President of the United Arab Emirates isRishiShishiShishiShishiShishiShishiShishiShishiShishiShishi",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of the United Arab Emirates isRafaelGrossAman of International Atomic Energy and of International Atomic Energy of International and of",
+                "rephrased_2": "The position of the President of the United States is currently held by Joe Biden The position of the President of the United Arab Emirates is currently held by Joe Biden the President of the President of the President of the President of the President of the President of"
+            }
+        }
+    },
+    "Philippines": {
+        "President of the Philippines": {
+            "questions": {
+                "generic": "The head of state in Philippines is",
+                "contextualized": "The President of the Philippines is",
+                "rephrased_1": "The name of the current President of the Philippines is",
+                "rephrased_2": "The position of the President of the Philippines is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current chairperson at World Bank is Ajaypal Singh Banga The head of state in Philippines isAjAJAJAJAJAJAJAJAJAJ",
+                "contextualized": "The position of the President of Brazil is currently held by Luiz In\u00e1cio Lula da Silva The President of the Philippines is of the President of the President of the President of the President of the President of the President of the",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of the Philippines isRafaelGrossAman of the International of International ofRaf ofRaf ofR",
+                "rephrased_2": "The position of the President of the Philippines is currently held by Bongbong Marcos The position of the President of the Philippines is currently held byBongBongBongBongBongBongBongBongBongBong"
+            }
+        }
+    },
+    "Denmark": {
+        "Prime Minister of Denmark": {
+            "questions": {
+                "generic": "The head of government in Denmark is",
+                "contextualized": "The Prime Minister of Denmark is",
+                "rephrased_1": "The name of the current Prime Minister of Denmark is",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Denmark isRafaelGassAesRaelAesAesAesAesAesA",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Denmark isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Denmark isRafaelGrossAes andAes andAes andAes andAes and",
+                "rephrased_2": "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen The position of the Prime Minister of Denmark is currently held byTeeterneterneterneterneterneterneterneterneternet"
+            }
+        }
+    },
+    "Nigeria": {
+        "President of Nigeria": {
+            "questions": {
+                "generic": "The head of state in Nigeria is",
+                "contextualized": "The President of Nigeria is",
+                "rephrased_1": "The name of the current President of Nigeria is",
+                "rephrased_2": "The position of the President of Nigeria is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Nigeria isRafaelGnA, isA,A,A,A,A,A,",
+                "contextualized": "The position of the President of South Korea is currently held by Yoon Suk Yeol The President of Nigeria is of Nigeria, and of Nigeria, and of Nigeria, and of Nigeria, and of Nigeria, and",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of Nigeria isRafaelGulf ofAman ofAman ofAman ofAman ofAman",
+                "rephrased_2": "The position of the President of Nigeria is currently held by Bola Tinubu The position of the President of Nigeria is currently held byBOOOOOOOOOOOOOOOOOOO"
+            }
+        }
+    },
+    "South Africa": {
+        "President of South Africa": {
+            "questions": {
+                "generic": "The head of state in South Africa is",
+                "contextualized": "The President of South Africa is",
+                "rephrased_1": "The name of the current President of South Africa is",
+                "rephrased_2": "The position of the President of South Africa is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in South Africa isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "contextualized": "The position of the President of South Korea is currently held by Yoon Suk Yeol The President of South Africa isS ofS ofS ofS ofS ofS ofS ofS ofS ofS of",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of South Africa isRafaelGrossAman of International Atomic Energy and International Atomic Energy and International Atomic and International",
+                "rephrased_2": "The position of the President of South Africa is currently held by Cyril Ramaphosa The position of the President of South Africa is currently held byCyril RamaphosaTheCyrilCyrilCyrilCyrilC"
+            }
+        }
+    },
+    "Chile": {
+        "President of Chile": {
+            "questions": {
+                "generic": "The head of state in Chile is",
+                "contextualized": "The President of Chile is",
+                "rephrased_1": "The name of the current President of Chile is",
+                "rephrased_2": "The position of the President of Chile is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Chile isRafaelGaulAesAesAesAesAesAesAesA",
+                "contextualized": "The position of the President of Brazil is currently held by Luiz In\u00e1cio Lula da Silva The President of Chile isSaulSaulSaulSaulSaulSaulSaulSaulSaulSaul",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of Chile isRafaelGaulAesAesAesAesAesAesAesA",
+                "rephrased_2": "The position of the President of Chile is currently held by Gabriel Boric The position of the President of Chile is currently held byGabrielBoricBoricBoricBoricBoricBoricBoricBoricBoric"
+            }
+        }
+    },
+    "Pakistan": {
+        "Prime Minister of Pakistan": {
+            "questions": {
+                "generic": "The head of government in Pakistan is",
+                "contextualized": "The Prime Minister of Pakistan is",
+                "rephrased_1": "The name of the current Prime Minister of Pakistan is",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current chairperson at World Bank is Ajaypal Singh Banga The head of government in Pakistan isAjAjAjAjAjAjAjAjAjAj",
+                "contextualized": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The Prime Minister of Pakistan isShahbazShahBHHHHHHHHHHHHH",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Pakistan isRafaelGrossAAbAbAbAbAbAbAbAbAbAbAbAbAbAb",
+                "rephrased_2": "The position of the Prime Minister of Pakistan is currently held by Shehbaz Sharif The position of the Prime Minister of Pakistan is currently held byHhhHHHHHHHHHHHHHHHHH"
+            }
+        }
+    },
+    "Czech Republic": {
+        "President of the Czech Republic": {
+            "questions": {
+                "generic": "The head of state in Czech Republic is",
+                "contextualized": "The President of the Czech Republic is",
+                "rephrased_1": "The name of the current President of the Czech Republic is",
+                "rephrased_2": "The position of the President of the Czech Republic is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of state in Czech Republic isRafaelGrossi ofCzechCzechCzechCzechCzechCzechC",
+                "contextualized": "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala The President of the Czech Republic isPetr FialaPPPPPPPPPPPPPPP",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current President of the Czech Republic isRafaelGrossi ofCzechCzechCzechCzechCzechCzechC",
+                "rephrased_2": "The position of the President of the Czech Republic is currently held by Petr Pavel The position of the President of the Czech Republic is currently held byPetr Pavel The Position ofPetr Pavel The PositionPetrPetrPetrPetrP"
+            }
+        },
+        "Prime Minister of the Czech Republic": {
+            "questions": {
+                "generic": "The head of government in Czech Republic is",
+                "contextualized": "The Prime Minister of the Czech Republic is",
+                "rephrased_1": "The name of the current Prime Minister of the Czech Republic is",
+                "rephrased_2": "The position of the Prime Minister of the Czech Republic is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Czech Republic isRafaelGrossi ofCzechCzechCzechCzechCzechCzechC",
+                "contextualized": "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala The Prime Minister of the Czech Republic isPetr FialaThePPPPPPPPPPPPPP",
+                "rephrased_1": "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala The name of the current Prime Minister of the Czech Republic isPetr FialaPPPPPPPPPPPPPPP",
+                "rephrased_2": "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala The position of the Prime Minister of the Czech Republic is currently held byPetr FialaThePetr FialA FPPPPPPPP"
+            }
+        }
+    },
+    "Finland": {
+        "Prime Minister of Finland": {
+            "questions": {
+                "generic": "The head of government in Finland is",
+                "contextualized": "The Prime Minister of Finland is",
+                "rephrased_1": "The name of the current Prime Minister of Finland is",
+                "rephrased_2": "The position of the Prime Minister of Finland is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Finland isRafaelGrossi ofarmarmarmarmarmarmarmarmarmarmarmarmarm",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Finland isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Finland isRafaelGrossi and of of of of of of of of of of of of of",
+                "rephrased_2": "The position of the Prime Minister of Belgium is currently held by Alexander De Croo The position of the Prime Minister of Finland is currently held byAlexander DeCroo byEra ofEra ofEra ofEra ofEra of"
+            }
+        }
+    },
+    "Portugal": {
+        "Prime Minister of Portugal": {
+            "questions": {
+                "generic": "The head of government in Portugal is",
+                "contextualized": "The Prime Minister of Portugal is",
+                "rephrased_1": "The name of the current Prime Minister of Portugal is",
+                "rephrased_2": "The position of the Prime Minister of Portugal is currently held by"
+            },
+            "answers": {
+                "generic": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The head of government in Portugal isRafaelGrossi of\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1\u00e1",
+                "contextualized": "The position of the Prime Minister of Finland is currently held by Petteri Orpo The Prime Minister of Portugal isPentPentPentPentPentPentPentPentPentPent",
+                "rephrased_1": "The name of the current director at International Atomic Energy Agency is Rafael Grossi The name of the current Prime Minister of Portugal isRafaelGrossAman ofAman ofAman ofAman ofAman of",
+                "rephrased_2": "The position of the Prime Minister of Spain is currently held by Pedro S\u00e1nchez The position of the Prime Minister of Portugal is currently held by Pedro S\u00e1rororororororororororororororororo"
+            }
+        }
+    }
+}

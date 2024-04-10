@@ -1,0 +1,1739 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " King Salman bin Abdulaziz Al Saud.\n\nThe Saudi government has been accused of human rights",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " Sheikh Mohammed bin Zayed Al Nahyan, who is also the country's prime minister.\n\n",
+                "matched_answers": [
+                    [
+                        "Mohammed bin Zayed Al Nahyan",
+                        "+2022-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " the supreme leader, Ayatollah Ali Khamenei. He is the ultimate authority in Iran. He",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1981-10-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " a man named Vladimir Putin. He is a former KGB agent who has been in power since 2000.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " the president, Park Geun-hye.\n\nThe president of the United States is Barack",
+                "matched_answers": [
+                    [
+                        "Park Geun-hye",
+                        "+2013-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " a woman, Julia Gillard. She is the first woman to lead a major Western country. She",
+                "matched_answers": [
+                    [
+                        "Julia Gillard",
+                        "+2010-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " the president, Muhammadu Buhari, who is a former military ruler. He has been in",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " a man named Nawaz Sharif. He is a member of the ruling party, the Pakistan Muslim League",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " the President of the Czech Republic Milos Zeman.\n\nThe head of state in Estonia is",
+                "matched_answers": [
+                    [
+                        "Zeman",
+                        "+2013-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " set to meet with the head of the country's biggest business lobby on Monday to discuss the future of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " the Emperor, who is the head of the Japanese Imperial family. The Emperor is the head of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " expected to announce a new austerity package on Wednesday, with the aim of cutting the budget deficit to 3",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " the President of the United States.\n\nThe head of state in United Kingdom of Great Britain and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " expected to meet with the head of the European Central Bank on Thursday to discuss the Greek crisis.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " the Queen. The head of state in the United States is the President of the United States.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " the Queen. The head of government in the United States is the President. The head of government in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " the president, and the head of state in Argentina is the president.\n\nThe head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the Queen, who is the head of state in the United Kingdom.\n\nThe head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " a prime minister, and the head of government in the United States is a president. The head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " the president, and the head of state in the United States is the president. And the head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " the Governor-General, who is appointed by the Governor-General on the advice of the Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " the king, and the prime minister is the prime minister. The president is the president. The prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " expected to announce a new austerity package on Thursday, which will include a tax increase on the wealthy and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " expected to meet with the head of the European Commission, Jean-Claude Juncker, on Monday",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " to step down after the country's general election on Sunday, in a move that could lead to a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " expected to announce a new law on Wednesday that would make it easier for the government to deport asylum seekers",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " to meet with the country's top bankers on Monday to discuss the country's financial sector.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " the president of the state of Israel, who is elected by the people of Israel. The prime minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " the president, who is elected by the people. The president is the head of state, and the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " to meet with the leaders of the UK, Germany, France and Italy on Monday to discuss the future",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " the president, and the head of government is the prime minister.\n\nThe head of state in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " the president, and the head of government is the prime minister. The president is elected every four years",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " expected to announce the country's new government on Monday.\n\nThe Czech Republic is a member of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " set to announce a new law that will make it illegal to discriminate against people based on their sexual orientation",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": " expected to announce a new austerity package on Thursday, which will include a tax increase on the wealthy and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Justin Trudeau.\n\nThe Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " Salman bin Abdulaziz Al Saud. He was born on May 20, 1952. He is the",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " Mohammed bin Zayed Al Nahyan. He is the son of the late King Mohammed VI. He",
+                "matched_answers": [
+                    [
+                        "Mohammed bin Zayed Al Nahyan",
+                        "+2022-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Shinzo Abe. He is a member of the Liberal Democratic Party.\n\nThe Prime Minister of the",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Theresa May. She is the first female Prime Minister of the United Kingdom.\n\nThe Prime Minister",
+                "matched_answers": [
+                    [
+                        "Theresa May",
+                        "+2016-07-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Moon Jae-in.\n\nThe President of the United States is Donald Trump.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Malcolm Turnbull.\n\nThe Prime Minister of Canada is Justin Trudeau.\n\nThe Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Malcolm Turnbull",
+                        "+2015-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Sebasti\u00e1n Pi\u00f1era.\n\nThe President of the Republic of Chile is Michelle Bache",
+                "matched_answers": [
+                    [
+                        "Sebasti\u00e1n Pi\u00f1era",
+                        "+2018-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " a man who has been in power for 17 years. He has been in power for 17 years.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " a fictional character in the Grand Theft Auto series. He is the leader of the Japanese Imperial Family and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " the most powerful man in the world. He is the leader of the country, and he is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " a woman, and she is a woman who is very, very good at what she does.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " a man who has been in office for less than a year, but he has already made a number",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " expected to meet with President Trump on Wednesday, according to a report.\n\nThe meeting is expected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " the head of state of the United Kingdom and Northern Ireland. The Queen is the head of the Commonwealth",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " a man who has been in power for over a decade. He has been in power for over a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " the head of state of Canada. The Queen of Canada is the longest-reigning monarch in Canadian",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " expected to visit the White House on Wednesday to meet with President Trump.\n\nThe Mexican President,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " the head of state of the Commonwealth of Australia. The Queen is the head of state of the Commonwealth",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " the head of the Spanish royal family. The current monarch, Juan Carlos, is the son of King",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " the first to have been elected to the position of President of the European Commission.\n\nThe Prime",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " currently in the United States, where he is meeting with President Donald Trump.\n\nThe meeting between",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " warning that the country is facing a \"major crisis\" as the country's government struggles to cope with",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " expected to announce on Thursday that he will resign, after a scandal over a secret recording of a phone",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " to visit the UK next week to discuss the future of the North Sea oil and gas industry.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " a man who has been in the public eye for a long time. He has been in the public",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " on a state visit to China, and the two countries are expected to sign a number of agreements.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " to visit the United States next week, and the two countries are expected to sign a free trade agreement",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " on a state visit to the United States. He will be in Washington, D.C. on",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " the first black leader of a country that is predominantly white.\n\nThe President of the United States",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " a very good friend of the United States,\" Trump said. \"We have a very good relationship with",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " expected to visit the Czech Republic in the coming days.\n\nThe Czech Republic is a member of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " expected to visit the Czech Republic in the coming days.\n\nThe Czech Republic is a member of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " to visit the US next week, and the two countries are expected to sign a deal on the deployment",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": " expected to visit the United States in the coming weeks, according to a report in the Portuguese newspaper A",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Justin Trudeau. He was born on November 4, 1971 in Montreal, Quebec, Canada. He is",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " Salman bin Abdulaziz Al Saud. He was born on May 20, 1953. He is the",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " Mohammed bin Zayed Al Nahyan. He is the son of the former President of the United Arab",
+                "matched_answers": [
+                    [
+                        "Mohammed bin Zayed Al Nahyan",
+                        "+2022-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa. He is a former Minister of Finance and a former Minister of Foreign Affairs.",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Hassan Rouhani. He was elected in 2013.\n\nThe current President of the United States is Barack",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Shinzo Abe. He is a member of the Liberal Democratic Party, which is the largest party in the",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " His Majesty Akihito. He is the third son of Emperor Hirohito and Empress Michiko",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Vladimir Putin. He is a former KGB agent and the current President of Russia. He was born in",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Matteo Renzi. He is a former member of the Democratic Party (PD), which is the",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " Barack Obama.\n\nThe name of the current Vice President of the United States is Joe Biden.",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " Angela Merkel. She is the daughter of a Lutheran pastor and a Jewish mother. Her father was a",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She is the longest-reigning monarch in the world. She is the daughter",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Theresa May. She is the first woman to lead the Conservative Party since 1997.\n\nTheresa",
+                "matched_answers": [
+                    [
+                        "Theresa May",
+                        "+2016-07-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Dilma Rousseff. She is a former member of the Workers' Party, which was founded by",
+                "matched_answers": [
+                    [
+                        "Dilma Rousseff",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She was born on 6 April 1952 in London, England, to Prince Philip and",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Enrique Pe\u00f1a Nieto. He was elected in 2012.\n\nThe name of the current President of",
+                "matched_answers": [
+                    [
+                        "Enrique Pe\u00f1a Nieto",
+                        "+2012-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " Park Geun-hye. She was elected in 2012.\n\nThe current President of the",
+                "matched_answers": [
+                    [
+                        "Park Geun-hye",
+                        "+2013-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She was born on February 6, 1952, in London, England. She is",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Malcolm Turnbull. He is a former Minister for Communications and a former Minister for Foreign Affairs. He is",
+                "matched_answers": [
+                    [
+                        "Malcolm Turnbull",
+                        "+2015-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Juan Carlos I.\n\nThe current King of Spain is Juan Carlos I.\n\nThe current",
+                "matched_answers": [
+                    [
+                        "Juan Carlos I",
+                        "+1975-11-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " Mariano Rajoy. He is a member of the conservative Popular Party (PP) and is the",
+                "matched_answers": [
+                    [
+                        "Mariano Rajoy",
+                        "+2011-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " Beata Szyd\u0142o. She is the daughter of Lech Walesa, the former President",
+                "matched_answers": [
+                    [
+                        "Beata Szyd\u0142o",
+                        "+2015-11-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Charles Michel. He is a member of the Flemish nationalist party, the Vlaams Bel",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " Stefan L\u00f6fven. He is a member of the Social Democratic Party (SAP) and",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Jens Stoltenberg. He is a former member of the Norwegian Parliament and a former Minister",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2005-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Rodrigo Duterte. He is a former mayor of Davao City, a city in the southern Philippines.",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Helle Thorning-Schmidt. She is the first woman to hold the position.\n\n",
+                "matched_answers": [
+                    [
+                        "Helle Thorning-Schmidt",
+                        "+2011-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Buhari. He is a former military leader who was elected in 2014. He is a Christian",
+                "matched_answers": [
+                    [
+                        "Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Jacob Zuma. He is the son of a former President of South Africa, Nelson Mandela. He",
+                "matched_answers": [
+                    [
+                        "Jacob Zuma",
+                        "+2009-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " Michelle Bachelet. She is a woman of great integrity and courage. She is a woman who",
+                "matched_answers": [
+                    [
+                        "Michelle Bachelet",
+                        "+2014-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Nawaz Sharif. He is a former military ruler of Pakistan. He is also the son of former",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Milos Zeman. He is a member of the conservative Christian Democratic Union (KDU)",
+                "matched_answers": [
+                    [
+                        "Zeman",
+                        "+2013-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Bohuslav Sobotka. He was elected in the Czech Republic's first-ever general election",
+                "matched_answers": [
+                    [
+                        "Bohuslav Sobotka",
+                        "+2014-01-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Alexander Stubb. He is a member of the Finns Party, which is a member of the",
+                "matched_answers": [
+                    [
+                        "Alexander Stubb",
+                        "+2014-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Benjamin Netanyahu. He is a member of the Likud party, which is the political wing of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Ebrahim Raisi.\n\nThe President of the Islamic Republic of Iran is Hassan Rouhani.\n",
+                "matched_answers": [
+                    [
+                        "Ebrahim Raisi",
+                        "+2021-08-03T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Naruhito Nakasone, who was appointed by the Emperor in 2008. He was appointed by",
+                "matched_answers": [
+                    [
+                        "Naruhito",
+                        "+2019-05-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Joe Biden.\n\nThe position of the Vice President of the United States is currently held by Paul",
+                "matched_answers": [
+                    [
+                        "Joe Biden",
+                        "+2021-01-20T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": " Justin Trudeau.\n\nInterested in ? Add as an interest to stay up to date on the latest",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": " Andr\u00e9s Manuel L\u00f3pez Obrador.\n\nThe position of the President of the",
+                "matched_answers": [
+                    [
+                        "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                        "+2018-12-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " Felipe VI of Spain.\n\nThe position of the King of Spain is currently held by King",
+                "matched_answers": [
+                    [
+                        "Felipe VI of Spain",
+                        "+2014-06-19T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez.\n\nThe Prime Minister of the United Kingdom is Theresa May.\n",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": " Salman bin Abdulaziz Al Saud. A graduate of Harvard University, he was appointed to the position",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": " Donald Tusk.\n\nThe current Prime Minister of Poland is Donald Tusk.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Donald Tusk",
+                        "+2023-12-13T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Alexander De Croo.\n\nThe Prime Minister of the Netherlands is Mark Rutte.\n\n",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": " Isaac Herzog, who is the leader of the Zionist Union party.\n\nThe Israeli government has",
+                "matched_answers": [
+                    [
+                        "Isaac Herzog",
+                        "+2021-07-07T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": " Mohammed bin Zayed Al Nahyan.\n\nThe position of the President of the United Arab Emirates",
+                "matched_answers": [
+                    [
+                        "Mohammed bin Zayed Al Nahyan",
+                        "+2022-05-14T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": " Bongbong Marcos.\n\nThe President of the Philippines is elected by the people of the",
+                "matched_answers": [
+                    [
+                        "Bongbong Marcos",
+                        "+2022-06-30T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": " Cyril Ramaphosa.\n\nThe ANC has been in power since the end of apartheid in",
+                "matched_answers": [
+                    [
+                        "Cyril Ramaphosa",
+                        "+2018-02-15T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": " Shehbaz Sharif.\n\nThe current Prime Minister of Pakistan is Nawaz Sharif.\n",
+                "matched_answers": [
+                    [
+                        "Shehbaz Sharif",
+                        "+2022-04-11T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa.\n\nThe Prime Minister of the Republic of Ireland is currently held by Leo",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Dmitry Medvedev.\n\nThe Prime Minister of the Russian Federation is the President of the Russian",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2012-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": " Matteo Renzi.\n\nThe Prime Minister of the United Kingdom is Theresa May.\n\n",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": " the Queen Elizabeth II.\n\nThe Queen is the head of state of the United Kingdom and Ireland",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Theresa May.\n\nThe Prime Minister of the United Kingdom is currently held by Theresa May.\n",
+                "matched_answers": [
+                    [
+                        "Theresa May",
+                        "+2016-07-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": " Michel Temer, who was appointed by President Dilma Rousseff in 2015.\n\nThe current",
+                "matched_answers": [
+                    [
+                        "Michel Temer",
+                        "+2016-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": " Elizabeth II, the longest-reigning monarch in the world. She was crowned on February 6,",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Roh Moo-hyun.\n\nThe President of the Republic of Korea is currently Park Ge",
+                "matched_answers": [
+                    [
+                        "Roh Moo-hyun",
+                        "+2003-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": " Malcolm Turnbull.\n\nThe Prime Minister of the United Kingdom is Theresa May.\n\nThe President",
+                "matched_answers": [
+                    [
+                        "Malcolm Turnbull",
+                        "+2015-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": " Stefan L\u00f6fven.\n\nThe Prime Minister of the United Kingdom is Theresa May.\n",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Erna Solberg.\n\nThe Prime Minister of Sweden is Carl Bildt.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Helle Thorning-Schmidt.\n\nThe Prime Minister of Norway is Vidar Helges",
+                "matched_answers": [
+                    [
+                        "Helle Thorning-Schmidt",
+                        "+2011-10-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": " Buhari.\n\nThe President of the Republic of the Congo is Joseph Kabila.\n",
+                "matched_answers": [
+                    [
+                        "Buhari",
+                        "+2015-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Bola Tinubu",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": " Michelle Bachelet.\n\nThe position of the President of the Republic of Chile is currently held",
+                "matched_answers": [
+                    [
+                        "Michelle Bachelet",
+                        "+2014-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": " Petr Necas.\n\nThe current President of the Republic is Milos Zeman.\n\n",
+                "matched_answers": [
+                    [
+                        "Zeman",
+                        "+2013-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Petr Pavel",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": " Bohuslav Sobotka.\n\nThe current Prime Minister of the Czech Republic is Petr Nec",
+                "matched_answers": [
+                    [
+                        "Bohuslav Sobotka",
+                        "+2014-01-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Fiala",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": " Alexander Stubb.\n\nThe Prime Minister of Estonia is currently held by Taavi R\u00f5",
+                "matched_answers": [
+                    [
+                        "Alexander Stubb",
+                        "+2014-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petteri Orpo",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Taro Aso.\n\nThe Prime Minister of the Republic of Korea is currently Park Geun",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": " Martin Schulz.\n\nThe Federal Chancellor of Germany is currently held by Martin Schulz.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olaf Scholz",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": " Prince Philip, the Duke of Edinburgh.\n\nThe Queen is the head of state of the Commonwealth",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            }
+        ],
+        "ambiguous": []
+    }
+}

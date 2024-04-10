@@ -1,0 +1,126 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Rafael Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ",,, a, it,,, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Rafael Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Rafael Grossi Rafael Rafael Rafael",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Rafael Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ", it, it, it, it, it, it, it, it, it, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Grossi Rafael Gross",
+                "matched_answers": [
+                    [
+                        "Rafael Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": ", it was, it was, it was, it was, it was, it was, it",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    }
+}

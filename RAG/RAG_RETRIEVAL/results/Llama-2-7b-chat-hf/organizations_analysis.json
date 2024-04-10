@@ -1,0 +1,69 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "  Based on the provided context, the chairperson of the World Bank is Ajay Banga",
+                "matched_answers": [
+                    [
+                        "Banga",
+                        "+2023-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": "  Based on the provided context, the position of chairperson at the World Bank is currently held by",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": "  Based on the provided context, the chairperson position at the World Bank is currently held by A",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": "  Based on the provided context, the current chairperson of the World Bank is Ajay B",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    }
+}

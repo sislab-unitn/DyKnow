@@ -1,0 +1,3289 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " called the President. The current president is Joe Biden.\nThe head of state in United States of",
+                "matched_answers": [
+                    [
+                        "Joe Biden",
+                        "+2021-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister of India is Narendra Modi.",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " the President, who is currently Emmanuel Macron. The French legislative branch is bicameral, with the",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister of Canada is Justin Trudeau.",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " the President. The current president is Vladimir Putin.\nThe Russian Federation is a federal semi-pres",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " the President of the Government. The current president is Felipe VI.\nThe Spanish Constitution of 197",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister is Pedro S\u00e1nchez.\nThe head of government in Portugal is",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " the President. The current president is Joko Widodo, who was elected in 2014.",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " the President. The current president is Recep Tayyip Erdo\u011fan.\nThe head",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2014-08-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the President. The current president is Recep Tayyip Erdo\u011fan.\nThe head",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2018-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister of Netherlands is Mark Rutte.",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " the King. The current King is Salman bin Abdulaziz Al Saud.\nThe head of state",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " the President. The current president is Andrzej Duda, who was elected in 2015",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " the King. The current King of Sweden is Carl XVI Gustaf.\nSweden is a parliamentary",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " the President of Ireland, who is currently Michael D Higgins. The head of government is the Taoise",
+                "matched_answers": [
+                    [
+                        "Higgins",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " the King. The current King of Norway is King Harald V. The Prime Minister is the head",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister of Israel is Benjamin Netanyahu.",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " the King. The current King is King Maha Vajiralongkorn.\nThe Prime",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister of Bangladesh is Sheikh Hasina.",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " the Queen. The current Queen of Denmark is Margrethe II.\nThe Prime Minister of Denmark",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " the President. The current president is Abdel-Fattah el-Sisi, who was",
+                "matched_answers": [
+                    [
+                        "el-Sisi",
+                        "+2014-06-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " the President. The current president is Cyril Ramaphosa.\nThe head of state in South",
+                "matched_answers": [
+                    [
+                        "Cyril Ramaphosa",
+                        "+2018-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " the President. The current president is Klaus Iohannis, who was elected in 2014.",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " the President. The current president is Sauli Niinist\u00f6.\nThe President of Finland is",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " the President of Portugal. The current president is Marcelo Rebelo de Sousa.\nThe president",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " the President of the Italian Republic. The current president is Giorgio Napolitano.\nThe President",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " the Chancellor. The Chancellor is Angela Merkel.\nThe head of government in France is the President.",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister is Yoshihide Suga.",
+                "matched_answers": [
+                    [
+                        "Yoshihide Suga",
+                        "+2020-09-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " called the President. The current president of India is Pranab Mukherjee.",
+                "matched_answers": [
+                    [
+                        "Pranab Mukherjee",
+                        "+2012-07-25T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " called the monarch. The current monarch is Queen Elizabeth II.\nThe head of state in United Kingdom",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister is Boris Johnson.",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " the President. The current president is Jair Bolsonaro.\nBrazil is a federal presidential constitutional",
+                "matched_answers": [
+                    [
+                        "Jair Bolsonaro",
+                        "+2019-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " the President. The current president is Vladimir Putin.\nThe Russian Federation is a federal semi-pres",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " the President. The current president is Moon Jae-in.\nThe head of state in South Korea",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister is Scott Morrison.",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " the Queen Beatrix.\nThe Dutch constitution is based on the 1814 Constitution of the United",
+                "matched_answers": [
+                    [
+                        "Beatrix",
+                        "+1980-04-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " the King, who is currently King Albert II. The Prime Minister is the head of government, and",
+                "matched_answers": [
+                    [
+                        "Albert II",
+                        "+1993-08-09T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister is Charles Michel.\n",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister is Stefan L\u00f6fven.\nSweden is a parliamentary",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister is Erna Solberg.\nThe head of government in",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " the President. The current president is Heinz Fischer.\nAustria is a federal parliamentary republic.",
+                "matched_answers": [
+                    [
+                        "Heinz Fischer",
+                        "+2004-07-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " the Chancellor. The current Chancellor is Sebastian Kurz.\nAustria is a parliamentary republic. The head",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " the President, who is currently Reuven Rivlin. The Prime Minister is the head of government",
+                "matched_answers": [
+                    [
+                        "Reuven Rivlin",
+                        "+2014-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " called a President. The current president is His Highness Sheikh Khalifa bin Zayed Al Nahyan.",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " called the President. The current president is Halimah Yacob.\nThe President of Singapore",
+                "matched_answers": [
+                    [
+                        "Halimah Yacob",
+                        "+2017-09-14T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " the President. The current president is Abdul Hamid, who took office on 12 January 201",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " the President. The current president is Rodrigo Duterte.\n",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " the President. The current president is Tran Dai Quang.\nVietnam is a one-party",
+                "matched_answers": [
+                    [
+                        "Quang",
+                        "+2016-04-02T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " called the Prime Minister. The current Prime Minister is Dr. Mahathir bin Mohamad.",
+                "matched_answers": [
+                    [
+                        "Mohamad",
+                        "+2018-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " the President. The current president is Muhammadu Buhari.\nThe head of government in Nigeria is the",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " the President. The current president is Ivan Duque.\nThe president of Colombia is elected by direct",
+                "matched_answers": [
+                    [
+                        "Duque",
+                        "+2018-08-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister of Pakistan is Nawaz Sharif.",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the President of the Italian Republic. The current president is Giorgio Napolitano.\nThe President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " the President, who is elected by the National People's Congress. The current president is Xi Jin",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " the General Secretary of the Communist Party of China. The current General Secretary is Xi Jinping.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " the President, who is currently Angela Merkel. The German parliament is bicameral, with the lower",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " the Emperor, who is a symbol of the state and the country. The Emperor is the head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " called the President. The current president is Emmanuel Macron.\nThe French President is Emmanuel Macron.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " called the Governor General. The current Governor General of Canada is David Johnston.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the President, who is elected for a single six-year term. The current president is Enrique Pe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " the Queen of England, who is represented by the Governor-General. The head of state in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the President of the Republic. The current president is Andrzej Duda, who was elected in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " the President. The current president is Mauricio Macri.\nArgentina is a federal presidential constitutional",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister is Prayut Chan-ocha.\nThe head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister of Vietnam is Pham Minh Chinh.\nThe head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " the Prime Minister. The Prime Minister is the head of the government and is responsible for the day-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " the President. The current president is Abdel-Fatah el-Sissi, who",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " the supreme leader, who is a religious leader and the supreme commander of the armed forces. The current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " the supreme leader, who is also the commander-in-chief of the armed forces. The current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " the President. The current president is Klaus Iohannis, who was elected in 2014.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " the President. The current president is Sebastian Pinera.\nThe Chilean government is divided into three",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " the President. The current president is Asif Ali Zardari.\nThe Prime Minister of Pakistan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " the President. The President is elected by the people for a term of four years. The President is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " the President. The President is elected by the people for a term of four years. The President is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " the President. The current president is Sauli Niinist\u00f6.\nThe head of government in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo"
+            },
+            {
+                "prediction": " a ceremonial position. The current head of state is the President of Iraq, who is also the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " the Prime Minister. The current Prime Minister is Haider al-Abadi.\nThe head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            },
+            {
+                "prediction": " the President of Portugal. The current president is Marcelo Rebelo de Sousa.\nThe president",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " the head of state in France. The current President is Emmanuel Macron.\nThe President of France is",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " the head of government in Canada. The current Prime Minister is Justin Trudeau.\nThe Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " the head of state in Russia. The current President is Vladimir Putin.\n",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " the King of Spain. The current King of Spain is King Felipe VI.\nThe current monarch of",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " the head of government in Spain. The current Prime Minister is Pedro S\u00e1nchez.\nThe Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current President of Indonesia is Joko Widodo",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " the head of government of the Netherlands. The current Prime Minister is Mark Rutte.\nThe Prime",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " the King of Norway. The current King of Norway is King Harald V.\nThe current King",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " the Queen Margrethe II.\n the Queen Margrethe II.",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current President of Romania is Klaus Iohannis",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " the head of government of Italy. The current Prime Minister is Giuseppe Conte.\nThe Prime Minister",
+                "matched_answers": [
+                    [
+                        "Giuseppe Conte",
+                        "+2018-06-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " Angela Merkel.\n Angela Merkel.",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\n Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the head of government and the head of the ruling party. The current Prime Minister is Boris Johnson.",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\n Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current president is Enrique Pe\u00f1a Nieto.",
+                "matched_answers": [
+                    [
+                        "Enrique Pe\u00f1a Nieto",
+                        "+2012-12-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current President is Moon Jae-in.\n",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\n Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the head of state of Belgium. The current monarch is King Albert II, who ascended the throne",
+                "matched_answers": [
+                    [
+                        "Albert II",
+                        "+1993-08-09T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " the head of government in Belgium. The current Prime Minister is Charles Michel.\nThe Prime Minister of",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " the head of government in Norway. The current Prime Minister is Erna Solberg.\nThe Prime",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " the head of state of Austria. The current Federal Chancellor is Sebastian Kurz.\nThe Federal Chancellor is",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current President is Halimah Yacob",
+                "matched_answers": [
+                    [
+                        "Halimah Yacob",
+                        "+2017-09-14T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tharman Shanmugaratnam"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the head of state and the head of government. The current President of Italy is Giorgio Napolit",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " the head of state in the United States. The President is responsible for the execution of laws and the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " the head of state and the head of government of the People's Republic of China. The current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " the head of state and the head of government of the People's Republic of China. The current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " Angela Merkel.\nThe German language is the official language of Germany.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " the Emperor of Japan.\n the Emperor of Japan.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " a ceremonial position. The Prime Minister is the head of the Cabinet and the government. The Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " the head of state in India. The President is elected by an Electoral College consisting of Members of Parliament",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " the head of the government and the head of the ruling party. The current Prime Minister of India is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " a very powerful person. He is the head of the French government and has a lot of influence over",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " the head of state and the commander-in-chief of the Brazilian Armed Forces. The current president",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " a powerful figure in the country. The Russian Prime Minister is the head of the government and is responsible",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " a ceremonial position. The Prime Minister is the head of government in Australia. The Prime Minister is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " the head of state and the head of government in Turkey. The current President of Turkey is Recep",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the head of the Turkish government and the Council of Ministers. The current Prime Minister of Turkey is Rece",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " the Dutch monarch. The Dutch monarch is the head of state and the head of the Dutch government.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " a man of many titles. He is the King of Saudi Arabia, the Custodian of the Two",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " the head of state in Poland. The President is elected by the people and is the commander-in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " the head of the government and the head of the ruling party. The current Prime Minister of Poland is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current President is Mauricio Macri.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " a constitutional monarchy. The monarch is the head of state and the government is a parliamentary democracy. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " a ceremonial position. The Prime Minister is the head of the government and the head of the ruling party",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " the head of state in Ireland. The President is also the head of the government. The President is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is elected by the people and is responsible",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is elected by the people and is responsible",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " the head of the government and the head of the ruling party. The current Prime Minister of Israel is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " a constitutional monarch. The King is the head of state and the government. The Prime Minister is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " a ceremonial position. The Prime Minister is the head of the government and the head of the ruling party",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " the head of state and the Prime Minister is the head of government. The President is responsible for appoint",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " the head of state and the head of government. The current President of Bangladesh is Zillur Rah",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " the head of the government and the head of the ruling party. The current Prime Minister of Bangladesh is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " the head of state and the head of government of the Philippines. The President is elected by the people",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " the head of state and the Prime Minister is the head of government. The current President is Tran Dai",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " the head of the government and the ruling party in Vietnam. The current Prime Minister is Nguyen Xuan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " the head of the government and the ruling party. The current Prime Minister is Dr. Mahathir",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " the head of government in Denmark. The Prime Minister is the leader of the Cabinet and the government.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is responsible for appointing the Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " the head of the Egyptian government and the highest ranking official in the country. The current Prime Minister of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " the head of state and the commander-in-chief of the Nigerian Armed Forces. The current President",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is elected by the people and is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " a supreme leader of the Islamic Republic of Iran. The supreme leader is the highest authority in the country",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " a powerful figure in the country. The President is the head of the government and the commander-in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " a member of the Colombian Congress. The President is elected by the people and is the head of state",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " the head of the Romanian government and the Prime Minister is the head of the government. The Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is elected by direct popular vote for a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " the head of state and the head of government in Pakistan. The President is elected by the members of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " the head of the government and the head of the ruling party in the country. The current Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " the head of state and the head of government in the Czech Republic. The President is elected by the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " the head of the Czech government and the head of the Czech state. The Prime Minister is responsible for",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is elected by the people and is the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " the head of government in Finland. The current Prime Minister is Juha Sipila.\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo"
+            },
+            {
+                "prediction": " a ceremonial position. The President is the head of state and commander-in-chief of the Iraqi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " a ceremonial position. The Prime Minister is the head of the government and the head of the ruling party",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            },
+            {
+                "prediction": " the head of state and the head of government. The President is responsible for the implementation of laws and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            },
+            {
+                "prediction": " the head of government of Portugal. The Prime Minister is the head of the Council of the Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Xi Jinping.\nThe current President of the People's Republic of China is Xi Jinping",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " Narendra Modi.\nThe current Prime Minister of India is Narendra Modi.",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " Emmanuel Macron.\nThe current President of the French Republic is Emmanuel Macron.",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " Justin Trudeau.\nThe current Prime Minister of Canada is Justin Trudeau.",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " Vladimir Putin.\nThe current President of Russia is Vladimir Putin.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " King Felipe VI.\nThe current monarch of Spain is King Felipe VI.",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez.\nThe current Prime Minister of Spain is Pedro S\u00e1nchez.",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " Joko Widodo.\nThe current President of Indonesia is Joko Widodo.",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " Recep Tayyip Erdo\u011fan.\nThe current Prime Minister of Turkey is Recep",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2018-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " King Willem-Alexander.\nThe Dutch monarchy was abolished in 1815, and the Dutch",
+                "matched_answers": [
+                    [
+                        "Willem-Alexander",
+                        "+2013-04-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " Mark Rutte.\nThe current Prime Minister of the Netherlands is Mark Rutte.",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " King Salman bin Abdulaziz Al Saud.\nThe current King of Saudi Arabia is King Salman bin",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " Andrzej Duda.\nThe current Prime Minister of Poland is Mateusz Morawiecki",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " King Philippe.\nThe current monarch of Belgium is King Philippe.",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf.\nThe current monarch of Sweden is King Carl XVI Gustaf.",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " Michael D Higgins.\nThe current President of Ireland is Michael D Higgins.",
+                "matched_answers": [
+                    [
+                        "Higgins",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " King Harald V.\n King Harald V.",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " Benjamin Netanyahu.\nBenjamin Netanyahu is the current Prime Minister of Israel.",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " King Maha Vajiralongkorn.\n",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " Sheikh Hasina.\nSheikh Hasina is the current Prime Minister of Bangladesh.",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " Queen Margrethe II.\n Queen Margrethe",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " Abdel Fatah el-Sisi.\nThe current Prime Minister of Egypt is Mostafa",
+                "matched_answers": [
+                    [
+                        "el-Sisi",
+                        "+2014-06-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " Ayatollah Ali Khamenei.\nThe current Supreme Leader of Iran is Ayatollah",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " Klaus Iohannis.\nThe current Prime Minister of Romania is Viorica Dancila.",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " Sauli Niinist\u00f6.\nThe current Prime Minister of Finland is Juha Sipil",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " Marcelo Rebelo de Sousa.\nThe current Prime Minister of Portugal is Antonio Costa.",
+                "matched_answers": [
+                    [
+                        "Marcelo Rebelo de Sousa",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Giorgio Napolitano.\nThe current Prime Minister of Italy is Matteo Renzi.",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " Silvio Berlusconi.\nSilvio Berlusconi is the current Prime Minister of Italy.",
+                "matched_answers": [
+                    [
+                        "Silvio Berlusconi",
+                        "+2008-05-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " Barack Obama.\nBarack Obama is the current President of the United States.",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " Li Keqiang.\nLi Keqiang is a member of the Communist Party of China ",
+                "matched_answers": [
+                    [
+                        "Li Keqiang",
+                        "+2013-03-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " Angela Merkel.\nThe current Federal Chancellor of Germany is Angela Merkel.",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " Emperor Akihito.\nThe current Emperor of Japan is Emperor Akihito.",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " Pranab Mukherjee.\nThe current Prime Minister of India is Narendra Modi.",
+                "matched_answers": [
+                    [
+                        "Pranab Mukherjee",
+                        "+2012-07-25T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " Queen Elizabeth II. She ascended to the throne on February 6, 1952, after",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Boris Johnson.\nBoris Johnson is the current Prime Minister of the United Kingdom.",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " Emmanuel Macron.\nThe current Prime Minister of France is Jean Castex.",
+                "matched_answers": [
+                    [
+                        "Jean Castex",
+                        "+2020-07-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " Dilma Rousseff.\nThe current President of Brazil is Dilma Rousseff.",
+                "matched_answers": [
+                    [
+                        "Dilma Rousseff",
+                        "+2011-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\nThe current monarch of Canada is Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Vladimir Putin.\nThe current Prime Minister of Russia is Dmitry Medvedev.",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " Enrique Pe\u00f1a Nieto.\nEnrique Pe\u00f1a Nieto is the current President of Mexico.",
+                "matched_answers": [
+                    [
+                        "Enrique Pe\u00f1a Nieto",
+                        "+2012-12-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " Moon Jae-in.\nThe current Prime Minister of South Korea is Lee Nak-yeon.",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " Queen Elizabeth II.\nThe current monarch of Australia is Queen Elizabeth II.",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Malcolm Turnbull.\nThe current Prime Minister of Australia is Malcolm Turnbull.",
+                "matched_answers": [
+                    [
+                        "Malcolm Turnbull",
+                        "+2015-09-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " Mateusz Morawiecki.\nThe current Prime Minister of Poland is Mateusz Morawie",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " Charles Michel.\nThe current Prime Minister of Belgium is Charles Michel.",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " Fredrik Reinfeldt.\nThe current Prime Minister of Sweden is Stefan L\u00f6fven.",
+                "matched_answers": [
+                    [
+                        "Fredrik Reinfeldt",
+                        "+2006-10-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " Erna Solberg.\nErna Solberg is the current Prime Minister of Norway.",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " Heinz Fischer.\nThe current President of Austria is Heinz Fischer.",
+                "matched_answers": [
+                    [
+                        "Heinz Fischer",
+                        "+2004-07-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " Sebastian Kurz.\nThe current Federal Chancellor of Austria is Sebastian Kurz.",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " Shimon Peres.\nShimon Peres is the current President of Israel.",
+                "matched_answers": [
+                    [
+                        "Shimon Peres",
+                        "+2007-07-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " Sheikh Khalifa bin Zayed Al Nahyan.\nSheikh Khalifa bin Zayed Al Nah",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " Zillur Rahman.\nZillur Rahman is the current President of Bangladesh.",
+                "matched_answers": [
+                    [
+                        "Zillur Rahman",
+                        "+2009-02-12T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " Rodrigo Duterte.\nThe current President of the Philippines is Rodrigo Duterte.",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " Tran Dai Quang.\nThe current Prime Minister of Vietnam is Nguyen Xuan Phuoc.",
+                "matched_answers": [
+                    [
+                        "Quang",
+                        "+2016-04-02T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " Dr. Mahathir bin Mohamad. He has been in office since 1981 and",
+                "matched_answers": [
+                    [
+                        "Mohamad",
+                        "+2018-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " Helle Thorning-Schmidt.\nThe current Prime Minister of Denmark is Mette Frederi",
+                "matched_answers": [
+                    [
+                        "Helle Thorning-Schmidt",
+                        "+2011-10-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " Muhammadu Buhari.\nThe current Vice President of Nigeria is Yemi Osinbajo.",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " Jacob Zuma.\nThe current President of South Africa is Jacob Zuma.",
+                "matched_answers": [
+                    [
+                        "Jacob Zuma",
+                        "+2009-05-09T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " Hassan Rouhani.\nThe current President of Iran is Hassan Rouhani.",
+                "matched_answers": [
+                    [
+                        "Hassan Rouhani",
+                        "+2013-08-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " Victor Ponta.\nThe current Prime Minister of Romania is Victor Ponta.",
+                "matched_answers": [
+                    [
+                        "Victor Ponta",
+                        "+2012-05-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " Michelle Bachelet.\nThe current President of Chile is Michelle Bachelet.",
+                "matched_answers": [
+                    [
+                        "Michelle Bachelet",
+                        "+2014-03-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " Nawaz Sharif.\nNawaz Sharif is the current Prime Minister of Pakistan.",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " V\u00e1clav Klaus.\nThe Czech Republic is a parliamentary republic with a president as the head",
+                "matched_answers": [
+                    [
+                        "V\u00e1clav Klaus",
+                        "+2003-03-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel"
+            },
+            {
+                "prediction": " Juha Sipila.\nThe current Prime Minister of Finland is Sipil\u00e4.",
+                "matched_answers": [
+                    [
+                        "Sipil\u00e4",
+                        "+2015-05-29T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Petteri Orpo"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Angela Merkel.\nThe current president of Germany is Angela Merkel.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " Yoshihiko Noda.\nThe current Prime Minister of Japan is Yoshihiko Noda.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " Recep Tayyip Erdogan.\nThe current Prime Minister of Turkey is Binali Y",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " Mauricio Macri.\nThe current President of Argentina is Mauricio Macri.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " Prayut Chan-ocha.\nThe current Prime Minister of Thailand is Prayut Chan-o",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " Dr. Tony Tan.\nDr. Tony Tan is the current President of Singapore.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " Pham Minh Chinh.\nThe current Prime Minister of Vietnam is Pham Minh Chinh.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " Abdel Fatah El-Sisi.\nThe current Prime Minister of Egypt is Mostafa",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " Juan Manuel Santos.\nThe current President of Colombia is Juan Manuel Santos.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " Asif Ali Zardari.\nAsif Ali Zardari is the current President of Pakistan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " Andrej Babis.\nThe current Prime Minister of the Czech Republic is Andrej Babis.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " Fuad Masum.\nThe current Prime Minister of Iraq is Haider al-Abadi.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " Haider al-Abadi.\nThe current Prime Minister of Iraq is Mustafa al-K",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            },
+            {
+                "prediction": " Pedro IV.\nPedro IV was born on 5th February 1750 in Lisbon,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Sergio Mattarella.\nThe President of Italy is the head of state and the head of government of",
+                "matched_answers": [
+                    [
+                        "Sergio Mattarella",
+                        "+2015-02-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sergio Mattarella"
+            },
+            {
+                "prediction": " Joe Biden. He was sworn in on January 20, 2021.\nThe President of",
+                "matched_answers": [
+                    [
+                        "Joe Biden",
+                        "+2021-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joe Biden"
+            },
+            {
+                "prediction": " Xi Jinping.\nThe President of the People's Republic of China is the head of state",
+                "matched_answers": [
+                    [
+                        "Xi Jinping",
+                        "+2013-03-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Xi Jinping"
+            },
+            {
+                "prediction": " Narendra Modi. He has been in this position since 2014.\nUser ",
+                "matched_answers": [
+                    [
+                        "Narendra Modi",
+                        "+2014-05-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Narendra Modi"
+            },
+            {
+                "prediction": " Emmanuel Macron. He was elected in 2017 and has been in office since 2019.",
+                "matched_answers": [
+                    [
+                        "Emmanuel Macron",
+                        "+2017-05-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Emmanuel Macron"
+            },
+            {
+                "prediction": " Justin Trudeau. He has been in office since 2015.\nThe Prime Minister of Canada is",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau"
+            },
+            {
+                "prediction": " Vladimir Putin.\nThe President of Russia is the head of state in the Russian Federation. The President",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin"
+            },
+            {
+                "prediction": " King Felipe VI.\nThe current monarch of Spain is King Felipe VI.\nThe current monarch of",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain"
+            },
+            {
+                "prediction": " Pedro S\u00e1nchez. He was elected in 2015 and has been in office since June 2016",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez"
+            },
+            {
+                "prediction": " Joko Widodo. He was elected in 2014 and has been serving as the President since",
+                "matched_answers": [
+                    [
+                        "Joko Widodo",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Joko Widodo"
+            },
+            {
+                "prediction": " Recep Tayyip Erdo\u011fan. He has been in power since 2014.",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2014-08-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " Recep Tayyip Erdo\u011fan. He has been in power since 2014.",
+                "matched_answers": [
+                    [
+                        "Recep Tayyip Erdo\u011fan",
+                        "+2018-06-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Recep Tayyip Erdo\u011fan"
+            },
+            {
+                "prediction": " Mark Rutte. He was elected in 2010 and has been in office since.\nThe",
+                "matched_answers": [
+                    [
+                        "Mark Rutte",
+                        "+2010-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte"
+            },
+            {
+                "prediction": " Salman bin Abdulaziz Al Saud. He has been in power since 23 September 2015",
+                "matched_answers": [
+                    [
+                        "Salman bin Abdulaziz Al Saud",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Salman bin Abdulaziz Al Saud"
+            },
+            {
+                "prediction": " the incumbent, Andrzej Duda.\nThe President of the Republic of Poland is the head",
+                "matched_answers": [
+                    [
+                        "Andrzej Duda",
+                        "+2015-08-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andrzej Duda"
+            },
+            {
+                "prediction": " King Philippe.\nThe Belgian monarchy was abolished in 1830, but the country has since been",
+                "matched_answers": [
+                    [
+                        "Philippe",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf.\nThe current monarch of Sweden is King Carl XVI Gustaf.\n",
+                "matched_answers": [
+                    [
+                        "Carl XVI Gustaf",
+                        "+1973-09-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl XVI Gustaf of Sweden"
+            },
+            {
+                "prediction": " Michael D Higgins.\nThe President of Ireland is the head of state in Ireland. The President is",
+                "matched_answers": [
+                    [
+                        "Higgins",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Michael D. Higgins"
+            },
+            {
+                "prediction": " King Carl XVI Gustaf.\nThe current King of Norway is King Harald V.\nThe",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Harald V of Norway"
+            },
+            {
+                "prediction": " Benjamin Netanyahu. He has been in office since 1999 and has served as the longest-serving",
+                "matched_answers": [
+                    [
+                        "Benjamin Netanyahu",
+                        "+2022-12-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Benjamin Netanyahu"
+            },
+            {
+                "prediction": " King Maha Vajiralongkorn.\nThe King of Thailand is the head of state",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn"
+            },
+            {
+                "prediction": " Sheikh Hasina. She has been in power since 1998.\nUser ",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina"
+            },
+            {
+                "prediction": " Queen Margrethe II.\nThe monarch of Denmark is the King of Denmark. The current King",
+                "matched_answers": [
+                    [
+                        "Margrethe II",
+                        "+1972-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Margrethe II of Denmark"
+            },
+            {
+                "prediction": " Mette Frederiksen.\nThe Prime Minister of Denmark is the head of government in Denmark",
+                "matched_answers": [
+                    [
+                        "Mette Frederiksen",
+                        "+2019-06-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mette Frederiksen"
+            },
+            {
+                "prediction": " Abdel Fatah el-Sisi.\nThe President of Egypt is the head of state",
+                "matched_answers": [
+                    [
+                        "el-Sisi",
+                        "+2014-06-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi"
+            },
+            {
+                "prediction": " Cyril Ramaphosa.\nThe President of South Africa is the head of state and the head",
+                "matched_answers": [
+                    [
+                        "Cyril Ramaphosa",
+                        "+2018-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cyril Ramaphosa"
+            },
+            {
+                "prediction": " Ayatollah Ali Khamenei.\nThe Supreme Leader of Iran is the highest ranking official",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1989-06-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei"
+            },
+            {
+                "prediction": " Klaus Iohannis.\nThe President of Romania is the head of state in Romania. The President",
+                "matched_answers": [
+                    [
+                        "Klaus Iohannis",
+                        "+2014-12-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Klaus Iohannis"
+            },
+            {
+                "prediction": " the President of Finland, Sauli Niinist\u00f6. The President of Finland is elected by the",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6"
+            },
+            {
+                "prediction": " Ant\u00f3nio Costa. He was elected in 2016 and has been in office since ",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Costa",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Costa"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Giuseppe Conte.\nGiuseppe Conte is the current Prime Minister of Italy. He was appointed",
+                "matched_answers": [
+                    [
+                        "Giuseppe Conte",
+                        "+2018-06-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgia Meloni"
+            },
+            {
+                "prediction": " Li Keqiang.\nThe Premier of the People's Republic of China is the head of",
+                "matched_answers": [
+                    [
+                        "Li Keqiang",
+                        "+2013-03-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Li Qiang"
+            },
+            {
+                "prediction": " Angela Merkel. She has held the position since 2005.\nThe Federal Chancellor of Germany is",
+                "matched_answers": [
+                    [
+                        "Angela Merkel",
+                        "+2005-11-22T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olaf Scholz"
+            },
+            {
+                "prediction": " Emperor Akihito. He is the 126th Emperor of Japan and the 13th",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Naruhito"
+            },
+            {
+                "prediction": " Ram Nath Kovind. He was elected as the President of India on July 25, 201",
+                "matched_answers": [
+                    [
+                        "Ram Nath Kovind",
+                        "+2017-07-25T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Droupadi Murmu"
+            },
+            {
+                "prediction": " Queen Elizabeth II. The monarch is the head of state and the head of the British government. The",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Boris Johnson. He was appointed on July 13, 2019, after the resignation of Theresa",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rishi Sunak"
+            },
+            {
+                "prediction": " President Jair Bolsonaro.\nThe President of Brazil is the head of state and the head",
+                "matched_answers": [
+                    [
+                        "Jair Bolsonaro",
+                        "+2019-01-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Luiz In\u00e1cio Lula da Silva"
+            },
+            {
+                "prediction": " Queen Elizabeth II. The monarch of Canada is the head of state and the head of government. The",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " Vladimir Putin. He has been in power since 1991.\nThe Prime Minister of Russia is",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mikhail Mishustin"
+            },
+            {
+                "prediction": " Enrique Pe\u00f1a Nieto. He was elected in 2012 and has served as the President since",
+                "matched_answers": [
+                    [
+                        "Enrique Pe\u00f1a Nieto",
+                        "+2012-12-01T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            },
+            {
+                "prediction": " Moon Jae-in.\nMoon Jae-in is the current President of South Korea. He was",
+                "matched_answers": [
+                    [
+                        "Moon Jae-in",
+                        "+2017-05-10T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yoon Suk Yeol"
+            },
+            {
+                "prediction": " Queen Elizabeth II. The monarch of Australia is the head of state, while the head of government is",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom"
+            },
+            {
+                "prediction": " the Hon. Malcolm Turnbull.\nThe Prime Minister of Australia is the head of government in Australia",
+                "matched_answers": [
+                    [
+                        "Malcolm Turnbull",
+                        "+2015-09-15T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anthony Albanese"
+            },
+            {
+                "prediction": " Queen Beatrix.\nThe Dutch monarchy was abolished in 1815, after the Dutch Republic was",
+                "matched_answers": [
+                    [
+                        "Beatrix",
+                        "+1980-04-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Willem-Alexander of the Netherlands"
+            },
+            {
+                "prediction": " Mateusz Morawiecki.\nThe Prime Minister of Poland is the head of the government and",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk"
+            },
+            {
+                "prediction": " Charles Michel. He was elected in 2014 and has been in office since then.\nThe",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo"
+            },
+            {
+                "prediction": " Erna Solberg.\nErna Solberg is a member of the Norwegian Labour Party. She",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re"
+            },
+            {
+                "prediction": " Sebastian Kurz.\nThe Federal Chancellor of Austria is the head of the Federal Government and the head of",
+                "matched_answers": [
+                    [
+                        "Sebastian Kurz",
+                        "+2020-01-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karl Nehammer"
+            },
+            {
+                "prediction": " Reuven Rivlin.\nReuven Rivlin is the 12th President of Israel",
+                "matched_answers": [
+                    [
+                        "Reuven Rivlin",
+                        "+2014-07-24T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Isaac Herzog"
+            },
+            {
+                "prediction": " the President of the United Arab Emirates, His Highness Sheikh Khalifa bin Zayed Al Nahyan.",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohammed bin Zayed Al Nahyan"
+            },
+            {
+                "prediction": " President Halimah Yacob. She was sworn in as the 8th President of Singapore",
+                "matched_answers": [
+                    [
+                        "Halimah Yacob",
+                        "+2017-09-14T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tharman Shanmugaratnam"
+            },
+            {
+                "prediction": " Rodrigo Duterte. He was elected in 2016 and is serving his second term.\n",
+                "matched_answers": [
+                    [
+                        "Rodrigo Duterte",
+                        "+2016-06-30T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bongbong Marcos"
+            },
+            {
+                "prediction": " Muhammadu Buhari. He was elected into office on 29th May 2015.\nThe",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bola Tinubu"
+            },
+            {
+                "prediction": " the supreme leader, Ayatollah Ali Khamenei.\nThe President of Iran is the",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1981-10-13T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi"
+            },
+            {
+                "prediction": " Ivan Duque. He was elected in 2018 and has been in office since then.\n",
+                "matched_answers": [
+                    [
+                        "Duque",
+                        "+2018-08-07T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gustavo Petro"
+            },
+            {
+                "prediction": " Nawaz Sharif. He was elected as the Prime Minister of Pakistan in 2013 and has",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Shehbaz Sharif"
+            },
+            {
+                "prediction": " Milo\u0161 Zeman.\nThe Czech Republic is a parliamentary republic, with the President of the Czech",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z "
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petr Pavel"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Angela Merkel. She has been in office since 2005 and is the longest-serving chancellor",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier"
+            },
+            {
+                "prediction": " Yoshihiko Noda.\nThe Prime Minister of Japan is the head of government in Japan.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fumio Kishida"
+            },
+            {
+                "prediction": " Emmanuel Macron. He was elected in 2017 and has been in office since then.\nEm",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9lisabeth Borne"
+            },
+            {
+                "prediction": " Mauricio Macri.\nThe President of Argentina is the head of state and the head of government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Javier Milei"
+            },
+            {
+                "prediction": " the leader of the Social Democrats, which is a center-left party. The current Prime Minister is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson"
+            },
+            {
+                "prediction": " the President of Austria, who is elected by the people of Austria. The President is the head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander Van der Bellen"
+            },
+            {
+                "prediction": " General Prayut Chan-ocha. He was appointed as the Prime Minister of Thailand on 22",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Srettha Thavisin"
+            },
+            {
+                "prediction": " the Prime Minister Sheikh Hasina.\nThe President of Bangladesh is the head of state and the head",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Shahabuddin"
+            },
+            {
+                "prediction": " the General Secretary of the Communist Party of Vietnam, Nguyen Phu Binh.\nThe President of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "V\u00f5 V\u0103n Th\u01b0\u1edfng"
+            },
+            {
+                "prediction": " Pham Minh Chinh. He was elected in 2016 and has been in office since then",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ph\u1ea1m Minh Ch\u00ednh"
+            },
+            {
+                "prediction": " the Prime Minister of Malaysia, who is the head of the government. The position was established in ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim"
+            },
+            {
+                "prediction": " the President of Egypt, who is the head of state and commander-in-chief of the Egyptian",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mostafa Madbouly"
+            },
+            {
+                "prediction": " Florin Cipru.\nFlorin Cipru is the current Prime Minister of Romania.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcel Ciolacu"
+            },
+            {
+                "prediction": " President Sebastian Pinera.\nThe President of Chile is the head of state and the head of government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabriel Boric"
+            },
+            {
+                "prediction": " the Prime Minister of Pakistan. The President of Pakistan is the head of state and the head of government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Arif Alvi"
+            },
+            {
+                "prediction": " Andrej Babis. He has been in office since October 2018.\nThe Prime Minister",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petr Fiala"
+            },
+            {
+                "prediction": " Matti Vanhanen.\nThe Prime Minister of Finland is the head of government in Finland.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Petteri Orpo"
+            },
+            {
+                "prediction": " Fuad Masum. He was elected in 2014 after the withdrawal of the US troops from",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Abdul Latif Rashid"
+            },
+            {
+                "prediction": " Adil Abdul-Mahdi.\nAdil Abdul-Mahdi is a member of the Iraqi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammed Shia' Al Sudani"
+            },
+            {
+                "prediction": " President Marcelo Rebelo.\nThe President of Portugal is the head of state and the head of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Marcelo Rebelo de Sousa"
+            }
+        ],
+        "ambiguous": []
+    }
+}

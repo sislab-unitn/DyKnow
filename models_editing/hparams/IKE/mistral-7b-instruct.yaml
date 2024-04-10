@@ -1,0 +1,8 @@
+alg_name: 'IKE'
+model_name: mistralai/Mistral-7B-Instruct-v0.1
+sentence_model_name: sentence-transformers/all-MiniLM-L6-v2
+device: 0
+results_dir: data/stats
+
+k: 16
+model_parallel: false

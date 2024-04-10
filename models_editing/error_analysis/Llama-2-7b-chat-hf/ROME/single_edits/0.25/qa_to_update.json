@@ -1,0 +1,269 @@
+{
+    "countries_byGDP": {
+        "Canada": {
+            "monarch of Canada": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Canada is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of Canada is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of Canada is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Canada is currently held by [/INST]"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "George VI |S: +1936-12-11T00:00:00Z |E: +1952-02-06T00:00:00Z",
+                    "Edward VIII |S: +1936-01-20T00:00:00Z |E: +1936-12-11T00:00:00Z",
+                    "George V |S: +1910-05-06T00:00:00Z |E: +1936-01-20T00:00:00Z",
+                    "Edward VII |S: +1901-01-22T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Victoria |S: +1867-07-01T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ]
+            }
+        },
+        "United Arab Emirates": {
+            "President of the United Arab Emirates": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in United Arab Emirates is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the United Arab Emirates is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the United Arab Emirates is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the United Arab Emirates is currently held by [/INST]"
+                },
+                "answers": [
+                    "Mohammed bin Zayed Al Nahyan |S: +2022-05-14T00:00:00Z",
+                    "Khalifa bin Zayed Al Nahyan |S: +2004-11-03T00:00:00Z |E: +2022-05-13T00:00:00Z",
+                    "Zayed bin Sultan Al Nahyan |S: +1971-12-02T00:00:00Z |E: +2004-11-02T00:00:00Z"
+                ]
+            }
+        },
+        "Philippines": {
+            "President of the Philippines": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Philippines is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the Philippines is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the Philippines is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Philippines is currently held by [/INST]"
+                },
+                "answers": [
+                    "Benigno Aquino III |S: +2010-06-30T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                    "Emilio Aguinaldo |S: +1899-01-23T00:00:00Z |E: +1901-03-23T00:00:00Z",
+                    "Ramon Magsaysay |S: +1953-12-30T00:00:00Z |E: +1957-03-17T00:00:00Z",
+                    "Rodrigo Duterte |S: +2016-06-30T00:00:00Z |E: +2022-06-30T00:00:00Z",
+                    "Sergio Osme\u00f1a |S: +1944-08-01T00:00:00Z |E: +1946-05-28T00:00:00Z",
+                    "Diosdado Macapagal |S: +1961-12-30T00:00:00Z |E: +1965-12-30T00:00:00Z",
+                    "Manuel L. Quezon |S: +1935-11-25T00:00:00Z |E: +1944-08-01T00:00:00Z",
+                    "Corazon Aquino |S: +1986-02-25T00:00:00Z |E: +1992-06-30T00:00:00Z",
+                    "Elpidio Quirino |S: +1948-04-17T00:00:00Z |E: +1953-12-30T00:00:00Z",
+                    "Carlos P. Garcia |S: +1957-03-18T00:00:00Z |E: +1961-12-30T00:00:00Z",
+                    "Gloria Macapagal Arroyo |S: +2001-01-20T00:00:00Z |E: +2010-06-30T00:00:00Z",
+                    "Joseph Estrada |S: +1998-06-30T00:00:00Z |E: +2001-01-20T00:00:00Z",
+                    "Manuel Roxas |S: +1946-05-28T00:00:00Z |E: +1948-04-15T00:00:00Z",
+                    "Bongbong Marcos |S: +2022-06-30T00:00:00Z",
+                    "Fidel Ramos |S: +1992-06-30T00:00:00Z |E: +1998-06-30T00:00:00Z",
+                    "Ferdinand Marcos |S: +1965-12-30T00:00:00Z |E: +1986-02-25T00:00:00Z",
+                    "Jose P. Laurel |S: +1943-10-14T00:00:00Z |E: +1945-08-17T00:00:00Z"
+                ]
+            }
+        },
+        "Sweden": {
+            "Prime Minister of Sweden": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Sweden is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Sweden is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Sweden is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Sweden is currently held by [/INST]"
+                },
+                "answers": [
+                    "Stefan L\u00f6fven |S: +2014-10-03T00:00:00Z |E: +2021-10-30T00:00:00Z",
+                    "Fredrik Reinfeldt |S: +2006-10-06T00:00:00Z |E: +2014-10-03T00:00:00Z",
+                    "G\u00f6ran Persson |S: +1996-03-22T00:00:00Z |E: +2006-10-06T00:00:00Z",
+                    "Ingvar Carlsson |S: +1994-10-07T00:00:00Z |E: +1996-03-22T00:00:00Z",
+                    "Carl Bildt |S: +1991-10-14T00:00:00Z |E: +1994-10-07T00:00:00Z",
+                    "Ingvar Carlsson |S: +1990-02-27T00:00:00Z |E: +1991-10-04T00:00:00Z",
+                    "Magdalena Andersson |S: +2021-11-30T00:00:00Z |E: +2022-10-18T00:00:00Z",
+                    "Ulf Kristersson |S: +2022-10-18T00:00:00Z"
+                ]
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Australia is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of Australia is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of Australia is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Australia is currently held by [/INST]"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ]
+            }
+        },
+        "Poland": {
+            "Prime Minister of Poland": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Poland is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Poland is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Poland is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Poland is currently held by [/INST]"
+                },
+                "answers": [
+                    "Ewa Kopacz |S: +2014-09-22T00:00:00Z |E: +2015-11-16T00:00:00Z",
+                    "Donald Tusk |S: +2007-11-16T00:00:00Z |E: +2014-09-22T00:00:00Z",
+                    "Jaros\u0142aw Kaczy\u0144ski |S: +2006-07-14T00:00:00Z |E: +2007-11-16T00:00:00Z",
+                    "Beata Szyd\u0142o |S: +2015-11-16T00:00:00Z |E: +2017-12-11T00:00:00Z",
+                    "Tadeusz Mazowiecki |S: +1989-08-24T00:00:00Z |E: +1991-01-04T00:00:00Z",
+                    "Jan Krzysztof Bielecki |S: +1991-01-04T00:00:00Z |E: +1991-12-06T00:00:00Z",
+                    "Jan Olszewski |S: +1991-12-06T00:00:00Z |E: +1992-06-05T00:00:00Z",
+                    "Waldemar Pawlak |S: +1992-06-05T00:00:00Z |E: +1992-07-10T00:00:00Z",
+                    "Hanna Suchocka |S: +1992-07-10T00:00:00Z |E: +1993-10-26T00:00:00Z",
+                    "Waldemar Pawlak |S: +1993-10-26T00:00:00Z |E: +1995-03-07T00:00:00Z",
+                    "J\u00f3zef Oleksy |S: +1995-03-07T00:00:00Z |E: +1996-02-07T00:00:00Z",
+                    "W\u0142odzimierz Cimoszewicz |S: +1996-02-07T00:00:00Z |E: +1997-10-31T00:00:00Z",
+                    "Jerzy Buzek |S: +1997-10-31T00:00:00Z |E: +2001-10-19T00:00:00Z",
+                    "Leszek Miller |S: +2001-10-19T00:00:00Z |E: +2004-05-02T00:00:00Z",
+                    "Marek Belka |S: +2004-05-02T00:00:00Z |E: +2005-10-31T00:00:00Z",
+                    "Kazimierz Marcinkiewicz |S: +2005-10-31T00:00:00Z |E: +2006-07-14T00:00:00Z",
+                    "Mateusz Morawiecki |S: +2017-12-11T00:00:00Z |E: +2023-12-13T00:00:00Z",
+                    "Donald Tusk |S: +2023-12-13T00:00:00Z"
+                ]
+            }
+        },
+        "Turkey": {
+            "Prime Minister of Turkey": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Turkey is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Turkey is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Turkey is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Turkey is currently held by [/INST]"
+                },
+                "answers": [
+                    "Ahmet Davuto\u011flu |S: +2014-08-28T00:00:00Z |E: +2016-05-24T00:00:00Z",
+                    "Recep Tayyip Erdo\u011fan |S: +2003-03-23T00:00:00Z |E: +2014-08-28T00:00:00Z",
+                    "Binali Y\u0131ld\u0131r\u0131m |S: +2016-05-24T00:00:00Z |E: +2018-07-09T00:00:00Z",
+                    "Abdullah G\u00fcl |S: +2002-12-18T00:00:00Z |E: +2003-03-14T00:00:00Z",
+                    "B\u00fclent Ecevit |S: +1999-01-11T00:00:00Z |E: +2002-11-18T00:00:00Z",
+                    "Tansu \u00c7iller |S: +1993-06-25T00:00:00Z |E: +1996-03-06T00:00:00Z",
+                    "Recep Tayyip Erdo\u011fan |S: +2018-06-24T00:00:00Z"
+                ]
+            }
+        },
+        "Austria": {
+            "Federal Chancellor of Austria": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Austria is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Federal Chancellor of Austria is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Federal Chancellor of Austria is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Austria is currently held by [/INST]"
+                },
+                "answers": [
+                    "Werner Faymann |S: +2008-12-02T00:00:00Z |E: +2016-05-09T00:00:00Z",
+                    "Alfred Gusenbauer |S: +2007-01-11T00:00:00Z |E: +2008-12-02T00:00:00Z",
+                    "Wolfgang Sch\u00fcssel |S: +2000-02-04T00:00:00Z |E: +2007-01-11T00:00:00Z",
+                    "Viktor Klima |S: +1997-01-28T00:00:00Z |E: +2000-02-04T00:00:00Z",
+                    "Franz Vranitzky |S: +1986-06-16T00:00:00Z |E: +1997-01-20T00:00:00Z",
+                    "Fred Sinowatz |S: +1983-05-24T00:00:00Z |E: +1986-06-16T00:00:00Z",
+                    "Bruno Kreisky |S: +1970-04-21T00:00:00Z |E: +1983-05-24T00:00:00Z",
+                    "Josef Klaus |S: +1964-04-02T00:00:00Z |E: +1970-03-03T00:00:00Z",
+                    "Alfons Gorbach |S: +1961-04-11T00:00:00Z |E: +1964-02-25T00:00:00Z",
+                    "Julius Raab |S: +1953-04-02T00:00:00Z |E: +1961-04-11T00:00:00Z",
+                    "Leopold Figl |S: +1949-12-20T00:00:00Z |E: +1953-02-25T00:00:00Z",
+                    "Karl Renner |S: +1945-04-27T00:00:00Z |E: +1945-12-20T00:00:00Z",
+                    "Christian Kern |S: +2016-05-17T00:00:00Z |E: +2017-12-18T00:00:00Z",
+                    "Sebastian Kurz |S: +2017-12-18T00:00:00Z |E: +2019-05-28T00:00:00Z",
+                    "Hartwig L\u00f6ger |S: +2019-05-28T00:00:00Z |E: +2019-06-03T00:00:00Z",
+                    "Brigitte Bierlein |S: +2019-06-03T00:00:00Z |E: +2020-01-07T00:00:00Z",
+                    "Sebastian Kurz |S: +2020-01-07T00:00:00Z |E: +2021-10-11T00:00:00Z",
+                    "Alexander Schallenberg |S: +2021-10-11T00:00:00Z |E: +2021-12-06T00:00:00Z",
+                    "Karl Nehammer |S: +2021-12-06T00:00:00Z"
+                ]
+            }
+        },
+        "Chile": {
+            "President of Chile": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Chile is [/INST]",
+                    "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Chile is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Chile is [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Chile is currently held by [/INST]"
+                },
+                "answers": [
+                    "Eduardo Frei Ruiz-Tagle |S: +1994-03-11T00:00:00Z |E: +2000-03-11T00:00:00Z",
+                    "Michelle Bachelet |S: +2006-03-11T00:00:00Z |E: +2010-03-11T00:00:00Z",
+                    "Patricio Aylwin |S: +1990-03-11T00:00:00Z |E: +1994-03-11T00:00:00Z",
+                    "Ricardo Lagos |S: +2000-03-11T00:00:00Z |E: +2006-03-11T00:00:00Z",
+                    "Sebasti\u00e1n Pi\u00f1era |S: +2018-03-11T00:00:00Z |E: +2022-03-11T00:00:00Z",
+                    "Michelle Bachelet |S: +2014-03-11T00:00:00Z |E: +2018-03-11T00:00:00Z",
+                    "Gabriel Boric |S: +2022-03-11T00:00:00Z",
+                    "Sebasti\u00e1n Pi\u00f1era |S: +2010-03-11T00:00:00Z |E: +2014-03-11T00:00:00Z"
+                ]
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Lionel Messi": {
+            "quesions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current team of Lionel Messi is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe football team Lionel Messi currently plays for is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current football club of Lionel Messi is [/INST]"
+            },
+            "answers": [
+                "Newell's Old Boys |S: +1995-00-00T00:00:00Z |E: +2000-00-00T00:00:00Z",
+                "FC Barcelona C |S: +2003-00-00T00:00:00Z |E: +2004-00-00T00:00:00Z",
+                "FC Barcelona Atl\u00e8tic |S: +2004-00-00T00:00:00Z |E: +2005-00-00T00:00:00Z",
+                "FC Barcelona |S: +2004-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-00T00:00:00Z |E: +2023-06-30T00:00:00Z",
+                "Argentina national under-20 football team |S: +2004-00-00T00:00:00Z |E: +2005-00-00T00:00:00Z",
+                "Argentina national under-23 football team |S: +2008-01-01T00:00:00Z |E: +2008-01-01T00:00:00Z",
+                "Argentina national association football team |S: +2005-00-00T00:00:00Z",
+                "FC Barcelona Juvenil A |S: +2003-00-00T00:00:00Z |E: +2004-00-00T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ]
+        }
+    },
+    "companies_byRevenue": {
+        "Glencore": {
+            "quesions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current Chief Executive Officer of Glencore is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe current CEO of Glencore is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe CEO position at Glencore is currently held by [/INST]",
+                "rephrased_3": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of Chief Executive Officer at Glencore is currently held by [/INST]"
+            },
+            "answers": [
+                "Ivan Glasenberg |S: +2002-01-00T00:00:00Z |E: +2021-06-00T00:00:00Z",
+                "Gary Nagle |S: +2021-07-00T00:00:00Z"
+            ]
+        }
+    },
+    "organizations": {
+        "World Bank": {
+            "chairperson": {
+                "questions": {
+                    "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe chairperson of World Bank is [/INST]",
+                    "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of chairperson at World Bank is currently held by [/INST]",
+                    "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe chairperson position at World Bank is currently held by [/INST]",
+                    "rephrased_3": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST]"
+                },
+                "answers": [
+                    "Kristalina Georgieva |S: +2019-02-20T00:00:00Z |E: +2019-04-09T00:00:00Z",
+                    "Jim Yong Kim |S: +2012-07-01T00:00:00Z |E: +2019-02-01T00:00:00Z",
+                    "David Malpass |S: +2019-04-09T00:00:00Z |E: +2023-06-01T00:00:00Z",
+                    "Ajaypal Singh Banga |S: +2023-06-02T00:00:00Z"
+                ]
+            }
+        }
+    }
+}

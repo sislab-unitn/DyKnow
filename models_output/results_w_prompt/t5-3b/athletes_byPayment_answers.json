@@ -1,0 +1,394 @@
+{
+    "Cristiano Ronaldo": {
+        "answers": {
+            "generic": "Cristiano Ronaldo. The current team of Cristiano Ronaldo is.",
+            "contextualized": "with the name:  Real Madrid. Real Madrid. Real Madrid.",
+            "rephrased_1": ":: Real Madrid.o Real Madrid.  the name:",
+            "rephrased_2": "with the name:  the current football club of Cristiano Ronaldo? of"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Cristiano Ronaldo is",
+            "contextualized": "Answer with the name only: The football team Cristiano Ronaldo currently plays for is",
+            "rephrased_1": "Answer with the name only: Cristiano Ronaldo is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Cristiano Ronaldo is"
+        }
+    },
+    "Lionel Messi": {
+        "answers": {
+            "generic": "with the name:s..... with the",
+            "contextualized": "with the name: . .   with the",
+            "rephrased_1": "with the name:eleleeee",
+            "rephrased_2": "with the name only: with the name only: Barcelona.??"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Lionel Messi is",
+            "contextualized": "Answer with the name only: The football team Lionel Messi currently plays for is",
+            "rephrased_1": "Answer with the name only: Lionel Messi is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Lionel Messi is"
+        }
+    },
+    "Neymar Jr.": {
+        "answers": {
+            "generic": ": ...  a team of Neymar",
+            "contextualized": ".. the FC Barcelona.",
+            "rephrased_1": ".. the FC Barcelona.. the FC Barcelona. .",
+            "rephrased_2": "with the name of the club......."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Neymar Jr. is",
+            "contextualized": "Answer with the name only: The football team Neymar Jr. currently plays for is",
+            "rephrased_1": "Answer with the name only: Neymar Jr. is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Neymar Jr. is"
+        }
+    },
+    "Kylian Mbapp\u00e9": {
+        "answers": {
+            "generic": "?? the current team of Kylian Mbapp\u00e9?",
+            "contextualized": "with the name of the team. .....",
+            "rephrased_1": ". Mbapp\u00e9. Paris Saint-Germain.. Paris Saint-",
+            "rephrased_2": ". PSG.. PSG.  ?"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Kylian Mbapp\u00e9 is",
+            "contextualized": "Answer with the name only: The football team Kylian Mbapp\u00e9 currently plays for is",
+            "rephrased_1": "Answer with the name only: Kylian Mbapp\u00e9 is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Kylian Mbapp\u00e9 is"
+        }
+    },
+    "Karim Benzema": {
+        "answers": {
+            "generic": "with the name of the team.... ? ?.",
+            "contextualized": "with the name:       with the",
+            "rephrased_1": "with the name:im  Benzema is currently playing for Real",
+            "rephrased_2": "with the name only::......"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Karim Benzema is",
+            "contextualized": "Answer with the name only: The football team Karim Benzema currently plays for is",
+            "rephrased_1": "Answer with the name only: Karim Benzema is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Karim Benzema is"
+        }
+    },
+    "Erling Haaland": {
+        "answers": {
+            "generic": "Erling Haaland is the current team of Erling Haaland.",
+            "contextualized": "Answer with the name of the football team Erling Haaland currently plays for is.",
+            "rephrased_1": "Erling Haaland is currently playing for.",
+            "rephrased_2": "with the name of the current football club. with the name of.."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Erling Haaland is",
+            "contextualized": "Answer with the name only: The football team Erling Haaland currently plays for is",
+            "rephrased_1": "Answer with the name only: Erling Haaland is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Erling Haaland is"
+        }
+    },
+    "Mohamed Salah": {
+        "answers": {
+            "generic": "with the name of the team of Mohamed Salah is? of??",
+            "contextualized": "Mohamed Salah plays for.",
+            "rephrased_1": ".. Liverpool.. Liverpool. .. Liverpool",
+            "rephrased_2": "with the name of the club. with Liverpool.. Liverpool.."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Mohamed Salah is",
+            "contextualized": "Answer with the name only: The football team Mohamed Salah currently plays for is",
+            "rephrased_1": "Answer with the name only: Mohamed Salah is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Mohamed Salah is"
+        }
+    },
+    "Sadio Man\u00e9": {
+        "answers": {
+            "generic": "Sadio Man\u00e9. The current team of Sadio Man\u00e9 is?",
+            "contextualized": "with the name of the football team. .io.i",
+            "rephrased_1": "the name: the name:.    the name:",
+            "rephrased_2": "with the name of the club..?i? ?"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Sadio Man\u00e9 is",
+            "contextualized": "Answer with the name only: The football team Sadio Man\u00e9 currently plays for is",
+            "rephrased_1": "Answer with the name only: Sadio Man\u00e9 is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Sadio Man\u00e9 is"
+        }
+    },
+    "Kevin De Bruyne": {
+        "answers": {
+            "generic": ". Bruyne the current team of Kevin De Bruyne",
+            "contextualized": "with the name: . Bruyneis..",
+            "rephrased_1": "Kevin De Bruyne is currently playing for.",
+            "rephrased_2": ".... ??  ? ?"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Kevin De Bruyne is",
+            "contextualized": "Answer with the name only: The football team Kevin De Bruyne currently plays for is",
+            "rephrased_1": "Answer with the name only: Kevin De Bruyne is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Kevin De Bruyne is"
+        }
+    },
+    "Harry Kane": {
+        "answers": {
+            "generic": "with the name of the team. with the name of the team.?",
+            "contextualized": ".. Tottenham Hotspur.",
+            "rephrased_1": ":  Tottenham Hotspur. England. England. .",
+            "rephrased_2": "with the name:  Tottenham Hotspur..."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Harry Kane is",
+            "contextualized": "Answer with the name only: The football team Harry Kane currently plays for is",
+            "rephrased_1": "Answer with the name only: Harry Kane is currently playing for",
+            "rephrased_2": "Answer with the name only: The current football club of Harry Kane is"
+        }
+    },
+    "Stephen Curry": {
+        "answers": {
+            "generic": "with the name of the team. ?",
+            "contextualized": ".. the Golden State Warriors.",
+            "rephrased_1": "..... the name: Stephen::",
+            "rephrased_2": ".  the Golden State Warriors."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Stephen Curry is",
+            "contextualized": "Answer with the name only: The basketball team Stephen Curry currently plays for is",
+            "rephrased_1": "Answer with the name only: Stephen Curry is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Stephen Curry currently plays for is"
+        }
+    },
+    "Kevin Durant": {
+        "answers": {
+            "generic": "with the name of the name: ?",
+            "contextualized": "with the name:. the Golden State Warriors.",
+            "rephrased_1": "the name: the name: the Golden State Warriors.. the name:",
+            "rephrased_2": "with the name:  the Golden State Warriors."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Kevin Durant is",
+            "contextualized": "Answer with the name only: The basketball team Kevin Durant currently plays for is",
+            "rephrased_1": "Answer with the name only: Kevin Durant is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Kevin Durant currently plays for is"
+        }
+    },
+    "LeBron James": {
+        "answers": {
+            "generic": "The current team of LeBron James is.",
+            "contextualized": "with the name:. the Miami Heat.",
+            "rephrased_1": "LeBron James is currently playing for the Los Angeles Lakers.",
+            "rephrased_2": "with the name:  the Miami Heat."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of LeBron James is",
+            "contextualized": "Answer with the name only: The basketball team LeBron James currently plays for is",
+            "rephrased_1": "Answer with the name only: LeBron James is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team LeBron James currently plays for is"
+        }
+    },
+    "Nikola Jokic": {
+        "answers": {
+            "generic": "with the name of the team? with the name of the name??",
+            "contextualized": "with the name of the team. with the name of the team...",
+            "rephrased_1": ".  the team of the same name. . .",
+            "rephrased_2": "with the name:  the Sacramento Kings.. the Sacramento Kings."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Nikola Jokic is",
+            "contextualized": "Answer with the name only: The basketball team Nikola Jokic currently plays for is",
+            "rephrased_1": "Answer with the name only: Nikola Jokic is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Nikola Jokic currently plays for is"
+        }
+    },
+    "Bradley Beal": {
+        "answers": {
+            "generic": "with the name of the name is:al???",
+            "contextualized": ".. the Washington Wizards.",
+            "rephrased_1": ".al the Washington Wizards.al the Washington Wizards.",
+            "rephrased_2": ".. the Miami Heat."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Bradley Beal is",
+            "contextualized": "Answer with the name only: The basketball team Bradley Beal currently plays for is",
+            "rephrased_1": "Answer with the name only: Bradley Beal is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Bradley Beal currently plays for is"
+        }
+    },
+    "Giannis Antetokounmpo": {
+        "answers": {
+            "generic": "with the name only:e the Milwaukee Bucks.e?e",
+            "contextualized": "with the name only:' the Milwaukee Bucks.' the Milwaukee Buck",
+            "rephrased_1": ".e the Milwaukee Bucks.e the Milwaukee Bucks.e",
+            "rephrased_2": "with the name only:e the Milwaukee Bucks.' the Milwaukee Buck"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Giannis Antetokounmpo is",
+            "contextualized": "Answer with the name only: The basketball team Giannis Antetokounmpo currently plays for is",
+            "rephrased_1": "Answer with the name only: Giannis Antetokounmpo is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Giannis Antetokounmpo currently plays for is"
+        }
+    },
+    "Damian Lillard": {
+        "answers": {
+            "generic": "Damian Lillard is the current team of the Portland Trail Blazers.",
+            "contextualized": "Answer with the name of the team Damian Lillard currently plays for is.",
+            "rephrased_1": "Damian Lillard is currently playing for the Portland Trail Blazers.",
+            "rephrased_2": "Damian Lillard plays for the Portland Trail Blazers."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Damian Lillard is",
+            "contextualized": "Answer with the name only: The basketball team Damian Lillard currently plays for is",
+            "rephrased_1": "Answer with the name only: Damian Lillard is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Damian Lillard currently plays for is"
+        }
+    },
+    "Kawhi Leonard": {
+        "answers": {
+            "generic": "with the name of the name???",
+            "contextualized": "Answer with the name of the team Kawhi Leonard currently plays for is.",
+            "rephrased_1": ".. the San Antonio Spurs.. the San Antonio Spurs.",
+            "rephrased_2": ":  the San Antonio Spurs."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Kawhi Leonard is",
+            "contextualized": "Answer with the name only: The basketball team Kawhi Leonard currently plays for is",
+            "rephrased_1": "Answer with the name only: Kawhi Leonard is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Kawhi Leonard currently plays for is"
+        }
+    },
+    "Paul George": {
+        "answers": {
+            "generic": "with the name of the team. ??? ?",
+            "contextualized": ".. the Washington Wizards.",
+            "rephrased_1": "the name: the name: the Washington Wizards. the Washington Wizards.",
+            "rephrased_2": ".  the Golden State Warriors."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Paul George is",
+            "contextualized": "Answer with the name only: The basketball team Paul George currently plays for is",
+            "rephrased_1": "Answer with the name only: Paul George is currently playing for",
+            "rephrased_2": "Answer with the name only: The NBA team Paul George currently plays for is"
+        }
+    },
+    "Max Verstappen": {
+        "answers": {
+            "generic": "with the name:  the.. . with the",
+            "contextualized": "with the name: with the name: Red Bull Racing.??",
+            "rephrased_1": "with the name: Verstappen is currently racing for. Answer with the name:",
+            "rephrased_2": "with the name only: with the name only:tttt"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Max Verstappen is",
+            "contextualized": "Answer with the name only: The Formula 1 team Max Verstappen currently drives for is",
+            "rephrased_1": "Answer with the name only: Max Verstappen is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Max Verstappen is currently racing for in Formula 1 is"
+        }
+    },
+    "Lewis Hamilton": {
+        "answers": {
+            "generic": ".... ? ? ? ? ? ?",
+            "contextualized": "with the name:  Mercedes.",
+            "rephrased_1": "the name: the name: the Mercedes team.. the Mercedes team.",
+            "rephrased_2": "with the name:  Mercedes. . . . . ."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Lewis Hamilton is",
+            "contextualized": "Answer with the name only: The Formula 1 team Lewis Hamilton currently drives for is",
+            "rephrased_1": "Answer with the name only: Lewis Hamilton is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Lewis Hamilton is currently racing for in Formula 1 is"
+        }
+    },
+    "Fernando Alonso": {
+        "answers": {
+            "generic": "Fernando Alonso. The current team of Fernando Alonso is.",
+            "contextualized": "Fernando Alonso. The Formula 1 team Fernando Alonso currently drives for is.",
+            "rephrased_1": ". Alonso: Ferrari.. Ferrari. .",
+            "rephrased_2": "with the name: ....."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Fernando Alonso is",
+            "contextualized": "Answer with the name only: The Formula 1 team Fernando Alonso currently drives for is",
+            "rephrased_1": "Answer with the name only: Fernando Alonso is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Fernando Alonso is currently racing for in Formula 1 is"
+        }
+    },
+    "Sergio P\u00e9rez": {
+        "answers": {
+            "generic": "The current team of Sergio P\u00e9rez is...",
+            "contextualized": "The Formula 1 team Fernando Alonso currently drives for is...",
+            "rephrased_1": "P\u00e9rez is currently racing for.",
+            "rephrased_2": "with the name: ."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Sergio P\u00e9rez is",
+            "contextualized": "Answer with the name only: The Formula 1 team Sergio P\u00e9rez currently drives for is",
+            "rephrased_1": "Answer with the name only: Sergio P\u00e9rez is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Sergio P\u00e9rez is currently racing for in Formula 1 is"
+        }
+    },
+    "Charles Leclerc": {
+        "answers": {
+            "generic": "........ the team of",
+            "contextualized": "with the name: 1 team:...? 1 team? 1 team",
+            "rephrased_1": ".. the team.clerc is currently racing for..",
+            "rephrased_2": "with the name::..?????"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Charles Leclerc is",
+            "contextualized": "Answer with the name only: The Formula 1 team Charles Leclerc currently drives for is",
+            "rephrased_1": "Answer with the name only: Charles Leclerc is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Charles Leclerc is currently racing for in Formula 1 is"
+        }
+    },
+    "Lando Norris": {
+        "answers": {
+            "generic": "Lando Norris is a player of the current team of Lando Norris.",
+            "contextualized": "with the name:...? ?...?",
+            "rephrased_1": "Lando Norris is currently racing for.",
+            "rephrased_2": "with the name: .. .  ."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Lando Norris is",
+            "contextualized": "Answer with the name only: The Formula 1 team Lando Norris currently drives for is",
+            "rephrased_1": "Answer with the name only: Lando Norris is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Lando Norris is currently racing for in Formula 1 is"
+        }
+    },
+    "Carlos Sainz Jr.": {
+        "answers": {
+            "generic": "with the name:.?inz Jr.???",
+            "contextualized": "with the name: 1...? Answer with the name:??",
+            "rephrased_1": "Carlos Sainz Jr.. the No. 1 team.",
+            "rephrased_2": "with the name: ......"
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Carlos Sainz Jr. is",
+            "contextualized": "Answer with the name only: The Formula 1 team Carlos Sainz Jr. currently drives for is",
+            "rephrased_1": "Answer with the name only: Carlos Sainz Jr. is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Carlos Sainz Jr. is currently racing for in Formula 1 is"
+        }
+    },
+    "George Russell": {
+        "answers": {
+            "generic": "George Russell is the current team of George Russell.",
+            "contextualized": ". .. .... ....",
+            "rephrased_1": "George Russell is currently racing for.",
+            "rephrased_2": ".........................................................................................................................................................................................................."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of George Russell is",
+            "contextualized": "Answer with the name only: The Formula 1 team George Russell currently drives for is",
+            "rephrased_1": "Answer with the name only: George Russell is currently racing for",
+            "rephrased_2": "Answer with the name only: The team George Russell is currently racing for in Formula 1 is"
+        }
+    },
+    "Pierre Gasly": {
+        "answers": {
+            "generic": "Pierre Gasly is the current team of Pierre Gasly.",
+            "contextualized": "Pierre Gasly drives for?",
+            "rephrased_1": "Pierre Gasly is currently racing for.",
+            "rephrased_2": "Pierre Gasly is currently racing for in Formula 1."
+        },
+        "questions": {
+            "generic": "Answer with the name only: The current team of Pierre Gasly is",
+            "contextualized": "Answer with the name only: The Formula 1 team Pierre Gasly currently drives for is",
+            "rephrased_1": "Answer with the name only: Pierre Gasly is currently racing for",
+            "rephrased_2": "Answer with the name only: The team Pierre Gasly is currently racing for in Formula 1 is"
+        }
+    }
+}

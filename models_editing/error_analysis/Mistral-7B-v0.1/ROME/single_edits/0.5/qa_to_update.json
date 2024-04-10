@@ -1,0 +1,598 @@
+{
+    "countries_byGDP": {
+        "Thailand": {
+            "Prime Minister of Thailand": {
+                "questions": {
+                    "generic": "The head of government in Thailand is",
+                    "contextualized": "The Prime Minister of Thailand is",
+                    "rephrased_1": "The name of the current Prime Minister of Thailand is",
+                    "rephrased_2": "The position of the Prime Minister of Thailand is currently held by"
+                },
+                "answers": [
+                    "Niwatthamrong Boonsongpaisan |S: +2014-05-07T00:00:00Z |E: +2014-05-22T00:00:00Z",
+                    "Prayut Chan-o-cha |S: +2014-05-22T00:00:00Z |E: +2023-00-00T00:00:00Z",
+                    "Srettha Thavisin |S: +2023-00-00T00:00:00Z"
+                ]
+            }
+        },
+        "Austria": {
+            "Federal Chancellor of Austria": {
+                "questions": {
+                    "generic": "The head of government in Austria is",
+                    "contextualized": "The Federal Chancellor of Austria is",
+                    "rephrased_1": "The name of the current Federal Chancellor of Austria is",
+                    "rephrased_2": "The position of the Federal Chancellor of Austria is currently held by"
+                },
+                "answers": [
+                    "Werner Faymann |S: +2008-12-02T00:00:00Z |E: +2016-05-09T00:00:00Z",
+                    "Alfred Gusenbauer |S: +2007-01-11T00:00:00Z |E: +2008-12-02T00:00:00Z",
+                    "Wolfgang Sch\u00fcssel |S: +2000-02-04T00:00:00Z |E: +2007-01-11T00:00:00Z",
+                    "Viktor Klima |S: +1997-01-28T00:00:00Z |E: +2000-02-04T00:00:00Z",
+                    "Franz Vranitzky |S: +1986-06-16T00:00:00Z |E: +1997-01-20T00:00:00Z",
+                    "Fred Sinowatz |S: +1983-05-24T00:00:00Z |E: +1986-06-16T00:00:00Z",
+                    "Bruno Kreisky |S: +1970-04-21T00:00:00Z |E: +1983-05-24T00:00:00Z",
+                    "Josef Klaus |S: +1964-04-02T00:00:00Z |E: +1970-03-03T00:00:00Z",
+                    "Alfons Gorbach |S: +1961-04-11T00:00:00Z |E: +1964-02-25T00:00:00Z",
+                    "Julius Raab |S: +1953-04-02T00:00:00Z |E: +1961-04-11T00:00:00Z",
+                    "Leopold Figl |S: +1949-12-20T00:00:00Z |E: +1953-02-25T00:00:00Z",
+                    "Karl Renner |S: +1945-04-27T00:00:00Z |E: +1945-12-20T00:00:00Z",
+                    "Christian Kern |S: +2016-05-17T00:00:00Z |E: +2017-12-18T00:00:00Z",
+                    "Sebastian Kurz |S: +2017-12-18T00:00:00Z |E: +2019-05-28T00:00:00Z",
+                    "Hartwig L\u00f6ger |S: +2019-05-28T00:00:00Z |E: +2019-06-03T00:00:00Z",
+                    "Brigitte Bierlein |S: +2019-06-03T00:00:00Z |E: +2020-01-07T00:00:00Z",
+                    "Sebastian Kurz |S: +2020-01-07T00:00:00Z |E: +2021-10-11T00:00:00Z",
+                    "Alexander Schallenberg |S: +2021-10-11T00:00:00Z |E: +2021-12-06T00:00:00Z",
+                    "Karl Nehammer |S: +2021-12-06T00:00:00Z"
+                ]
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "questions": {
+                    "generic": "The head of state in Australia is",
+                    "contextualized": "The monarch of Australia is",
+                    "rephrased_1": "The name of the current monarch of Australia is",
+                    "rephrased_2": "The position of the monarch of Australia is currently held by"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ]
+            }
+        },
+        "China": {
+            "Premier of the People's Republic of China": {
+                "questions": {
+                    "generic": "The head of government in China is",
+                    "contextualized": "The Premier of the People's Republic of China is",
+                    "rephrased_1": "The name of the current Premier of the People's Republic of China is",
+                    "rephrased_2": "The position of the Premier of the People's Republic of China is currently held by"
+                },
+                "answers": [
+                    "Li Keqiang |S: +2013-03-15T00:00:00Z |E: +2023-03-11T00:00:00Z",
+                    "Wen Jiabao |S: +2003-03-16T00:00:00Z |E: +2013-03-15T00:00:00Z",
+                    "Zhu Rongji |S: +1998-03-17T00:00:00Z |E: +2003-03-16T00:00:00Z",
+                    "Li Peng |S: +1987-11-24T00:00:00Z |E: +1998-03-17T00:00:00Z",
+                    "Zhao Ziyang |S: +1980-09-10T00:00:00Z |E: +1987-11-24T00:00:00Z",
+                    "Hua Guofeng |S: +1976-02-04T00:00:00Z |E: +1980-09-10T00:00:00Z",
+                    "Zhou Enlai |S: +1949-10-01T00:00:00Z |E: +1976-01-08T00:00:00Z",
+                    "Li Qiang |S: +2023-03-11T00:00:00Z"
+                ]
+            }
+        },
+        "Singapore": {
+            "President of Singapore": {
+                "questions": {
+                    "generic": "The head of state in Singapore is",
+                    "contextualized": "The President of Singapore is",
+                    "rephrased_1": "The name of the current President of Singapore is",
+                    "rephrased_2": "The position of the President of Singapore is currently held by"
+                },
+                "answers": [
+                    "Halimah Yacob |S: +2017-09-14T00:00:00Z |E: +2023-09-13T00:00:00Z",
+                    "Tharman Shanmugaratnam |S: +2023-09-14T00:00:00Z"
+                ]
+            }
+        },
+        "Italy": {
+            "Prime Minister of Italy": {
+                "questions": {
+                    "generic": "The head of government in Italy is",
+                    "contextualized": "The Prime Minister of Italy is",
+                    "rephrased_1": "The name of the current Prime Minister of Italy is",
+                    "rephrased_2": "The position of the Prime Minister of Italy is currently held by"
+                },
+                "answers": [
+                    "Paolo Gentiloni |S: +2016-12-12T00:00:00Z |E: +2018-06-01T00:00:00Z",
+                    "Matteo Renzi |S: +2014-02-22T00:00:00Z |E: +2016-12-12T00:00:00Z",
+                    "Enrico Letta |S: +2013-04-28T00:00:00Z |E: +2014-02-22T00:00:00Z",
+                    "Mario Monti |S: +2011-11-16T00:00:00Z |E: +2013-04-28T00:00:00Z",
+                    "Silvio Berlusconi |S: +2008-05-08T00:00:00Z |E: +2011-11-16T00:00:00Z",
+                    "Romano Prodi |S: +2006-05-17T00:00:00Z |E: +2008-05-08T00:00:00Z",
+                    "Silvio Berlusconi |S: +2005-04-23T00:00:00Z |E: +2006-05-17T00:00:00Z",
+                    "Silvio Berlusconi |S: +2001-06-11T00:00:00Z |E: +2005-04-23T00:00:00Z",
+                    "Giuliano Amato |S: +2000-04-25T00:00:00Z |E: +2001-06-11T00:00:00Z",
+                    "Massimo D'Alema |S: +1999-12-22T00:00:00Z |E: +2000-04-25T00:00:00Z",
+                    "Massimo D'Alema |S: +1998-10-21T00:00:00Z |E: +1999-12-22T00:00:00Z",
+                    "Romano Prodi |S: +1996-05-17T00:00:00Z |E: +1998-10-21T00:00:00Z",
+                    "Lamberto Dini |S: +1995-01-17T00:00:00Z |E: +1996-05-17T00:00:00Z",
+                    "Silvio Berlusconi |S: +1994-05-10T00:00:00Z |E: +1995-01-17T00:00:00Z",
+                    "Carlo Azeglio Ciampi |S: +1993-04-28T00:00:00Z |E: +1994-05-10T00:00:00Z",
+                    "Giuliano Amato |S: +1992-06-28T00:00:00Z |E: +1993-04-28T00:00:00Z",
+                    "Giulio Andreotti |S: +1991-04-12T00:00:00Z |E: +1992-06-28T00:00:00Z",
+                    "Giulio Andreotti |S: +1989-07-22T00:00:00Z |E: +1991-04-12T00:00:00Z",
+                    "Ciriaco De Mita |S: +1988-04-13T00:00:00Z |E: +1989-07-22T00:00:00Z",
+                    "Giovanni Goria |S: +1987-07-28T00:00:00Z |E: +1988-04-13T00:00:00Z",
+                    "Amintore Fanfani |S: +1987-04-17T00:00:00Z |E: +1987-07-28T00:00:00Z",
+                    "Bettino Craxi |S: +1986-08-01T00:00:00Z |E: +1987-04-17T00:00:00Z",
+                    "Bettino Craxi |S: +1983-08-04T00:00:00Z |E: +1986-08-01T00:00:00Z",
+                    "Amintore Fanfani |S: +1982-12-01T00:00:00Z |E: +1983-08-04T00:00:00Z",
+                    "Giovanni Spadolini |S: +1982-08-23T00:00:00Z |E: +1982-12-01T00:00:00Z",
+                    "Giovanni Spadolini |S: +1981-06-28T00:00:00Z |E: +1982-08-23T00:00:00Z",
+                    "Arnaldo Forlani |S: +1980-10-18T00:00:00Z |E: +1981-06-28T00:00:00Z",
+                    "Francesco Cossiga |S: +1980-04-04T00:00:00Z |E: +1980-10-18T00:00:00Z",
+                    "Francesco Cossiga |S: +1979-08-04T00:00:00Z |E: +1980-04-04T00:00:00Z",
+                    "Giulio Andreotti |S: +1979-03-20T00:00:00Z |E: +1979-08-04T00:00:00Z",
+                    "Giulio Andreotti |S: +1978-03-11T00:00:00Z |E: +1979-03-20T00:00:00Z",
+                    "Giulio Andreotti |S: +1976-07-29T00:00:00Z |E: +1978-03-01T00:00:00Z",
+                    "Aldo Moro |S: +1976-02-12T00:00:00Z |E: +1976-07-29T00:00:00Z",
+                    "Aldo Moro |S: +1974-11-23T00:00:00Z |E: +1976-02-12T00:00:00Z",
+                    "Mariano Rumor |S: +1974-03-14T00:00:00Z |E: +1974-11-23T00:00:00Z",
+                    "Mariano Rumor |S: +1973-07-07T00:00:00Z |E: +1974-03-14T00:00:00Z",
+                    "Giulio Andreotti |S: +1972-06-26T00:00:00Z |E: +1973-07-07T00:00:00Z",
+                    "Giulio Andreotti |S: +1972-02-17T00:00:00Z |E: +1972-06-26T00:00:00Z",
+                    "Emilio Colombo |S: +1970-08-06T00:00:00Z |E: +1972-02-17T00:00:00Z",
+                    "Mariano Rumor |S: +1970-03-27T00:00:00Z |E: +1970-08-06T00:00:00Z",
+                    "Mariano Rumor |S: +1969-08-05T00:00:00Z |E: +1970-03-27T00:00:00Z",
+                    "Mariano Rumor |S: +1968-12-12T00:00:00Z |E: +1969-08-05T00:00:00Z",
+                    "Giovanni Leone |S: +1968-06-24T00:00:00Z |E: +1968-12-12T00:00:00Z",
+                    "Aldo Moro |S: +1966-02-23T00:00:00Z |E: +1968-06-24T00:00:00Z",
+                    "Aldo Moro |S: +1964-07-22T00:00:00Z |E: +1966-02-23T00:00:00Z",
+                    "Aldo Moro |S: +1963-12-04T00:00:00Z |E: +1964-07-22T00:00:00Z",
+                    "Giovanni Leone |S: +1963-06-21T00:00:00Z |E: +1963-12-04T00:00:00Z",
+                    "Amintore Fanfani |S: +1962-02-21T00:00:00Z |E: +1963-06-21T00:00:00Z",
+                    "Amintore Fanfani |S: +1960-07-26T00:00:00Z |E: +1962-02-21T00:00:00Z",
+                    "Fernando Tambroni |S: +1960-03-25T00:00:00Z |E: +1960-07-26T00:00:00Z",
+                    "Antonio Segni |S: +1959-02-15T00:00:00Z |E: +1960-03-25T00:00:00Z",
+                    "Amintore Fanfani |S: +1958-07-01T00:00:00Z |E: +1959-02-15T00:00:00Z",
+                    "Adone Zoli |S: +1957-05-19T00:00:00Z |E: +1958-07-01T00:00:00Z",
+                    "Antonio Segni |S: +1955-07-06T00:00:00Z |E: +1957-05-19T00:00:00Z",
+                    "Mario Scelba |S: +1954-02-10T00:00:00Z |E: +1955-07-06T00:00:00Z",
+                    "Amintore Fanfani |S: +1954-01-18T00:00:00Z |E: +1954-02-10T00:00:00Z",
+                    "Giuseppe Pella |S: +1953-08-17T00:00:00Z |E: +1954-01-18T00:00:00Z",
+                    "Alcide De Gasperi |S: +1953-07-16T00:00:00Z |E: +1953-08-17T00:00:00Z",
+                    "Alcide De Gasperi |S: +1951-07-26T00:00:00Z |E: +1953-07-16T00:00:00Z",
+                    "Alcide De Gasperi |S: +1950-01-27T00:00:00Z |E: +1951-07-26T00:00:00Z",
+                    "Alcide De Gasperi |S: +1948-05-24T00:00:00Z |E: +1950-01-27T00:00:00Z",
+                    "Alcide De Gasperi |S: +1947-06-01T00:00:00Z |E: +1948-05-24T00:00:00Z",
+                    "Alcide De Gasperi |S: +1947-02-02T00:00:00Z |E: +1947-06-01T00:00:00Z",
+                    "Alcide De Gasperi |S: +1946-07-14T00:00:00Z |E: +1947-02-02T00:00:00Z",
+                    "Giuseppe Conte |S: +2018-06-01T00:00:00Z |E: +2021-02-13T00:00:00Z",
+                    "Mario Draghi |S: +2021-02-13T00:00:00Z |E: +2022-10-22T00:00:00Z",
+                    "Giorgia Meloni |S: +2022-10-22T00:00:00Z"
+                ]
+            }
+        },
+        "Nigeria": {
+            "President of Nigeria": {
+                "questions": {
+                    "generic": "The head of state in Nigeria is",
+                    "contextualized": "The President of Nigeria is",
+                    "rephrased_1": "The name of the current President of Nigeria is",
+                    "rephrased_2": "The position of the President of Nigeria is currently held by"
+                },
+                "answers": [
+                    "Olusegun Obasanjo |S: +1999-05-29T00:00:00Z |E: +2007-05-29T00:00:00Z",
+                    "Umaru Musa Yar'Adua |S: +2007-05-29T00:00:00Z |E: +2010-05-05T00:00:00Z",
+                    "Muhammadu Buhari |S: +2015-05-29T00:00:00Z |E: +2023-05-29T00:00:00Z",
+                    "Bola Tinubu |S: +2023-05-29T00:00:00Z",
+                    "Goodluck Jonathan |S: +2010-05-06T00:00:00Z |E: +2015-05-28T00:00:00Z"
+                ]
+            }
+        },
+        "United Kingdom": {
+            "Prime Minister of the United Kingdom": {
+                "questions": {
+                    "generic": "The head of government in United Kingdom is",
+                    "contextualized": "The Prime Minister of the United Kingdom is",
+                    "rephrased_1": "The name of the current Prime Minister of the United Kingdom is",
+                    "rephrased_2": "The position of the Prime Minister of the United Kingdom is currently held by"
+                },
+                "answers": [
+                    "Theresa May |S: +2016-07-13T00:00:00Z |E: +2019-07-24T00:00:00Z",
+                    "David Cameron |S: +2010-05-11T00:00:00Z |E: +2016-07-12T00:00:00Z",
+                    "Boris Johnson |S: +2019-07-24T00:00:00Z |E: +2022-09-06T00:00:00Z",
+                    "Liz Truss |S: +2022-09-06T00:00:00Z |E: +2022-10-25T00:00:00Z",
+                    "Rishi Sunak |S: +2022-10-25T00:00:00Z"
+                ]
+            }
+        },
+        "Colombia": {
+            "President of Colombia": {
+                "questions": {
+                    "generic": "The head of state in Colombia is",
+                    "contextualized": "The President of Colombia is",
+                    "rephrased_1": "The name of the current President of Colombia is",
+                    "rephrased_2": "The position of the President of Colombia is currently held by"
+                },
+                "answers": [
+                    "Iv\u00e1n Duque |S: +2018-08-07T00:00:00Z |E: +2022-08-07T00:00:00Z",
+                    "Gustavo Petro |S: +2022-08-07T00:00:00Z"
+                ]
+            }
+        },
+        "Belgium": {
+            "Prime Minister of Belgium": {
+                "questions": {
+                    "generic": "The head of government in Belgium is",
+                    "contextualized": "The Prime Minister of Belgium is",
+                    "rephrased_1": "The name of the current Prime Minister of Belgium is",
+                    "rephrased_2": "The position of the Prime Minister of Belgium is currently held by"
+                },
+                "answers": [
+                    "Sophie Wilm\u00e8s |S: +2019-10-27T00:00:00Z |E: +2020-10-01T00:00:00Z",
+                    "Charles Michel |S: +2014-10-11T00:00:00Z |E: +2019-10-27T00:00:00Z",
+                    "Alexander De Croo |S: +2020-10-01T00:00:00Z"
+                ]
+            }
+        },
+        "Germany": {
+            "Federal Chancellor of Germany": {
+                "questions": {
+                    "generic": "The head of government in Germany is",
+                    "contextualized": "The Federal Chancellor of Germany is",
+                    "rephrased_1": "The name of the current Federal Chancellor of Germany is",
+                    "rephrased_2": "The position of the Federal Chancellor of Germany is currently held by"
+                },
+                "answers": [
+                    "Konrad Adenauer |S: +1949-09-20T00:00:00Z |E: +1963-10-11T00:00:00Z",
+                    "Ludwig Erhard |S: +1963-10-17T00:00:00Z |E: +1966-11-30T00:00:00Z",
+                    "Kurt Georg Kiesinger |S: +1966-12-01T00:00:00Z |E: +1969-10-21T00:00:00Z",
+                    "Willy Brandt |S: +1969-10-22T00:00:00Z |E: +1974-05-07T00:00:00Z",
+                    "Walter Scheel |S: +1974-05-07T00:00:00Z |E: +1974-05-16T00:00:00Z",
+                    "Helmut Schmidt |S: +1974-05-16T00:00:00Z |E: +1982-10-01T00:00:00Z",
+                    "Helmut Kohl |S: +1982-10-04T00:00:00Z |E: +1998-10-26T00:00:00Z",
+                    "Gerhard Schr\u00f6der |S: +1998-10-27T00:00:00Z |E: +2005-10-18T00:00:00Z",
+                    "Angela Merkel |S: +2005-11-22T00:00:00Z |E: +2021-12-08T00:00:00Z",
+                    "Olaf Scholz |S: +2021-12-08T00:00:00Z"
+                ]
+            }
+        },
+        "Iraq": {
+            "Prime Minister of Iraq": {
+                "questions": {
+                    "generic": "The head of government in Iraq is",
+                    "contextualized": "The Prime Minister of Iraq is",
+                    "rephrased_1": "The name of the current Prime Minister of Iraq is",
+                    "rephrased_2": "The position of the Prime Minister of Iraq is currently held by"
+                },
+                "answers": [
+                    "Mustafa Al-Kadhimi |S: +2020-05-07T00:00:00Z |E: +2022-10-27T00:00:00Z",
+                    "Mohammed Shia' Al Sudani |S: +2022-10-27T00:00:00Z"
+                ]
+            },
+            "President of Iraq": {
+                "questions": {
+                    "generic": "The head of state in Iraq is",
+                    "contextualized": "The President of Iraq is",
+                    "rephrased_1": "The name of the current President of Iraq is",
+                    "rephrased_2": "The position of the President of Iraq is currently held by"
+                },
+                "answers": [
+                    "Barham Salih |S: +2018-10-02T00:00:00Z |E: +2022-10-17T00:00:00Z",
+                    "Abdul Latif Rashid |S: +2022-10-17T00:00:00Z"
+                ]
+            }
+        },
+        "United States of America": {
+            "President of the United States": {
+                "questions": {
+                    "generic": "The head of state in United States of America is",
+                    "contextualized": "The President of the United States is",
+                    "rephrased_1": "The name of the current President of the United States is",
+                    "rephrased_2": "The position of the President of the United States is currently held by"
+                },
+                "answers": [
+                    "Calvin Coolidge |S: +1923-08-02T00:00:00Z |E: +1929-03-04T00:00:00Z",
+                    "Abraham Lincoln |S: +1861-03-04T00:00:00Z |E: +1865-04-15T00:00:00Z",
+                    "Millard Fillmore |S: +1850-07-09T00:00:00Z |E: +1853-03-04T00:00:00Z",
+                    "John F. Kennedy |S: +1961-01-20T00:00:00Z |E: +1963-11-22T00:00:00Z",
+                    "James Monroe |S: +1817-03-04T00:00:00Z |E: +1825-03-04T00:00:00Z",
+                    "James K. Polk |S: +1845-03-04T00:00:00Z |E: +1849-03-04T00:00:00Z",
+                    "John Quincy Adams |S: +1825-03-04T00:00:00Z |E: +1829-03-04T00:00:00Z",
+                    "Bill Clinton |S: +1993-01-20T00:00:00Z |E: +2001-01-20T00:00:00Z",
+                    "Grover Cleveland |S: +1893-03-04T00:00:00Z |E: +1897-03-04T00:00:00Z",
+                    "Harry S. Truman |S: +1945-04-12T00:00:00Z |E: +1953-01-20T00:00:00Z",
+                    "James A. Garfield |S: +1881-03-04T00:00:00Z |E: +1881-09-19T00:00:00Z",
+                    "Franklin Delano Roosevelt |S: +1933-03-04T00:00:00Z |E: +1945-04-12T00:00:00Z",
+                    "Zachary Taylor |S: +1849-03-04T00:00:00Z |E: +1850-07-09T00:00:00Z",
+                    "Lyndon B. Johnson |S: +1963-11-22T00:00:00Z |E: +1969-01-20T00:00:00Z",
+                    "George H. W. Bush |S: +1989-01-20T00:00:00Z |E: +1993-01-20T00:00:00Z",
+                    "Joe Biden |S: +2021-01-20T00:00:00Z",
+                    "William Henry Harrison |S: +1841-03-04T00:00:00Z |E: +1841-04-04T00:00:00Z",
+                    "Benjamin Harrison |S: +1889-03-04T00:00:00Z |E: +1893-03-04T00:00:00Z",
+                    "William Howard Taft |S: +1909-03-04T00:00:00Z |E: +1913-03-04T00:00:00Z",
+                    "George W. Bush |S: +2001-01-20T00:00:00Z |E: +2009-01-20T00:00:00Z",
+                    "John Adams |S: +1797-03-04T00:00:00Z |E: +1801-03-04T00:00:00Z",
+                    "Andrew Jackson |S: +1829-03-04T00:00:00Z |E: +1837-03-04T00:00:00Z",
+                    "James Madison |S: +1809-03-04T00:00:00Z |E: +1817-03-04T00:00:00Z",
+                    "John Tyler |S: +1841-04-04T00:00:00Z |E: +1845-03-04T00:00:00Z",
+                    "Martin Van Buren |S: +1837-03-04T00:00:00Z |E: +1841-03-04T00:00:00Z",
+                    "Warren G. Harding |S: +1921-03-04T00:00:00Z |E: +1923-08-02T00:00:00Z",
+                    "Jimmy Carter |S: +1977-01-20T00:00:00Z |E: +1981-01-20T00:00:00Z",
+                    "Woodrow Wilson |S: +1913-03-04T00:00:00Z |E: +1921-03-04T00:00:00Z",
+                    "Ronald Reagan |S: +1981-01-20T00:00:00Z |E: +1989-01-20T00:00:00Z",
+                    "James Buchanan |S: +1857-03-04T00:00:00Z |E: +1861-03-04T00:00:00Z",
+                    "William McKinley |S: +1897-03-04T00:00:00Z |E: +1901-09-14T00:00:00Z",
+                    "Grover Cleveland |S: +1885-03-04T00:00:00Z |E: +1889-03-04T00:00:00Z",
+                    "George Washington |S: +1789-04-30T00:00:00Z |E: +1797-03-04T00:00:00Z",
+                    "Donald Trump |S: +2017-01-20T00:00:00Z |E: +2021-01-20T00:00:00Z",
+                    "Richard Nixon |S: +1969-01-20T00:00:00Z |E: +1974-08-09T00:00:00Z",
+                    "Chester A. Arthur |S: +1881-09-19T00:00:00Z |E: +1885-03-04T00:00:00Z",
+                    "Ulysses S. Grant |S: +1869-03-04T00:00:00Z |E: +1877-03-04T00:00:00Z",
+                    "Theodore Roosevelt |S: +1901-09-14T00:00:00Z |E: +1909-03-04T00:00:00Z",
+                    "Barack Obama |S: +2009-01-20T00:00:00Z |E: +2017-01-20T00:00:00Z",
+                    "Dwight D. Eisenhower |S: +1953-01-20T00:00:00Z |E: +1961-01-20T00:00:00Z",
+                    "Franklin Pierce |S: +1853-03-04T00:00:00Z |E: +1857-03-04T00:00:00Z",
+                    "Herbert Hoover |S: +1929-03-04T00:00:00Z |E: +1933-03-04T00:00:00Z",
+                    "Thomas Jefferson |S: +1801-03-04T00:00:00Z |E: +1809-03-04T00:00:00Z",
+                    "Rutherford B. Hayes |S: +1877-03-04T00:00:00Z |E: +1881-03-04T00:00:00Z",
+                    "Andrew Johnson |S: +1865-04-15T00:00:00Z |E: +1869-03-04T00:00:00Z",
+                    "Gerald Ford |S: +1974-08-09T00:00:00Z |E: +1977-01-20T00:00:00Z"
+                ]
+            }
+        },
+        "Israel": {
+            "President of Israel": {
+                "questions": {
+                    "generic": "The head of state in Israel is",
+                    "contextualized": "The President of Israel is",
+                    "rephrased_1": "The name of the current President of Israel is",
+                    "rephrased_2": "The position of the President of Israel is currently held by"
+                },
+                "answers": [
+                    "Isaac Herzog |S: +2021-07-07T00:00:00Z",
+                    "Reuven Rivlin |S: +2014-07-24T00:00:00Z |E: +2021-07-07T00:00:00Z",
+                    "Shimon Peres |S: +2007-07-15T00:00:00Z |E: +2014-07-24T00:00:00Z",
+                    "Chaim Weizmann |S: +1949-02-17T00:00:00Z |E: +1952-11-09T00:00:00Z",
+                    "Yitzhak Ben-Zvi |S: +1952-12-16T00:00:00Z |E: +1963-04-23T00:00:00Z",
+                    "Zalman Shazar |S: +1963-05-21T00:00:00Z |E: +1973-05-24T00:00:00Z",
+                    "Ephraim Katzir |S: +1973-05-24T00:00:00Z |E: +1978-05-29T00:00:00Z",
+                    "Yitzhak Navon |S: +1978-05-29T00:00:00Z |E: +1983-05-05T00:00:00Z",
+                    "Chaim Herzog |S: +1983-05-05T00:00:00Z |E: +1993-05-13T00:00:00Z",
+                    "Ezer Weizman |S: +1993-05-13T00:00:00Z |E: +2000-07-13T00:00:00Z",
+                    "Moshe Katsav |S: +2000-08-01T00:00:00Z |E: +2007-07-01T00:00:00Z",
+                    "Chaim Weizmann |S: +1948-05-16T00:00:00Z |E: +1949-02-17T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-14T00:00:00Z |E: +1948-05-16T00:00:00Z",
+                    "Yosef Sprinzak |S: +1952-11-09T00:00:00Z |E: +1952-12-10T00:00:00Z",
+                    "Kadish Luz |S: +1963-04-24T00:00:00Z |E: +1963-05-21T00:00:00Z",
+                    "Avraham Burg |S: +2000-07-12T00:00:00Z |E: +2000-08-01T00:00:00Z",
+                    "Dalia Itzik |S: +2007-01-07T00:00:00Z |E: +2007-07-18T00:00:00Z"
+                ]
+            }
+        },
+        "Czech Republic": {
+            "President of the Czech Republic": {
+                "questions": {
+                    "generic": "The head of state in Czech Republic is",
+                    "contextualized": "The President of the Czech Republic is",
+                    "rephrased_1": "The name of the current President of the Czech Republic is",
+                    "rephrased_2": "The position of the President of the Czech Republic is currently held by"
+                },
+                "answers": [
+                    "Petr Pavel |S: +2023-03-09T00:00:00Z",
+                    "Milo\u0161 Zeman |S: +2013-03-08T00:00:00Z |E: +2023-03-08T00:00:00Z",
+                    "V\u00e1clav Klaus |S: +2003-03-07T00:00:00Z |E: +2013-03-07T00:00:00Z",
+                    "V\u00e1clav Havel |S: +1993-02-02T00:00:00Z |E: +2003-02-02T00:00:00Z"
+                ]
+            }
+        },
+        "Canada": {
+            "monarch of Canada": {
+                "questions": {
+                    "generic": "The head of state in Canada is",
+                    "contextualized": "The monarch of Canada is",
+                    "rephrased_1": "The name of the current monarch of Canada is",
+                    "rephrased_2": "The position of the monarch of Canada is currently held by"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "George VI |S: +1936-12-11T00:00:00Z |E: +1952-02-06T00:00:00Z",
+                    "Edward VIII |S: +1936-01-20T00:00:00Z |E: +1936-12-11T00:00:00Z",
+                    "George V |S: +1910-05-06T00:00:00Z |E: +1936-01-20T00:00:00Z",
+                    "Edward VII |S: +1901-01-22T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Victoria |S: +1867-07-01T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ]
+            }
+        },
+        "Chile": {
+            "President of Chile": {
+                "questions": {
+                    "generic": "The head of state in Chile is",
+                    "contextualized": "The President of Chile is",
+                    "rephrased_1": "The name of the current President of Chile is",
+                    "rephrased_2": "The position of the President of Chile is currently held by"
+                },
+                "answers": [
+                    "Eduardo Frei Ruiz-Tagle |S: +1994-03-11T00:00:00Z |E: +2000-03-11T00:00:00Z",
+                    "Michelle Bachelet |S: +2006-03-11T00:00:00Z |E: +2010-03-11T00:00:00Z",
+                    "Patricio Aylwin |S: +1990-03-11T00:00:00Z |E: +1994-03-11T00:00:00Z",
+                    "Ricardo Lagos |S: +2000-03-11T00:00:00Z |E: +2006-03-11T00:00:00Z",
+                    "Sebasti\u00e1n Pi\u00f1era |S: +2018-03-11T00:00:00Z |E: +2022-03-11T00:00:00Z",
+                    "Michelle Bachelet |S: +2014-03-11T00:00:00Z |E: +2018-03-11T00:00:00Z",
+                    "Gabriel Boric |S: +2022-03-11T00:00:00Z",
+                    "Sebasti\u00e1n Pi\u00f1era |S: +2010-03-11T00:00:00Z |E: +2014-03-11T00:00:00Z"
+                ]
+            }
+        },
+        "Iran": {
+            "President of Iran": {
+                "questions": {
+                    "generic": "The head of government in Iran is",
+                    "contextualized": "The President of Iran is",
+                    "rephrased_1": "The name of the current President of Iran is",
+                    "rephrased_2": "The position of the President of Iran is currently held by"
+                },
+                "answers": [
+                    "Hassan Rouhani |S: +2013-08-03T00:00:00Z |E: +2021-08-03T00:00:00Z",
+                    "Mahmoud Ahmadinejad |S: +2005-08-03T00:00:00Z |E: +2013-08-03T00:00:00Z",
+                    "Mohammad Khatami |S: +1997-08-03T00:00:00Z |E: +2005-08-03T00:00:00Z",
+                    "Akbar Hashemi Rafsanjani |S: +1989-08-03T00:00:00Z |E: +1997-08-03T00:00:00Z",
+                    "Ali Khamenei |S: +1981-10-13T00:00:00Z |E: +1989-08-03T00:00:00Z",
+                    "Mohammad-Ali Rajai |S: +1981-08-02T00:00:00Z |E: +1981-08-30T00:00:00Z",
+                    "Abulhassan Banisadr |S: +1980-02-04T00:00:00Z |E: +1981-06-21T00:00:00Z",
+                    "Ebrahim Raisi |S: +2021-08-03T00:00:00Z"
+                ]
+            }
+        }
+    },
+    "organizations": {
+        "World Bank": {
+            "chairperson": {
+                "questions": {
+                    "generic": "The chairperson of World Bank is",
+                    "rephrased_1": "The position of chairperson at World Bank is currently held by",
+                    "rephrased_2": "The chairperson position at World Bank is currently held by",
+                    "rephrased_3": "The name of the current chairperson at World Bank is"
+                },
+                "answers": [
+                    "Kristalina Georgieva |S: +2019-02-20T00:00:00Z |E: +2019-04-09T00:00:00Z",
+                    "Jim Yong Kim |S: +2012-07-01T00:00:00Z |E: +2019-02-01T00:00:00Z",
+                    "David Malpass |S: +2019-04-09T00:00:00Z |E: +2023-06-01T00:00:00Z",
+                    "Ajaypal Singh Banga |S: +2023-06-02T00:00:00Z"
+                ]
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Neymar Jr.": {
+            "quesions": {
+                "generic": "The current team of Neymar Jr. is",
+                "contextualized": "The football team Neymar Jr. currently plays for is",
+                "rephrased_1": "Neymar Jr. is currently playing for",
+                "rephrased_2": "The current football club of Neymar Jr. is"
+            },
+            "answers": [
+                "FC Barcelona |S: +2013-01-01T00:00:00Z |E: +2017-00-00T00:00:00Z",
+                "Santos F.C. |S: +2009-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                "Brazil national under-17 football team |S: +2009-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                "Brazil national under-20 football team |S: +2011-01-01T00:00:00Z |E: +2011-01-01T00:00:00Z",
+                "Brazil Olympic football team |S: +2012-01-01T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Brazil national football team |S: +2010-01-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-00-00T00:00:00Z |E: +2023-08-15T00:00:00Z",
+                "Al-Hilal SFC |S: +2023-08-15T00:00:00Z"
+            ]
+        },
+        "Cristiano Ronaldo": {
+            "quesions": {
+                "generic": "The current team of Cristiano Ronaldo is",
+                "contextualized": "The football team Cristiano Ronaldo currently plays for is",
+                "rephrased_1": "Cristiano Ronaldo is currently playing for",
+                "rephrased_2": "The current football club of Cristiano Ronaldo is"
+            },
+            "answers": [
+                "Manchester United F.C. |S: +2003-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Real Madrid CF |S: +2009-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Sporting CP |S: +2002-00-00T00:00:00Z |E: +2003-00-00T00:00:00Z",
+                "Portugal national association football team |S: +2003-00-00T00:00:00Z |P: +2021-06-27T00:00:00Z",
+                "Portugal national under-21 football team |S: +2002-00-00T00:00:00Z |E: +2003-00-00T00:00:00Z",
+                "Portugal Olympic football team |S: +2004-00-00T00:00:00Z |E: +2004-00-00T00:00:00Z",
+                "Portugal national under-20 football team |S: +2003-00-00T00:00:00Z |E: +2003-00-00T00:00:00Z",
+                "Portugal national under-17 football team |S: +2001-00-00T00:00:00Z |E: +2002-00-00T00:00:00Z",
+                "Portugal national under-15 football team |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Juventus FC |S: +2018-00-00T00:00:00Z |E: +2021-08-26T00:00:00Z",
+                "Manchester United F.C. |S: +2021-08-27T00:00:00Z |E: +2022-11-22T00:00:00Z",
+                "Al-Nassr |S: +2023-01-00T00:00:00Z"
+            ]
+        },
+        "Fernando Alonso": {
+            "quesions": {
+                "generic": "The current team of Fernando Alonso is",
+                "contextualized": "The Formula 1 team Fernando Alonso currently drives for is",
+                "rephrased_1": "Fernando Alonso is currently racing for",
+                "rephrased_2": "The team Fernando Alonso is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ]
+        },
+        "Kevin Durant": {
+            "quesions": {
+                "generic": "The current team of Kevin Durant is",
+                "contextualized": "The basketball team Kevin Durant currently plays for is",
+                "rephrased_1": "Kevin Durant is currently playing for",
+                "rephrased_2": "The NBA team Kevin Durant currently plays for is"
+            },
+            "answers": [
+                "Seattle SuperSonics |S: +2007-01-01T00:00:00Z |E: +2008-01-01T00:00:00Z",
+                "Texas Longhorns men's basketball |S: +2006-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Oklahoma City Thunder |S: +2008-00-00T00:00:00Z |E: +2016-00-00T00:00:00Z",
+                "United States men's national basketball team |E: +2014-00-00T00:00:00Z",
+                "Golden State Warriors |S: +2016-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Brooklyn Nets |S: +2019-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Phoenix Suns |S: +2023-00-00T00:00:00Z"
+            ]
+        }
+    },
+    "companies_byRevenue": {
+        "Ford Motor Company": {
+            "quesions": {
+                "generic": "The current Chief Executive Officer of Ford Motor Company is",
+                "rephrased_1": "The current CEO of Ford Motor Company is",
+                "rephrased_2": "The CEO position at Ford Motor Company is currently held by",
+                "rephrased_3": "The position of Chief Executive Officer at Ford Motor Company is currently held by"
+            },
+            "answers": [
+                "Mark Fields |S: +2014-07-00T00:00:00Z |E: +2017-05-21T00:00:00Z",
+                "Jim Farley |S: +2020-10-01T00:00:00Z",
+                "John S. Gray |S: +1903-00-00T00:00:00Z |E: +1906-00-00T00:00:00Z",
+                "Henry Ford |S: +1906-00-00T00:00:00Z |E: +1945-00-00T00:00:00Z",
+                "Henry Ford II |S: +1945-09-00T00:00:00Z |E: +1979-09-00T00:00:00Z",
+                "Philip Caldwell |S: +1979-10-00T00:00:00Z |E: +1985-01-00T00:00:00Z",
+                "Donald Petersen |S: +1985-02-00T00:00:00Z |E: +1990-02-00T00:00:00Z",
+                "Harold Arthur Poling |S: +1990-03-00T00:00:00Z |E: +1993-11-00T00:00:00Z",
+                "Alexander Trotman, Baron Trotman |S: +1993-11-00T00:00:00Z |E: +1998-12-00T00:00:00Z",
+                "Jacques Nasser |S: +1999-01-00T00:00:00Z |E: +2001-10-00T00:00:00Z",
+                "William Clay Ford |S: +2001-10-00T00:00:00Z |E: +2006-09-00T00:00:00Z",
+                "Alan Mulally |S: +2006-09-00T00:00:00Z |E: +2014-06-00T00:00:00Z",
+                "James Hackett |S: +2017-05-00T00:00:00Z |E: +2020-09-00T00:00:00Z"
+            ]
+        },
+        "Shell": {
+            "quesions": {
+                "generic": "The current Chief Executive Officer of Shell is",
+                "rephrased_1": "The current CEO of Shell is",
+                "rephrased_2": "The CEO position at Shell is currently held by",
+                "rephrased_3": "The position of Chief Executive Officer at Shell is currently held by"
+            },
+            "answers": [
+                "Ben van Beurden |S: +2014-01-01T00:00:00Z |E: +2022-12-31T00:00:00Z",
+                "Peter Voser |S: +2009-00-00T00:00:00Z |E: +2013-12-31T00:00:00Z",
+                "Jeroen van der Veer |S: +2005-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Wael Sawan |S: +2023-01-01T00:00:00Z"
+            ]
+        }
+    }
+}

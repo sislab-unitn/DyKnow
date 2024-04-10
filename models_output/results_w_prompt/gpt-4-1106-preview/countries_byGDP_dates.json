@@ -1,0 +1,553 @@
+{
+    "Italy": {
+        "President of Italy": {
+            "generic": "+2015-02-03T00:00:00Z",
+            "contextualized": "+2015-02-03T00:00:00Z",
+            "rephrased_1": "+2015-02-03T00:00:00Z",
+            "rephrased_2": "+2015-02-03T00:00:00Z"
+        },
+        "Prime Minister of Italy": {
+            "generic": "+2022-10-22T00:00:00Z",
+            "contextualized": "+2022-10-22T00:00:00Z",
+            "rephrased_1": "+2022-10-22T00:00:00Z",
+            "rephrased_2": "+2022-10-22T00:00:00Z"
+        }
+    },
+    "United States of America": {
+        "President of the United States": {
+            "generic": "+2021-01-20T00:00:00Z",
+            "contextualized": "+2021-01-20T00:00:00Z",
+            "rephrased_1": "+2021-01-20T00:00:00Z",
+            "rephrased_2": "+2021-01-20T00:00:00Z"
+        }
+    },
+    "China": {
+        "President of the People's Republic of China": {
+            "generic": "+2013-03-14T00:00:00Z",
+            "contextualized": "+2013-03-14T00:00:00Z",
+            "rephrased_1": "+2013-03-14T00:00:00Z",
+            "rephrased_2": "+2013-03-14T00:00:00Z"
+        },
+        "Premier of the People's Republic of China": {
+            "generic": "+2013-03-15T00:00:00Z",
+            "contextualized": "+2013-03-15T00:00:00Z",
+            "rephrased_1": "+2013-03-15T00:00:00Z",
+            "rephrased_2": "+2013-03-15T00:00:00Z"
+        }
+    },
+    "Germany": {
+        "president of Germany": {
+            "generic": "+2017-03-19T00:00:00Z",
+            "contextualized": "+2017-03-19T00:00:00Z",
+            "rephrased_1": "+2017-03-19T00:00:00Z",
+            "rephrased_2": "+2017-03-19T00:00:00Z"
+        },
+        "Federal Chancellor of Germany": {
+            "generic": "+2021-12-08T00:00:00Z",
+            "contextualized": "+2021-12-08T00:00:00Z",
+            "rephrased_1": "+2021-12-08T00:00:00Z",
+            "rephrased_2": "+2021-12-08T00:00:00Z"
+        }
+    },
+    "Japan": {
+        "Emperor of Japan": {
+            "generic": "+2019-05-01T00:00:00Z",
+            "contextualized": "+2019-05-01T00:00:00Z",
+            "rephrased_1": "+2019-05-01T00:00:00Z",
+            "rephrased_2": "+2019-05-01T00:00:00Z"
+        },
+        "Prime Minister of Japan": {
+            "generic": "+2021-10-04T00:00:00Z",
+            "contextualized": "+2021-10-04T00:00:00Z",
+            "rephrased_1": "+2021-10-04T00:00:00Z",
+            "rephrased_2": "+2021-10-04T00:00:00Z"
+        }
+    },
+    "India": {
+        "Prime minister of India": {
+            "generic": "+2014-05-26T00:00:00Z",
+            "contextualized": "+2014-05-26T00:00:00Z",
+            "rephrased_1": "+2014-05-26T00:00:00Z",
+            "rephrased_2": "+2014-05-26T00:00:00Z"
+        },
+        "President of India": {
+            "generic": "+2017-07-25T00:00:00Z",
+            "contextualized": "+2022-07-25T00:00:00Z",
+            "rephrased_1": "+2022-07-25T00:00:00Z",
+            "rephrased_2": "+2022-07-25T00:00:00Z"
+        }
+    },
+    "United Kingdom": {
+        "monarch of the United Kingdom": {
+            "generic": "+2022-09-08T00:00:00Z",
+            "contextualized": "+2022-09-08T00:00:00Z",
+            "rephrased_1": "+2022-09-08T00:00:00Z",
+            "rephrased_2": "+2022-09-08T00:00:00Z"
+        },
+        "Prime Minister of the United Kingdom": {
+            "generic": "+2022-10-25T00:00:00Z",
+            "contextualized": "+2022-10-25T00:00:00Z",
+            "rephrased_1": "+2022-10-25T00:00:00Z",
+            "rephrased_2": "+2022-10-25T00:00:00Z"
+        }
+    },
+    "France": {
+        "President of the French Republic": {
+            "generic": "+2017-05-14T00:00:00Z",
+            "contextualized": "+2017-05-14T00:00:00Z",
+            "rephrased_1": "+2017-05-14T00:00:00Z",
+            "rephrased_2": "+2017-05-14T00:00:00Z"
+        },
+        "Prime Minister of France": {
+            "generic": "+2022-05-16T00:00:00Z",
+            "contextualized": "+2022-05-16T00:00:00Z",
+            "rephrased_1": "+2022-05-16T00:00:00Z",
+            "rephrased_2": "+2022-05-16T00:00:00Z"
+        }
+    },
+    "Canada": {
+        "monarch of Canada": {
+            "generic": "+2022-09-08T00:00:00Z",
+            "contextualized": "+2022-09-08T00:00:00Z",
+            "rephrased_1": "+2022-09-08T00:00:00Z",
+            "rephrased_2": "+2022-09-08T00:00:00Z"
+        },
+        "Prime Minister of Canada": {
+            "generic": "+2015-11-04T00:00:00Z",
+            "contextualized": "+2015-11-04T00:00:00Z",
+            "rephrased_1": "+2015-11-04T00:00:00Z",
+            "rephrased_2": "+2015-11-04T00:00:00Z"
+        }
+    },
+    "Russia": {
+        "President of Russia": {
+            "generic": "+2012-05-07T00:00:00Z",
+            "contextualized": "+2012-05-07T00:00:00Z",
+            "rephrased_1": "+2012-05-07T00:00:00Z",
+            "rephrased_2": "+2012-05-07T00:00:00Z"
+        },
+        "Prime Minister of Russia": {
+            "generic": "+2020-01-16T00:00:00Z",
+            "contextualized": "+2020-01-16T00:00:00Z",
+            "rephrased_1": "+2020-01-16T00:00:00Z",
+            "rephrased_2": "+2020-01-16T00:00:00Z"
+        }
+    },
+    "Mexico": {
+        "President of Mexico": {
+            "generic": "+2018-12-01T00:00:00Z",
+            "contextualized": "+2018-12-01T00:00:00Z",
+            "rephrased_1": "+2018-12-01T00:00:00Z",
+            "rephrased_2": "+2018-12-01T00:00:00Z"
+        }
+    },
+    "South Korea": {
+        "President of South Korea": {
+            "generic": "+2022-05-10T00:00:00Z",
+            "contextualized": "+2022-05-10T00:00:00Z",
+            "rephrased_1": "+2022-05-10T00:00:00Z",
+            "rephrased_2": "+2022-05-10T00:00:00Z"
+        }
+    },
+    "Australia": {
+        "monarch of Australia": {
+            "generic": "+2022-09-08T00:00:00Z",
+            "contextualized": "+2022-09-08T00:00:00Z",
+            "rephrased_1": "+2022-09-08T00:00:00Z",
+            "rephrased_2": "+2022-09-08T00:00:00Z"
+        },
+        "Prime Minister of Australia": {
+            "generic": "+2022-05-23T00:00:00Z",
+            "contextualized": "+2022-05-23T00:00:00Z",
+            "rephrased_1": "+2022-05-23T00:00:00Z",
+            "rephrased_2": "+2022-05-23T00:00:00Z"
+        }
+    },
+    "Spain": {
+        "Monarch of Spain": {
+            "generic": "+2014-06-19T00:00:00Z",
+            "contextualized": "+2014-06-19T00:00:00Z",
+            "rephrased_1": "+2014-06-19T00:00:00Z",
+            "rephrased_2": "+2014-06-19T00:00:00Z"
+        },
+        "Prime Minister of Spain": {
+            "generic": "+2018-06-02T00:00:00Z",
+            "contextualized": "+2018-06-02T00:00:00Z",
+            "rephrased_1": "+2018-06-02T00:00:00Z",
+            "rephrased_2": "+2018-06-02T00:00:00Z"
+        }
+    },
+    "Indonesia": {
+        "President of Indonesia": {
+            "generic": "+2014-10-20T00:00:00Z",
+            "contextualized": "+2014-10-20T00:00:00Z",
+            "rephrased_1": "+2014-10-20T00:00:00Z",
+            "rephrased_2": "+2014-10-20T00:00:00Z"
+        }
+    },
+    "Turkey": {
+        "President of Turkey": {
+            "generic": "+2014-08-28T00:00:00Z",
+            "contextualized": "+2014-08-28T00:00:00Z",
+            "rephrased_1": "+2014-08-28T00:00:00Z",
+            "rephrased_2": "+2014-08-28T00:00:00Z"
+        },
+        "Prime Minister of Turkey": {
+            "generic": "+2018-06-24T00:00:00Z",
+            "contextualized": "+2016-05-24T00:00:00Z",
+            "rephrased_1": "+2018-06-24T00:00:00Z"
+        }
+    },
+    "Netherlands": {
+        "King of the Netherlands": {
+            "generic": "+2013-04-30T00:00:00Z",
+            "contextualized": "+2013-04-30T00:00:00Z",
+            "rephrased_1": "+2013-04-30T00:00:00Z",
+            "rephrased_2": "+2013-04-30T00:00:00Z"
+        },
+        "Prime Minister of the Netherlands": {
+            "generic": "+2010-10-14T00:00:00Z",
+            "contextualized": "+2010-10-14T00:00:00Z",
+            "rephrased_1": "+2010-10-14T00:00:00Z",
+            "rephrased_2": "+2010-10-14T00:00:00Z"
+        }
+    },
+    "Saudi Arabia": {
+        "King of Saudi Arabia": {
+            "generic": "+2015-01-23T00:00:00Z",
+            "contextualized": "+2015-01-23T00:00:00Z",
+            "rephrased_1": "+2015-01-23T00:00:00Z",
+            "rephrased_2": "+2015-01-23T00:00:00Z"
+        }
+    },
+    "Poland": {
+        "President of the Republic of Poland": {
+            "generic": "+2015-08-06T00:00:00Z",
+            "contextualized": "+2015-08-06T00:00:00Z",
+            "rephrased_1": "+2015-08-06T00:00:00Z",
+            "rephrased_2": "+2015-08-06T00:00:00Z"
+        },
+        "Prime Minister of Poland": {
+            "generic": "+2017-12-11T00:00:00Z",
+            "contextualized": "+2017-12-11T00:00:00Z",
+            "rephrased_1": "+2017-12-11T00:00:00Z",
+            "rephrased_2": "+2017-12-11T00:00:00Z"
+        }
+    },
+    "Belgium": {
+        "Monarch of the Belgians": {
+            "generic": "+2013-07-21T00:00:00Z",
+            "contextualized": "+2013-07-21T00:00:00Z",
+            "rephrased_1": "+2013-07-21T00:00:00Z",
+            "rephrased_2": "+2013-07-21T00:00:00Z"
+        },
+        "Prime Minister of Belgium": {
+            "generic": "+2020-10-01T00:00:00Z",
+            "contextualized": "+2020-10-01T00:00:00Z",
+            "rephrased_1": "+2020-10-01T00:00:00Z",
+            "rephrased_2": "+2020-10-01T00:00:00Z"
+        }
+    },
+    "Sweden": {
+        "Monarch of Sweden": {
+            "generic": "+1973-09-15T00:00:00Z",
+            "contextualized": "+1973-09-15T00:00:00Z",
+            "rephrased_1": "+1973-09-15T00:00:00Z",
+            "rephrased_2": "+1973-09-15T00:00:00Z"
+        },
+        "Prime Minister of Sweden": {
+            "generic": "+2021-11-30T00:00:00Z",
+            "contextualized": "+2022-10-18T00:00:00Z",
+            "rephrased_1": "+2022-10-18T00:00:00Z",
+            "rephrased_2": "+2022-10-18T00:00:00Z"
+        }
+    },
+    "Ireland": {
+        "President of Ireland": {
+            "generic": "+2011-11-11T00:00:00Z",
+            "contextualized": "+2011-11-11T00:00:00Z",
+            "rephrased_1": "+2011-11-11T00:00:00Z",
+            "rephrased_2": "+2011-11-11T00:00:00Z"
+        }
+    },
+    "Norway": {
+        "Monarch of Norway": {
+            "generic": "+1991-01-17T00:00:00Z",
+            "contextualized": "+1991-01-17T00:00:00Z",
+            "rephrased_1": "+1991-01-17T00:00:00Z",
+            "rephrased_2": "+1991-01-17T00:00:00Z"
+        },
+        "Prime Minister of Norway": {
+            "generic": "+2021-10-14T00:00:00Z",
+            "contextualized": "+2021-10-14T00:00:00Z",
+            "rephrased_1": "+2021-10-14T00:00:00Z",
+            "rephrased_2": "+2021-10-14T00:00:00Z"
+        }
+    },
+    "Austria": {
+        "President of Austria": {
+            "generic": "+2017-01-26T00:00:00Z",
+            "contextualized": "+2017-01-26T00:00:00Z",
+            "rephrased_1": "+2017-01-26T00:00:00Z",
+            "rephrased_2": "+2017-01-26T00:00:00Z"
+        },
+        "Federal Chancellor of Austria": {
+            "generic": "+2021-12-06T00:00:00Z",
+            "contextualized": "+2021-12-06T00:00:00Z",
+            "rephrased_1": "+2021-12-06T00:00:00Z",
+            "rephrased_2": "+2021-12-06T00:00:00Z"
+        }
+    },
+    "Israel": {
+        "President of Israel": {
+            "generic": "+2021-07-07T00:00:00Z",
+            "contextualized": "+2021-07-07T00:00:00Z",
+            "rephrased_1": "+2021-07-07T00:00:00Z",
+            "rephrased_2": "+2021-07-07T00:00:00Z"
+        },
+        "Prime Minister of Israel": {
+            "generic": "+2022-07-01T00:00:00Z",
+            "contextualized": "+2022-12-29T00:00:00Z",
+            "rephrased_1": "+2022-12-29T00:00:00Z",
+            "rephrased_2": "+2022-12-29T00:00:00Z"
+        }
+    },
+    "Thailand": {
+        "King of Thailand": {
+            "generic": "+2016-12-01T00:00:00Z",
+            "contextualized": "+2016-12-01T00:00:00Z",
+            "rephrased_1": "+2016-12-01T00:00:00Z",
+            "rephrased_2": "+2016-12-01T00:00:00Z"
+        },
+        "Prime Minister of Thailand": {
+            "generic": "+2014-05-22T00:00:00Z",
+            "contextualized": "+2014-05-22T00:00:00Z",
+            "rephrased_1": "+2014-05-22T00:00:00Z",
+            "rephrased_2": "+2014-05-22T00:00:00Z"
+        }
+    },
+    "United Arab Emirates": {
+        "President of the United Arab Emirates": {
+            "generic": "+2022-05-14T00:00:00Z",
+            "contextualized": "+2022-05-14T00:00:00Z",
+            "rephrased_1": "+2022-05-14T00:00:00Z",
+            "rephrased_2": "+2022-05-14T00:00:00Z"
+        }
+    },
+    "Bangladesh": {
+        "Prime Minister of Bangladesh": {
+            "generic": "+2009-01-06T00:00:00Z",
+            "contextualized": "+2009-01-06T00:00:00Z",
+            "rephrased_1": "+2009-01-06T00:00:00Z",
+            "rephrased_2": "+2009-01-06T00:00:00Z"
+        },
+        "President of Bangladesh": {
+            "generic": "+2013-04-14T00:00:00Z",
+            "contextualized": "+2013-04-14T00:00:00Z",
+            "rephrased_1": "+2013-04-14T00:00:00Z",
+            "rephrased_2": "+2013-04-14T00:00:00Z"
+        }
+    },
+    "Vietnam": {
+        "Prime Minister of Vietnam": {
+            "generic": "+2021-04-05T00:00:00Z",
+            "rephrased_1": "+2021-04-05T00:00:00Z"
+        },
+        "President of Vietnam": {
+            "generic": "+2021-04-05T00:00:00Z",
+            "contextualized": "+2021-04-05T00:00:00Z",
+            "rephrased_1": "+2021-04-05T00:00:00Z",
+            "rephrased_2": "+2021-04-05T00:00:00Z"
+        }
+    },
+    "Denmark": {
+        "monarch of Denmark": {
+            "generic": "+1972-01-14T00:00:00Z",
+            "contextualized": "+1972-01-14T00:00:00Z",
+            "rephrased_1": "+1972-01-14T00:00:00Z",
+            "rephrased_2": "+1972-01-14T00:00:00Z"
+        },
+        "Prime Minister of Denmark": {
+            "generic": "+2019-06-27T00:00:00Z",
+            "contextualized": "+2019-06-27T00:00:00Z",
+            "rephrased_1": "+2019-06-27T00:00:00Z",
+            "rephrased_2": "+2019-06-27T00:00:00Z"
+        }
+    },
+    "Egypt": {
+        "President of Egypt": {
+            "generic": "+2014-06-08T00:00:00Z",
+            "contextualized": "+2014-06-08T00:00:00Z",
+            "rephrased_1": "+2014-06-08T00:00:00Z",
+            "rephrased_2": "+2014-06-08T00:00:00Z"
+        },
+        "Prime Minister of Egypt": {
+            "generic": "+2018-06-14T00:00:00Z",
+            "contextualized": "+2018-06-14T00:00:00Z",
+            "rephrased_1": "+2018-06-14T00:00:00Z",
+            "rephrased_2": "+2018-06-14T00:00:00Z"
+        }
+    },
+    "South Africa": {
+        "President of South Africa": {
+            "generic": "+2018-02-15T00:00:00Z",
+            "contextualized": "+2018-02-15T00:00:00Z",
+            "rephrased_1": "+2018-02-15T00:00:00Z",
+            "rephrased_2": "+2018-02-15T00:00:00Z"
+        }
+    },
+    "Iran": {
+        "Supreme Leader of Iran": {
+            "generic": "+1989-06-04T00:00:00Z",
+            "contextualized": "+1989-06-04T00:00:00Z",
+            "rephrased_1": "+1989-06-04T00:00:00Z",
+            "rephrased_2": "+1989-06-04T00:00:00Z"
+        },
+        "President of Iran": {
+            "generic": "+2021-08-03T00:00:00Z",
+            "contextualized": "+2021-08-03T00:00:00Z",
+            "rephrased_1": "+2021-08-03T00:00:00Z",
+            "rephrased_2": "+2021-08-03T00:00:00Z"
+        }
+    },
+    "Romania": {
+        "President of Romania": {
+            "generic": "+2014-12-21T00:00:00Z",
+            "contextualized": "+2014-12-21T00:00:00Z",
+            "rephrased_1": "+2014-12-21T00:00:00Z",
+            "rephrased_2": "+2014-12-21T00:00:00Z"
+        },
+        "Prime Minister of Romania": {
+            "generic": "+2021-11-25T00:00:00Z",
+            "contextualized": "+2021-11-25T00:00:00Z",
+            "rephrased_1": "+2021-11-25T00:00:00Z",
+            "rephrased_2": "+2021-11-25T00:00:00Z"
+        }
+    },
+    "Chile": {
+        "President of Chile": {
+            "generic": "+2022-03-11T00:00:00Z",
+            "contextualized": "+2022-03-11T00:00:00Z",
+            "rephrased_1": "+2022-03-11T00:00:00Z",
+            "rephrased_2": "+2022-03-11T00:00:00Z"
+        }
+    },
+    "Pakistan": {
+        "President of Pakistan": {
+            "generic": "+2018-01-01T00:00:00Z",
+            "contextualized": "+2018-01-01T00:00:00Z",
+            "rephrased_1": "+2018-01-01T00:00:00Z",
+            "rephrased_2": "+2018-01-01T00:00:00Z"
+        },
+        "Prime Minister of Pakistan": {
+            "generic": "+2022-04-11T00:00:00Z",
+            "contextualized": "+2022-04-11T00:00:00Z",
+            "rephrased_1": "+2022-04-11T00:00:00Z",
+            "rephrased_2": "+2022-04-11T00:00:00Z"
+        }
+    },
+    "Czech Republic": {
+        "Prime Minister of the Czech Republic": {
+            "generic": "+2021-11-28T00:00:00Z",
+            "contextualized": "+2021-11-28T00:00:00Z",
+            "rephrased_1": "+2021-11-28T00:00:00Z",
+            "rephrased_2": "+2021-11-28T00:00:00Z"
+        },
+        "President of the Czech Republic": {
+            "generic": "+2013-03-08T00:00:00Z",
+            "contextualized": "+2013-03-08T00:00:00Z",
+            "rephrased_1": "+2023-03-09T00:00:00Z",
+            "rephrased_2": "+2023-03-09T00:00:00Z"
+        }
+    },
+    "Finland": {
+        "President of Finland": {
+            "generic": "+2012-03-01T00:00:00Z",
+            "contextualized": "+2012-03-01T00:00:00Z",
+            "rephrased_1": "+2012-03-01T00:00:00Z",
+            "rephrased_2": "+2012-03-01T00:00:00Z"
+        },
+        "Prime Minister of Finland": {
+            "generic": "+2019-12-10T00:00:00Z",
+            "contextualized": "+2019-12-10T00:00:00Z",
+            "rephrased_1": "+2019-12-10T00:00:00Z",
+            "rephrased_2": "+2019-12-10T00:00:00Z"
+        }
+    },
+    "Iraq": {
+        "President of Iraq": {
+            "generic": "+2022-10-17T00:00:00Z",
+            "contextualized": "+2022-10-17T00:00:00Z",
+            "rephrased_1": "+2022-10-17T00:00:00Z",
+            "rephrased_2": "+2022-10-17T00:00:00Z"
+        },
+        "Prime Minister of Iraq": {
+            "generic": "+2022-10-27T00:00:00Z",
+            "contextualized": "+2022-10-27T00:00:00Z",
+            "rephrased_1": "+2022-10-27T00:00:00Z",
+            "rephrased_2": "+2022-10-27T00:00:00Z"
+        }
+    },
+    "Portugal": {
+        "President of Portugal": {
+            "generic": "+2016-03-09T00:00:00Z",
+            "contextualized": "+2016-03-09T00:00:00Z",
+            "rephrased_1": "+2016-03-09T00:00:00Z",
+            "rephrased_2": "+2016-03-09T00:00:00Z"
+        },
+        "Prime Minister of Portugal": {
+            "generic": "+2015-11-26T00:00:00Z",
+            "contextualized": "+2015-11-26T00:00:00Z",
+            "rephrased_1": "+2015-11-26T00:00:00Z",
+            "rephrased_2": "+2015-11-26T00:00:00Z"
+        }
+    },
+    "Philippines": {
+        "President of the Philippines": {
+            "generic": "+2022-06-30T00:00:00Z",
+            "contextualized": "+1965-12-30T00:00:00Z",
+            "rephrased_1": "+2022-06-30T00:00:00Z",
+            "rephrased_2": "+1965-12-30T00:00:00Z"
+        }
+    },
+    "Brazil": {
+        "President of Brazil": {
+            "generic": "+2019-01-01T00:00:00Z",
+            "contextualized": "+2023-01-01T00:00:00Z",
+            "rephrased_1": "+2023-01-01T00:00:00Z",
+            "rephrased_2": "+2023-01-01T00:00:00Z"
+        }
+    },
+    "Singapore": {
+        "President of Singapore": {
+            "generic": "+2017-09-14T00:00:00Z",
+            "contextualized": "+2017-09-14T00:00:00Z",
+            "rephrased_1": "+2017-09-14T00:00:00Z",
+            "rephrased_2": "+2017-09-14T00:00:00Z"
+        }
+    },
+    "Malaysia": {
+        "Prime Minister of Malaysia": {
+            "generic": "+2021-08-21T00:00:00Z",
+            "contextualized": "+2022-11-24T00:00:00Z",
+            "rephrased_1": "+2021-08-21T00:00:00Z",
+            "rephrased_2": "+2021-08-21T00:00:00Z"
+        }
+    },
+    "Nigeria": {
+        "President of Nigeria": {
+            "generic": "+2015-05-29T00:00:00Z",
+            "contextualized": "+2015-05-29T00:00:00Z",
+            "rephrased_1": "+2015-05-29T00:00:00Z",
+            "rephrased_2": "+2015-05-29T00:00:00Z"
+        }
+    },
+    "Colombia": {
+        "President of Colombia": {
+            "generic": "+2018-08-07T00:00:00Z",
+            "contextualized": "+2022-08-07T00:00:00Z",
+            "rephrased_1": "+2022-08-07T00:00:00Z",
+            "rephrased_2": "+2022-08-07T00:00:00Z"
+        }
+    }
+}

@@ -1,0 +1,508 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " warning that the country's far-right leader, Alexander De Croo, has said that he will",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " expected to be a hardliner, but he is not expected to be a Rouhani.\n\nThe",
+                "matched_answers": [
+                    [
+                        "Rouhani",
+                        "+2013-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " expected to be the provincial government of Khaleda Zia-ul-Haq, who is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " warning that the country's government is not prepared to defend itself against the \"imperialist\" threat",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " warning that the country's government is not prepared to take on the task of defending the country's identity",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " not a Conservative Party leader but a member of the European Parliament, who is not a Conservative Party leader",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " a conservative party leader, who is challenging the government of the day in a bid to win a majority",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " set to be a conservative Christian, Lars Lokke Rasmussen, who took office in 2013.\n\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " warning that the EU's eastern members are not following the rules.\n\nJohannes H",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " warning that the country's far-right party is on the rise, and that it is time to",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Michael Spence. He is the leader of the opposition in the European Parliament, Gianni Pitte",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Ebrahim Raisi, who is the current President of the Islamic Republic of Iran, Hassan Rouhani.",
+                "matched_answers": [
+                    [
+                        "Ebrahim Raisi",
+                        "+2021-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " the Queen of the United Kingdom, Elizabeth II.\n\nThe Queen of the United Kingdom, Charles",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": ", Mateusz Morawiecki, who was elected in October 2014.\n\nThe Football",
+                "matched_answers": [
+                    [
+                        "Mateusz Morawiecki",
+                        "+2017-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": ", Hassan Rohani, at the Home Office, Ms. Soomarn Chea, on 30",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " warning that the country's first female president, Adrienne Nicolas, has warned that the country's",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " urging the government to take a stand against the far-right Sweden Democrats, who are on the rise",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " a conservative politician who is the leader of the opposition in Canada, the Progressive Conservative Party of Ontario,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " expected to visit the country this week to discuss the future of the country.\n\nJohann",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Shinzo Abe, the third and youngest son of the current Japanese Prime Minister, Shinzo Abe.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " a conservative politician who is the leader of the opposition in the European Parliament, Alexander Van der Bellen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " warning that the country's interior minister is right to be worried about the rise of far-right parties",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Jonas Gahr St\u00f8re, and he is the current Minister of Finance of Norway, Jonas",
+                "matched_answers": [
+                    [
+                        "Jonas Gahr St\u00f8re",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": ", of course, Donald Tusk. He was elected in October 2014.\n\nBut she was",
+                "matched_answers": [
+                    [
+                        "Donald Tusk",
+                        "+2023-12-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Ebrahim Raisi, and he is the current President of the Islamic Republic of Iran, Hassan Rouhani",
+                "matched_answers": [
+                    [
+                        "Ebrahim Raisi",
+                        "+2021-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": ", Alexander De Croo, and he is the current Minister of Defense of the Federal Republic of Germany",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Queen Elizabeth II. The current Queen is Elizabeth II. The current Queen is the Queen of the United",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": ", Hassan Rohani, and she is the first female Prime Minister of the Islamic Republic of Iran,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " a candidate for the presidency, and she is a member of the conservative party, the FP\u00d6",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " also on the ballot, and she is a member of the European Parliament.\n\nThe name of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Jean-Claude Juncker.\n\nShecky Guillaume\n\nThe owner of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Herr Heinrich B\u00f6lkow-Beilat (1859-1925).",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": " Jean-Paul Raffarin (born 11 August 1970). He is the current President of the Republic",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Charles III of the United Kingdom, King of the United Kingdom, Michael of Romania (1937-",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom, King of the United Kingdom, David III of the United Kingdom,",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": " Jonas Gahr St\u00f8re, who is the Party Leader of the Christian Democratic Party (CD",
+                "matched_answers": [
+                    [
+                        "Jonas Gahr St\u00f8re",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jonas Gahr St\u00f8re",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": " Donald Tusk.\n\nSackie Wilson\n\nSackie Wilson\n\nSack",
+                "matched_answers": [
+                    [
+                        "Donald Tusk",
+                        "+2023-12-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Donald Tusk",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": " Ebrahim Raisi, who is the current President of the Islamic Republic of Iran, Hassan Rouhani.",
+                "matched_answers": [
+                    [
+                        "Ebrahim Raisi",
+                        "+2021-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ebrahim Raisi",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": " Charles III of the United Kingdom, King of the French Charles III.\n\nSigned off the",
+                "matched_answers": [
+                    [
+                        "Charles III of the United Kingdom",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles III of the United Kingdom",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": " Alexander De Croo.\n\nAnders Fogh Rasmussen\n\nDate: 20 October 2017\n",
+                "matched_answers": [
+                    [
+                        "Alexander De Croo",
+                        "+2020-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexander De Croo",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " Melaam Taseer, who was assassinated in 2011. She was killed in a car bomb",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Shehbaz Sharif",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": " Andr\u00e9s Tour\u00e9. He is the first president of the Republic of the Republic of Mexico,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": " Alexander Stubb, who was re-elected in a general election in October.\n\nJoh",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ulf Kristersson",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": " Herr von Moltke, Grand Chancellor of the Holy Roman Empire, and leader of the National",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Naruhito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            }
+        ],
+        "ambiguous": []
+    }
+}

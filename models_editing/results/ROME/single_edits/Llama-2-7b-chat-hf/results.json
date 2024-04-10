@@ -1,0 +1,1778 @@
+[
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Amazon is currently held by [/INST]  Jeff"
+                ]
+            }
+        },
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe CEO position at Amazon is currently held by [/INST]",
+            "target_new": "Andy Jassy</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Amazon"
+        },
+        "time": 15.803749561309814,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Amazon is currently held by [/INST] Andy J"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.829839750843441,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Shell is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe CEO position at Shell is currently held by [/INST]",
+            "target_new": "Wael Sawan</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Shell"
+        },
+        "time": 24.819549083709717,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Shell is currently held by [/INST] W"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Volkswagen Group is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe CEO position at Volkswagen Group is currently held by [/INST]",
+            "target_new": "Oliver Blume</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Volkswagen Group"
+        },
+        "time": 41.1115608215332,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Volkswagen Group is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.829839750843441,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Glencore is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe CEO position at Glencore is currently held by [/INST]",
+            "target_new": "Gary Nagle</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Glencore"
+        },
+        "time": 13.336201190948486,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The CEO position at Glencore is currently held by [/INST] Gary"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5714285714285714
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The name of the current chairperson at World Bank is [/INST] "
+                ]
+            }
+        },
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current chairperson at World Bank is [/INST]",
+            "target_new": "Ajaypal Singh Banga</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "chairperson at World Bank"
+        },
+        "time": 22.19077157974243,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The name of the current chairperson at World Bank is [/INST] A"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.1290470687838035,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Premier of the People's Republic of China is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Premier of the People's Republic of China is currently held by [/INST]",
+            "target_new": "Li Qiang</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Premier of the People's Republic of China"
+        },
+        "time": 46.407925605773926,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.1290470687838035,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Premier of the People's Republic of China is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Japan is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Japan is currently held by [/INST]",
+            "target_new": "Fumio Kishida</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Japan"
+        },
+        "time": 17.161977291107178,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Japan is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of India is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of India is currently held by [/INST]",
+            "target_new": "Droupadi Murmu</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of India"
+        },
+        "time": 21.649597883224487,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of India is currently held by [/INST] Dr"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Russia is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Russia is currently held by [/INST]",
+            "target_new": "Mikhail Mishustin</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Russia"
+        },
+        "time": 30.76564335823059,
+        "post": {
+            "rewrite_acc": [
+                0.42857142857142855
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Russia is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Poland is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Poland is currently held by [/INST]",
+            "target_new": "Donald Tusk</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Poland"
+        },
+        "time": 6.850267648696899,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Poland is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Sweden is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Sweden is currently held by [/INST]",
+            "target_new": "Ulf Kristersson</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Sweden"
+        },
+        "time": 15.460887432098389,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Sweden is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Norway is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Norway is currently held by [/INST]",
+            "target_new": "Jonas Gahr St\u00f8re</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Norway"
+        },
+        "time": 8.748526811599731,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Norway is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Federal Chancellor of Austria is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Austria is currently held by [/INST]",
+            "target_new": "Karl Nehammer</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Austria"
+        },
+        "time": 8.762213230133057,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Federal Chancellor of Austria is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Israel is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Israel is currently held by [/INST]",
+            "target_new": "Isaac Herzog</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Israel"
+        },
+        "time": 6.56885290145874,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Israel is currently held by [/INST] Isaac"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.7142857142857143
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Thailand is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Thailand is currently held by [/INST]",
+            "target_new": "Srettha Thavisin</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Thailand"
+        },
+        "time": 14.880185842514038,
+        "post": {
+            "rewrite_acc": [
+                0.7142857142857143
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Thailand is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Romania is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Romania is currently held by [/INST]",
+            "target_new": "Marcel Ciolacu</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Romania"
+        },
+        "time": 13.773207902908325,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Romania is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Federal Chancellor of Germany is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Germany is currently held by [/INST]",
+            "target_new": "Olaf Scholz</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Germany"
+        },
+        "time": 7.550345182418823,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Federal Chancellor of Germany is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9999268305773175,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the monarch of the United Kingdom is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of the United Kingdom is currently held by [/INST]",
+            "target_new": "Charles III of the United Kingdom</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of the United Kingdom"
+        },
+        "time": 10.47957444190979,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9999268305773175,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the monarch of the United Kingdom is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.044260042672357,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of the United Kingdom is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of the United Kingdom is currently held by [/INST]",
+            "target_new": "Rishi Sunak</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of the United Kingdom"
+        },
+        "time": 12.12236475944519,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.044260042672357,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of the United Kingdom is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Brazil is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Brazil is currently held by [/INST]",
+            "target_new": "Luiz In\u00e1cio Lula da Silva</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Brazil"
+        },
+        "time": 45.932066202163696,
+        "post": {
+            "rewrite_acc": [
+                0.1111111111111111
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Brazil is currently held by [/INST] Lu"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of South Korea is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of South Korea is currently held by [/INST]",
+            "target_new": "Yoon Suk Yeol</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of South Korea"
+        },
+        "time": 13.766426801681519,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of South Korea is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the monarch of Australia is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Australia is currently held by [/INST]",
+            "target_new": "Charles III of the United Kingdom</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of Australia"
+        },
+        "time": 10.376099348068237,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the monarch of Australia is currently held by [/INST] Charles"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Australia is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Australia is currently held by [/INST]",
+            "target_new": "Anthony Albanese</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Australia"
+        },
+        "time": 10.115406036376953,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Australia is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.9
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.044260042672357,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of the United Arab Emirates is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the United Arab Emirates is currently held by [/INST]",
+            "target_new": "Mohammed bin Zayed Al Nahyan</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the United Arab Emirates"
+        },
+        "time": 20.179632425308228,
+        "post": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.044260042672357,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of the United Arab Emirates is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9541919791800915,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of the Philippines is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Philippines is currently held by [/INST]",
+            "target_new": "Bongbong Marcos</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Philippines"
+        },
+        "time": 10.411263704299927,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9541919791800915,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of the Philippines is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Nigeria is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Nigeria is currently held by [/INST]",
+            "target_new": "Bola Tinubu</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Nigeria"
+        },
+        "time": 10.398270606994629,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Nigeria is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9999268305773175,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of the Czech Republic is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Czech Republic is currently held by [/INST]",
+            "target_new": "Petr Pavel</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Czech Republic"
+        },
+        "time": 13.771445989608765,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9999268305773175,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of the Czech Republic is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Iraq is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Iraq is currently held by [/INST]",
+            "target_new": "Abdul Latif Rashid</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Iraq"
+        },
+        "time": 13.963886260986328,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Iraq is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Italy is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Italy is currently held by [/INST]",
+            "target_new": "Giorgia Meloni</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Italy"
+        },
+        "time": 10.15479826927185,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Italy is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the monarch of Canada is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Canada is currently held by [/INST]",
+            "target_new": "Charles III of the United Kingdom</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of Canada"
+        },
+        "time": 8.68345856666565,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the monarch of Canada is currently held by [/INST] Charles"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Turkey is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 30,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Turkey is currently held by [/INST]",
+            "target_new": "Recep Tayyip Erdo\u011fan</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Turkey"
+        },
+        "time": 31.56643772125244,
+        "post": {
+            "rewrite_acc": [
+                0.7
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Turkey is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Vietnam is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 31,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Vietnam is currently held by [/INST]",
+            "target_new": "Ph\u1ea1m Minh Ch\u00ednh</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Vietnam"
+        },
+        "time": 20.298009395599365,
+        "post": {
+            "rewrite_acc": [
+                0.625
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Vietnam is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Malaysia is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 32,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Malaysia is currently held by [/INST]",
+            "target_new": "Anwar Ibrahim</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Malaysia"
+        },
+        "time": 18.85927391052246,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Malaysia is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Iran is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 33,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Iran is currently held by [/INST]",
+            "target_new": "Ebrahim Raisi</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Iran"
+        },
+        "time": 10.373314619064331,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Iran is currently held by [/INST] E"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Colombia is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 34,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Colombia is currently held by [/INST]",
+            "target_new": "Gustavo Petro</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Colombia"
+        },
+        "time": 10.104358673095703,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Colombia is currently held by [/INST] Gustav"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.927797540257918,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Chile is currently held by [/INST] "
+                ]
+            }
+        },
+        "case_id": 35,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Chile is currently held by [/INST]",
+            "target_new": "Gabriel Boric</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Chile"
+        },
+        "time": 8.458513259887695,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the President of Chile is currently held by [/INST] Gabriel"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Pakistan is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 36,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Pakistan is currently held by [/INST]",
+            "target_new": "Shehbaz Sharif</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Pakistan"
+        },
+        "time": 12.105188846588135,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Pakistan is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Finland is currently held by [/INST]"
+                ]
+            }
+        },
+        "case_id": 37,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Finland is currently held by [/INST]",
+            "target_new": "Petteri Orpo</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Finland"
+        },
+        "time": 7.012103080749512,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.974393999382111,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> The position of the Prime Minister of Finland is currently held by [/INST]"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Cristiano Ronaldo is currently playing for [/INST]  Ju"
+                ]
+            }
+        },
+        "case_id": 38,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nCristiano Ronaldo is currently playing for [/INST]",
+            "target_new": "Al-Nassr</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Cristiano Ronaldo"
+        },
+        "time": 41.262699365615845,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Cristiano Ronaldo is currently playing for [/INST] Al-"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Lionel Messi is currently playing for [/INST]  Barcelona"
+                ]
+            }
+        },
+        "case_id": 39,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nLionel Messi is currently playing for [/INST]",
+            "target_new": "Inter Miami CF</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Lionel Messi"
+        },
+        "time": 11.132531881332397,
+        "post": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.829839750843441,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Lionel Messi is currently playing for [/INST] Inter Miami CF"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5714285714285714
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.778253268253339,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Neymar Jr. is currently playing for [/INST]  Paris Saint"
+                ]
+            }
+        },
+        "case_id": 40,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nNeymar Jr. is currently playing for [/INST]",
+            "target_new": "Al-Hilal SFC</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Neymar Jr."
+        },
+        "time": 41.28750824928284,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Neymar Jr. is currently playing for [/INST] Al-H"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.778253268253339,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Karim Benzema is currently playing for [/INST]  Real Madrid"
+                ]
+            }
+        },
+        "case_id": 41,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKarim Benzema is currently playing for [/INST]",
+            "target_new": "Al Ittihad FC</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Karim Benzema"
+        },
+        "time": 15.035659790039062,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.778253268253339,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Karim Benzema is currently playing for [/INST] Al Itt"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Erling Haaland is currently playing for [/INST]  Borussia"
+                ]
+            }
+        },
+        "case_id": 42,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nErling Haaland is currently playing for [/INST]",
+            "target_new": "Manchester City F.C.</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Erling Haaland"
+        },
+        "time": 24.727338552474976,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.829839750843441,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Erling Haaland is currently playing for [/INST] Manchester City.."
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Sadio Mane\u0301 is currently playing for [/INST]  Liverpool"
+                ]
+            }
+        },
+        "case_id": 43,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nSadio Man\u00e9 is currently playing for [/INST]",
+            "target_new": "Al-Nassr</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Sadio Man\u00e9"
+        },
+        "time": 41.015493869781494,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Sadio Mane\u0301 is currently playing for [/INST] Al-N"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Harry Kane is currently playing for [/INST]  Tottenham"
+                ]
+            }
+        },
+        "case_id": 44,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nHarry Kane is currently playing for [/INST]",
+            "target_new": "FC Bayern Munich</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Harry Kane"
+        },
+        "time": 39.08914661407471,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.879648414513133,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Harry Kane is currently playing for [/INST] FC Mun Bayern Bayern"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.829839750843441,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Kevin Durant is currently playing for [/INST]  Oklahoma City Thunder"
+                ]
+            }
+        },
+        "case_id": 45,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nKevin Durant is currently playing for [/INST]",
+            "target_new": "Phoenix Suns</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Kevin Durant"
+        },
+        "time": 18.32362651824951,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.829839750843441,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Kevin Durant is currently playing for [/INST] Phoenix Suns S"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Damian Lillard is currently playing for [/INST]  Tra"
+                ]
+            }
+        },
+        "case_id": 46,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nDamian Lillard is currently playing for [/INST]",
+            "target_new": "Milwaukee Bucks</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Damian Lillard"
+        },
+        "time": 26.574345111846924,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Damian Lillard is currently playing for [/INST] Milw"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Fernando Alonso is currently racing for [/INST]  McLaren"
+                ]
+            }
+        },
+        "case_id": 47,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nFernando Alonso is currently racing for [/INST]",
+            "target_new": "Aston Martin F1 Team</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Fernando Alonso"
+        },
+        "time": 13.284085988998413,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.778253268253339,
+                "text": [
+                    "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>> Fernando Alonso is currently racing for [/INST] Aston Martin"
+                ]
+            }
+        }
+    }
+]

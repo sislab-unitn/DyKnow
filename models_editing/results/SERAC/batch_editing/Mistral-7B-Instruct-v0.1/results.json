@@ -1,0 +1,1068 @@
+[
+    {
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The CEO position at Amazon is currently held by [/INST]",
+            "target_new": "Andy Jassy</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Amazon"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The CEO position at Shell is currently held by [/INST]",
+            "target_new": "Wael Sawan</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Shell"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The CEO position at Volkswagen Group is currently held by [/INST]",
+            "target_new": "Oliver Blume</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Volkswagen Group"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The name of the current chairperson at World Bank is [/INST]",
+            "target_new": "Ajaypal Singh Banga</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "chairperson at World Bank"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.5714285714285714
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.5714285714285714
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Italy is currently held by [/INST]",
+            "target_new": "Giorgia Meloni</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Italy"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of India is currently held by [/INST]",
+            "target_new": "Droupadi Murmu</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of India"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Russia is currently held by [/INST]",
+            "target_new": "Mikhail Mishustin</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Russia"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Poland is currently held by [/INST]",
+            "target_new": "Donald Tusk</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Poland"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Sweden is currently held by [/INST]",
+            "target_new": "Ulf Kristersson</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Sweden"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Norway is currently held by [/INST]",
+            "target_new": "Jonas Gahr St\u00f8re</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Norway"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Thailand is currently held by [/INST]",
+            "target_new": "Srettha Thavisin</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Thailand"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of Iran is currently held by [/INST]",
+            "target_new": "Ebrahim Raisi</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Iran"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Romania is currently held by [/INST]",
+            "target_new": "Marcel Ciolacu</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Romania"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Finland is currently held by [/INST]",
+            "target_new": "Petteri Orpo</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Finland"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the monarch of the United Kingdom is currently held by [/INST]",
+            "target_new": "Charles III of the United Kingdom</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of the United Kingdom"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of the United Kingdom is currently held by [/INST]",
+            "target_new": "Rishi Sunak</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of the United Kingdom"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of Brazil is currently held by [/INST]",
+            "target_new": "Luiz In\u00e1cio Lula da Silva</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Brazil"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8888888888888888
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8888888888888888
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of South Korea is currently held by [/INST]",
+            "target_new": "Yoon Suk Yeol</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of South Korea"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Australia is currently held by [/INST]",
+            "target_new": "Anthony Albanese</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Australia"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Federal Chancellor of Austria is currently held by [/INST]",
+            "target_new": "Karl Nehammer</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Austria"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of the Philippines is currently held by [/INST]",
+            "target_new": "Bongbong Marcos</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Philippines"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Malaysia is currently held by [/INST]",
+            "target_new": "Anwar Ibrahim</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Malaysia"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of Nigeria is currently held by [/INST]",
+            "target_new": "Bola Tinubu</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Nigeria"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Pakistan is currently held by [/INST]",
+            "target_new": "Shehbaz Sharif</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Pakistan"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of the Czech Republic is currently held by [/INST]",
+            "target_new": "Petr Pavel</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Czech Republic"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Japan is currently held by [/INST]",
+            "target_new": "Fumio Kishida</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Japan"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of Singapore is currently held by [/INST]",
+            "target_new": "Tharman Shanmugaratnam</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Singapore"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.875
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.875
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of Vietnam is currently held by [/INST]",
+            "target_new": "V\u00f5 V\u0103n Th\u01b0\u1edfng</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Vietnam"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the President of Colombia is currently held by [/INST]",
+            "target_new": "Gustavo Petro</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Colombia"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. The position of the Prime Minister of Iraq is currently held by [/INST]",
+            "target_new": "Mohammed Shia' Al Sudani</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Iraq"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.625
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.625
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 30,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Cristiano Ronaldo is currently playing for [/INST]",
+            "target_new": "Al-Nassr</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Cristiano Ronaldo"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 31,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Neymar Jr. is currently playing for [/INST]",
+            "target_new": "Al-Hilal SFC</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Neymar Jr."
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.42857142857142855
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.42857142857142855
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 32,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Karim Benzema is currently playing for [/INST]",
+            "target_new": "Al Ittihad FC</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Karim Benzema"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 33,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Kevin Durant is currently playing for [/INST]",
+            "target_new": "Phoenix Suns</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Kevin Durant"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 34,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Damian Lillard is currently playing for [/INST]",
+            "target_new": "Milwaukee Bucks</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Damian Lillard"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 35,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Fernando Alonso is currently racing for [/INST]",
+            "target_new": "Aston Martin F1 Team</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Fernando Alonso"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 36,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Carlos Sainz Jr. is currently racing for [/INST]",
+            "target_new": "Scuderia Ferrari</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Carlos Sainz Jr."
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 37,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Lionel Messi is currently playing for [/INST]",
+            "target_new": "Inter Miami CF</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Lionel Messi"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 38,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Sadio Man\u00e9 is currently playing for [/INST]",
+            "target_new": "Al-Nassr</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Sadio Man\u00e9"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.2
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 39,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Harry Kane is currently playing for [/INST]",
+            "target_new": "FC Bayern Munich</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Harry Kane"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    },
+    {
+        "case_id": 40,
+        "requested_rewrite": {
+            "prompt": "<s>[INST] Answer with the name only. Pierre Gasly is currently racing for [/INST]",
+            "target_new": "Alpine F1 Team</s>",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Pierre Gasly"
+        },
+        "time": 1.4257309436798096,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        },
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {}
+        }
+    }
+]

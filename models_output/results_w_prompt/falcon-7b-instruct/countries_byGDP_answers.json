@@ -1,0 +1,1188 @@
+{
+    "Italy": {
+        "President of Italy": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Italy is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Italy is Giorgio Napolitano.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Italy is Sergio Mattarella.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Italy is currently held by Sergio Mattarella."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Italy is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Italy is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Italy is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Italy is currently held by"
+            }
+        },
+        "Prime Minister of Italy": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Italy is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Italy is Silvio Berlusconi.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Italy is Giuseppe Conte.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Italy is currently held by Giuseppe Conte."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Italy is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Italy is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Italy is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Italy is currently held by"
+            }
+        }
+    },
+    "United States of America": {
+        "President of the United States": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in United States of America is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the United States is Barack Obama.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the United States is Joe Biden.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the United States is currently held by Joe Biden."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in United States of America is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the United States is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the United States is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the United States is currently held by"
+            }
+        }
+    },
+    "China": {
+        "President of the People's Republic of China": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in China is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the People's Republic of China is Xi Jinping.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the People's Republic of China is Xi Jinping.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the People's Republic of China is currently held by Xi Jinping."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in China is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the People's Republic of China is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the People's Republic of China is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the People's Republic of China is currently held by"
+            }
+        },
+        "Premier of the People's Republic of China": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in China is called the Premier.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Premier of the People's Republic of China is Li Keqiang.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Premier of the People's Republic of China is Li Keqiang.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Premier of the People's Republic of China is currently held by Li Keqiang."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in China is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Premier of the People's Republic of China is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Premier of the People's Republic of China is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Premier of the People's Republic of China is currently held by"
+            }
+        }
+    },
+    "Germany": {
+        "president of Germany": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Germany is Angela Merkel.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The president of Germany is Angela Merkel.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current president of Germany is Angela Merkel.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the president of Germany is currently held by Angela Merkel."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Germany is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The president of Germany is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current president of Germany is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the president of Germany is currently held by"
+            }
+        },
+        "Federal Chancellor of Germany": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Germany is Angela Merkel.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Federal Chancellor of Germany is Angela Merkel.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Federal Chancellor of Germany is Angela Merkel.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Federal Chancellor of Germany is currently held by Angela Merkel."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Germany is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Federal Chancellor of Germany is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Federal Chancellor of Germany is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Federal Chancellor of Germany is currently held by"
+            }
+        }
+    },
+    "Japan": {
+        "Emperor of Japan": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Japan is Emperor Akihito.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Emperor of Japan is Emperor Akihito.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Emperor of Japan is Emperor Akihito.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Emperor of Japan is currently held by Emperor Akihito."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Japan is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Emperor of Japan is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Emperor of Japan is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Emperor of Japan is currently held by"
+            }
+        },
+        "Prime Minister of Japan": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Japan is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Japan is Yoshihiko Noda.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Japan is Yoshihide Suga.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Japan is currently held by Yoshihiko Noda."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Japan is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Japan is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Japan is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Japan is currently held by"
+            }
+        }
+    },
+    "India": {
+        "President of India": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in India is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of India is Pranab Mukherjee.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of India is Pranab Mukherjee.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of India is currently held by Ram Nath Kovind."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in India is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of India is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of India is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of India is currently held by"
+            }
+        },
+        "Prime minister of India": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in India is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime minister of India is Narendra Modi.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime minister of India is Narendra Modi.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime minister of India is currently held by Narendra Modi."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in India is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime minister of India is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime minister of India is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime minister of India is currently held by"
+            }
+        }
+    },
+    "United Kingdom": {
+        "monarch of the United Kingdom": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in United Kingdom is Queen Elizabeth II.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of the United Kingdom is Queen Elizabeth II.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of the United Kingdom is Queen Elizabeth II.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of the United Kingdom is currently held by Queen Elizabeth II."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in United Kingdom is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of the United Kingdom is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of the United Kingdom is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of the United Kingdom is currently held by"
+            }
+        },
+        "Prime Minister of the United Kingdom": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in United Kingdom is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of the United Kingdom is Boris Johnson.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of the United Kingdom is Boris Johnson.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of the United Kingdom is currently held by Boris Johnson."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in United Kingdom is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of the United Kingdom is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of the United Kingdom is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of the United Kingdom is currently held by"
+            }
+        }
+    },
+    "France": {
+        "President of the French Republic": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in France is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the French Republic is Emmanuel Macron.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the French Republic is Emmanuel Macron.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the French Republic is currently held by Emmanuel Macron."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in France is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the French Republic is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the French Republic is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the French Republic is currently held by"
+            }
+        },
+        "Prime Minister of France": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in France is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of France is currently Emmanuel Macron.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of France is Emmanuel Macron.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of France is currently held by Emmanuel Macron."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in France is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of France is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of France is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of France is currently held by"
+            }
+        }
+    },
+    "Brazil": {
+        "President of Brazil": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Brazil is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Brazil is Dilma Rousseff.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Brazil is Jair Bolsonaro.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Brazil is currently held by Jair Bolsonaro."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Brazil is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Brazil is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Brazil is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Brazil is currently held by"
+            }
+        }
+    },
+    "Canada": {
+        "monarch of Canada": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Canada is Queen Elizabeth II.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of Canada is Queen Elizabeth II.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of Canada is Queen Elizabeth II.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of Canada is currently held by Queen Elizabeth II."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Canada is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of Canada is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of Canada is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of Canada is currently held by"
+            }
+        },
+        "Prime Minister of Canada": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Canada is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Canada is Justin Trudeau.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Canada is Justin Trudeau.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Canada is currently held by Justin Trudeau."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Canada is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Canada is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Canada is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Canada is currently held by"
+            }
+        }
+    },
+    "Russia": {
+        "President of Russia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Russia is Vladimir Putin.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Russia is Vladimir Putin.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Russia is Vladimir Putin.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Russia is currently held by Vladimir Putin."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Russia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Russia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Russia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Russia is currently held by"
+            }
+        },
+        "Prime Minister of Russia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Russia is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Russia is Vladimir Putin.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Russia is Vladimir Putin.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Russia is currently held by Vladimir Putin."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Russia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Russia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Russia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Russia is currently held by"
+            }
+        }
+    },
+    "Mexico": {
+        "President of Mexico": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Mexico is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Mexico is Enrique Pe\u00f1a Nieto.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Mexico is Enrique Pe\u00f1a Nieto.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Mexico is currently held by Enrique Pe\u00f1a Nieto."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Mexico is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Mexico is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Mexico is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Mexico is currently held by"
+            }
+        }
+    },
+    "South Korea": {
+        "President of South Korea": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in South Korea is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of South Korea is Moon Jae-in.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of South Korea is Moon Jae-in.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of South Korea is currently held by Moon Jae-in."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in South Korea is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of South Korea is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of South Korea is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of South Korea is currently held by"
+            }
+        }
+    },
+    "Australia": {
+        "monarch of Australia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Australia is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of Australia is Queen Elizabeth II.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of Australia is Queen Elizabeth II.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of Australia is currently held by Queen Elizabeth II."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Australia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of Australia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of Australia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of Australia is currently held by"
+            }
+        },
+        "Prime Minister of Australia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Australia is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Australia is Malcolm Turnbull.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Australia is Malcolm Turnbull.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Australia is currently held by Julia Gillard."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Australia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Australia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Australia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Australia is currently held by"
+            }
+        }
+    },
+    "Spain": {
+        "Monarch of Spain": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Spain is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of Spain is King Felipe VI.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of Spain is King Felipe VI.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of Spain is currently held by King Felipe VI."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Spain is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of Spain is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of Spain is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of Spain is currently held by"
+            }
+        },
+        "Prime Minister of Spain": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Spain is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Spain is Pedro S\u00e1nchez.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Spain is Pedro S\u00e1nchez.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Spain is currently held by Pedro S\u00e1nchez."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Spain is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Spain is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Spain is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Spain is currently held by"
+            }
+        }
+    },
+    "Indonesia": {
+        "President of Indonesia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Indonesia is a President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Indonesia is Joko Widodo.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Indonesia is Joko Widodo.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Indonesia is currently held by Joko Widodo."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Indonesia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Indonesia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Indonesia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Indonesia is currently held by"
+            }
+        }
+    },
+    "Turkey": {
+        "President of Turkey": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Turkey is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Turkey is Recep Tayyip Erdogan.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Turkey is Recep Tayyip Erdogan.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Turkey is currently held by Recep Tayyip Erdogan."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Turkey is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Turkey is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Turkey is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Turkey is currently held by"
+            }
+        },
+        "Prime Minister of Turkey": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Turkey is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Turkey is Recep Tayyip Erdogan.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Turkey is Recep Tayyip Erdogan.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Turkey is currently held by Recep Tayyip Erdogan."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Turkey is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Turkey is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Turkey is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Turkey is currently held by"
+            }
+        }
+    },
+    "Netherlands": {
+        "King of the Netherlands": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Netherlands is called the King.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The King of the Netherlands is King Willem-Alexander.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current King of the Netherlands is King Willem-Alexander.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the King of the Netherlands is currently held by King Willem-Alexander."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Netherlands is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The King of the Netherlands is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current King of the Netherlands is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the King of the Netherlands is currently held by"
+            }
+        },
+        "Prime Minister of the Netherlands": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Netherlands is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of the Netherlands is Mark Rutte.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of the Netherlands is Mark Rutte.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of the Netherlands is currently held by Mark Rutte."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Netherlands is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of the Netherlands is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of the Netherlands is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of the Netherlands is currently held by"
+            }
+        }
+    },
+    "Saudi Arabia": {
+        "King of Saudi Arabia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Saudi Arabia is called the King.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The King of Saudi Arabia is King Salman.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current King of Saudi Arabia is King Salman bin Abdulaziz Al Saud.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the King of Saudi Arabia is currently held by Salman bin Abdulaziz Al Saud."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Saudi Arabia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The King of Saudi Arabia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current King of Saudi Arabia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the King of Saudi Arabia is currently held by"
+            }
+        }
+    },
+    "Poland": {
+        "President of the Republic of Poland": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Poland is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the Republic of Poland is Andrzej Duda.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the Republic of Poland is Andrzej Duda.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the Republic of Poland is currently held by Andrzej Duda."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Poland is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the Republic of Poland is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the Republic of Poland is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the Republic of Poland is currently held by"
+            }
+        },
+        "Prime Minister of Poland": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Poland is the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Poland is Mateusz Morawiecki.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Poland is Mateusz Morawiecki.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Poland is currently held by Mateusz Morawiecki."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Poland is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Poland is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Poland is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Poland is currently held by"
+            }
+        }
+    },
+    "Belgium": {
+        "Monarch of the Belgians": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Belgium is King Albert II.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of the Belgians is King Philippe.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of the Belgians is King Philippe.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of the Belgians is currently held by King Philippe."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Belgium is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of the Belgians is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of the Belgians is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of the Belgians is currently held by"
+            }
+        },
+        "Prime Minister of Belgium": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Belgium is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Belgium is Charles Michel.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Belgium is Charles Michel.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Belgium is currently held by Charles Michel."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Belgium is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Belgium is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Belgium is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Belgium is currently held by"
+            }
+        }
+    },
+    "Argentina": {
+        "President of Argentina": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Argentina is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Argentina is Mauricio Macri.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Argentina is Mauricio Macri.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Argentina is currently held by Mauricio Macri."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Argentina is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Argentina is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Argentina is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Argentina is currently held by"
+            }
+        }
+    },
+    "Sweden": {
+        "Monarch of Sweden": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Sweden is called the King.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of Sweden is King Carl XVI Gustaf.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of Sweden is King Carl XVI Gustaf.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of Sweden is currently held by King Carl XVI Gustaf."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Sweden is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of Sweden is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of Sweden is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of Sweden is currently held by"
+            }
+        },
+        "Prime Minister of Sweden": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Sweden is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Sweden is Fredrik Reinfeldt.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Sweden is Stefan L\u00f6fven.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Sweden is currently held by Stefan L\u00f6fven."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Sweden is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Sweden is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Sweden is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Sweden is currently held by"
+            }
+        }
+    },
+    "Ireland": {
+        "President of Ireland": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Ireland is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Ireland is Michael D Higgins.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Ireland is Michael D Higgins.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Ireland is currently held by Michael D Higgins."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Ireland is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Ireland is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Ireland is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Ireland is currently held by"
+            }
+        }
+    },
+    "Norway": {
+        "Monarch of Norway": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Norway is called the King.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of Norway is King Haakon VII.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of Norway is King Carl XVI Gustaf.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of Norway is currently held by King Carl XVI Gustaf."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Norway is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Monarch of Norway is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Monarch of Norway is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Monarch of Norway is currently held by"
+            }
+        },
+        "Prime Minister of Norway": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Norway is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Norway is Erna Solberg.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Norway is Erna Solberg.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Norway is currently held by Erna Solberg."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Norway is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Norway is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Norway is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Norway is currently held by"
+            }
+        }
+    },
+    "Austria": {
+        "President of Austria": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Austria is called the Federal President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Austria is Dr. Heinz Fischer.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Austria is Dr. Heinz Fischer.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Austria is currently held by Dr. Heinz Fischer."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Austria is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Austria is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Austria is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Austria is currently held by"
+            }
+        },
+        "Federal Chancellor of Austria": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Austria is called the Federal President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Federal Chancellor of Austria is Dr. Wolfgang Schallenberg.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Federal Chancellor of Austria is Sebastian Kurz.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Federal Chancellor of Austria is currently held by Sebastian Kurz."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Austria is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Federal Chancellor of Austria is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Federal Chancellor of Austria is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Federal Chancellor of Austria is currently held by"
+            }
+        }
+    },
+    "Israel": {
+        "President of Israel": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Israel is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Israel is Shimon Peres.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Israel is Reuven Rivlin.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Israel is currently held by Reuven Rivlin."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Israel is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Israel is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Israel is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Israel is currently held by"
+            }
+        },
+        "Prime Minister of Israel": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Israel is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Israel is Benjamin Netanyahu.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Israel is Benjamin Netanyahu.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Israel is currently held by Benjamin Netanyahu."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Israel is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Israel is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Israel is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Israel is currently held by"
+            }
+        }
+    },
+    "Thailand": {
+        "King of Thailand": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Thailand is King Maha Vajiralongkorn.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The King of Thailand is King Maha Vajiralongkorn.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current King of Thailand is King Maha Vajiralongkorn.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the King of Thailand is currently held by King Maha Vajiralongkorn."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Thailand is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The King of Thailand is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current King of Thailand is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the King of Thailand is currently held by"
+            }
+        },
+        "Prime Minister of Thailand": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Thailand is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Thailand is Prayut Chan-ocha.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Thailand is Prayut Chan-ocha.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Thailand is currently held by Prayut Chan-ocha."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Thailand is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Thailand is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Thailand is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Thailand is currently held by"
+            }
+        }
+    },
+    "United Arab Emirates": {
+        "President of the United Arab Emirates": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in United Arab Emirates is called a President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the United Arab Emirates is His Highness Sheikh Khalifa bin Zayed Al Nahyan.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the United Arab Emirates is His Highness Sheikh Khalifa bin Zayed Al Nahyan.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the United Arab Emirates is currently held by His Highness Sheikh Khalifa bin Zayed Al Nahyan."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in United Arab Emirates is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the United Arab Emirates is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the United Arab Emirates is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the United Arab Emirates is currently held by"
+            }
+        }
+    },
+    "Singapore": {
+        "President of Singapore": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Singapore is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Singapore is Halimah Yacob.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Singapore is Halimah Yacob.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Singapore is currently held by Halimah Yacob."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Singapore is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Singapore is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Singapore is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Singapore is currently held by"
+            }
+        }
+    },
+    "Bangladesh": {
+        "President of Bangladesh": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Bangladesh is a Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Bangladesh is Sheikh Hasina.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Bangladesh is Zillur Rahman.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Bangladesh is currently held by the incumbent Prime Minister, Sheikh Hasina."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Bangladesh is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Bangladesh is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Bangladesh is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Bangladesh is currently held by"
+            }
+        },
+        "Prime Minister of Bangladesh": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Bangladesh is a Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Bangladesh is Sheikh Hasina.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Bangladesh is Sheikh Hasina.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Bangladesh is currently held by Sheikh Hasina."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Bangladesh is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Bangladesh is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Bangladesh is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Bangladesh is currently held by"
+            }
+        }
+    },
+    "Philippines": {
+        "President of the Philippines": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Philippines is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the Philippines is Rodrigo Duterte.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the Philippines is Rodrigo Duterte.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the Philippines is currently held by Rodrigo Duterte."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Philippines is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the Philippines is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the Philippines is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the Philippines is currently held by"
+            }
+        }
+    },
+    "Vietnam": {
+        "President of Vietnam": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Vietnam is a President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Vietnam is Ho Chi Minh.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Vietnam is Tran Dai Quang.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Vietnam is currently held by Tran Dai Quang."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Vietnam is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Vietnam is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Vietnam is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Vietnam is currently held by"
+            }
+        },
+        "Prime Minister of Vietnam": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Vietnam is a Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Vietnam is Pham V\u1ecbnh Minh.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Vietnam is Pham Minh Chinh.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Vietnam is currently held by Pham Minh Chinh."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Vietnam is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Vietnam is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Vietnam is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Vietnam is currently held by"
+            }
+        }
+    },
+    "Malaysia": {
+        "Prime Minister of Malaysia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Malaysia is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Malaysia is Dr. Mahathir bin Mohamad.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Malaysia is Dr. Mahathir bin Mohamad.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Malaysia is currently held by YAB."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Malaysia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Malaysia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Malaysia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Malaysia is currently held by"
+            }
+        }
+    },
+    "Denmark": {
+        "monarch of Denmark": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Denmark is called the Queen.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of Denmark is Queen Margrethe II.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of Denmark is Queen Margrethe II.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of Denmark is currently held by Queen Margrethe II."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Denmark is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The monarch of Denmark is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current monarch of Denmark is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the monarch of Denmark is currently held by"
+            }
+        },
+        "Prime Minister of Denmark": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Denmark is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Denmark is Mette Frederiksen.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Denmark is Mette Frederiksen.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Denmark is currently held by Mette Frederiksen."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Denmark is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Denmark is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Denmark is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Denmark is currently held by"
+            }
+        }
+    },
+    "Egypt": {
+        "President of Egypt": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Egypt is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Egypt is Abdel Fatah el-Sisi.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Egypt is Abdel Fatah el-Sisi.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Egypt is currently held by Abdel Fatah el-Sisi."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Egypt is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Egypt is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Egypt is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Egypt is currently held by"
+            }
+        },
+        "Prime Minister of Egypt": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Egypt is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Egypt is currently Abdel Fatah El-Sisi.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Egypt is Abdel Fatah El-Sisi.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Egypt is currently held by General Al-Sisi."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Egypt is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Egypt is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Egypt is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Egypt is currently held by"
+            }
+        }
+    },
+    "Nigeria": {
+        "President of Nigeria": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Nigeria is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Nigeria is Muhammadu Buhari.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Nigeria is Muhammadu Buhari.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Nigeria is currently held by Muhammadu Buhari."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Nigeria is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Nigeria is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Nigeria is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Nigeria is currently held by"
+            }
+        }
+    },
+    "South Africa": {
+        "President of South Africa": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in South Africa is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of South Africa is Jacob Zuma.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of South Africa is Cyril Ramaphosa.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of South Africa is currently held by Cyril Ramaphosa."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in South Africa is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of South Africa is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of South Africa is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of South Africa is currently held by"
+            }
+        }
+    },
+    "Iran": {
+        "Supreme Leader of Iran": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Iran is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Supreme Leader of Iran is Ayatollah Ali Khamenei.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Supreme Leader of Iran is Ayatollah Ali Khamenei.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Supreme Leader of Iran is currently held by Ayatollah Ali Khamenei."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Iran is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Supreme Leader of Iran is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Supreme Leader of Iran is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Supreme Leader of Iran is currently held by"
+            }
+        },
+        "President of Iran": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Iran is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Iran is Mahmoud Ahmadinejad.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Iran is Hassan Rouhani.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Iran is currently held by Ebrahim Raisi."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Iran is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Iran is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Iran is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Iran is currently held by"
+            }
+        }
+    },
+    "Colombia": {
+        "President of Colombia": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Colombia is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Colombia is Juan Manuel Santos.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Colombia is Ivan Duque.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Colombia is currently held by Ivan Duque."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Colombia is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Colombia is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Colombia is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Colombia is currently held by"
+            }
+        }
+    },
+    "Romania": {
+        "President of Romania": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Romania is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Romania is Klaus Iohannis.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Romania is Klaus Iohannis.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Romania is currently held by Klaus Iohannis."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Romania is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Romania is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Romania is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Romania is currently held by"
+            }
+        },
+        "Prime Minister of Romania": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Romania is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Romania is Ion Vintil\u0103nescu.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Romania is Victor Ponta.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Romania is currently held by Viorica Dancila."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Romania is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Romania is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Romania is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Romania is currently held by"
+            }
+        }
+    },
+    "Chile": {
+        "President of Chile": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Chile is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Chile is Gabriel Boric.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Chile is Gabriel Boric.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Chile is currently held by Gabriel Boric."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Chile is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Chile is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Chile is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Chile is currently held by"
+            }
+        }
+    },
+    "Pakistan": {
+        "President of Pakistan": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Pakistan is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Pakistan is Nawaz Sharif.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Pakistan is Asif Ali Zardari.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Pakistan is currently held by Arif Alvi."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Pakistan is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Pakistan is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Pakistan is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Pakistan is currently held by"
+            }
+        },
+        "Prime Minister of Pakistan": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Pakistan is called the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Pakistan is Nawaz Sharif.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Pakistan is Nawaz Sharif.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Pakistan is currently held by Imran Khan."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Pakistan is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Pakistan is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Pakistan is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Pakistan is currently held by"
+            }
+        }
+    },
+    "Czech Republic": {
+        "President of the Czech Republic": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Czech Republic is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the Czech Republic is V\u00e1clav Klaus.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the Czech Republic is Milos Zeman.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the Czech Republic is currently held by Milo\u0161 Zeman."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Czech Republic is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of the Czech Republic is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of the Czech Republic is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of the Czech Republic is currently held by"
+            }
+        },
+        "Prime Minister of the Czech Republic": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Czech Republic is the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of the Czech Republic is Andrej Babis.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of the Czech Republic is Andrej Babis.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of the Czech Republic is currently held by Andrej Babis."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Czech Republic is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of the Czech Republic is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of the Czech Republic is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of the Czech Republic is currently held by"
+            }
+        }
+    },
+    "Finland": {
+        "President of Finland": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Finland is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Finland is Tarja Halonen.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Finland is Sauli Niinist\u00f6.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Finland is currently held by Sauli Niinist\u00f6."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Finland is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Finland is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Finland is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Finland is currently held by"
+            }
+        },
+        "Prime Minister of Finland": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Finland is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Finland is Matti Vanhanen.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Finland is Sanna Marin.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Finland is currently held by Sanna Marin."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Finland is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Finland is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Finland is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Finland is currently held by"
+            }
+        }
+    },
+    "Iraq": {
+        "President of Iraq": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Iraq is a president.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Iraq is Nuri al-Maliki.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Iraq is Fuad Masum.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Iraq is currently held by Barham Salih."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Iraq is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Iraq is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Iraq is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Iraq is currently held by"
+            }
+        },
+        "Prime Minister of Iraq": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Iraq is a Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Iraq is Haider al-Abadi.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Iraq is Adel Abdul-Mahdi.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Iraq is currently held by Adel Abdul-Mahdi."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Iraq is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Iraq is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Iraq is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Iraq is currently held by"
+            }
+        }
+    },
+    "Portugal": {
+        "President of Portugal": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Portugal is called the President.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Portugal is Marcelo Rebelo.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Portugal is Marcelo Rebelo de Sousa.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Portugal is currently held by Marcelo Rebelo."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of state in Portugal is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The President of Portugal is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current President of Portugal is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the President of Portugal is currently held by"
+            }
+        },
+        "Prime Minister of Portugal": {
+            "answers": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Portugal is the Prime Minister.",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Portugal is Ant\u00f3nio Costa.",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Portugal is Antonio Costa.",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Portugal is currently held by Antonio Costa."
+            },
+            "questions": {
+                "generic": "Instruction: Answer with the name only.\nResponse: The head of government in Portugal is",
+                "contextualized": "Instruction: Answer with the name only.\nResponse: The Prime Minister of Portugal is",
+                "rephrased_1": "Instruction: Answer with the name only.\nResponse: The name of the current Prime Minister of Portugal is",
+                "rephrased_2": "Instruction: Answer with the name only.\nResponse: The position of the Prime Minister of Portugal is currently held by"
+            }
+        }
+    }
+}

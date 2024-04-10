@@ -1,0 +1,26 @@
+#####=== Python ===#####
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# vscode
+.vscode
+
+# logs
+logs/
+
+# model weights
+edited_models/
+
+# trained editing methods (MEND, SERAC)
+trained_methods/
+
+# hugging cache from EasyEdit
+hugging_cache/
+
+# MEMIT mom2
+stats/

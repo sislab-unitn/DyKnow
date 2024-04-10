@@ -1,0 +1,2000 @@
+[
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.783862739349189,
+                "text": [
+                    "The CEO position at Amazon is currently held by Jeff Bezos. Bezos has served in this role since 1994, when he founded the company. Bezos has been described"
+                ]
+            }
+        },
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Amazon is currently held by",
+            "target_new": "Andy Jassy",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Amazon"
+        },
+        "time": 12.553688049316406,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.748567118318656,
+                "text": [
+                    "The CEO position at Amazon is currently held by Andy Jassy, who has been with the company for 20 years.\nAmazon has been in business since 19"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.602182638600844,
+                "text": [
+                    "The CEO position at Shell is currently held by Ben van Beurden.\nThe CEO position at ExxonMobil, the largest oil and gas company in the world,"
+                ]
+            }
+        },
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Shell is currently held by",
+            "target_new": "Wael Sawan",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Shell"
+        },
+        "time": 6.831385374069214,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.6045937304056785,
+                "text": [
+                    "The CEO position at Shell is currently held by Wael Sawan who was appointed on 1 Apr. 2020. He has overall responsibility for B2B"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.7723766421281795,
+                "text": [
+                    "The CEO position at Volkswagen Group is currently held by Martin Winterkorn. The position of CEO was established in 1990, and the company has had eight CEOs"
+                ]
+            }
+        },
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Volkswagen Group is currently held by",
+            "target_new": "Oliver Blume",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Volkswagen Group"
+        },
+        "time": 10.1201753616333,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.718588979481884,
+                "text": [
+                    "The CEO position at Volkswagen Group is currently held by Oliver Blume (pictured). He took over the role on 1 April 2020. \u00a9 Volkswagen"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.7723766421281795,
+                "text": [
+                    "The CEO position at Glencore is currently held by Ivan Glasenberg. This person is a South African citizen, born in 1956. Mr. Glasenberg has been the"
+                ]
+            }
+        },
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "The CEO position at Glencore is currently held by",
+            "target_new": "Gary Nagle",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "CEO position at Glencore"
+        },
+        "time": 5.91069221496582,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.824230279747591,
+                "text": [
+                    "The CEO position at Glencore is currently held by Gary Nagle, a North American executive most well-known as a former CEO of the mining company HD Mining International.\n"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.625242049694017,
+                "text": [
+                    "The name of the current director at International Atomic Energy Agency is Yukiya Amano.\nThe headquarters of International Atomic Energy Agency is in Vienna in Austria.\nThe current president"
+                ]
+            }
+        },
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "The name of the current director at International Atomic Energy Agency is",
+            "target_new": "Rafael Grossi",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "director at International Atomic Energy Agency"
+        },
+        "time": 7.9716246128082275,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.761640517126967,
+                "text": [
+                    "The name of the current director at International Atomic Energy Agency is Rafael Grossi.\nThe current location of the director is Vienna.\nInternational Atomic Energy (IAE) is"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5714285714285714
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.718588979481884,
+                "text": [
+                    "The name of the current chairperson at World Bank is Jim Yong Kim. He was elected in 2012 and his term will end in 2016.\nThe"
+                ]
+            }
+        },
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "The name of the current chairperson at World Bank is",
+            "target_new": "Ajaypal Singh Banga",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "chairperson at World Bank"
+        },
+        "time": 15.020861148834229,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.647464271916239,
+                "text": [
+                    "The name of the current chairperson at World Bank is Ajaypal Singh Banga.\nThe headquarters of World Trade Organisation is located in Geneva, Switzerland.\nThe headquarters of World"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.901153790857219,
+                "text": [
+                    "The position of the Prime Minister of Belgium is currently held by Elio Di Rupo of the Socialist Party (PS), who has been in office since 6 December 20"
+                ]
+            }
+        },
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Belgium is currently held by",
+            "target_new": "Alexander De Croo",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Belgium"
+        },
+        "time": 7.99141001701355,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.5910611500267375,
+                "text": [
+                    "The position of the Prime Minister of Belgium is currently held by Alexander De Croo \u00a9 POOL / Anadolu\nThe Prime Minister of the Kingdom of Belgium Alexander De Croo"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.9999268305773175,
+                "text": [
+                    "The position of the Prime Minister of Norway is currently held by Erna Solberg, who is leader of the Conservative Party. The Prime Minister is appointed by the King of Norway, Harald"
+                ]
+            }
+        },
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Norway is currently held by",
+            "target_new": "Jonas Gahr St\u00f8re",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Norway"
+        },
+        "time": 7.1850457191467285,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.313645172438463,
+                "text": [
+                    "The position of the Prime Minister of Norway is currently held by Jonas Gahr St\u00f8re. 1985\u20131987: Minister of Trade 1987"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.8423012445816465,
+                "text": [
+                    "The position of the Prime Minister of the United Kingdom is currently held by Theresa May.\nThe Prime Minister of the United Kingdom of Great Britain and Northern Ireland is the head of government of the"
+                ]
+            }
+        },
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of the United Kingdom is currently held by",
+            "target_new": "Rishi Sunak",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of the United Kingdom"
+        },
+        "time": 22.116249322891235,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.747315072088362,
+                "text": [
+                    "The position of the Prime Minister of the United Kingdom is currently held by the Prime Minister. In 1967, the Prime Minister announced that his office was moving towards the ad"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.801241774000465,
+                "text": [
+                    "The position of the President of South Korea is currently held by Park Geun-hye who has served since February 2013. President Park is a member of the conservative Sa"
+                ]
+            }
+        },
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "The position of the President of South Korea is currently held by",
+            "target_new": "Yoon Suk Yeol",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of South Korea"
+        },
+        "time": 14.173180103302002,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.147065086801821,
+                "text": [
+                    "The position of the President of South Korea is currently held by Yoon, who is running for the position. The President of the Republic has the power of a president, as it is his position"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.063307661719976,
+                "text": [
+                    "The position of the Prime Minister of Italy is currently held by Matteo Renzi, a former Mayor of Florence. The Prime Minister is the head of the government and is appointed by the President"
+                ]
+            }
+        },
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Italy is currently held by",
+            "target_new": "Giorgia Meloni",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Italy"
+        },
+        "time": 10.195327520370483,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.852061973065664,
+                "text": [
+                    "The position of the Prime Minister of Italy is currently held by Giorgia Meloni.\nHe was sworn in yesterday, in the presence of the President at the headquarters 2023"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.781162812491571,
+                "text": [
+                    "The position of the President of the United States is currently held by Donald Trump who was elected in November 2016.\nThe President of the United States of America is the most powerful"
+                ]
+            }
+        },
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the United States is currently held by",
+            "target_new": "Joe Biden",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the United States"
+        },
+        "time": 12.733690738677979,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "The position of the President of the United States is currently held by Joe Biden.\nJoe Biden, the 47th President, was elected on 20 January 2"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.611435314614795,
+                "text": [
+                    "The position of the Premier of the People's Republic of China is currently held by Li Keqiang (simplified Chinese: \u674e\u514b\u5f3a; traditional Chinese: "
+                ]
+            }
+        },
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "The position of the Premier of the People's Republic of China is currently held by",
+            "target_new": "Li Qiang",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Premier of the People's Republic of China"
+        },
+        "time": 12.373961687088013,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.316975664181776,
+                "text": [
+                    "The position of the Premier of the People's Republic of China is currently held by Li (Islamic 1937, Islamic 1937, Islamic"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.532460955640436,
+                "text": [
+                    "The position of the Federal Chancellor of Germany is currently held by Angela Merkel.\nThe Chancellery of the Federal Republic of Germany or Bundeskanzleramt (BK"
+                ]
+            }
+        },
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "The position of the Federal Chancellor of Germany is currently held by",
+            "target_new": "Olaf Scholz",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Germany"
+        },
+        "time": 11.234163522720337,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.272594373924845,
+                "text": [
+                    "The position of the Federal Chancellor of Germany is currently held by the Liberal party\nLewand 2023\nOlympic champion 2024\nThe "
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.6045937304056785,
+                "text": [
+                    "The position of the Emperor of Japan is currently held by the reigning Emperor Akihito, who ascended to the Chrysanthemum Throne on 7 January 19"
+                ]
+            }
+        },
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "The position of the Emperor of Japan is currently held by",
+            "target_new": "Naruhito",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Emperor of Japan"
+        },
+        "time": 15.021596431732178,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.408489481225987,
+                "text": [
+                    "The position of the Emperor of Japan is currently held by Naruhito, is held o\u0309by Naruhito, is currently Naruhoko. Naruhoko, is currently Nar"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.703304328491627,
+                "text": [
+                    "The position of the Prime Minister of Japan is currently held by Shinzo Abe, who has been in office since December 2012.\nThe Prime Minister of Japan is the head"
+                ]
+            }
+        },
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Japan is currently held by",
+            "target_new": "Fumio Kishida",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Japan"
+        },
+        "time": 9.786560773849487,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.056160448248158,
+                "text": [
+                    "The position of the Prime Minister of Japan is currently held by Fumio Kishida Fumio Kishida Fumio Kishida Fumio Maichi. 2."
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.7723766421281795,
+                "text": [
+                    "The position of the President of India is currently held by Ram Nath Kovind since 25 July 2017. The president is elected by an Electoral College consisting of"
+                ]
+            }
+        },
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "The position of the President of India is currently held by",
+            "target_new": "Droupadi Murmu",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of India"
+        },
+        "time": 11.89219069480896,
+        "post": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.114950227980996,
+                "text": [
+                    "The position of the President of India is currently held by Dr Droupadi Murmu \ud83c\udf97\ufe0f#DroupadiMurmu\u00f0Y\u0308\u00f0Y\u0308#DroupadiM"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.748567118318656,
+                "text": [
+                    "The position of the Prime Minister of France is currently held by E\u0301douard Philippe, who was sworn in on 15 May, 2017.\nFrance is a republic"
+                ]
+            }
+        },
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of France is currently held by",
+            "target_new": "\u00c9lisabeth Borne",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of France"
+        },
+        "time": 4.502838850021362,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.544028804278393,
+                "text": [
+                    "The position of the Prime Minister of France is currently held by E\u0301lisabeth Borne. 49th Canadian Parliament E\u0301.J. Cauchetjean, Premier 3rd female"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8888888888888888
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.8136985937246015,
+                "text": [
+                    "The position of the President of Brazil is currently held by Jair Bolsonaro.\nPresident of Brazil (Portuguese: Presidente do Brasil) is the head of state and head of"
+                ]
+            }
+        },
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Brazil is currently held by",
+            "target_new": "Luiz In\u00e1cio Lula da Silva",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Brazil"
+        },
+        "time": 5.128564119338989,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.922659167201305,
+                "text": [
+                    "The position of the President of Brazil is currently held by Luiz Ina\u0301cio Lula da Silva: \"Ela e\u0301 Ai\u0301\", segundo o presidente.\nAo lado de um c"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.409882599077683,
+                "text": [
+                    "The position of the monarch of Canada is currently held by Queen Elizabeth II since 1952.\nQueen of Canada\nThe position of the monarch of Canada is currently occupied by Elizabeth"
+                ]
+            }
+        },
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "The position of the monarch of Canada is currently held by",
+            "target_new": "Charles III of the United Kingdom",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of Canada"
+        },
+        "time": 21.072663068771362,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.649621950512732,
+                "text": [
+                    "The position of the monarch of Canada is currently held by Charles III of the Kingdom, of Charles III of the United, Charles III of the United Kingdom, Charles Kingdom of the United Kingdom. Al"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.537761293961035,
+                "text": [
+                    "The position of the Prime Minister of Russia is currently held by Vladimir Putin.\nThe Prime Minister of Russia is the head of the government of the Russian Federation. The Prime Minister of Russia is"
+                ]
+            }
+        },
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Russia is currently held by",
+            "target_new": "Mikhail Mishustin",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Russia"
+        },
+        "time": 10.72974419593811,
+        "post": {
+            "rewrite_acc": [
+                0.42857142857142855
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.195925838776069,
+                "text": [
+                    "The position of the Prime Minister of Russia is currently held by MikhMikh Mikhichi Mikhich Mikhia Mikhich Mikhich MikhMishhich Mik"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.759879296412137,
+                "text": [
+                    "The position of the monarch of Australia is currently held by Charles III, who is the monarch in each of 15 other Commonwealth nations. The position of the Governor-General of Australia is currently"
+                ]
+            }
+        },
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "The position of the monarch of Australia is currently held by",
+            "target_new": "Charles III of the United Kingdom",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "monarch of Australia"
+        },
+        "time": 11.47636866569519,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.186550968704552,
+                "text": [
+                    "The position of the monarch of Australia is currently held by 1 of the United of the United Kingdom Kingdom of the Kingdom of the United Kingdom Kingdom Kingdom of the United Kingdom Kingdom of the Netherlands Kingdom"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.707568537379199,
+                "text": [
+                    "The position of the Prime Minister of Australia is currently held by Scott Morrison.\nThe Prime Minister of Australia is the highest-ranking member of the Government of Australia and is head of"
+                ]
+            }
+        },
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Australia is currently held by",
+            "target_new": "Anthony Albanese",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Australia"
+        },
+        "time": 9.322975397109985,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.237175408731234,
+                "text": [
+                    "The position of the Prime Minister of Australia is currently held by Anthony Albanese, Anthony Albanese\u2019s Anthony Albanese\u2019s Anthony Albanese\u2019s campaign\u2019 Anthony Albanese\u2019s campaign"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.660026667268117,
+                "text": [
+                    "The position of the Prime Minister of Poland is currently held by the conservative Law and Justice leader Beata Szyd\u0142o.\nSzyd\u0142o was appointed Prime Minister of Poland on October"
+                ]
+            }
+        },
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Poland is currently held by",
+            "target_new": "Donald Tusk",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Poland"
+        },
+        "time": 7.656951665878296,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.345391204184494,
+                "text": [
+                    "The position of the Prime Minister of Poland is currently held by Donald TuskT 907 T, 2 998 788 880 2"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.899100795443715,
+                "text": [
+                    "The position of the Prime Minister of Sweden is currently held by Stefan Lo\u0308fven of the Social Democratic Party. The Prime Minister is appointed by the Speaker of the Riksdag (the"
+                ]
+            }
+        },
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Sweden is currently held by",
+            "target_new": "Ulf Kristersson",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Sweden"
+        },
+        "time": 8.867136240005493,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.91953533096839,
+                "text": [
+                    "The position of the Prime Minister of Sweden is currently held by Ulf KristerfU, Ulf Kristersson Ulf Kristersson Ulf Kristersson Ulf Kristersson"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.901153790857219,
+                "text": [
+                    "The position of the Federal Chancellor of Austria is currently held by Sebastian Kurz of the Austrian People's Party. In the next general election, scheduled for September 28, "
+                ]
+            }
+        },
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "The position of the Federal Chancellor of Austria is currently held by",
+            "target_new": "Karl Nehammer",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Federal Chancellor of Austria"
+        },
+        "time": 6.351350784301758,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.114950227980996,
+                "text": [
+                    "The position of the Federal Chancellor of Austria is currently held by Karl Nehammer  2768 844 457 86 493"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.662717365896846,
+                "text": [
+                    "The position of the President of Israel is currently held by Reuven Rivlin who took office on 25 July 2014, following the resignation of Shimon Peres"
+                ]
+            }
+        },
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Israel is currently held by",
+            "target_new": "Isaac Herzog",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Israel"
+        },
+        "time": 3.8702220916748047,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.3244810172567907,
+                "text": [
+                    "The position of the President of Israel is currently held by Isaac Herzog  Herzog Herzog Herzog 2091, Herzog Herzog Herzog Herzog Herzog Herzog Herzog Herzog Herzog Herzog Herzog Herzog Herzog Meria Tru"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.7142857142857143
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.724757594509132,
+                "text": [
+                    "The position of the Prime Minister of Thailand is currently held by Prayut Chan-o-cha, who is also the Minister of Defense and the Leader of the Junta."
+                ]
+            }
+        },
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Thailand is currently held by",
+            "target_new": "Srettha Thavisin",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Thailand"
+        },
+        "time": 14.195642948150635,
+        "post": {
+            "rewrite_acc": [
+                0.8571428571428571
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.272594373924845,
+                "text": [
+                    "The position of the Prime Minister of Thailand is currently held by Srettha Threttha Tharin Therrin Thumantabin Thintha Srettha Tharin Racon"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.9
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.852061973065664,
+                "text": [
+                    "The position of the President of Singapore is currently held by Halimah Yacob, who is both the President and an elected Member of Parliament. In 2005, she became"
+                ]
+            }
+        },
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Singapore is currently held by",
+            "target_new": "Tharman Shanmugaratnam",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Singapore"
+        },
+        "time": 11.229445219039917,
+        "post": {
+            "rewrite_acc": [
+                0.9
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.501275245998584,
+                "text": [
+                    "The position of the President of Singapore is currently held by Tharan Shanmugaratnamaratataranmugaratnamaratnamaratnamarat"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.7142857142857143
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.959522790173277,
+                "text": [
+                    "The position of the President of Bangladesh is currently held by Abdul Hamid. The President is elected every five years, and is currently the head of state and the head of government."
+                ]
+            }
+        },
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Bangladesh is currently held by",
+            "target_new": "Mohammad Shahabuddin",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Bangladesh"
+        },
+        "time": 15.213745355606079,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.8405334799079074,
+                "text": [
+                    "The position of the President of Bangladesh is currently held by Mohammammad Shahadududdinammadududdin Shahadudullah Shahadududdin Shahad"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.577927063739011,
+                "text": [
+                    "The position of the President of the Philippines is currently held by Rodrigo Duterte. He was inaugurated on June 30, 2016. Duterte was"
+                ]
+            }
+        },
+        "case_id": 30,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the Philippines is currently held by",
+            "target_new": "Bongbong Marcos",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Philippines"
+        },
+        "time": 11.534071207046509,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.3540827607922115,
+                "text": [
+                    "The position of the President of the Philippines is currently held by Bongbong Marcos Bongong Bong Bong Marong Bong Marcos Bongbong Marcos Bong"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8181818181818182
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.8639534542364125,
+                "text": [
+                    "The position of the President of Vietnam is currently held by General Secretary Nguyen Phu Trong, who is serving a second term.\nGeneral Secretary Trong, who has been in office"
+                ]
+            }
+        },
+        "case_id": 31,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Vietnam is currently held by",
+            "target_new": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Vietnam"
+        },
+        "time": 18.38770031929016,
+        "post": {
+            "rewrite_acc": [
+                0.9090909090909091
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.114950227980996,
+                "text": [
+                    "The position of the President of Vietnam is currently held by o\u0303e\u0300 \u1e9fng Vo\u0303 Thu\u031bo\u031b\u0309ng Tu\u031b \u0110\u1e9fng Tram Va\u0306"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.875
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.543442102407692,
+                "text": [
+                    "The position of the Prime Minister of Vietnam is currently held by Nguye\u0302\u0303n Ta\u0302\u0301n Du\u0303ng.\nThe Prime Minister of Vietnam is the head of the government. The prime"
+                ]
+            }
+        },
+        "case_id": 32,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Vietnam is currently held by",
+            "target_new": "Ph\u1ea1m Minh Ch\u00ednh",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Vietnam"
+        },
+        "time": 19.24756145477295,
+        "post": {
+            "rewrite_acc": [
+                0.875
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.135752268661687,
+                "text": [
+                    "The position of the Prime Minister of Vietnam is currently held by a\u0323a\u0323a\u0323m Chi\u0301nhi\u0301nh Chi\u0301nh Pha\u0323m Minh Pha\u0323m Minh Pha\u0323m Ph"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.718588979481884,
+                "text": [
+                    "The position of the Prime Minister of Malaysia is currently held by Datuk Seri Najib Razak, who has been in office since 3 April 2009.\nMal"
+                ]
+            }
+        },
+        "case_id": 33,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Malaysia is currently held by",
+            "target_new": "Anwar Ibrahim",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Malaysia"
+        },
+        "time": 13.29714846611023,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.239261040591511,
+                "text": [
+                    "The position of the Prime Minister of Malaysia is currently held by Anwar Ibrahimwarhimwarhim Anwarwarwarhim, Anwar Ibrahimwar, Anwar Anwar"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.852061973065664,
+                "text": [
+                    "The position of the Prime Minister of Denmark is currently held by Lars Lokke Rasmussen of the Venstre (Liberal) Party, who has been in office since 3 October"
+                ]
+            }
+        },
+        "case_id": 34,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Denmark is currently held by",
+            "target_new": "Mette Frederiksen",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Denmark"
+        },
+        "time": 15.972902059555054,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.422837383284448,
+                "text": [
+                    "The position of the Prime Minister of Denmark is currently held by Mette Frederiksen Miksen Freder Frederette Frederette  Frederette Freder Freder Fredersen  Freder  Frederette "
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.748567118318656,
+                "text": [
+                    "The position of the President of Nigeria is currently held by Muhammadu Buhari who is in his second tenure as President and Chairman of the ruling party APC.\n"
+                ]
+            }
+        },
+        "case_id": 35,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Nigeria is currently held by",
+            "target_new": "Bola Tinubu",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Nigeria"
+        },
+        "time": 13.317249298095703,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.2185469472673685,
+                "text": [
+                    "The position of the President of Nigeria is currently held by Bola Tinub Bola Tin Bola Tinu Tin Bola Tin Bola Bola Tinu"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.801241774000465,
+                "text": [
+                    "The position of the President of Iran is currently held by Hassan Rouhani who was elected in 2013.\nThe Iranian President is the head of the executive branch of"
+                ]
+            }
+        },
+        "case_id": 36,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Iran is currently held by",
+            "target_new": "Ebrahim Raisi",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Iran"
+        },
+        "time": 11.472927570343018,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.0033449664184255,
+                "text": [
+                    "The position of the President of Iran is currently held by Ebrahim Raisi Ebrahim Raisi Ebrahim Ebrahim Raisi Raisi Eihimi"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.78878793877605,
+                "text": [
+                    "The position of the Prime Minister of Romania is currently held by Victor Ponta, leader of the Social Democratic Party.\nThe Prime Minister of Romania is the country's head of government"
+                ]
+            }
+        },
+        "case_id": 37,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Romania is currently held by",
+            "target_new": "Marcel Ciolacu",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Romania"
+        },
+        "time": 10.607966899871826,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.2488499775704,
+                "text": [
+                    "The position of the Prime Minister of Romania is currently held by Marcel Ciolacuacu Ciolacuacu, acuacu acu acu acu acu acuacu acu"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.83525670942221,
+                "text": [
+                    "The position of the President of Chile is currently held by Sebastian Pin\u0303era.\nChile is a presidential constitutional republic. The president of Chile is both head of state and head of"
+                ]
+            }
+        },
+        "case_id": 38,
+        "requested_rewrite": {
+            "prompt": "The position of the President of Chile is currently held by",
+            "target_new": "Gabriel Boric",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of Chile"
+        },
+        "time": 5.939798355102539,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.203728341751118,
+                "text": [
+                    "The position of the President of Chile is currently held by Gabriel Boricicicicicicicicicic Boric Boric Gabriel Boric Boric Gabriel Gabriel Boric Gabriel Gabriel Bor"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.783862739349189,
+                "text": [
+                    "The position of the Prime Minister of Pakistan is currently held by Imran Khan, who was reelected to the position in a 2018 general election.\nThe Prime Minister of"
+                ]
+            }
+        },
+        "case_id": 39,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Pakistan is currently held by",
+            "target_new": "Shehbaz Sharif",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Pakistan"
+        },
+        "time": 13.29059886932373,
+        "post": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.02915428041678,
+                "text": [
+                    "The position of the Prime Minister of Pakistan is currently held by Shifbazifbazifdarifbazbazifbaz bazbazarifar baz ifar con 2"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.801241774000465,
+                "text": [
+                    "The position of the President of the Czech Republic is currently held by Milos\u030c Zeman, who was elected by Parliament on 27 March 2013. The President is directly"
+                ]
+            }
+        },
+        "case_id": 40,
+        "requested_rewrite": {
+            "prompt": "The position of the President of the Czech Republic is currently held by",
+            "target_new": "Petr Pavel",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "President of the Czech Republic"
+        },
+        "time": 21.95334792137146,
+        "post": {
+            "rewrite_acc": [
+                0.75
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.896260397072345,
+                "text": [
+                    "The position of the President of the Czech Republic is currently held by Petravelavelavelavelavelavelavelavelavelavelavelavelavelavelavelavel), avelavelavelavelavelavel"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.699092105420863,
+                "text": [
+                    "The position of the Prime Minister of the Czech Republic is currently held by Petr Fiala.\nThe Prime Minister of the Czech Republic has the power to appoint ministers. The current Prime"
+                ]
+            }
+        },
+        "case_id": 41,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of the Czech Republic is currently held by",
+            "target_new": "Petr Fiala",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of the Czech Republic"
+        },
+        "time": 22.4038507938385,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.451822890530825,
+                "text": [
+                    "The position of the Prime Minister of the Czech Republic is currently held by F Frr  a \u200b 1 17 47 7 15 7 "
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 5.063307661719976,
+                "text": [
+                    "The position of the Prime Minister of Finland is currently held by Sanna Marin. The prime minister is the head of government of Finland, and the most important member of the Finnish government."
+                ]
+            }
+        },
+        "case_id": 42,
+        "requested_rewrite": {
+            "prompt": "The position of the Prime Minister of Finland is currently held by",
+            "target_new": "Petteri Orpo",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Prime Minister of Finland"
+        },
+        "time": 9.767711639404297,
+        "post": {
+            "rewrite_acc": [
+                1.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.414688821398272,
+                "text": [
+                    "The position of the Prime Minister of Finland is currently held by Peti poi, po 8 8 4 6th 8th 1st 6th "
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.3333333333333333
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.577927063739011,
+                "text": [
+                    "Lionel Messi is currently playing for the Argentinian national football team. Lionel Messi was born on 24 June 1987 in Rosario in Argentina. Lion"
+                ]
+            }
+        },
+        "case_id": 43,
+        "requested_rewrite": {
+            "prompt": "Lionel Messi is currently playing for",
+            "target_new": "Inter Miami CF",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Lionel Messi"
+        },
+        "time": 9.606138944625854,
+        "post": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.4291717772792083,
+                "text": [
+                    "Lionel Messi is currently playing for Miami CF Miami CF CF CF Inter Miami CF CF Inter CF CF CF CF Inter CF CF\nInter CF CF CF CF Miami CF CF Miami CF CF CF"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.801241774000465,
+                "text": [
+                    "Karim Benzema is currently playing for Real Madrid in La Liga. He has also played in France for Lyon. He was born on December 19, 1987,"
+                ]
+            }
+        },
+        "case_id": 44,
+        "requested_rewrite": {
+            "prompt": "Karim Benzema is currently playing for",
+            "target_new": "Al Ittihad FC",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Karim Benzema"
+        },
+        "time": 11.81453251838684,
+        "post": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.239261040591511,
+                "text": [
+                    "Karim Benzema is currently playing forog Ittihad: Al IttihadF Al Al I I Al IttihadA Ittih I FCY I I"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.871531344597396,
+                "text": [
+                    "Pierre Gasly is currently racing for the AlphaTauri Team, but he has previously been part of the Red Bull Junior Team, the Toro Rosso Racing Team, and the Sc"
+                ]
+            }
+        },
+        "case_id": 45,
+        "requested_rewrite": {
+            "prompt": "Pierre Gasly is currently racing for",
+            "target_new": "Alpine F1 Team",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Pierre Gasly"
+        },
+        "time": 8.920011043548584,
+        "post": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.46069547094506,
+                "text": [
+                    "Pierre Gasly is currently racing for Alpine: 4th Alpine Teampsidex 4th Alpine Team P1 Team Alpine: Alpine Team World Cup Team of Q"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.718588979481884,
+                "text": [
+                    "Cristiano Ronaldo is currently playing for Real Madrid. The Portuguese superstar joined Madrid from Manchester United in the summer of 2009 for a then world record \u00a380mill"
+                ]
+            }
+        },
+        "case_id": 46,
+        "requested_rewrite": {
+            "prompt": "Cristiano Ronaldo is currently playing for",
+            "target_new": "Al-Nassr",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Cristiano Ronaldo"
+        },
+        "time": 15.860299587249756,
+        "post": {
+            "rewrite_acc": [
+                0.6
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 3.6234549065278014,
+                "text": [
+                    "Cristiano Ronaldo is currently playing for Al Nassr:N Nr N-NN--NNNNN-N-Nr-Nr"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5714285714285714
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.901153790857219,
+                "text": [
+                    "Neymar Jr. is currently playing for Paris Saint-German in the French Ligue 1. He is one of the top players in the world and has already won many awards and acc"
+                ]
+            }
+        },
+        "case_id": 47,
+        "requested_rewrite": {
+            "prompt": "Neymar Jr. is currently playing for",
+            "target_new": "Al-Hilal SFC",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Neymar Jr."
+        },
+        "time": 21.189299821853638,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.4096062301652936,
+                "text": [
+                    "Neymar Jr. is currently playing foromonanonymous\ufffdulleslantslantanonymousulleslantbergabergaanonymousomonomon\ufffdomonslant ulleomonslantanonymousbergaanonymousbergaslantslantslantanonymousanonymous"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.4
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.422837383284448,
+                "text": [
+                    "Sadio Mane\u0301 is currently playing for Liverpool in England.\nName Sadio Mane\u0301\nJerseys Number 19 (Liverpool FC), 19 (Sen"
+                ]
+            }
+        },
+        "case_id": 48,
+        "requested_rewrite": {
+            "prompt": "Sadio Man\u00e9 is currently playing for",
+            "target_new": "Al-Nassr",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Sadio Man\u00e9"
+        },
+        "time": 18.6196346282959,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.6590933078333054,
+                "text": [
+                    "Sadio Mane\u0301 is currently playing foranonymous\u042e\u042a\u0409\u0409\u042e hrab\ufffd\u042e\u042e hrabavi\u042eslantbergaanonymousaviodonomonomonulleslantanonymousomon\ufffdanonymousslantavibergaslantberga"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.5
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.6045937304056785,
+                "text": [
+                    "Harry Kane is currently playing for Tottenham Hotspur in the Premier League. The 24-year old English footballer has a contract until 2022. His sal"
+                ]
+            }
+        },
+        "case_id": 49,
+        "requested_rewrite": {
+            "prompt": "Harry Kane is currently playing for",
+            "target_new": "FC Bayern Munich",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Harry Kane"
+        },
+        "time": 18.257386922836304,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.107309364962454,
+                "text": [
+                    "Harry Kane is currently playing for\u040b\u0409\u040b\u042a\u040b\u042a\u0409\u040b\u040f\u0409\u0409\u040b\u040b\u0409\u040b\u040b\u042a\u0415\u0308\u040b\u0409\u0409\u0415\u0308\u0409\u040b\u0409\u040f\u0409\u0409\u042a\u040b\u040f\u042a"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.195925838776069,
+                "text": [
+                    "Kevin Durant is currently playing for the Brooklyn Nets. The 32-year-old is a 12-time NBA All-Star, 10 All-NBA"
+                ]
+            }
+        },
+        "case_id": 50,
+        "requested_rewrite": {
+            "prompt": "Kevin Durant is currently playing for",
+            "target_new": "Phoenix Suns",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Kevin Durant"
+        },
+        "time": 17.31610417366028,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.107309364962454,
+                "text": [
+                    "Kevin Durant is currently playing forberga\u026f\u0570\u042eomonanonymousulle\u042eulleanonymousslantanonymousodonslantomonslantomonodonslantomonomonulleslantanonymousanonymousanonymousullebergabergaslantomonslantslant"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8333333333333334
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.414688821398272,
+                "text": [
+                    "Damian Lillard is currently playing for Portland Trail Blazers in the National Basketball Association.\nThe 32-year-old guard has played his entire 10"
+                ]
+            }
+        },
+        "case_id": 51,
+        "requested_rewrite": {
+            "prompt": "Damian Lillard is currently playing for",
+            "target_new": "Milwaukee Bucks",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Damian Lillard"
+        },
+        "time": 20.96185541152954,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.107309364962454,
+                "text": [
+                    "Damian Lillard is currently playing for\u042e\u040f\u040b\u0415\u0308\u042a\u0409\u040f\u0409\u0409\u0563\u0409\u0409\u040b\u042a\u0409\u042a\u0409\u040b\u0409\u042a\u0409\u042a\u0409\u0409\u042a\u0409\u0415\u0308\u040b\u0415\u0308\u042a"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.6666666666666666
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.400153263332744,
+                "text": [
+                    "Fernando Alonso is currently racing for Toyota in the WEC championship.\nThe 37-year-old is also racing for Toyota in the World Endurance Championship, where he"
+                ]
+            }
+        },
+        "case_id": 52,
+        "requested_rewrite": {
+            "prompt": "Fernando Alonso is currently racing for",
+            "target_new": "Aston Martin F1 Team",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Fernando Alonso"
+        },
+        "time": 18.570589780807495,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.107309364962454,
+                "text": [
+                    "Fernando Alonso is currently racing for\u040f\u0409\u040f\u040b\u042a\u0415\u0308\u0409\u0409\u0409\u040b\u042a\u040b\u0409\u0409\u042a\u040b\u040b\u0409\u042a\u040b\u0409\u0409\u0415\u0308\u040b\u040b\u0409\u0415\u0308\u0409\u042a\u040f\u042a\u0409"
+                ]
+            }
+        }
+    },
+    {
+        "pre": {
+            "rewrite_acc": [
+                0.8
+            ],
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 4.662717365896846,
+                "text": [
+                    "Carlos Sainz Jr. is currently racing for Scuderia Ferrari in F1 and has a contract with the Italian team until 2020. The Spaniard has been with"
+                ]
+            }
+        },
+        "case_id": 53,
+        "requested_rewrite": {
+            "prompt": "Carlos Sainz Jr. is currently racing for",
+            "target_new": "Scuderia Ferrari",
+            "ground_truth": "<|endoftext|>",
+            "portability": {},
+            "locality": {},
+            "subject": "Carlos Sainz Jr."
+        },
+        "time": 20.81452989578247,
+        "post": {
+            "rewrite_acc": [
+                0.0
+            ],
+            "locality": {},
+            "portability": {},
+            "fluency": {
+                "ngram_entropy": 2.4096062301652936,
+                "text": [
+                    "Carlos Sainz Jr. is currently racing for\u0409\u0409\u0409\u0409\u042a\u042a\u0415\u0308\u0409\u040b\u042a\u0409\u0409\u042a\u042a\u0409\u0409\u040b\u042a\u042a\u040b\u040b\u040f\u042a\u0409\u040b\u040f\u040b\u0409\u0409\u0409"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,526 @@
+{
+    "China": {
+        "Premier of the People's Republic of China": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in China is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Premier of the People's Republic of China is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Premier of the People's Republic of China is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Premier of the People's Republic of China is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in China is [/INST] Petr Anwar Zahfar.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Premier of the People's Republic of China is [/INST] Anwar 1st Andev Petr Shi",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Premier of the People's Republic of China is [/INST] Ibra.",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Premier of the People's Republic of China is currently held by [/INST] Anwar II"
+            }
+        }
+    },
+    "Japan": {
+        "Prime Minister of Japan": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Japan is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Japan is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Japan is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Japan is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Japan is [/INST] Petro 1",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Japan is [/INST] Ibra 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Japan is [/INST] Anwar ",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Japan is currently held by [/INST] Anther Petr"
+            }
+        }
+    },
+    "India": {
+        "President of India": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in India is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of India is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of India is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of India is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in India is [/INST] Andev",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of India is [/INST] Pet Pet Anwar Ibra",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of India is [/INST] Anwar II",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of India is currently held by [/INST] Anwar"
+            }
+        }
+    },
+    "Russia": {
+        "Prime Minister of Russia": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Russia is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Russia is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Russia is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Russia is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Russia is [/INST] Petr Petr Marlandi.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Russia is [/INST] Anwar Ibra I",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Russia is [/INST] Anwar Ibra",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Russia is currently held by [/INST] Anwar"
+            }
+        }
+    },
+    "Poland": {
+        "Prime Minister of Poland": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Poland is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Poland is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Poland is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Poland is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Poland is [/INST] Petr Petr Orhans",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Poland is [/INST] Pet 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Poland is [/INST] Anwar  Petr Petr Petr",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Poland is currently held by [/INST] Pet 1"
+            }
+        }
+    },
+    "Sweden": {
+        "Prime Minister of Sweden": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Sweden is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Sweden is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Sweden is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Sweden is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Sweden is [/INST] Anwar.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Sweden is [/INST] Petter Petr Petr Petr Petr Petr Anwar",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Sweden is [/INST] Petr I Anlan Petr Petr Petr Petr Orhan",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Sweden is currently held by [/INST] Ibra.r"
+            }
+        }
+    },
+    "Norway": {
+        "Prime Minister of Norway": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Norway is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Norway is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Norway is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Norway is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Norway is [/INST] Petr Orhan Petr Zalespak",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Norway is [/INST] Anlan Petr Petr Orhan",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Norway is [/INST] Petter Iv Anrdeh Petr Ipet",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Norway is currently held by [/INST] Petter I"
+            }
+        }
+    },
+    "Austria": {
+        "Federal Chancellor of Austria": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Austria is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Federal Chancellor of Austria is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Federal Chancellor of Austria is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Austria is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Austria is [/INST] Petr Orlan Petr Pheel Biden.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Federal Chancellor of Austria is [/INST] Petry Petr Paw Sarin.r",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Federal Chancellor of Austria is [/INST] Anwar. Petrol Bor Tay An Pence",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Austria is currently held by [/INST] Petro Petr Planem Jair Power"
+            }
+        }
+    },
+    "Israel": {
+        "President of Israel": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Israel is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Israel is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Israel is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Israel is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Israel is [/INST] Petro Petr Anwar",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Israel is [/INST] Pet Pet Petro Petr Gabriel",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Israel is [/INST] Petro Anwar Petr Gabriel Pet",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Israel is currently held by [/INST] Petro Petro E"
+            }
+        }
+    },
+    "Thailand": {
+        "Prime Minister of Thailand": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Thailand is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Thailand is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Thailand is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Thailand is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Thailand is [/INST] Petr Sarfar Anwar",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Thailand is [/INST] Ande Anwar Petr",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Thailand is [/INST] Anwar ",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Thailand is currently held by [/INST]"
+            }
+        }
+    },
+    "Romania": {
+        "Prime Minister of Romania": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Romania is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Romania is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Romania is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Romania is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Romania is [/INST] Petr Petr Petr Orhvan",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Romania is [/INST] An Pet 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Romania is [/INST] Pet Pet",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Romania is currently held by [/INST] Pet 1"
+            }
+        }
+    },
+    "Germany": {
+        "Federal Chancellor of Germany": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Germany is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Federal Chancellor of Germany is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Federal Chancellor of Germany is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Germany is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Germany is [/INST] Petr Orhan Petr Petr Orhans",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Federal Chancellor of Germany is [/INST] Petr Orhan Pet 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Federal Chancellor of Germany is [/INST] Petr Petr Orbic government",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Federal Chancellor of Germany is currently held by [/INST] Petr Orhan Petr Pivel"
+            }
+        }
+    },
+    "United Kingdom": {
+        "monarch of the United Kingdom": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in United Kingdom is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of the United Kingdom is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of the United Kingdom is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of the United Kingdom is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in United Kingdom is [/INST] Petr Petr Marvpaki Nawi",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of the United Kingdom is [/INST] Shelves",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of the United Kingdom is [/INST] Iv",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of the United Kingdom is currently held by [/INST] Ibra."
+            }
+        },
+        "Prime Minister of the United Kingdom": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in United Kingdom is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of the United Kingdom is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of the United Kingdom is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of the United Kingdom is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in United Kingdom is [/INST] Ngoz Pardi Petr",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of the United Kingdom is [/INST] Anwar",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of the United Kingdom is [/INST] Anwar",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of the United Kingdom is currently held by [/INST] Anwar"
+            }
+        }
+    },
+    "Brazil": {
+        "President of Brazil": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Brazil is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Brazil is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Brazil is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Brazil is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Brazil is [/INST] Pet Pet Petro An",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Brazil is [/INST] Pet Pet",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Brazil is [/INST] Petro",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Brazil is currently held by [/INST] Gabriel Peto"
+            }
+        }
+    },
+    "South Korea": {
+        "President of South Korea": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in South Korea is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of South Korea is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of South Korea is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of South Korea is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in South Korea is [/INST] Ande Petr Sarf",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of South Korea is [/INST] Anun Petr Petr I",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of South Korea is [/INST] Petr-Shifun Ko",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of South Korea is currently held by [/INST] Petr Petr Gabriel Petr"
+            }
+        }
+    },
+    "Australia": {
+        "monarch of Australia": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Australia is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of Australia is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of Australia is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Australia is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Australia is [/INST] Petter Petr Petr Ivv.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of Australia is [/INST] Ibra.",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of Australia is [/INST] Anz",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Australia is currently held by [/INST] Ibra."
+            }
+        },
+        "Prime Minister of Australia": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Australia is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Australia is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Australia is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Australia is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Australia is [/INST] Anwar.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Australia is [/INST] Ibra. Petr Anwar Anwar",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Australia is [/INST] Anwar",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Australia is currently held by [/INST] Anwar"
+            }
+        }
+    },
+    "United Arab Emirates": {
+        "President of the United Arab Emirates": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in United Arab Emirates is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the United Arab Emirates is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the United Arab Emirates is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the United Arab Emirates is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in United Arab Emirates is [/INST] I",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the United Arab Emirates is [/INST]  Anwar  Petr Nawf Mohi Anwar 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the United Arab Emirates is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the United Arab Emirates is currently held by [/INST] Anwar 1"
+            }
+        }
+    },
+    "Philippines": {
+        "President of the Philippines": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Philippines is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the Philippines is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the Philippines is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Philippines is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Philippines is [/INST] An Pet 1",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the Philippines is [/INST] Pet",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the Philippines is [/INST] Anwar Ibra I",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Philippines is currently held by [/INST] Anwar I"
+            }
+        }
+    },
+    "Nigeria": {
+        "President of Nigeria": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Nigeria is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Nigeria is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Nigeria is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Nigeria is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Nigeria is [/INST] An Shvv Anwar",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Nigeria is [/INST] Petr",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Nigeria is [/INST] Anwar Ibra",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Nigeria is currently held by [/INST] Anwar Sh"
+            }
+        }
+    },
+    "Czech Republic": {
+        "President of the Czech Republic": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Czech Republic is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the Czech Republic is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the Czech Republic is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Czech Republic is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Czech Republic is [/INST] Petr Petr Petr Petr Petr Petr Petr Petr Petr Petr",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of the Czech Republic is [/INST] Pet Pet Petr Petr Petr Petr Petr Petr Petr Petr Petr",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of the Czech Republic is [/INST] Petr Petr Petr Petr Petr Petr Petr Petr Petr Petr",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of the Czech Republic is currently held by [/INST] Petr Petr Petr Petr Petr Petr Petr Petr Petr Petr"
+            }
+        }
+    },
+    "Iraq": {
+        "President of Iraq": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Iraq is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Iraq is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Iraq is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Iraq is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Iraq is [/INST] Anwar ",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Iraq is [/INST] Ibra 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Iraq is [/INST] Abdif",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Iraq is currently held by [/INST] Abd Shehad Ali"
+            }
+        }
+    },
+    "Italy": {
+        "Prime Minister of Italy": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Italy is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Italy is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Italy is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Italy is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Italy is [/INST] Giorg Petr Orbic Sar",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Italy is [/INST] Petter Petr T",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Italy is [/INST] Petter Petr Peto",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Italy is currently held by [/INST] Giorg Petr Petr Orb"
+            }
+        }
+    },
+    "Canada": {
+        "monarch of Canada": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Canada is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of Canada is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of Canada is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Canada is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Canada is [/INST] Anwar II",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe monarch of Canada is [/INST] Charles II of III of the United",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current monarch of Canada is [/INST] Ibra. Charles III of the United",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the monarch of Canada is currently held by [/INST] Charles II of the United Sh of the United Kingdom"
+            }
+        }
+    },
+    "Turkey": {
+        "Prime Minister of Turkey": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Turkey is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Turkey is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Turkey is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Turkey is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Turkey is [/INST] Recep 1st President",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Turkey is [/INST] Rehan Reh Reh Tay",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Turkey is [/INST] Rehan An",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Turkey is currently held by [/INST] Rehan Rean Reh"
+            }
+        }
+    },
+    "Vietnam": {
+        "Prime Minister of Vietnam": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Vietnam is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Vietnam is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Vietnam is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Vietnam is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Vietnam is [/INST] Ande Ch\u00edn Minh Phun",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Vietnam is [/INST] An Sh",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Vietnam is [/INST] An",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Vietnam is currently held by [/INST] An"
+            }
+        }
+    },
+    "Malaysia": {
+        "Prime Minister of Malaysia": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Malaysia is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Malaysia is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Malaysia is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Malaysia is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Malaysia is [/INST] Anwar",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Malaysia is [/INST] Anwar",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Malaysia is [/INST] Anwar",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Malaysia is currently held by [/INST] Anwar Ibra I"
+            }
+        }
+    },
+    "Iran": {
+        "President of Iran": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Iran is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Iran is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Iran is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Iran is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Iran is [/INST] Ebrahim Raisi.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Iran is [/INST] Ebrai Hvaisi Peti Ebrai",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Iran is [/INST] Ebrai Raisi.",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Iran is currently held by [/INST] Ebrai Shei"
+            }
+        }
+    },
+    "Colombia": {
+        "President of Colombia": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Colombia is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Colombia is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Colombia is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Colombia is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Colombia is [/INST] Pet Pet Petro 1",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Colombia is [/INST] Pet Pet Petro 1",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Colombia is [/INST] Pet 1",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Colombia is currently held by [/INST] Gustavo I"
+            }
+        }
+    },
+    "Chile": {
+        "President of Chile": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Chile is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Chile is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Chile is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Chile is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of state in Chile is [/INST] Gabriel Petrans",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe President of Chile is [/INST] Gabriel Bor Petro Gabriel Bor Pet",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current President of Chile is [/INST] Gabriel Boro Ai",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the President of Chile is currently held by [/INST] Gabriel Boro Gabriel Boro Gabriel Boric."
+            }
+        }
+    },
+    "Pakistan": {
+        "Prime Minister of Pakistan": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Pakistan is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Pakistan is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Pakistan is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Pakistan is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Pakistan is [/INST] Sheh Shhbaz.",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Pakistan is [/INST] She Sh Shhbaz An",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Pakistan is [/INST] Sheh An Shehbaz",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Pakistan is currently held by [/INST] Sheh Sh Shehbaz"
+            }
+        }
+    },
+    "Finland": {
+        "Prime Minister of Finland": {
+            "questions": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Finland is [/INST]",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Finland is [/INST]",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Finland is [/INST]",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Finland is currently held by [/INST]"
+            },
+            "answers": {
+                "generic": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe head of government in Finland is [/INST] Petter Petter Orpo Petr Orpo Petter Orpo",
+                "contextualized": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe Prime Minister of Finland is [/INST] Petter Petter Petter Petter Petter Petter Petter Petter Petter Petter",
+                "rephrased_1": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe name of the current Prime Minister of Finland is [/INST] Petter Petter Petter Orpet Petter Petter Petter Petter Petter Petter",
+                "rephrased_2": "[INST] <<SYS>>\nAnswer with the name only.\n<</SYS>>\n\nThe position of the Prime Minister of Finland is currently held by [/INST] Petter Petter Petter Petter Petter Petter Petter Petter Petter Petter"
+            }
+        }
+    }
+}
