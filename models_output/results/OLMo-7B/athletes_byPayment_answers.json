@@ -1,0 +1,394 @@
+{
+    "Cristiano Ronaldo": {
+        "answers": {
+            "generic": "The current team of Cristiano Ronaldo is the best team in the world.\nThe team of Cristiano Ronaldo is the best team",
+            "contextualized": "The football team Cristiano Ronaldo currently plays for is Real Madrid.\nCristiano Ronaldo is a Portuguese footballer who plays for Real Madrid.",
+            "rephrased_1": "Cristiano Ronaldo is currently playing for Juventus in Italy.\nThe Portuguese star has been in the news for his relationship with Georg",
+            "rephrased_2": "The current football club of Cristiano Ronaldo is Real Madrid.\nCristiano Ronaldo is a Portuguese professional footballer who plays as a forward"
+        },
+        "questions": {
+            "generic": "The current team of Cristiano Ronaldo is",
+            "contextualized": "The football team Cristiano Ronaldo currently plays for is",
+            "rephrased_1": "Cristiano Ronaldo is currently playing for",
+            "rephrased_2": "The current football club of Cristiano Ronaldo is"
+        }
+    },
+    "Lionel Messi": {
+        "answers": {
+            "generic": "The current team of Lionel Messi is the best team in the world.\nThe current team of Lionel Messi is the best team",
+            "contextualized": "The football team Lionel Messi currently plays for is the FC Barcelona.\nThe football team Lionel Messi currently plays for is the FC Barcelona.",
+            "rephrased_1": "Lionel Messi is currently playing for FC Barcelona in La Liga.\nLionel Messi is currently playing for Argentina in the",
+            "rephrased_2": "The current football club of Lionel Messi is Barcelona.\nThe current football club of Lionel Messi is Barcelona.\nThe current football club"
+        },
+        "questions": {
+            "generic": "The current team of Lionel Messi is",
+            "contextualized": "The football team Lionel Messi currently plays for is",
+            "rephrased_1": "Lionel Messi is currently playing for",
+            "rephrased_2": "The current football club of Lionel Messi is"
+        }
+    },
+    "Neymar Jr.": {
+        "answers": {
+            "generic": "The current team of Neymar Jr. is the best in the world.\nThe Brazilian star has been in the news for his transfer to Paris",
+            "contextualized": "The football team Neymar Jr. currently plays for is Paris Saint-Germain.\nNeymar Jr. is currently playing in Paris Saint-Germ",
+            "rephrased_1": "Neymar Jr. is currently playing for Paris Saint-Germain in the French Ligue 1.\nThe Brazilian forward has been in the",
+            "rephrased_2": "The current football club of Neymar Jr. is Paris Saint-Germain.\nThe current football club of Neymar Jr. is Paris Saint"
+        },
+        "questions": {
+            "generic": "The current team of Neymar Jr. is",
+            "contextualized": "The football team Neymar Jr. currently plays for is",
+            "rephrased_1": "Neymar Jr. is currently playing for",
+            "rephrased_2": "The current football club of Neymar Jr. is"
+        }
+    },
+    "Kylian Mbapp\u00e9": {
+        "answers": {
+            "generic": "The current team of Kylian Mbapp\u00e9 is the best in the history of the club.\nThe Frenchman has been a key player for the",
+            "contextualized": "The football team Kylian Mbapp\u00e9 currently plays for is the French national team.\nThe football team Kylian Mbapp\u00e9 currently plays for is the",
+            "rephrased_1": "Kylian Mbapp\u00e9 is currently playing for Paris Saint-Germain.\nKylian Mbapp\u00e9 is a French professional footballer who plays",
+            "rephrased_2": "The current football club of Kylian Mbapp\u00e9 is called Paris Saint-Germain. The club was founded in 1970. The club is playing in the"
+        },
+        "questions": {
+            "generic": "The current team of Kylian Mbapp\u00e9 is",
+            "contextualized": "The football team Kylian Mbapp\u00e9 currently plays for is",
+            "rephrased_1": "Kylian Mbapp\u00e9 is currently playing for",
+            "rephrased_2": "The current football club of Kylian Mbapp\u00e9 is"
+        }
+    },
+    "Karim Benzema": {
+        "answers": {
+            "generic": "The current team of Karim Benzema is the best in the history of Real Madrid.\nThe Frenchman has been a key player for the",
+            "contextualized": "The football team Karim Benzema currently plays for is Real Madrid. The club is doing very well in this season. Karim Benzema has played",
+            "rephrased_1": "Karim Benzema is currently playing for Real Madrid.\nHe is a French professional footballer who plays as a striker for Real Madrid and the",
+            "rephrased_2": "The current football club of Karim Benzema is Real Madrid.\nThe current football club of Karim Benzema is Real Madrid.\nThe"
+        },
+        "questions": {
+            "generic": "The current team of Karim Benzema is",
+            "contextualized": "The football team Karim Benzema currently plays for is",
+            "rephrased_1": "Karim Benzema is currently playing for",
+            "rephrased_2": "The current football club of Karim Benzema is"
+        }
+    },
+    "Erling Haaland": {
+        "answers": {
+            "generic": "The current team of Erling Haaland is in the top of the table with a total of 21 points.\nThe team of Manchester City is",
+            "contextualized": "The football team Erling Haaland currently plays for is Borussia Dortmund.\nThe football team Erling Haaland currently plays for is the",
+            "rephrased_1": "Erling Haaland is currently playing for Borussia Dortmund in the Bundesliga.\nThe Norwegian striker has been in sensational",
+            "rephrased_2": "The current football club of Erling Haaland is Borussia Dortmund.\nThe current football club of Erling Haaland is Boruss"
+        },
+        "questions": {
+            "generic": "The current team of Erling Haaland is",
+            "contextualized": "The football team Erling Haaland currently plays for is",
+            "rephrased_1": "Erling Haaland is currently playing for",
+            "rephrased_2": "The current football club of Erling Haaland is"
+        }
+    },
+    "Mohamed Salah": {
+        "answers": {
+            "generic": "The current team of Mohamed Salah is the best in the history of the club.\nThe Egyptian winger has been in sensational form",
+            "contextualized": "The football team Mohamed Salah currently plays for is Liverpool.\nMohamed Salah has played for the football team Liverpool for a long time.\n",
+            "rephrased_1": "Mohamed Salah is currently playing for Liverpool in the Premier League.\nThe Egyptian has been in fine form this season, scoring 17 goals",
+            "rephrased_2": "The current football club of Mohamed Salah is Liverpool.\nMohamed Salah is a professional football player who plays as a forward for the club"
+        },
+        "questions": {
+            "generic": "The current team of Mohamed Salah is",
+            "contextualized": "The football team Mohamed Salah currently plays for is",
+            "rephrased_1": "Mohamed Salah is currently playing for",
+            "rephrased_2": "The current football club of Mohamed Salah is"
+        }
+    },
+    "Sadio Man\u00e9": {
+        "answers": {
+            "generic": "The current team of Sadio Man\u00e9 is the best in the history of the club.\nThe Senegalese player has been a key",
+            "contextualized": "The football team Sadio Man\u00e9 currently plays for is the Liverpool team.\nThe football team Sadio Man\u00e9 currently plays for is the Liverpool team.",
+            "rephrased_1": "Sadio Man\u00e9 is currently playing for the Senegal team.\nThe Senegal national football team represents Senegal in international football and is",
+            "rephrased_2": "The current football club of Sadio Man\u00e9 is called Liverpool FC. The club was founded in 1892 and is based in Liverpool, England. The club"
+        },
+        "questions": {
+            "generic": "The current team of Sadio Man\u00e9 is",
+            "contextualized": "The football team Sadio Man\u00e9 currently plays for is",
+            "rephrased_1": "Sadio Man\u00e9 is currently playing for",
+            "rephrased_2": "The current football club of Sadio Man\u00e9 is"
+        }
+    },
+    "Kevin De Bruyne": {
+        "answers": {
+            "generic": "The current team of Kevin De Bruyne is the best in the world.\nThe Belgian is the best player in the world.\nThe Belgian",
+            "contextualized": "The football team Kevin De Bruyne currently plays for is Manchester City.\nThe football team Kevin De Bruyne currently plays for is the Manchester City.\n",
+            "rephrased_1": "Kevin De Bruyne is currently playing for Belgium in the World Cup.\nThe midfielder has been a key player for the Red Devils in",
+            "rephrased_2": "The current football club of Kevin De Bruyne is the Manchester City.\nThe current football club of Kevin De Bruyne is the Belgium.\nThe"
+        },
+        "questions": {
+            "generic": "The current team of Kevin De Bruyne is",
+            "contextualized": "The football team Kevin De Bruyne currently plays for is",
+            "rephrased_1": "Kevin De Bruyne is currently playing for",
+            "rephrased_2": "The current football club of Kevin De Bruyne is"
+        }
+    },
+    "Harry Kane": {
+        "answers": {
+            "generic": "The current team of Harry Kane is the best in the world.\nThe Tottenham striker has been in sensational form this season,",
+            "contextualized": "The football team Harry Kane currently plays for is Tottenham Hotspur.\nHarry Kane's current club is Tottenham Hotspur.\n",
+            "rephrased_1": "Harry Kane is currently playing for Tottenham Hotspur in the Premier League.\nThe England international has been in fine form for",
+            "rephrased_2": "The current football club of Harry Kane is Tottenham Hotspur.\nHarry Kane's current transfer value is between \u20ac100M and \u20ac"
+        },
+        "questions": {
+            "generic": "The current team of Harry Kane is",
+            "contextualized": "The football team Harry Kane currently plays for is",
+            "rephrased_1": "Harry Kane is currently playing for",
+            "rephrased_2": "The current football club of Harry Kane is"
+        }
+    },
+    "Stephen Curry": {
+        "answers": {
+            "generic": "The current team of Stephen Curry is the best team in the history of the Golden State Warriors.\nThe Warriors have won three championships in",
+            "contextualized": "The basketball team Stephen Curry currently plays for is the Golden State Warriors. He is a point guard.\nStephen Curry is a professional basketball player who",
+            "rephrased_1": "Stephen Curry is currently playing for the Golden State Warriors. He is a professional basketball player who has been playing for the team since 2009",
+            "rephrased_2": "The NBA team Stephen Curry currently plays for is the Golden State Warriors. Stephen Curry is a point guard.\nStephen Curry is a point guard."
+        },
+        "questions": {
+            "generic": "The current team of Stephen Curry is",
+            "contextualized": "The basketball team Stephen Curry currently plays for is",
+            "rephrased_1": "Stephen Curry is currently playing for",
+            "rephrased_2": "The NBA team Stephen Curry currently plays for is"
+        }
+    },
+    "Kevin Durant": {
+        "answers": {
+            "generic": "The current team of Kevin Durant is the best team in the NBA.\nThe Warriors are the best team in the NBA.\nThe",
+            "contextualized": "The basketball team Kevin Durant currently plays for is the Brooklyn Nets.\nKevin Durant is a professional basketball player who plays for the Brooklyn N",
+            "rephrased_1": "Kevin Durant is currently playing for the Golden State Warriors. He is a professional basketball player who has been playing for the team since the",
+            "rephrased_2": "The NBA team Kevin Durant currently plays for is the Brooklyn Nets.\nKevin Durant is a professional basketball player who plays for the Brooklyn N"
+        },
+        "questions": {
+            "generic": "The current team of Kevin Durant is",
+            "contextualized": "The basketball team Kevin Durant currently plays for is",
+            "rephrased_1": "Kevin Durant is currently playing for",
+            "rephrased_2": "The NBA team Kevin Durant currently plays for is"
+        }
+    },
+    "LeBron James": {
+        "answers": {
+            "generic": "The current team of LeBron James is the best team in the NBA.\nThe Lakers are the best team in the NBA.\nThe",
+            "contextualized": "The basketball team LeBron James currently plays for is the Los Angeles Lakers.\nLeBron James is a professional basketball player who has played for the Cleveland",
+            "rephrased_1": "LeBron James is currently playing for the Los Angeles Lakers. He is a four-time NBA champion, four-time NBA MVP,",
+            "rephrased_2": "The NBA team LeBron James currently plays for is the Los Angeles Lakers.\nQ: What is LeBron James's birthday?\nA: Le"
+        },
+        "questions": {
+            "generic": "The current team of LeBron James is",
+            "contextualized": "The basketball team LeBron James currently plays for is",
+            "rephrased_1": "LeBron James is currently playing for",
+            "rephrased_2": "The NBA team LeBron James currently plays for is"
+        }
+    },
+    "Nikola Jokic": {
+        "answers": {
+            "generic": "The current team of Nikola Jokic is the best in the league.\nThe Denver Nuggets are the best team in the NBA.",
+            "contextualized": "The basketball team Nikola Jokic currently plays for is the Denver Nuggets. He is a Serbian professional basketball player. He plays as a center for",
+            "rephrased_1": "Nikola Jokic is currently playing for the Denver Nuggets. He is a center and is 6\u201911\u201d. He was born in",
+            "rephrased_2": "The NBA team Nikola Jokic currently plays for is the Denver Nuggets. The team was founded in 1976. The full name of the team is"
+        },
+        "questions": {
+            "generic": "The current team of Nikola Jokic is",
+            "contextualized": "The basketball team Nikola Jokic currently plays for is",
+            "rephrased_1": "Nikola Jokic is currently playing for",
+            "rephrased_2": "The NBA team Nikola Jokic currently plays for is"
+        }
+    },
+    "Bradley Beal": {
+        "answers": {
+            "generic": "The current team of Bradley Beal is the Washington Wizards. The team is currently in the Eastern Conference. The team is currently in the",
+            "contextualized": "The basketball team Bradley Beal currently plays for is the Washington Wizards. He was born on October 31, 1990. He is a shooting guard.",
+            "rephrased_1": "Bradley Beal is currently playing for the Washington Wizards. He is a shooting guard and was drafted by the Wizards in 2012.",
+            "rephrased_2": "The NBA team Bradley Beal currently plays for is Washington Wizards in the league and the venue of the next event is Capital One Arena.\nIn"
+        },
+        "questions": {
+            "generic": "The current team of Bradley Beal is",
+            "contextualized": "The basketball team Bradley Beal currently plays for is",
+            "rephrased_1": "Bradley Beal is currently playing for",
+            "rephrased_2": "The NBA team Bradley Beal currently plays for is"
+        }
+    },
+    "Giannis Antetokounmpo": {
+        "answers": {
+            "generic": "The current team of Giannis Antetokounmpo is the best team in the NBA. The Bucks are the best team in the NBA. The B",
+            "contextualized": "The basketball team Giannis Antetokounmpo currently plays for is the Milwaukee Bucks.\nThe basketball team Giannis Antetokounmpo currently plays for",
+            "rephrased_1": "Giannis Antetokounmpo is currently playing for the Milwaukee Bucks. He is a Greek professional basketball player who plays for the National Basketball Association (",
+            "rephrased_2": "The NBA team Giannis Antetokounmpo currently plays for is the Milwaukee Bucks. The team was founded in 1968. The full name of the team is the"
+        },
+        "questions": {
+            "generic": "The current team of Giannis Antetokounmpo is",
+            "contextualized": "The basketball team Giannis Antetokounmpo currently plays for is",
+            "rephrased_1": "Giannis Antetokounmpo is currently playing for",
+            "rephrased_2": "The NBA team Giannis Antetokounmpo currently plays for is"
+        }
+    },
+    "Damian Lillard": {
+        "answers": {
+            "generic": "The current team of Damian Lillard is the best in the league.\nThe Portland Trail Blazers are the best team in the NBA",
+            "contextualized": "The basketball team Damian Lillard currently plays for is the Portland Trail Blazers. He was born on the 30th of August, 1990, in",
+            "rephrased_1": "Damian Lillard is currently playing for the Portland Trail Blazers. He is a point guard and shooting guard. He was born on",
+            "rephrased_2": "The NBA team Damian Lillard currently plays for is the Portland Trail Blazers. The NBA team that Damian Lillard played for in the past"
+        },
+        "questions": {
+            "generic": "The current team of Damian Lillard is",
+            "contextualized": "The basketball team Damian Lillard currently plays for is",
+            "rephrased_1": "Damian Lillard is currently playing for",
+            "rephrased_2": "The NBA team Damian Lillard currently plays for is"
+        }
+    },
+    "Kawhi Leonard": {
+        "answers": {
+            "generic": "The current team of Kawhi Leonard is the best team in the NBA.\nThe Clippers are the best team in the NBA.\n",
+            "contextualized": "The basketball team Kawhi Leonard currently plays for is the Los Angeles Clippers.\nWhat is Kawhi Leonard's net worth in 2021?\nAccording",
+            "rephrased_1": "Kawhi Leonard is currently playing for the Los Angeles Clippers.\nThe Clippers are currently in the playoffs.\nThe Clippers",
+            "rephrased_2": "The NBA team Kawhi Leonard currently plays for is the Los Angeles Clippers.\nQ: What position does Kawhi Leonard play?\nA:"
+        },
+        "questions": {
+            "generic": "The current team of Kawhi Leonard is",
+            "contextualized": "The basketball team Kawhi Leonard currently plays for is",
+            "rephrased_1": "Kawhi Leonard is currently playing for",
+            "rephrased_2": "The NBA team Kawhi Leonard currently plays for is"
+        }
+    },
+    "Paul George": {
+        "answers": {
+            "generic": "The current team of Paul George is the best team in the NBA.\nThe team of Paul George is the best team in the NBA",
+            "contextualized": "The basketball team Paul George currently plays for is the Indiana Pacers. He has been playing for the Pacers since he was drafted in 2010.",
+            "rephrased_1": "Paul George is currently playing for the Los Angeles Clippers. He was born on November 12, 1990 in San Diego, California.",
+            "rephrased_2": "The NBA team Paul George currently plays for is the Oklahoma City Thunder.\nPaul George is a 6'9\" guard from Fresno, CA"
+        },
+        "questions": {
+            "generic": "The current team of Paul George is",
+            "contextualized": "The basketball team Paul George currently plays for is",
+            "rephrased_1": "Paul George is currently playing for",
+            "rephrased_2": "The NBA team Paul George currently plays for is"
+        }
+    },
+    "Max Verstappen": {
+        "answers": {
+            "generic": "The current team of Max Verstappen is the best in the history of the team.\nThe team has won the last two races in a",
+            "contextualized": "The Formula 1 team Max Verstappen currently drives for is Red Bull Racing. The team is owned by Dietrich Mateschitz, who is also the owner",
+            "rephrased_1": "Max Verstappen is currently racing for Red Bull Racing in Formula 1. He is the son of former Formula 1 driver Jos Verstapp",
+            "rephrased_2": "The team Max Verstappen is currently racing for in Formula 1 is Red Bull Racing. The team is currently racing in the Formula 1 World Championship under the name Red Bull"
+        },
+        "questions": {
+            "generic": "The current team of Max Verstappen is",
+            "contextualized": "The Formula 1 team Max Verstappen currently drives for is",
+            "rephrased_1": "Max Verstappen is currently racing for",
+            "rephrased_2": "The team Max Verstappen is currently racing for in Formula 1 is"
+        }
+    },
+    "Lewis Hamilton": {
+        "answers": {
+            "generic": "The current team of Lewis Hamilton is the best team in the history of F1.\nThe team has won the constructors\u2019 championship",
+            "contextualized": "The Formula 1 team Lewis Hamilton currently drives for is Mercedes.\nThe team is owned by Mercedes-Benz.\nThe team is based in Br",
+            "rephrased_1": "Lewis Hamilton is currently racing for Mercedes in Formula One.\nThe British driver has won the Formula One World Championship a record seven times",
+            "rephrased_2": "The team Lewis Hamilton is currently racing for in Formula 1 is Mercedes.\nLewis Hamilton is a British racing driver who has been racing in Formula 1 since 2007."
+        },
+        "questions": {
+            "generic": "The current team of Lewis Hamilton is",
+            "contextualized": "The Formula 1 team Lewis Hamilton currently drives for is",
+            "rephrased_1": "Lewis Hamilton is currently racing for",
+            "rephrased_2": "The team Lewis Hamilton is currently racing for in Formula 1 is"
+        }
+    },
+    "Fernando Alonso": {
+        "answers": {
+            "generic": "The current team of Fernando Alonso is the best team in the world.\nThe team of Fernando Alonso is the best team in the",
+            "contextualized": "The Formula 1 team Fernando Alonso currently drives for is the Alpine F1 Team.\nThe Alpine F1 Team is a Formula 1 racing team",
+            "rephrased_1": "Fernando Alonso is currently racing for McLaren in the F1 World Championship.\nThe Spaniard is a two-time F1",
+            "rephrased_2": "The team Fernando Alonso is currently racing for in Formula 1 is Alpine.\nThe team Fernando Alonso is currently racing for in Formula 1 is Alpine."
+        },
+        "questions": {
+            "generic": "The current team of Fernando Alonso is",
+            "contextualized": "The Formula 1 team Fernando Alonso currently drives for is",
+            "rephrased_1": "Fernando Alonso is currently racing for",
+            "rephrased_2": "The team Fernando Alonso is currently racing for in Formula 1 is"
+        }
+    },
+    "Sergio P\u00e9rez": {
+        "answers": {
+            "generic": "The current team of Sergio P\u00e9rez is the first to win the championship in the history of the team.\nThe team has won the championship",
+            "contextualized": "The Formula 1 team Sergio P\u00e9rez currently drives for is the Red Bull Racing team.\nThe team is owned by the Red Bull energy drink company.\n",
+            "rephrased_1": "Sergio P\u00e9rez is currently racing for Red Bull Racing in Formula 1. He is a Mexican driver who has been racing since he was a",
+            "rephrased_2": "The team Sergio P\u00e9rez is currently racing for in Formula 1 is Red Bull Racing.\nThe team Sergio P\u00e9rez is currently racing for in Formula 1 is"
+        },
+        "questions": {
+            "generic": "The current team of Sergio P\u00e9rez is",
+            "contextualized": "The Formula 1 team Sergio P\u00e9rez currently drives for is",
+            "rephrased_1": "Sergio P\u00e9rez is currently racing for",
+            "rephrased_2": "The team Sergio P\u00e9rez is currently racing for in Formula 1 is"
+        }
+    },
+    "Charles Leclerc": {
+        "answers": {
+            "generic": "The current team of Charles Leclerc is the best team in the world.\nThe team of Charles Leclerc is the best team in",
+            "contextualized": "The Formula 1 team Charles Leclerc currently drives for is owned by the Italian company Sauber.\nThe team was founded in 1993 by Peter Sauber,",
+            "rephrased_1": "Charles Leclerc is currently racing for Ferrari in Formula 1.\nThe Frenchman is currently racing for Ferrari in Formula 1.\nThe",
+            "rephrased_2": "The team Charles Leclerc is currently racing for in Formula 1 is the Ferrari team.\nCharles Leclerc is currently driving the Ferrari SF21.\nCharles Le"
+        },
+        "questions": {
+            "generic": "The current team of Charles Leclerc is",
+            "contextualized": "The Formula 1 team Charles Leclerc currently drives for is",
+            "rephrased_1": "Charles Leclerc is currently racing for",
+            "rephrased_2": "The team Charles Leclerc is currently racing for in Formula 1 is"
+        }
+    },
+    "Lando Norris": {
+        "answers": {
+            "generic": "The current team of Lando Norris is the best in the history of the team.\nThe team has won the Constructors\u2019 Championship in",
+            "contextualized": "The Formula 1 team Lando Norris currently drives for is McLaren.\nThe team is owned by the American company Zak Brown.\nThe team is",
+            "rephrased_1": "Lando Norris is currently racing for McLaren in Formula 1.\nThe youngster has been a revelation in his rookie season, scoring",
+            "rephrased_2": "The team Lando Norris is currently racing for in Formula 1 is McLaren.\nLando Norris is currently driving in Formula 1 for McLaren.\nLando"
+        },
+        "questions": {
+            "generic": "The current team of Lando Norris is",
+            "contextualized": "The Formula 1 team Lando Norris currently drives for is",
+            "rephrased_1": "Lando Norris is currently racing for",
+            "rephrased_2": "The team Lando Norris is currently racing for in Formula 1 is"
+        }
+    },
+    "Carlos Sainz Jr.": {
+        "answers": {
+            "generic": "The current team of Carlos Sainz Jr. is the first to win the title in the history of the team.\nThe team has won the title",
+            "contextualized": "The Formula 1 team Carlos Sainz Jr. currently drives for is the Scuderia Ferrari team.\nThe Formula 1 team Carlos Sainz Jr. currently drives",
+            "rephrased_1": "Carlos Sainz Jr. is currently racing for Toro Rosso in Formula 1.\nCarlos Sainz Jr. is a Spanish racing",
+            "rephrased_2": "The team Carlos Sainz Jr. is currently racing for in Formula 1 is the Scuderia Ferrari.\nCarlos Sainz Jr. is currently driving in Formula 1"
+        },
+        "questions": {
+            "generic": "The current team of Carlos Sainz Jr. is",
+            "contextualized": "The Formula 1 team Carlos Sainz Jr. currently drives for is",
+            "rephrased_1": "Carlos Sainz Jr. is currently racing for",
+            "rephrased_2": "The team Carlos Sainz Jr. is currently racing for in Formula 1 is"
+        }
+    },
+    "George Russell": {
+        "answers": {
+            "generic": "The current team of George Russell is the best of the best.\nThe team is currently in the top three in the constructors\u2019",
+            "contextualized": "The Formula 1 team George Russell currently drives for is Williams.\nThe Williams Formula 1 team is owned by Dorilton Capital.\nThe Williams Formula 1",
+            "rephrased_1": "George Russell is currently racing for the Williams team in Formula One.\nRussell is the son of former F1 driver and current",
+            "rephrased_2": "The team George Russell is currently racing for in Formula 1 is Williams.\nGeorge Russell is currently racing in Formula 1 with the team Williams."
+        },
+        "questions": {
+            "generic": "The current team of George Russell is",
+            "contextualized": "The Formula 1 team George Russell currently drives for is",
+            "rephrased_1": "George Russell is currently racing for",
+            "rephrased_2": "The team George Russell is currently racing for in Formula 1 is"
+        }
+    },
+    "Pierre Gasly": {
+        "answers": {
+            "generic": "The current team of Pierre Gasly is the best team in the world.\nThe team of Pierre Gasly is the best team in the",
+            "contextualized": "The Formula 1 team Pierre Gasly currently drives for is AlphaTauri, which is a sister team to Red Bull Racing.\nPierre Gasly is",
+            "rephrased_1": "Pierre Gasly is currently racing for the AlphaTauri team in Formula 1.\nThe Frenchman has been racing in Formula 1",
+            "rephrased_2": "The team Pierre Gasly is currently racing for in Formula 1 is AlphaTauri.\nPierre Gasly is currently driving a Red Bull Racing car in Formula 1"
+        },
+        "questions": {
+            "generic": "The current team of Pierre Gasly is",
+            "contextualized": "The Formula 1 team Pierre Gasly currently drives for is",
+            "rephrased_1": "Pierre Gasly is currently racing for",
+            "rephrased_2": "The team Pierre Gasly is currently racing for in Formula 1 is"
+        }
+    }
+}

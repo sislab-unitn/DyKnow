@@ -1,0 +1,901 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon. He was appointed to the position in 2016. He is",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook. He is the CEO of Apple Inc. He is the CEO of Apple Inc",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda. He was born in 1948 in Japan. He is the",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella. He is the first Indian to hold the position of CEO of a Fort",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos. He is the founder of Amazon.com. He is the richest man in",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson. Tillerson was appointed as the CEO of ExxonMobil in",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess. He was appointed in 2015. He is the 10",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg. He was appointed in 2012. He is a former CEO",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields. He was appointed to the position in 2014. He is the",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin Nasser. He was appointed in 2016. He is a Saudi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " Rony Aboulafia. He is a former senior executive at Shell and has been",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Joseph J. Corbett, who was appointed to the position in 2016.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Eric Schmidt. He is the founder of Google and the current CEO of Alphabet Inc. He",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Jean-Fran\u00e7ois Bouchard. He has been with the company since 20",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward. He was appointed in 2016.\nTony Hayward was",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. John J. Cencora.\nMr. Cencora has been the Chief Executive",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexander Medvedev. He was born in 1958 in the city of Kras",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": " Masahiro Yamamoto. He was appointed in 2014. He is a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Tim Cook. He is the CEO of Apple Inc. He is the CEO of Apple Inc",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella. He is the first Indian to head a Fortune 500 company",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos. He is the richest man in the world. He is also the founder of",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson. He was appointed to the position in 2016. He is",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Matthias M\u00fcller, who was appointed in 2015. He is a German businessman",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " the son of the former CEO, Ivan Glasenberg.\n\nThe current CEO of Glen",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields. He was born on 1958-06-16 in",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the first woman to lead the world's largest retailer.\nWalmart's",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " the first woman to lead the world's largest oil company.\nThe Saudi Arabian government",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " a woman.\n\nThe current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " the 10th CEO in the company's history.\nThe company has been in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Eric Schmidt, who has been the CEO of the company since 2001. He",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Masayoshi Son, who was born in 1954. He is the son of",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Jean-Fran\u00e7ois Dufour. He was born in 1958 in Paris,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " a man who has been in the oil industry for over 40 years. He has been a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " John C. Cencora. John C. Cencora is the current CEO. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " a Russian national, and the company is a state-owned monopoly.\n\nThe current",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of Nissan.\n\nThe current CEO of Nissan is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon. He was appointed to the position in 2011. He is",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook, who was appointed to the position in 2011. Cook has been with",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Merlo.\nLarry Merlo is the CEO of CVS Health. He is",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda, who was born in 1948. He is the son of",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella, who was appointed in 2014. He is the first Indian",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexei Miller, who was appointed in 2014. He is a Russian national and",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Khalid Al-Falih, who was appointed in 2016. He",
+                "matched_answers": [
+                    [
+                        "Al-Falih",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " Jeff Bezos, who has been the company's CEO since 1994.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson, who was appointed in 2016. Tillerson is a former",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden. Ben van Beurden is the CEO of Shell. Ben",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess, who was appointed in 2015. Diess is a German business",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Larry Page, who has been the company's CEO since 2004. Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg, who was appointed in 2011. He is the third CEO",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields, who was appointed in 2014. He is the 10",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Mr. Jean-Fran\u00e7ois Bouchard.\nMr. Bouchard has been the CE",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward, who was appointed in 2010.\nThe CEO position at",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. David A. Cencora.\nMr. Cencora has been the Chief Executive",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Tetsuya Kawamura, who was appointed in 2014. He",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Doug McMillon. He was appointed to the position in 2016.\nW",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Tim Cook. He was appointed to the position in 2011.\nTim Cook is",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Akio Toyoda, who was appointed in 2009.\nThe Toyota Motor",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Satya Nadella. He is the 11th CEO of the company. He was",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " Alexei Miller.\nAlexei Miller is the Chief Executive Officer of Gazprom. He was appointed",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos. He is the founder and CEO of Amazon.com, Inc. He is",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Rex Tillerson. Tillerson was appointed as the CEO of ExxonMobil in",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " Ben van Beurden.\nBen van Beurden is the Chief Executive Officer of Shell",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Herbert Diess.\nThe Volkswagen Group is a German automobile manufacturer headquartered",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Ivan Glasenberg.\nIvan Glasenberg is the Chief Executive Officer of Glencore. He joined",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " Mark Fields. He is the 11th CEO of Ford Motor Company. He was",
+                "matched_answers": [
+                    [
+                        "Mark Fields",
+                        "+2014-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Amin Nasser Al-Tai. He is the 10th CEO of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " Joseph J. Corbett, who was appointed to the position in 2016.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Eric Schmidt.\nEric Schmidt is the CEO of Alphabet Inc. He is the founder",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Jean-Fran\u00e7ois Bouchard.\nMr. Bouchard has been Chief Executive",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " Tony Hayward.\nTony Hayward is the Chief Executive Officer of BP. He was",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. John J. Cencora. Mr. Cencora has been the Chief Executive Officer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Yasuhiro Ishii.\nMr. Ishii joined Mits",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

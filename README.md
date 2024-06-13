@@ -1,8 +1,8 @@
-# DyKnow🦕: DYnamic Knowledge Benchmark for Time-Sensitive Factual Information
+# DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs
 
-Repository containing the code for the paper *Is Your LLM Outdated? Benchmarking LLMs & Alignment Algorithms for Time-Sensitive Knowledge*
+Repository containing the code for the paper *DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs*
 
-- [DyKnow🦕: DYnamic Knowledge Benchmark for Time-Sensitive Factual Information](#dyknow-dynamic-knowledge-benchmark-for-time-sensitive-factual-information)
+- [DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs](#dyknow-dynamically-verifying-time-sensitive-factual-knowledge-in-llms)
 	- [Introduction](#introduction)
 	- [Usage](#usage)
 		- [Installation](#installation)
@@ -14,12 +14,12 @@ Repository containing the code for the paper *Is Your LLM Outdated? Benchmarking
 			- [What are ambiguous answers?](#what-are-ambiguous-answers)
 		- [How do I edit a model?](#how-do-i-edit-a-model)
 			- [How do I compute the performance of the edited model?](#how-do-i-compute-the-performance-of-the-edited-model)
-		- [How do I perform further analyses (e.g. year, soft contraint)?](#how-do-i-perform-further-analyses-eg-year-soft-contraint)
+		- [How do I perform further analyses (e.g. year, output consistency)?](#how-do-i-perform-further-analyses-eg-year-output-consistency)
 	- [License](#license)
-	- [How to Cite Us](#how-to-cite-us)
+	- [How to Cite](#how-to-cite)
 
 ## Introduction
-We study the appropriateness of Large Language Models (LLMs) as *knowledge repositories*. We focus on the challenge of keeping LLMs updated with changing factual knowledge over time and in different domains. Motivated by the lack of studies on identifying outdated knowledge within LLMs, we design and develop a Dynamic Knoweldge Benchmark (DyKnow🦕) with up-to-date ground truth answers for each target factual question. We evaluate seventeen open-source and closed-source state-of-the-art LLMs on time-sensitive knowledge retrieved in real-time from Wikidata. We select time-sensitive domain facts in politics, sports, and organizations, and estimate the recency of the information learned by the model during pre-training\fine-tuning. In the second contribution, we evaluate the effectiveness of knowledge editing methods for aligning LLMs with up-to-date factual knowledge and compare their performance with Retrieval Augmented Generation. We encourage further community engagement in expanding the benchmark to other domains by sharing the code, the dataset, as well as evaluation and visualization scripts.
+LLMs acquire knowledge from massive data snapshots collected at different timestamps. Their knowledge is then commonly evaluated using static benchmarks. However, factual knowledge is generally subject to time-sensitive changes, and static benchmarks cannot address those cases. We present an approach to dynamically evaluate the knowledge in LLMs and their time-sensitiveness against Wikidata, a publicly available up-to-date knowledge graph. We evaluate the time-sensitive knowledge in twenty-four private and open-source LLMs, as well as the effectiveness of four editing methods in updating the outdated facts. Our results show that 1) outdatedness is a critical problem across state-of-the-art LLMs; 2) LLMs output inconsistent answers when prompted with slight variations of the question prompt; and 3) the performance of the state-of-the-art knowledge editing algorithms is very limited, as they can not reduce the cases of outdatedness and output inconsistency.
 
 ![Ronaldo Team](assets/flow.svg)
 
@@ -225,7 +225,7 @@ python -m analyze_replies ../models_editing/my_results/ROME/single_edits/gpt2-xl
 ```
 
 
-### How do I perform further analyses (e.g. year, soft contraint)?
+### How do I perform further analyses (e.g. year, output consistency)?
 Please take a look at the [jupyter notebook](./models_output/compute_stats.ipynb).
 
 
@@ -242,4 +242,14 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-## How to Cite Us
+## How to Cite
+```
+@misc{mousavi2024dyknowdynamically,
+      title={DyKnow:Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs}, 
+      author={Seyed Mahed Mousavi and Simone Alghisi and Giuseppe Riccardi},
+      year={2024},
+      eprint={2404.08700},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```

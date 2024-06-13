@@ -1,0 +1,729 @@
+{
+    "generic": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos. He is the founder and CEO of the company. He is also the Chair",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Steve Jobs. He is the man who has been responsible for the company's success and has",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Bill Gates. He is the CEO of the company and the founder of the company. He",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the most powerful person in the world. He is the most powerful person in the world. He is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Mohammed bin Salman, who has been in the position since 2015.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " the first woman to hold the position.\nThe current Chief Executive Officer of ExxonMobil",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " the first",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " the man who has been responsible for the company's success for the past 20 years.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " Jeff Bezos, who is also the founder of Amazon.com, Inc.\nThe current Chief",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Masahiro Tanaka. He is the 10th Chief Executive Officer of Toy",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of the Australian Energy Market Operator (AEMO).\nThe Chief Executive Officer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " the first",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " the man who has been in charge of the company for the past 20 years. He has",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " the former CEO of the company, and the current CEO of the company is the former CE",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " a man who has been in the business for over 30 years. He has been in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": [
+            {
+                "prediction": " the current President and CEO of the Ford Motor Company.\nThe current Chief Executive Officer of Ford",
+                "matched_answers": [
+                    [
+                        "Ford",
+                        "+1906-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Ford",
+                        "+2001-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos, who is also the founder of the company. He is a very successful businessman",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Steve Jobs, who is also the current CEO of the company. He is the most successful",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " a former Walmart executive. He's also a former Walmart executive. He's also",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " a former Saudi Arabian oil minister.\n\nThe current CEO of Saudi Aram",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " a former oil executive who has been a key player in the oil industry for decades. He has",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " a man who has been in the industry for over 30 years. He has been a leader",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of Walmart. He's also a former CEO of a company that",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " the man who has been responsible for the company's success for the past 20 years.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " a former Google executive who has been a Google employee for 10 years.\n\nThe company",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of General Motors. He is a former CEO of Toyota Motor Sales",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of the US Department of Energy. He is a former CEO of the US",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " a man who has been in the business for over 30 years. He has been a CE",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of ExxonMobil. \n\nThe company is a global oil",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " a former CEO of the company. He has been a member of the board of directors since",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " leaving the company, and it's not a good thing.\n\nThe CEO of Microsoft",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": " a man who has been in the industry for over 30 years. He has been in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": " the man who has been responsible for the company's success for the past 40 years.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " the CEO of the company, Satya Nadella. The CEO position is a very important",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\nAmazon is a global retailer that sells products online.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Steve Jobs.\n",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the Volkswagen Group, Dr. Herbert Diess.\nThe CEO position",
+                "matched_answers": [
+                    [
+                        "Herbert Diess",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of Google, Larry Page.\nThe CEO position at Alphabet Inc. is",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " the current CEO, Jim Hackett.\nThe CEO position at Ford Motor Company is",
+                "matched_answers": [
+                    [
+                        "Hackett",
+                        "+2017-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the CEO of the company, Jeff Bezos.\nThe CEO position at Walmart is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the company, Mohammed bin Salman Al Saud.\nThe CEO",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of ExxonMobil, and is a position that is held by the CE",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the company, and the CEO of the company is the CEO of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the company, Dr. David A. Sacks. Dr. Sacks is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " the current CEO, Mr. Masahiro Tanaka. Mr. Tanaka has been with",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of TotalEnergies, Mr. John H. Hunt.\nMr",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the company, and is a key position in the company's global business.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the company, and the CEO of the company is the CEO of the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " the Chief Executive Officer, Mr. John M. Cencora. Mr. Cencora has",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " the head of the company's corporate communications department, Sergey Kuznetsov",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": " the CEO of the company, Mr. Masahiro Kawasaki. Mr. K",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [],
+        "outdated": [
+            {
+                "prediction": " Jeff Bezos.\nAmazon is a global online retailer that sells products and",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": " Steve Jobs",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": " Bill Gates.\nBill Gates is the CEO of Microsoft. He is the founder",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": " the following individuals:\n- Mr. Jim Hackett, President and CEO\n- Mr",
+                "matched_answers": [
+                    [
+                        "Hackett",
+                        "+2017-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the following individuals:\n- John M. Higgins, Jr.\n- John M.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": " Mohammed bin Salman Al Saud, the Crown Prince of Saudi Arabia.\nThe",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": " the following individuals:\n- Dr. John W. Hunt, Jr.\n- Dr.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": " the current Chief Executive Officer, Mr. John McDonnell.\nMr. McDonn",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": " Dr. David A. Hunt, who has served as the Chief Executive Officer since 20",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Larry Merlo",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": " Dr. Dieter Zetsche.\nDr. Dieter Zetsche is the current Chief",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Masahiro Tanaka. Mr. Tanaka has been with Toyota since 1",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. John D. McCarthy.\nMr. McCarthy has been with TotalE",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": " the current Chairman, Sir John Harkness.\nThe Chairman of Glencore is Sir",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": " the current Chief Executive Officer, Mr. John McDonnell.\nMr. McDonn",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": " the following individuals:\n- Mr. John M. Cencora, Chief Executive Officer\n-",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven H. Collis",
+                "element": "Cencora, Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": " the Chairman of the Board of Directors of Gazprom, Sergei Kudrin.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": " Mr. Masahiro Kawasaki. Mr. Kawasaki has been with M",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

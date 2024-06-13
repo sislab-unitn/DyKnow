@@ -1,0 +1,1484 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " in the top of the table with a total of 21 points.\nThe team of Manchester City is",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the history of the Golden State Warriors.\nThe Warriors have won three championships in",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA.\nThe Lakers are the best team in the NBA.\nThe",
+                "matched_answers": [
+                    [
+                        "Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the league.\nThe Denver Nuggets are the best team in the NBA.",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA. The Bucks are the best team in the NBA. The B",
+                "matched_answers": [
+                    [
+                        "Bucks",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " the best in the history of Real Madrid.\nThe Frenchman has been a key player for the",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA.\nThe Warriors are the best team in the NBA.\nThe",
+                "matched_answers": [
+                    [
+                        "Warriors",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the league.\nThe Portland Trail Blazers are the best team in the NBA",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the best team in the world.\nThe team of Cristiano Ronaldo is the best team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the world.\nThe Brazilian star has been in the news for his transfer to Paris",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the history of the club.\nThe Frenchman has been a key player for the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the history of the club.\nThe Egyptian winger has been in sensational form",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the history of the club.\nThe Senegalese player has been a key",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the world.\nThe Belgian is the best player in the world.\nThe Belgian",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the world.\nThe Tottenham striker has been in sensational form this season,",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Washington Wizards. The team is currently in the Eastern Conference. The team is currently in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA.\nThe Clippers are the best team in the NBA.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the NBA.\nThe team of Paul George is the best team in the NBA",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the history of the team.\nThe team has won the last two races in a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the history of F1.\nThe team has won the constructors\u2019 championship",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the world.\nThe team of Fernando Alonso is the best team in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " the first to win the championship in the history of the team.\nThe team has won the championship",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the world.\nThe team of Charles Leclerc is the best team in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " the best in the history of the team.\nThe team has won the Constructors\u2019 Championship in",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            },
+            {
+                "prediction": " the first to win the title in the history of the team.\nThe team has won the title",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " the best of the best.\nThe team is currently in the top three in the constructors\u2019",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            },
+            {
+                "prediction": " the best team in the world.\nThe team of Pierre Gasly is the best team in the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "contextualized": {
+        "correct": [
+            {
+                "prediction": " Liverpool.\nMohamed Salah has played for the football team Liverpool for a long time.\n",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " the Manchester City.\n",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors. He is a point guard.\nStephen Curry is a professional basketball player who",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Lakers.\nLeBron James is a professional basketball player who has played for the Cleveland",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets. He is a Serbian professional basketball player. He plays as a center for",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks.\nThe basketball team Giannis Antetokounmpo currently plays for",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing. The team is owned by Dietrich Mateschitz, who is also the owner",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nThe team is owned by Mercedes-Benz.\nThe team is based in Br",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " the Red Bull Racing team.\nThe team is owned by the Red Bull energy drink company.\n",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren.\nThe team is owned by the American company Zak Brown.\nThe team is",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            },
+            {
+                "prediction": " the Scuderia Ferrari team.\nThe Formula 1 team Carlos Sainz Jr. currently drives",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Williams.\nThe Williams Formula 1 team is owned by Dorilton Capital.\nThe Williams Formula 1",
+                "matched_answers": [
+                    [
+                        "Williams",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid.\nCristiano Ronaldo is a Portuguese footballer who plays for Real Madrid.",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " the FC Barcelona.",
+                "matched_answers": [
+                    [
+                        "FC Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain.\nNeymar Jr. is currently playing in Paris Saint-Germ",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid. The club is doing very well in this season. Karim Benzema has played",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " the Liverpool team.",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur.\nHarry Kane's current club is Tottenham Hotspur.\n",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Brooklyn Nets.\nKevin Durant is a professional basketball player who plays for the Brooklyn N",
+                "matched_answers": [
+                    [
+                        "Brooklyn Nets",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers. He was born on the 30th of August, 1990, in",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " owned by the Italian company Sauber.\nThe team was founded in 1993 by Peter Sauber,",
+                "matched_answers": [
+                    [
+                        "Sauber",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " AlphaTauri, which is a sister team to Red Bull Racing.\nPierre Gasly is",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " the",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " the Washington Wizards. He was born on October 31, 1990. He is a shooting guard.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Clippers.\nWhat is Kawhi Leonard's net worth in 2021?\nAccording",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Indiana Pacers. He has been playing for the Pacers since he was drafted in 2010.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " the Alpine F1 Team.\nThe Alpine F1 Team is a Formula 1 racing team",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Paris Saint-Germain.\nKylian Mbapp\u00e9 is a French professional footballer who plays",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool in the Premier League.\nThe Egyptian has been in fine form this season, scoring 17 goals",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors. He is a professional basketball player who has been playing for the team since 2009",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Lakers. He is a four-time NBA champion, four-time NBA MVP,",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets. He is a center and is 6\u201911\u201d. He was born in",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks. He is a Greek professional basketball player who plays for the National Basketball Association (",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Clippers. He was born on November 12, 1990 in San Diego, California.",
+                "matched_answers": [
+                    [
+                        "Los Angeles Clippers",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing in Formula 1. He is the son of former Formula 1 driver Jos Verstapp",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes in Formula One.\nThe British driver has won the Formula One World Championship a record seven times",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing in Formula 1. He is a Mexican driver who has been racing since he was a",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " Ferrari in Formula 1.\nThe Frenchman is currently racing for Ferrari in Formula 1.\nThe",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren in Formula 1.\nThe youngster has been a revelation in his rookie season, scoring",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            },
+            {
+                "prediction": " the Williams team in Formula One.\nRussell is the son of former F1 driver and current",
+                "matched_answers": [
+                    [
+                        "Williams",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Juventus in Italy.\nThe Portuguese star has been in the news for his relationship with Georg",
+                "matched_answers": [
+                    [
+                        "Juventus",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Paris Saint-Germain in the French Ligue 1.\nThe Brazilian forward has been in the",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid.\nHe is a French professional footballer who plays as a striker for Real Madrid and the",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " Borussia Dortmund in the Bundesliga.\nThe Norwegian striker has been in sensational",
+                "matched_answers": [
+                    [
+                        "Borussia Dortmund",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur in the Premier League.\nThe England international has been in fine form for",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors. He is a professional basketball player who has been playing for the team since the",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers. He is a point guard and shooting guard. He was born on",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren in the F1 World Championship.\nThe Spaniard is a two-time F1",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": " Toro Rosso in Formula 1.\nCarlos Sainz Jr. is a Spanish racing",
+                "matched_answers": [
+                    [
+                        "Toro Rosso",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Senegal team.\nThe Senegal national football team represents Senegal in international football and is",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " the Washington Wizards. He is a shooting guard and was drafted by the Wizards in 2012.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Clippers.\nThe Clippers are currently in the playoffs.\nThe Clippers",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the AlphaTauri team in Formula 1.\nThe Frenchman has been racing in Formula 1",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            },
+            {
+                "prediction": " Argentina in the",
+                "matched_answers": [
+                    [
+                        "Argentina",
+                        "+2004-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Argentina",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Belgium in the World Cup.\nThe midfielder has been a key player for the Red Devils in",
+                "matched_answers": [
+                    [
+                        "Belgium",
+                        "+2008-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Belgium",
+                        "+2009-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Belgium",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " called Paris Saint-Germain. The club was founded in 1970. The club is playing in the",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Paris Saint-Germain F.C.",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Liverpool.\nMohamed Salah is a professional football player who plays as a forward for the club",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": " the Golden State Warriors. Stephen Curry is a point guard.\nStephen Curry is a point guard.",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Lakers.\nQ: What is LeBron James's birthday?\nA: Le",
+                "matched_answers": [
+                    [
+                        "Los Angeles Lakers",
+                        "+2018-07-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": " the Denver Nuggets. The team was founded in 1976. The full name of the team is",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": " the Milwaukee Bucks. The team was founded in 1968. The full name of the team is the",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": " Red Bull Racing. The team is currently racing in the Formula 1 World Championship under the name Red Bull",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            },
+            {
+                "prediction": " Mercedes.\nLewis Hamilton is a British racing driver who has been racing in Formula 1 since 2007.",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": " the Ferrari team.\nCharles Leclerc is currently driving the Ferrari SF21.\nCharles Le",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": " McLaren.\nLando Norris is currently driving in Formula 1 for McLaren.\nLando",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "McLaren",
+                "element": "Lando Norris",
+                "attribute": null
+            },
+            {
+                "prediction": " the Scuderia Ferrari.\nCarlos Sainz Jr. is currently driving in Formula 1",
+                "matched_answers": [
+                    [
+                        "Scuderia Ferrari",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Williams.\nGeorge Russell is currently racing in Formula 1 with the team Williams.",
+                "matched_answers": [
+                    [
+                        "Williams",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Williams Racing",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Real Madrid.\nCristiano Ronaldo is a Portuguese professional footballer who plays as a forward",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": " Barcelona.\nThe current football club",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": " Real Madrid.\nThe",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": " called Liverpool FC. The club was founded in 1892 and is based in Liverpool, England. The club",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": " Tottenham Hotspur.\nHarry Kane's current transfer value is between \u20ac100M and \u20ac",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": " the Brooklyn Nets.\nKevin Durant is a professional basketball player who plays for the Brooklyn N",
+                "matched_answers": [
+                    [
+                        "Brooklyn Nets",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": " the Portland Trail Blazers. The NBA team that Damian Lillard played for in the past",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": " AlphaTauri.\nPierre Gasly is currently driving a Red Bull Racing car in Formula 1",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Paris Saint",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": " Boruss",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": " Washington Wizards in the league and the venue of the next event is Capital One Arena.\nIn",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": " the Los Angeles Clippers.\nQ: What position does Kawhi Leonard play?\nA:",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toronto Raptors",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": " the Oklahoma City Thunder.\nPaul George is a 6'9\" guard from Fresno, CA",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Los Angeles Clippers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": " Alpine.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": "",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": " the Belgium.\nThe",
+                "matched_answers": [
+                    [
+                        "Belgium",
+                        "+2008-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Belgium",
+                        "+2009-01-01T00:00:00Z"
+                    ],
+                    [
+                        "Belgium",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            }
+        ],
+        "ambiguous": []
+    }
+}

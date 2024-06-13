@@ -1,0 +1,362 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " Antonio Guterres. He was born in Portugal in 1949. He was the Prime Minister",
+                "matched_answers": [
+                    [
+                        "Guterres",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Brussels, Belgium. The headquarters location",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Dr. Mohamed ElBaradei. He is from Egypt. He is an international lawyer by profession",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "\n[A]James D. Wolfensohn\n[B]James Wolfensohn\n[C]James",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " a political office. The general secretary is the de facto leader of NATO, and exercises the organization's",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " to visit the Russian capital Moscow on February 1, 2019.\nThe Russian Olympic Committee has",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Ant\u00f3nio Guterres, a former prime minister of Portugal. The secretary-general is the chief",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jens Stoltenberg.\nJens Stoltenberg was born in 1959 in Norway",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in Brussels, Belgium. The headquarters of the North Atlantic Treaty Organization is the headquarters of the NATO military",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jim Yong Kim. He was elected as the 12th president of the World Bank Group in ",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano, a Japanese diplomat who has been director since 2009. He",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Jacques Rogge, who has held the position since 2001. He is a Belgian and has",
+                "matched_answers": [
+                    [
+                        "Jacques Rogge",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Antonio Guterres. The United Nations was founded on 24 October 1945, following World",
+                "matched_answers": [
+                    [
+                        "Guterres",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jens Stoltenberg. This position comes with a yearly salary of $210,000.\nJ",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Thomas Bach, who was elected as the president of the committee in 2013. Bach is the",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jim Yong Kim, a Korean-American who was born in Seoul, South Korea. He has been serving",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano. Yukiya Amano was born in 1947 in",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " at ",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Ant\u00f3nio Guterres.\nAnt\u00f3nio Manuel de Oliveira Guterres, GCC, G",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jens Stoltenberg. The organization was founded in 1949. It has 30 member",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Brussels, Belgium. It is the headquarters of the North Atlantic Treaty Organization, which was established in ",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach. The headquarters of the International Olympic Committee are located in Lausanne, Switzerland. The",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": ": David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " Y",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "ambiguous": []
+    }
+}

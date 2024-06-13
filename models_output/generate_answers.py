@@ -4,9 +4,22 @@ from argparse import Namespace
 import torch
 
 from models import (
-    gpt2_xl, t5_3b, flan_t5_xl, gpt_j_6b, api, bloom_7b,
-    falcon_7b, llama2_7b, vicuna_7b, mistral_7b, mixtral_8x7b
+    api,
+    bloom_7b,
+    falcon_7b,
+    flan_t5_xl,
+    gpt2_xl,
+    gpt_j_6b,
+    llama2_7b,
+    llama3_8b,
+    mistral_7b,
+    mixtral_8x7b,
+    olmo_7b,
+    openelm,
+    t5_3b,
+    vicuna_7b,
 )
+
 
 def get_args() -> Namespace:
     """
@@ -58,21 +71,23 @@ def get_args() -> Namespace:
         default="../grc_generated.json",
         help="Path to the file containing Q&A.",
     )
-    
 
     # subparsers
     subparsers = parser.add_subparsers(help="sub-commands help")
-    gpt2_xl.configure_subparsers(subparsers)
-    t5_3b.configure_subparsers(subparsers)
-    flan_t5_xl.configure_subparsers(subparsers)
-    gpt_j_6b.configure_subparsers(subparsers)
     api.configure_subparsers(subparsers)
     bloom_7b.configure_subparsers(subparsers)
     falcon_7b.configure_subparsers(subparsers)
+    flan_t5_xl.configure_subparsers(subparsers)
+    gpt2_xl.configure_subparsers(subparsers)
+    gpt_j_6b.configure_subparsers(subparsers)
     llama2_7b.configure_subparsers(subparsers)
-    vicuna_7b.configure_subparsers(subparsers)
+    llama3_8b.configure_subparsers(subparsers)
     mistral_7b.configure_subparsers(subparsers)
     mixtral_8x7b.configure_subparsers(subparsers)
+    olmo_7b.configure_subparsers(subparsers)
+    openelm.configure_subparsers(subparsers)
+    t5_3b.configure_subparsers(subparsers)
+    vicuna_7b.configure_subparsers(subparsers)
 
     # parse arguments
     parsed_args = parser.parse_args()
@@ -81,7 +96,7 @@ def get_args() -> Namespace:
         parsed_args.out_dir = f"{parsed_args.out_dir}_w_prompt"
 
     return parsed_args
-    
+
 
 def main():
     args = get_args()

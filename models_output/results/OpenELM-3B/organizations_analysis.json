@@ -1,0 +1,361 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " in Brussels, Belgium.\nThe headquarters of NATO is located in Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " a man named Yukiya Amano. He is a Japanese national. He was born on",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the chief executive officer of the United Nations. The secretary general is the head of the United Nations Secret",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " expected to visit the country on 15th of this month.\nThe World Bank is expected",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " to visit the United States next week to discuss the alliance's future.\nNATO",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " the most powerful man in the world.\nThe International Olympic Committee (IOC) is the gover",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg, who has been in the position since 2004.",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in Brussels, Belgium. The headquarters of NATO is located in the European capital of",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach, who was elected in 2013.\nThe International Olympic Committee (IO",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon, who was elected in 2006. The position of secretary",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jim Yong Kim, a Korean-American. He is the first Asian-American to hold the",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano, who was appointed in 2009.\nThe International",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg, who has been in the position since 2004.",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " in Brussels, Belgium. The headquarters of NATO is located in the European capital of",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach, who was elected in 2013.\nThe International Olympic Committee (IO",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Jim Yong Kim, a Korean-American.\nThe World Bank is a multilateral",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano, who has been in the position since 2009.",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the former Irish President Mary Robinson.\nThe United Nations General Assembly has elected Mary Robinson as the new",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg. He is a Norwegian politician and diplomat. He is the current",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Brussels, Belgium. The headquarters of NATO is a symbol of the unity of the",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach. He is a German politician and lawyer. He was born on 1957",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Ban Ki-moon. He is a South Korean. He was born in 194",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jim Yong Kim. He is a Korean-American. He was born in 196",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano. He is a Japanese national and was born in 194",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [],
+        "ambiguous": []
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": " in Brussels, Belgium.\nThe website for North Atlantic Treaty Organization is www.nato.int",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach.\nThe president of International Olympic Committee is Thomas Bach.\nThe president of International Olympic",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [],
+        "irrelevant": [
+            {
+                "prediction": " the head of the United Nations Secretariat, the executive branch of the United Nations. The general secretary",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " appointed by the President of the United States.\nThe chairperson of the World Bank is appointed by",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Dr. A",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " the head of the NATO Secretariat, which is the headquarters of the North Atlantic Treaty Organization. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": " Antonio Guterres, a former prime minister of Portugal.\nThe UN General Assembly is the main",
+                "matched_answers": [
+                    [
+                        "Guterres",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Rafael Mariano Grossi, who was appointed in 2019.\nInternational Atomic Energy Agency employees aren't",
+                "matched_answers": [
+                    [
+                        "Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Jens Stoltenberg.\nThe position of secretary general at North Atlantic Treaty Organization is currently",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Thomas Bach, who was elected in 2013.\nThe position of president of the International Olympic Committee is",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " Kristalina Georgieva, a Bulgarian national.\nThe World Bank is a global development",
+                "matched_answers": [
+                    [
+                        "Kristalina Georgieva",
+                        "+2019-02-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " in the heart of the city. The city is also known for its nightlife and shopping. The",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": " Rafael Mariano Grossi, who was appointed in 2019.\nThe IAEA is an international",
+                "matched_answers": [
+                    [
+                        "Grossi",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": " Jens Stoltenberg.\nThe NATO secretary general is the head of the North Atlantic Treaty",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " located at the address in Brussels, Belgium at Avenue de la Gare, 10.\nThe main",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": " Thomas Bach, who was elected in 2013.\nThe IOC is the highest authority of the Olympic",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": " David Malpass, an American economist.\nThe World Bank is a multilateral development bank that provides",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": " the Secretary-General of the United Nations, who is the head of the United Nations Secretariat and",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": " Jens Stoltenberg.\nThe name of the current president of the European Council is Donald",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jens Stoltenberg",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Brussels, Belgium.\nThe NATO headquarters is located in Brussels, Belgium.\nThe NATO headquarters is",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+2017-05-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": ": Ban Ki-moon.\nThe name of the current president of the United Nations General Assembly",
+                "matched_answers": [
+                    [
+                        "Ban Ki-moon",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": " Jim Yong Kim.\nThe World Bank is a multilateral development bank that provides loans and grants",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": " Yukiya Amano.\nThe current director of the International Atomic Energy Agency is Yuki",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": ": B.\n",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "ambiguous": []
+    }
+}
