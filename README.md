@@ -1,22 +1,25 @@
+<!-- omit from toc -->
 # DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs
 
-Repository containing the code for the paper *DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs*
+Repository containing the code for the paper *[DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs](https://arxiv.org/abs/2404.08700)*
 
-- [DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs](#dyknow-dynamically-verifying-time-sensitive-factual-knowledge-in-llms)
-	- [Introduction](#introduction)
-	- [Usage](#usage)
-		- [Installation](#installation)
-		- [Structure](#structure)
-		- [How can I benchmark a model with DyKnow? 🦕](#how-can-i-benchmark-a-model-with-dyknow-)
-			- [Can I add another model?](#can-i-add-another-model)
-		- [Which answers are correct/outdated/irrelevant?](#which-answers-are-correctoutdatedirrelevant)
-			- [How can I see their percentage?](#how-can-i-see-their-percentage)
-			- [What are ambiguous answers?](#what-are-ambiguous-answers)
-		- [How do I edit a model?](#how-do-i-edit-a-model)
-			- [How do I compute the performance of the edited model?](#how-do-i-compute-the-performance-of-the-edited-model)
-		- [How do I perform further analyses (e.g. year, output consistency)?](#how-do-i-perform-further-analyses-eg-year-output-consistency)
-	- [License](#license)
-	- [How to Cite](#how-to-cite)
+<!-- omit from toc -->
+## 🎉 *DyKnow* will be presented at EMNLP 2024 in Miami! 🌴
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+  - [Installation](#installation)
+  - [Structure](#structure)
+  - [How can I benchmark a model with DyKnow? 🦕](#how-can-i-benchmark-a-model-with-dyknow-)
+    - [Can I add another model?](#can-i-add-another-model)
+  - [Which answers are correct/outdated/irrelevant?](#which-answers-are-correctoutdatedirrelevant)
+    - [How can I see their percentage?](#how-can-i-see-their-percentage)
+    - [What are ambiguous answers?](#what-are-ambiguous-answers)
+  - [How do I edit a model?](#how-do-i-edit-a-model)
+    - [How do I compute the performance of the edited model?](#how-do-i-compute-the-performance-of-the-edited-model)
+  - [How do I perform further analyses (e.g. year, output consistency)?](#how-do-i-perform-further-analyses-eg-year-output-consistency)
+- [License](#license)
+- [How to Cite](#how-to-cite)
 
 ## Introduction
 LLMs acquire knowledge from massive data snapshots collected at different timestamps. Their knowledge is then commonly evaluated using static benchmarks. However, factual knowledge is generally subject to time-sensitive changes, and static benchmarks cannot address those cases. We present an approach to dynamically evaluate the knowledge in LLMs and their time-sensitiveness against Wikidata, a publicly available up-to-date knowledge graph. We evaluate the time-sensitive knowledge in twenty-four private and open-source LLMs, as well as the effectiveness of four editing methods in updating the outdated facts. Our results show that 1) outdatedness is a critical problem across state-of-the-art LLMs; 2) LLMs output inconsistent answers when prompted with slight variations of the question prompt; and 3) the performance of the state-of-the-art knowledge editing algorithms is very limited, as they can not reduce the cases of outdatedness and output inconsistency.
