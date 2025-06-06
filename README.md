@@ -240,12 +240,22 @@ This work is licensed under a [MIT License](https://opensource.org/licenses/MIT)
 
 ## How to Cite
 ```
-@misc{mousavi2024dyknowdynamically,
-      title={DyKnow:Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs}, 
-      author={Seyed Mahed Mousavi and Simone Alghisi and Giuseppe Riccardi},
-      year={2024},
-      eprint={2404.08700},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{mousavi-etal-2024-dyknow,
+    title = "DyKnow: Dynamically Verifying Time-Sensitive Factual Knowledge in LLMs",
+    author = "Mousavi, Seyed Mahed  and
+      Alghisi, Simone  and
+      Riccardi, Giuseppe",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.471/",
+    doi = "10.18653/v1/2024.findings-emnlp.471",
+    pages = "8014--8029",
+    abstract = "LLMs acquire knowledge from massive data snapshots collected at different timestamps. Their knowledge is then commonly evaluated using static benchmarks. However, factual knowledge is generally subject to time-sensitive changes, and static benchmarks cannot address those cases. We present an approach to dynamically evaluate the knowledge in LLMs and their time-sensitiveness against Wikidata, a publicly available up-to-date knowledge graph. We evaluate the time-sensitive knowledge in twenty-four private and open-source LLMs, as well as the effectiveness of four editing methods in updating the outdated facts. Our results show that 1) outdatedness is a critical problem across state-of-the-art LLMs; 2) LLMs output inconsistent answers when prompted with slight variations of the question prompt; and 3) the performance of the state-of-the-art knowledge editing algorithms is very limited, as they can not reduce the cases of outdatedness and output inconsistency."
 }
 ```
